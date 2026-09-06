@@ -8,8 +8,8 @@ import gc
 
 import torch
 
-from engine.model import Qwen3ForCausalLM
-from engine.utils import load_qwen3_weights, get_encoder
+from core.model import Qwen3ForCausalLM
+from core.utils import load_qwen3_weights, get_encoder
 
 
 # fp32 weights, so differences should be tiny. anything above this is a real bug.
@@ -114,7 +114,7 @@ def main():
 
     print("loading our model...")
     model = Qwen3ForCausalLM(cfg)
-    model.load_state_dict(sd)
+    model.load_state_dict(sd, strict=False)
     model.to(device).eval()
     free(sd)
 

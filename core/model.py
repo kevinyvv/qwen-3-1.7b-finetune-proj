@@ -3,7 +3,7 @@ from torch import nn
 import math
 from transformers import Qwen3Config
 
-from engine.layers import Linear, RMSNorm
+from core.layers import Linear, RMSNorm, LoRALinear
 
 class Qwen3Attention(nn.Module):
     def __init__(
@@ -30,6 +30,12 @@ class Qwen3Attention(nn.Module):
         self.v_proj = Linear(hidden_size, num_kv_heads * head_dim, qkv_bias)
     
         self.o_proj = Linear(num_heads * head_dim, hidden_size)
+        
+        self.q_proj_lora = LoRALinear(self.q_proj)
+        self.k_proj_lora = LoRALinear(self.k_proj)
+        self.v_proj_lora = LoRALinear(self.v_proj)
+        self.o_proj_lora = LoRALinear(self.o_proj)
+        
         self.q_norm = RMSNorm(head_dim, rms_norm_eps)
         self.k_norm = RMSNorm(head_dim, rms_norm_eps)
         
@@ -46,13 +52,13 @@ class Qwen3Attention(nn.Module):
         batch_size, seq_len = hidden_states.size(dim=0), hidden_states.size(dim=1)
         
         # get q and k using proj and norm q, k
-        q = self.q_proj(hidden_states) 
+        q = self.q_proj_lora(hidden_states) 
         # we want to norm across the head_dim, as q_proj produces [batch, seq_len, num_heads x head_dim]
         q = q.reshape(batch_size, seq_len, self.num_heads, self.head_dim).transpose(1, 2)
         # after norming it should be of [batch, n_heads, seq_len, head_dim]
         q = self.q_norm(q) 
         
-        k_new = self.k_proj(hidden_states) # [batch, seq_len, num_kv_heads * head_dim]
+        k_new = self.k_proj_lora(hidden_states) # [batch, seq_len, num_kv_heads * head_dim]
         k_new = k_new.reshape(batch_size, seq_len, self.num_kv_heads, self.head_dim).transpose(1, 2)
         k_new = self.k_norm(k_new) # same logic for k
         
@@ -71,7 +77,7 @@ class Qwen3Attention(nn.Module):
         k_new = k_new * cos + rotate_half(k_new) * sin
         
         
-        v_new = self.v_proj(hidden_states) # [b, seq_len, n_kv_heads x head_dim] 
+        v_new = self.v_proj_lora(hidden_states) # [b, seq_len, n_kv_heads x head_dim] 
         # need to reshape v to be of [b, n_head, seq_len, head_dim]
         v_new = torch.transpose(torch.reshape(v_new, (batch_size, seq_len, self.num_kv_heads, self.head_dim)), 1, 2)
         
@@ -109,7 +115,7 @@ class Qwen3Attention(nn.Module):
         output = output.transpose(1, 2).reshape(batch_size, seq_len, -1)   # [b, s, nh*hd]
         
         # then return (norm is handled downstream (post attention layernorm))
-        return self.o_proj(output), new_kv_cache
+        return self.o_proj_lora(output), new_kv_cache
 
 
 class Qwen3MLP(nn.Module):
@@ -124,15 +130,20 @@ class Qwen3MLP(nn.Module):
         self.gate_proj = Linear(hidden_size, intermediate_size)
         self.up_proj = Linear(hidden_size, intermediate_size)
         self.down_proj = Linear(intermediate_size, hidden_size)
+        
+        self.gate_proj_lora = LoRALinear(self.gate_proj)
+        self.up_proj_lora = LoRALinear(self.up_proj)
+        self.down_proj_lora = LoRALinear(self.down_proj)
+        
         self.silu = nn.SiLU()
 
     def forward(self, x):
         
-        y = self.silu(self.gate_proj(x))
-        x = self.up_proj(x)
+        y = self.silu(self.gate_proj_lora(x))
+        x = self.up_proj_lora(x)
         
         x = x * y
-        x = self.down_proj(x)
+        x = self.down_proj_lora(x)
         
         return x
 

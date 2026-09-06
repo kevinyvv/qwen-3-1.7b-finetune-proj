@@ -2,6 +2,7 @@ import torch
 from torch import nn
 import torch.nn.functional as F
 import torch.distributed as dist
+import math
 
 
 # RMSNorm
@@ -32,3 +33,25 @@ class Linear(nn.Module):
         if self.bias is not None:
             out = out + self.bias
         return out
+
+class LoRALinear(nn.Module):
+    def __init__(self, base_linear: Linear, alpha=16, r=16):
+        super().__init__()
+        
+        object.__setattr__(self, "base", base_linear)
+        n, m = base_linear.weight.shape
+        self.base.weight.requires_grad = False
+        
+        self.A = nn.Parameter(torch.empty((r, m)))
+        self.B = nn.Parameter(torch.zeros((n, r)))
+
+        nn.init.kaiming_uniform_(self.A, a=math.sqrt(5)) 
+        # like don't really need the a=sqrt(5) here since we dont have activation functions
+        # but shouldnt negatively affect anything
+        
+        self.scale = alpha / r
+    
+    def forward(self, x):
+        base_out = self.base(x) # input @ (n x m) 
+        out = x @ self.A.T @ self.B.T * self.scale # m x (m x r) x (r x n) * scale
+        return base_out + out
