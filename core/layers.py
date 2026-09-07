@@ -1,3 +1,5 @@
+import contextlib
+
 import torch
 from torch import nn
 import torch.nn.functional as F
@@ -50,8 +52,24 @@ class LoRALinear(nn.Module):
         # but shouldnt negatively affect anything
         
         self.scale = alpha / r
+        self.enabled = True
     
     def forward(self, x):
         base_out = self.base(x) # input @ (n x m) 
+        if not self.enabled:
+            return base_out # base weights are frozen, so this is the reference policy
         out = x @ self.A.T @ self.B.T * self.scale # m x (m x r) x (r x n) * scale
         return base_out + out
+
+
+@contextlib.contextmanager
+def lora_disabled(model):
+    """Run the model as the untouched base model (no adapters)."""
+    adapters = [m for m in model.modules() if isinstance(m, LoRALinear)]
+    for m in adapters:
+        m.enabled = False
+    try:
+        yield model
+    finally:
+        for m in adapters:
+            m.enabled = True
