@@ -235,7 +235,8 @@ class Qwen3Model(nn.Module):
 class Qwen3ForCausalLM(nn.Module):
     def __init__(self, config):
         super().__init__()
-        self.model = Qwen3Model(config) 
+        self.model = Qwen3Model(config)
+        self.config = config
         self.lm_head = Linear(config.hidden_size, config.vocab_size, bias=False)
         
         if config.tie_word_embeddings:

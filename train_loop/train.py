@@ -8,7 +8,7 @@ from tqdm import tqdm
 from core.layers import lora_disabled
 from core.model import Qwen3ForCausalLM
 from core.utils import get_encoder, load_qwen3_weights
-from train_loop.checkpointing import load_checkpoint, save_checkpoint
+from training.checkpointing import load_checkpoint, save_checkpoint
 
 OVERFIT_SAMPLE = "respond without using the letter 'e'"
 SAMPLES = [OVERFIT_SAMPLE for _ in range(8)]

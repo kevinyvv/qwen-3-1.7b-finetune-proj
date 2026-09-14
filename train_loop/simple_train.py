@@ -9,7 +9,7 @@ import string
 from core.utils import load_qwen3_weights, get_encoder
 from core.model import Qwen3ForCausalLM
 from core.layers import lora_disabled
-from train_loop.checkpointing import load_checkpoint, save_checkpoint
+from training.checkpointing import load_checkpoint, save_checkpoint
 
 OVERFIT_SAMPLE = "respond without using the letter 'e'"
 SAMPLES = [OVERFIT_SAMPLE for _ in range(8)]
@@ -19,7 +19,7 @@ def get_feedback(tok_ids, e_table):
     
     return reward_tensor
    
-def discount(rewards, gamma=0.95):
+def discount(rewards, gamma=0.90):
     returns = torch.zeros_like(rewards)
 
     running = torch.zeros(
@@ -38,12 +38,12 @@ def get_e_table(tok_to_id, special_tokens, vocab_size):
     e_table = torch.zeros(vocab_size, dtype=torch.float)
 
     for tok, idx in tok_to_id.items():
-        if tok in special_tokens:
+        if idx in special_tokens:
             continue
         if 'e' in tok.lower():
-            e_table[idx] = -10.
+            e_table[idx] = -1.
         elif any(c in string.ascii_letters for c in tok):
-            e_table[idx] = 0.1 * len(tok)
+            e_table[idx] = 0.01 * len(tok)
 
     return e_table
 
@@ -84,27 +84,23 @@ def main(max_new_tokens: int=64, epochs=10, save_every: int=5, resume: bool=True
             enable_thinking=False
         ) for s in SAMPLES
     ]
+
+    batch = tokenizer(texts, return_tensors='pt', padding=True).to(device)    
+    batch_size, prompt_len = batch.input_ids.size(0), batch.input_ids.size(1)
     
+    # logging    
     log_path = Path(__file__).resolve().parent / "logs" / "train_log.jsonl"
     log_path.parent.mkdir(parents=True, exist_ok=True)
-
-    batch = tokenizer(texts, return_tensors='pt', padding=True).to(device)
     
-    input_ids, attn_mask = batch.input_ids, batch.attention_mask
-    positions = (attn_mask.cumsum(dim=-1) - 1).clamp(min=0)
-    
-    batch_size, prompt_len = input_ids.size(0), input_ids.size(1)
-    kv_caches = [None for _ in range(cfg.num_hidden_layers)]
-        
-    # run prefill on kv cache
-    with torch.no_grad():
-        prefill_logits, prefill_kv_caches = qwen3(input_ids[:, :-1], positions[:, :-1], attn_mask[:, :-1], kv_caches) 
-
     for epoch in tqdm(range(start_epoch, end_epoch)):
         # reset values
         input_ids, attn_mask = batch.input_ids.clone().detach(), batch.attention_mask.clone().detach()
         positions = (attn_mask.cumsum(dim=-1) - 1).clamp(min=0)
-        
+        kv_caches = [None for _ in range(cfg.num_hidden_layers)]
+        # run prefill on kv cache
+        with torch.no_grad():
+            prefill_logits, prefill_kv_caches = qwen3(input_ids[:, :-1], positions[:, :-1], attn_mask[:, :-1], kv_caches) 
+
         next_tok = input_ids[:, -1:] # last token of the sequence passed in   
         logits = prefill_logits.clone().detach()
         kv_caches = [[k.detach(), v.detach()] for k, v in prefill_kv_caches]
@@ -135,7 +131,7 @@ def main(max_new_tokens: int=64, epochs=10, save_every: int=5, resume: bool=True
             if finished.all():
                 break
                         
-        kl_beta = 0.05
+        kl_beta = 0.1
         mask = torch.cat(masks, dim=-1).to(device)  # (b, T)
         gen_ids = input_ids[:, prompt_len:]         # (b, T)
 
