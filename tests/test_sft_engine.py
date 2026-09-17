@@ -68,6 +68,7 @@ class TestSFTEngine(unittest.TestCase):
             loss_backend="torch",
             precision="fp32",
             finetune_mode="full",
+            device="cpu",
         )
 
     def test_constructor_starts_without_checkpoint(self):
