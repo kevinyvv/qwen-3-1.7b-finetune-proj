@@ -9,8 +9,9 @@ def load_checkpoint(ckpt_path, qwen3, optimizer):
         return 0    
     checkpoint = torch.load(ckpt_path, map_location='cpu')
     
-    qwen3.load_state_dict(checkpoint['qwen3_state_dict'], strict=False)
-    optimizer.load_state_dict(checkpoint['optimizer_state_dict'])
+    qwen3.load_state_dict(checkpoint['model_state_dict'], strict=False)
+    if optimizer is not None:
+        optimizer.load_state_dict(checkpoint['optimizer_state_dict'])
     epoch = checkpoint['epoch']
 
     return epoch + 1
@@ -19,7 +20,7 @@ def save_checkpoint(ckpt_path, qwen3, optimizer, epoch):
     # save state and epoch at path
     # only need to store A and B (lora adapter states)
     checkpoint = {
-        'qwen3_state_dict': {k: v for k, v in qwen3.state_dict().items() if k.endswith((".A", ".B"))},
+        'model_state_dict': {k: v for k, v in qwen3.state_dict().items() if k.endswith((".A", ".B"))},
         'optimizer_state_dict': optimizer.state_dict(),
         'epoch': epoch
     }

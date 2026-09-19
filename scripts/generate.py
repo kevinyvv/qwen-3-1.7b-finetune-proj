@@ -3,12 +3,13 @@ import torch
 from core.utils import load_qwen3_weights, get_encoder
 from core.model import Qwen3ForCausalLM
 
+from training.checkpointing import load_checkpoint
 
 # stuff that needed to consider
 # batching -- adds another dim so compute all at the same time and also need to handle next token at the same time
 # qwen3 model has built in completions so only return the new tokens? (not sure if this is true -- verify this)
 
-def main(prompts: list[str], max_new_tokens: int=32000):
+def main(prompts: list[str], max_new_tokens: int=32000, path=None):
     cfg, sd = load_qwen3_weights()
     tokenizer = get_encoder()
     tokenizer.padding_side = 'left'
@@ -18,6 +19,11 @@ def main(prompts: list[str], max_new_tokens: int=32000):
     
     qwen3 = Qwen3ForCausalLM(cfg)
     qwen3.load_state_dict(sd, strict=False)
+    
+    if path is not None:
+        res = load_checkpoint(path, qwen3, None)
+        assert res != 0
+    
     qwen3.to(device)
     qwen3.eval()
     

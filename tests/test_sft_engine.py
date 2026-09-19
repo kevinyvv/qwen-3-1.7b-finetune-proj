@@ -66,7 +66,7 @@ class TestSFTEngine(unittest.TestCase):
             optimizer=torch.optim.AdamW(model.parameters(), lr=0.01),
             gradient_checkpointing=False,
             loss_backend="torch",
-            precision="fp32",
+            precision=torch.float32,
             finetune_mode="full",
             device="cpu",
         )

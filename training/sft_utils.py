@@ -1,6 +1,34 @@
+import json
+
 import torch
 from functools import partial
 from torch.utils.data import DataLoader
+
+def load_sft_dataset(path, tokenizer, max_length=None):
+    examples = []
+
+    with open(path) as file:
+        for line in file:
+            pair = json.loads(line)
+
+            prompt_text = tokenizer.apply_chat_template(
+                [{"role": "user", "content": pair["prompt"]}],
+                tokenize=False,
+                add_generation_prompt=True,
+                enable_thinking=False
+            )
+            prompt_ids = tokenizer(prompt_text)["input_ids"]
+            response_ids = tokenizer(pair["response"] + tokenizer.eos_token)["input_ids"]
+
+            input_ids = prompt_ids + response_ids
+            labels = [-100] * len(prompt_ids) + response_ids 
+
+            examples.append({
+                "input_ids": input_ids[:max_length],
+                "labels": labels[:max_length],
+            })
+
+    return examples
 
 
 def collate_sft(examples, pad_token_id):
@@ -31,10 +59,9 @@ def collate_sft(examples, pad_token_id):
     }
     
     
-def get_train_loader(train_dataset, tokenizer, batch_size=4, shuffle=True):
-    
+def get_loader(dataset, tokenizer, batch_size=4, shuffle=True):
     train_loader = DataLoader(
-        train_dataset,
+        dataset,
         batch_size=batch_size,
         shuffle=shuffle,
         collate_fn=partial(
