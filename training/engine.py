@@ -13,13 +13,20 @@ class TrainingEngine:
           return # does nothing for now
 
 class SFTEngine(TrainingEngine):
-     def __init__(self, model, tokenizer, optimizer, gradient_checkpointing, loss_backend, precision=torch.bfloat16, finetune_mode='lora', device=None, path=None, metrics_path=None):
+     def __init__(self, model, tokenizer, optimizer, gradient_checkpointing, loss_backend, 
+                  precision=torch.bfloat16, finetune_mode='lora', 
+                  device=None, path=None, metrics_path=None, label_invalid_val=-100):
           
           self.model = model
           self.tokenizer = tokenizer
           self.optimizer = optimizer
           self.gradient_checkpointing = gradient_checkpointing
+          self.model.model.gradient_checkpointing = gradient_checkpointing
           self.loss_backend = loss_backend
+          
+          if self.loss_backend == "liger":
+               from liger_kernel.transformers import LigerFusedLinearCrossEntropyLoss
+               self.fused_ce = LigerFusedLinearCrossEntropyLoss(ignore_index=label_invalid_val)
           
           if precision not in (torch.float32, torch.bfloat16):
                raise ValueError("only fl32 and bf16 supported")
@@ -41,8 +48,10 @@ class SFTEngine(TrainingEngine):
           
           if self.path is not None:
                self.load_checkpoint(self.path)
+          
+          self.label_invalid_val = label_invalid_val
                
-     def compute_loss(self, batch, invalid_val=-100):
+     def compute_loss(self, batch):
           # assume batch is of dict of
           # input_ids, attention_mask, labels
           # need to change this assumption later maybe?
@@ -55,25 +64,35 @@ class SFTEngine(TrainingEngine):
           kv_caches = [None for _ in range(self.model.config.num_hidden_layers)]
           positions = (attn_mask.cumsum(dim=-1) - 1).clamp(min=0)
           
-          # for precision
-          with torch.autocast(device_type=torch.device(self.device).type, dtype=self.precision, enabled=self.precision != torch.float32):
-               logits, kv_caches = self.model(input_ids, positions, attn_mask, kv_caches)
-               
-               # basically for logits we want to find the probability of the labels and then push them upwards?
-               logits = logits[:, :-1, :].contiguous() # shift logits left so we only compare ones we have labels for
-               labels = labels[:, 1:].contiguous() # shift labels forward one to align 
-               # logits are the predictions of step i
-               # labels thus need to be 1 step before to match (we check the probabilities of the lables) being predicted
-
-               log_probs = logits.log_softmax(dim=-1)
-          
-          valid = labels != invalid_val
-          
+          labels = labels[:, 1:].contiguous() # shift labels forward one to align 
+          valid = labels != self.label_invalid_val
           if not valid.any():
                raise ValueError("batch has no supervised target token")
           
-          safe_labels = labels.masked_fill(~valid, 0)
+          # for precision
+          with torch.autocast(device_type=torch.device(self.device).type, dtype=self.precision, enabled=self.precision != torch.float32):
+               if self.loss_backend == "liger":
+                    # use self.model.model to return before projection
+                    hidden, _ = self.model.model(
+                         input_ids, positions, attn_mask, kv_caches
+                    )
+                    hidden = hidden[:, :-1, :].contiguous()
+                    hidden = hidden.view(-1, hidden.size(-1))
+
+                    return self.fused_ce(
+                         self.model.lm_head.weight,  # [vocab_size, hidden_size]
+                         hidden,                    # [batch * (seq_len - 1), hidden_size]
+                         labels.view(-1),           # [batch * (seq_len - 1)]
+                         bias=self.model.lm_head.bias,
+                    )
+
+               logits, _ = self.model(
+                    input_ids, positions, attn_mask, kv_caches
+               )
+               logits = logits[:, :-1, :].contiguous()
+               log_probs = logits.log_softmax(dim=-1)
           
+          safe_labels = labels.masked_fill(~valid, 0)
           target_log_probs = log_probs.gather(
                dim=-1,
                index=safe_labels.unsqueeze(-1)
@@ -155,7 +174,7 @@ class SFTEngine(TrainingEngine):
                     
                     self.global_step += 1
 
-                    num_valid_tokens = (batch["labels"][:, 1:] != -100).sum().item()
+                    num_valid_tokens = (batch["labels"][:, 1:] != self.label_invalid_val).sum().item()
                     loss_sum += loss.item() * num_valid_tokens
                     supervised_tokens += num_valid_tokens
                     input_tokens += batch["attention_mask"].sum().item()
@@ -195,7 +214,7 @@ class SFTEngine(TrainingEngine):
                
                for batch in data_loader:
                     loss = self.compute_loss(batch)
-                    num_valid_tokens = (batch["labels"][:, 1:] != -100).sum().item()
+                    num_valid_tokens = (batch["labels"][:, 1:] != self.label_invalid_val).sum().item()
                     total_loss += loss.item() * num_valid_tokens
                     total_tokens += num_valid_tokens
           if total_tokens == 0:

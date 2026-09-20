@@ -1,8 +1,8 @@
 import torch
 from torch import nn
-import math
 from transformers import Qwen3Config
 
+from torch.utils.checkpoint import checkpoint
 from core.layers import Linear, RMSNorm, LoRALinear
 
 class Qwen3Attention(nn.Module):
@@ -201,6 +201,7 @@ class Qwen3Model(nn.Module):
         self.layers = nn.ModuleList([Qwen3Layer(config)
                                         for _ in range(config.num_hidden_layers)])
         self.norm = RMSNorm(config.hidden_size, config.rms_norm_eps)
+        self.gradient_checkpointing = False
             
     def forward(
         self,
@@ -222,7 +223,11 @@ class Qwen3Model(nn.Module):
         
         for i, layer in enumerate(self.layers):
             kv_cache = kv_caches[i]
-            x, kv_cache = layer((sin, cos), x, attn_mask, kv_cache)
+            
+            if self.gradient_checkpointing and self.training:
+                x, kv_cache = checkpoint(layer, (sin, cos), x, attn_mask, kv_cache, use_reentrant=False)
+            else:
+                x, kv_cache = layer((sin, cos), x, attn_mask, kv_cache)
             kv_caches[i] = kv_cache 
             
         x = self.norm(x)

@@ -38,7 +38,7 @@ def main(dataset='tiny', batch_size=4, max_length=None, epochs=3,
     )
     
     path = Path(__file__).resolve().parent / "checkpoints" / "sft_test.pt"
-    sft_engine = SFTEngine(qwen3, tokenizer, optimizer, gradient_checkpointing=True, loss_backend='', path=path)
+    sft_engine = SFTEngine(qwen3, tokenizer, optimizer, gradient_checkpointing=True, loss_backend='liger', path=path)
     
     train_dataset = load_sft_dataset(DATA_DIR / f"{dataset}_train.jsonl", tokenizer, max_length)
     val_dataset = load_sft_dataset(DATA_DIR / f"{dataset}_val.jsonl", tokenizer, max_length)
