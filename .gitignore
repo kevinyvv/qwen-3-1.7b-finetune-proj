@@ -1,3 +1,4 @@
 weights/*
 */logs/*
 */checkpoints/*
+__pycache__/
