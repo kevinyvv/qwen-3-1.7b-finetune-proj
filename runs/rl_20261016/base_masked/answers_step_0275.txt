@@ -1,0 +1,109 @@
+reward=0.5 usable=False | Give me five data themed cocktail drinks.
+1. Margarita  
+2. Mojito  
+3. Martini  
+4. Old Fashioning  
+5. Piangio
+
+reward=0.625 usable=False | I do not trust you
+I do not trust you
+
+reward=0.625 usable=False | Give me five data themed cocktail drinks.
+1. Mojito  
+2. Martini  
+3. Old Fashioning  
+4. Margarita  
+5. Piara
+
+reward=0.625 usable=False | Give me five data themed cocktail drinks.
+1. Mojito  
+2. Margarita  
+3. Martini  
+4. Whisky Sour  
+5. Old Fashioning
+
+reward=0.75 usable=False | Write a children's story about a little girl who meets a unicorn. Write it in a style that a young g
+A young girl with a bright pink hair and a curious spirit, Luna, was walking through a magical park on a sunny day. As soon as it was light, a unicorn with a glowing horn and a soft, magical aura stood in front of Luna.
+
+"Hi, I'm Rainbow," said Rainbow, with a playful grin. "I'm a unicorn, and I'm curious about you."
+
+Luna was happy to talk. "I'm Luna, and I'm a girl who wants to know about magic and animals."
+
+Rainbow giggling, "I'm always looking for curious minds. Do you want to go on a magical walk?"
+
+Luna said "I would!" and with a soft "pony" sound, Rainbow took Luna on a magical walk through a glowing path, past sparkling pools and floating clouds.
+
+As it was twilight, Rainbow took Luna to a magical hill, and a glowing star was floating in front of Luna.
+
+"Look, Luna!" Rainbow said, pointing to a star. "It's a magical star."
+
+Luna gazing at it, "It looks so big and bright. I want to touch it."
+
+Rainbow giggling, "It's magic, but it's not for touching. But you can look at it."
+
+Luna said "Thank you, Rainbow. I'll always want to know about magic and animals."
+
+Rainbow said, "You'll find magic in your own world, and in your own curious spirit."
+
+And with a final "
+
+reward=0.25 usable=False | Write a children's story about a little girl who meets a unicorn. Write it in a style that a young g
+A tiny girl with bright hair and big, curious brown puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy dog puppy
+
+reward=0.625 usable=False | I do not trust you
+I trust you.
+
+reward=0.625 usable=False | Write a children's story about a little girl who meets a unicorn. Write it in a style that a young g
+In a small town by a sparkling pond, a girl with curly hair and a big laugh was playing. On a sunny day, a unicorn with a rainbow coat and a sparkly horn waltz through grassy hills.  
+
+"Whoa!" said Lily, a curious girl with a curious spirit. "You look magical!"  
+
+"Hi, I'm Luna," said Luna, a unicorn with a soft, kind soul. "I'm on my way to visit a magical groggy old oak."  
+
+Lily was so happy to talk to Luna that soon, Luna was sitting on a log by a pond. "I'm trying to find a way to bring joy to a sad old oak," Luna said. "But I'm stuck."  
+
+Lily thought for a bit. "Why don't you try dancing with a rainbow?"  
+
+Luna giggling, "That's a good plan!" And with a burst of light, Luna waltz around and around, making a big rainbow.  
+
+"Thank you, Lily!" said Luna. "You brought joy to my oak!"  
+
+Lily was happy, and so was Luna. From that day on, Lily and Luna would play by a pond, and Luna would bring joy to all who would join.
+
+reward=0.625 usable=False | Write a children's story about a little girl who meets a unicorn. Write it in a style that a young g
+A young girl with curly hair and a bright laugh  
+Found a unicorn in a grassy glum.  
+It had a glowing horn and a rainbow tail,  
+And it sparkly, it was so tall.  
+
+It said it was on a magical trail,  
+To find a lost magical trail.  
+It said it was looking for a lost toy,  
+A toy that was missing from its toy box.  
+
+With a soft pink hoof, it took a walk,  
+Through a path that was full of spark.  
+It brought a rainbow, it brought a joy,  
+And it brought a happy, happy day.  
+
+A tiny girl with a big bright grin,  
+Follows it through a magical grin.  
+It swirly, it sparkly, it's so fun,  
+And it's a unicorn, and it's so fun.
+
+reward=0.375 usable=False | Write a how-to guide to keeping a cactus alive in an apartment. Add personality to it and write it f
+Tack your cactus with a bit of TLC and it'll bloom into a stunning plant. Start by choosing a sunny spot, no shady spots. Cacti don't want to sit in too much light, but too much can kill it. 
+
+Buy a pot that's just a bit big, so it can grow. No big pots, just a snug fit. Add a bit of soil, but don't fill it up. Cacti don't want to sit in too much soil.
+
+You'll want to mist it occasionally, but not too much. Cacti don't drink a lot of rain. Just a tiny bit of spray, a day or two. 
+
+Don't put it in a bathroom or a humid room. Cacti don't do that. Also, don't put it in a draft. A draft can dry it out. 
+
+You can grow it in a glass jar if you want, but it's not a good way. Cacti don't want to sit in a jar. 
+
+If it's in a pot, you can add a bit of potting mix. But don't add too much. Cacti don't want to sit in too much soil.
+
+You can also add a bit of light, but don't put it in too much. A bit of sunlight is all it wants. 
+
+With a bit of caring and a bit of joy, your cactus will grow and thriv. It's a cool, cool

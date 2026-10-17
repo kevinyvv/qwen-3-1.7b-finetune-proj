@@ -1,0 +1,240 @@
+{
+  "run_dir": "runs/judge_check_20261016_v3/known_bad",
+  "answers": 48,
+  "prompts": 48,
+  "e_check_counts": false,
+  "usable_rate": 0.0,
+  "usable_rate_middle_90": [
+    0.0,
+    0.0
+  ],
+  "usable": 0,
+  "judge_errors": 0,
+  "not_yet_judged": 0,
+  "e_pass_rate": 1.0,
+  "sent_to_judge": 48,
+  "mean_scores": {
+    "coherence": 2.4375,
+    "responds": 1.1041666666666667
+  },
+  "score_counts": {
+    "coherence": {
+      "1": 21,
+      "2": 6,
+      "3": 6,
+      "4": 9,
+      "5": 6
+    },
+    "responds": {
+      "1": 44,
+      "2": 3,
+      "3": 1,
+      "4": 0,
+      "5": 0
+    }
+  },
+  "mean_answer_tokens": null,
+  "judge": {
+    "model": "gpt-6-luna",
+    "effort": "none",
+    "prompt_sha256": "283d2f703f665f774aa8eb77fc339fa25113d038b3826bd46b6aadf16263520b",
+    "calls": 48,
+    "input_tokens": 25892,
+    "cached_input_tokens": 0,
+    "output_tokens": 1852
+  },
+  "per_prompt": {
+    "non_answer:a16e8f8c2879fbe5": {
+      "usable": 0,
+      "scored": 1
+    },
+    "non_answer:51bc9efee70d2001": {
+      "usable": 0,
+      "scored": 1
+    },
+    "non_answer:a6c59b6d4696631c": {
+      "usable": 0,
+      "scored": 1
+    },
+    "non_answer:71a869aa8bae34e2": {
+      "usable": 0,
+      "scored": 1
+    },
+    "non_answer:281b1a2cc107abc4": {
+      "usable": 0,
+      "scored": 1
+    },
+    "non_answer:66cf5ea1bd7b75db": {
+      "usable": 0,
+      "scored": 1
+    },
+    "non_answer:0aa6105e4ce9ada0": {
+      "usable": 0,
+      "scored": 1
+    },
+    "non_answer:963737cc07645eab": {
+      "usable": 0,
+      "scored": 1
+    },
+    "non_answer_short:a16e8f8c2879fbe5": {
+      "usable": 0,
+      "scored": 1
+    },
+    "non_answer_short:51bc9efee70d2001": {
+      "usable": 0,
+      "scored": 1
+    },
+    "non_answer_short:a6c59b6d4696631c": {
+      "usable": 0,
+      "scored": 1
+    },
+    "non_answer_short:71a869aa8bae34e2": {
+      "usable": 0,
+      "scored": 1
+    },
+    "non_answer_short:281b1a2cc107abc4": {
+      "usable": 0,
+      "scored": 1
+    },
+    "non_answer_short:66cf5ea1bd7b75db": {
+      "usable": 0,
+      "scored": 1
+    },
+    "non_answer_short:0aa6105e4ce9ada0": {
+      "usable": 0,
+      "scored": 1
+    },
+    "non_answer_short:963737cc07645eab": {
+      "usable": 0,
+      "scored": 1
+    },
+    "syllable_loop:a16e8f8c2879fbe5": {
+      "usable": 0,
+      "scored": 1
+    },
+    "syllable_loop:51bc9efee70d2001": {
+      "usable": 0,
+      "scored": 1
+    },
+    "syllable_loop:a6c59b6d4696631c": {
+      "usable": 0,
+      "scored": 1
+    },
+    "syllable_loop:71a869aa8bae34e2": {
+      "usable": 0,
+      "scored": 1
+    },
+    "syllable_loop:281b1a2cc107abc4": {
+      "usable": 0,
+      "scored": 1
+    },
+    "syllable_loop:66cf5ea1bd7b75db": {
+      "usable": 0,
+      "scored": 1
+    },
+    "syllable_loop:0aa6105e4ce9ada0": {
+      "usable": 0,
+      "scored": 1
+    },
+    "syllable_loop:963737cc07645eab": {
+      "usable": 0,
+      "scored": 1
+    },
+    "letter_column:a16e8f8c2879fbe5": {
+      "usable": 0,
+      "scored": 1
+    },
+    "letter_column:51bc9efee70d2001": {
+      "usable": 0,
+      "scored": 1
+    },
+    "letter_column:a6c59b6d4696631c": {
+      "usable": 0,
+      "scored": 1
+    },
+    "letter_column:71a869aa8bae34e2": {
+      "usable": 0,
+      "scored": 1
+    },
+    "letter_column:281b1a2cc107abc4": {
+      "usable": 0,
+      "scored": 1
+    },
+    "letter_column:66cf5ea1bd7b75db": {
+      "usable": 0,
+      "scored": 1
+    },
+    "letter_column:0aa6105e4ce9ada0": {
+      "usable": 0,
+      "scored": 1
+    },
+    "letter_column:963737cc07645eab": {
+      "usable": 0,
+      "scored": 1
+    },
+    "bold_loop:a16e8f8c2879fbe5": {
+      "usable": 0,
+      "scored": 1
+    },
+    "bold_loop:51bc9efee70d2001": {
+      "usable": 0,
+      "scored": 1
+    },
+    "bold_loop:a6c59b6d4696631c": {
+      "usable": 0,
+      "scored": 1
+    },
+    "bold_loop:71a869aa8bae34e2": {
+      "usable": 0,
+      "scored": 1
+    },
+    "bold_loop:281b1a2cc107abc4": {
+      "usable": 0,
+      "scored": 1
+    },
+    "bold_loop:66cf5ea1bd7b75db": {
+      "usable": 0,
+      "scored": 1
+    },
+    "bold_loop:0aa6105e4ce9ada0": {
+      "usable": 0,
+      "scored": 1
+    },
+    "bold_loop:963737cc07645eab": {
+      "usable": 0,
+      "scored": 1
+    },
+    "consonant_chant:a16e8f8c2879fbe5": {
+      "usable": 0,
+      "scored": 1
+    },
+    "consonant_chant:51bc9efee70d2001": {
+      "usable": 0,
+      "scored": 1
+    },
+    "consonant_chant:a6c59b6d4696631c": {
+      "usable": 0,
+      "scored": 1
+    },
+    "consonant_chant:71a869aa8bae34e2": {
+      "usable": 0,
+      "scored": 1
+    },
+    "consonant_chant:281b1a2cc107abc4": {
+      "usable": 0,
+      "scored": 1
+    },
+    "consonant_chant:66cf5ea1bd7b75db": {
+      "usable": 0,
+      "scored": 1
+    },
+    "consonant_chant:0aa6105e4ce9ada0": {
+      "usable": 0,
+      "scored": 1
+    },
+    "consonant_chant:963737cc07645eab": {
+      "usable": 0,
+      "scored": 1
+    }
+  }
+}

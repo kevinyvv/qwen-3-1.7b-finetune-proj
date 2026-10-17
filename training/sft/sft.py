@@ -1,0 +1,196 @@
+import logging
+from pathlib import Path
+
+import torch
+
+from training.engine import TrainingEngine
+
+logger = logging.getLogger(__name__)
+
+class SFTEngine(TrainingEngine):
+     def __init__(self, model, tokenizer, optimizer, gradient_checkpointing, loss_backend, 
+                  precision=torch.bfloat16, finetune_mode='lora', 
+                  device=None, path=None, metrics_path=None, label_invalid_val=-100):
+          super().__init__()
+
+          self.model = model
+          self.tokenizer = tokenizer
+          self.optimizer = optimizer
+          self.gradient_checkpointing = gradient_checkpointing
+          self.model.model.gradient_checkpointing = gradient_checkpointing
+          self.loss_backend = loss_backend
+          
+          if self.loss_backend == "liger":
+               from liger_kernel.transformers import LigerFusedLinearCrossEntropyLoss
+               self.fused_ce = LigerFusedLinearCrossEntropyLoss(ignore_index=label_invalid_val)
+          
+          if precision not in (torch.float32, torch.bfloat16):
+               raise ValueError("only fl32 and bf16 supported")
+          self.precision = precision
+          self.finetune_mode = finetune_mode
+          
+          if device is None:
+               device = 'cuda' if torch.cuda.is_available() else 'cpu'
+          self.device = device
+          for p in self.model.parameters():
+               if not p.requires_grad:
+                    p.data = p.data.to(self.precision)
+          self.model.to(self.device)
+
+          self.path = path
+          self.metrics_path = Path(metrics_path) if metrics_path is not None else None
+          self.epoch = 0
+          self.global_step = 0
+          
+          if self.path is not None:
+               self.load_checkpoint(self.path)
+          
+          self.label_invalid_val = label_invalid_val
+               
+     def compute_loss(self, batch):
+          # assume batch is of dict of
+          # input_ids, attention_mask, labels
+          # need to change this assumption later maybe?
+          
+          batch = {k: v.to(self.device) for k,v in batch.items()}
+                              
+          input_ids = batch['input_ids']
+          attn_mask = batch['attention_mask'] # rmr that attn mask is for extra padding tokens and 
+          labels = batch['labels']
+          kv_caches = [None for _ in range(self.model.config.num_hidden_layers)]
+          positions = (attn_mask.cumsum(dim=-1) - 1).clamp(min=0)
+          
+          labels = labels[:, 1:].contiguous() # shift labels forward one to align 
+          valid = labels != self.label_invalid_val
+          if not valid.any():
+               raise ValueError("batch has no supervised target token")
+          
+          # for precision
+          with torch.autocast(device_type=torch.device(self.device).type, dtype=self.precision, enabled=self.precision != torch.float32):
+               if self.loss_backend == "liger":
+                    # use self.model.model to return before projection
+                    hidden, _ = self.model.model(
+                         input_ids, positions, attn_mask, kv_caches
+                    )
+                    hidden = hidden[:, :-1, :].contiguous()
+                    hidden = hidden.view(-1, hidden.size(-1))
+
+                    return self.fused_ce(
+                         self.model.lm_head.weight,  # [vocab_size, hidden_size]
+                         hidden,                    # [batch * (seq_len - 1), hidden_size]
+                         labels.view(-1),           # [batch * (seq_len - 1)]
+                         bias=self.model.lm_head.bias,
+                    )
+
+               logits, _ = self.model(
+                    input_ids, positions, attn_mask, kv_caches
+               )
+               logits = logits[:, :-1, :].contiguous()
+               log_probs = logits.log_softmax(dim=-1)
+          
+          safe_labels = labels.masked_fill(~valid, 0)
+          target_log_probs = log_probs.gather(
+               dim=-1,
+               index=safe_labels.unsqueeze(-1)
+          ).squeeze(-1)
+          
+          loss = -target_log_probs[valid].mean()
+          
+          return loss
+          
+     def _log_training(self, loss_sum, supervised_tokens, input_tokens, started):
+          seconds = self._training_time() - started
+          norms = [
+               p.grad.detach().float().norm(2)
+               for group in self.optimizer.param_groups
+               for p in group["params"]
+               if p.grad is not None
+          ]
+          grad_norm = torch.stack(norms).norm(2).item() if norms else 0.0
+          learning_rates = [group["lr"] for group in self.optimizer.param_groups]
+          self._log_metrics(
+               "train",
+               loss=loss_sum / supervised_tokens,
+               learning_rate=learning_rates[0] if len(learning_rates) == 1 else learning_rates,
+               grad_norm=grad_norm,
+               input_tokens=input_tokens,
+               supervised_tokens=supervised_tokens,
+               seconds=seconds,
+               input_tokens_per_sec=input_tokens / seconds,
+          )
+
+     def fit(self, train_loader, val_loader, epochs=3, eval_every=100, save_every=100, log_every=20):
+          """Log training intervals and flush them before eval, saves, and epoch ends."""
+          if min(log_every, eval_every, save_every) <= 0:
+               raise ValueError("logging, evaluation, and save intervals must be positive")
+          # Supply a console default when the caller has not configured logging.
+          logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
+          start_epoch = self.epoch
+          
+          self.model.train() # set to train mode
+          
+          for epoch in range(start_epoch, epochs+start_epoch):
+               logger.info("Started epoch %d at step %d", epoch, self.global_step)
+
+               self.epoch = epoch
+               loss_sum = 0.0
+               input_tokens = supervised_tokens = 0
+               started = self._training_time()
+               
+               for batch in train_loader:
+                    self.optimizer.zero_grad()
+                    
+                    loss = self.compute_loss(batch)
+                    loss.backward()
+
+                    self.optimizer.step()
+                    
+                    self.global_step += 1
+
+                    num_valid_tokens = (batch["labels"][:, 1:] != self.label_invalid_val).sum().item()
+                    loss_sum += loss.item() * num_valid_tokens
+                    supervised_tokens += num_valid_tokens
+                    input_tokens += batch["attention_mask"].sum().item()
+
+                    log_due = self.global_step % log_every == 0
+                    eval_due = self.global_step % eval_every == 0
+                    save_due = self.global_step % save_every == 0
+                    
+                    if log_due or eval_due or save_due:
+                         self._log_training(loss_sum, supervised_tokens, input_tokens, started)
+                         loss_sum = 0.0
+                         input_tokens = supervised_tokens = 0
+
+                    if eval_due:
+                         self.evaluate(val_loader)
+                         self.model.train()
+                    
+                    if save_due:
+                         self.save_checkpoint(self.path if self.path is not None else "latest")
+
+                    if log_due or eval_due or save_due:
+                         started = self._training_time()
+
+               if supervised_tokens:
+                    self._log_training(loss_sum, supervised_tokens, input_tokens, started)
+
+          self.save_checkpoint(self.path if self.path is not None else "latest")
+               
+          return
+     
+     def evaluate(self, data_loader):
+          self.model.eval()
+          
+          total_loss = total_tokens = 0
+          
+          with torch.no_grad():
+               for batch in data_loader:
+                    loss = self.compute_loss(batch)
+                    num_valid_tokens = (batch["labels"][:, 1:] != self.label_invalid_val).sum().item()
+                    total_loss += loss.item() * num_valid_tokens
+                    total_tokens += num_valid_tokens
+          if total_tokens == 0:
+               raise AssertionError("expected valid data to evaluate on, got sample with zero valid tokens")      
+          val_loss = total_loss / total_tokens
+          self._log_metrics("eval", loss=val_loss, supervised_tokens=total_tokens)
+          return val_loss

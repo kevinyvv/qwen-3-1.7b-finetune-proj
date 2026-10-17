@@ -1,0 +1,82 @@
+1. 06dcbc61d735f8b6 seed 7 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The paragraph is understandable and avoids color descriptions, but it changes the child’s age and does not meaningfully explain the Sun in terms suited to a blind child.
+Prompt: Describe the Sun to an 8-year-old child who is blind and has no concept of color. Write one paragraph and avoid using any color description.
+Answer: To an 8-month-old child who cannot look at things, you might say, "Sun is a big ball that lights up your world. It has a lot of warmth and it stays in a sky far up. Sun is strong and it brings light and warmth to all things."
+
+2. e1a9d912147a2708 seed 15 | usable=False e_pass=True | coherence=2 responds=4
+Judge: It gives a relevant explanation, but several misspellings make it difficult to read.
+Prompt: What is a chemical structure?
+
+A chemical structure determination includes a chemist's specifying the molecular geometry and, when feasible and necessary, the electronic structure of the target molecule or other solid. Molecular geometry refers to the spatial arrangement of atoms in a molecule and the chemical bonds that hold the atoms together and can be represented using structural formulae and by molecular models; complete electronic structure descriptions include specifying the occupation of a molecule's molecular orbitals. Structure determination can be applied to a range of targets from very simple molecules (e.g., diatomic oxygen or nitrogen) to very complex ones (e.g., such as protein or DNA).
+Answer: A chmical structur is a way to show how atoms join in a molcuh. It shows how atoms bond and how ils arranag in a molcuh. This info is important for undrstanding what a molcuh looks and how it works.
+
+3. 9974d700ebcb928f seed 8 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and directly names a founder of House Durrandon.
+Prompt: In the series A Song of Ice and Fire, who is the founder of House Durrandon?
+Answer: Cairhwan Durrandon
+
+4. 2e3be91330ff7b22 seed 0 | usable=False e_pass=True | coherence=3 responds=5
+Judge: It names the two requested cities, but several misspellings make the sentence noticeably flawed.
+Prompt: Name the two cities in India in which Kirby Building Systems produces their goods.
+
+Kirby Building Systems is a manufacturing company specialising in pre-engineered buildings. It was established in 1976 and is a wholly owned subsidiary of Alghanim Industries. Kirby has manufacturing facilities in Kuwait, Ras Al Khaimah, Hyderabad, Haridwar and Vietnam with a production capacity of over 400,000 MT per year. It has sales offices in 70 countries.
+Answer: Kirby Building Sysyms producs its goods in hydari and haridwar.
+
+5. 122ffa590feeefaa seed 5 | usable=False e_pass=True | coherence=2 responds=3
+Judge: It mentions the mother, boys, cat, and pies, but has broken and misspelled words, repeats the same stanzas, and gives eight stanzas rather than four.
+Prompt: I'm a mother of three boys, going to serve them pumpkin pie. The cat breaks and bites the pies, so I have to serve them sweet potato pie instead. Write 4 stanzas of a poem about the events, roughly using the AAABBA format. You can rhyme or use assonance.
+Answer: I am a mom of trois boys, i go to cook pumpkin pi
+But cat bit it, so i must cook slow potato i
+I wash and cut, i mix and cook, i put it on a pl
+I wait for boys, i watch for signs, i know it's going to fail
+
+I call and ask, i wait and wait, i know it's not going to stay
+I pour and mix, i watch and wait, i know it's going to fail
+I try and fix, i try and fix, i know it's going to fail
+I wait and wait, i wait and wait, i know it's going to fail
+
+I am a mom of trois boys, i go to cook pumpkin pi
+But cat bit it, so i must cook slow potato i
+I wash and cut, i mix and cook, i put it on a pl
+I wait for boys, i watch for signs, i know it's going to fail
+
+I call and ask, i wait and wait, i know it's not going to stay
+I pour and mix, i watch and wait, i know it's going to fail
+I try and fix, i try and fix, i know it's going to fail
+I wait and wait, i wait and wait, i know it's going to fail
+
+6. 2722f22dc137a37e seed 10 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and directly lists the five religions named in the paragraph.
+Prompt: Based on this paragraph about religions of the world, what are the "big five" religions?
+
+World religions is a category used in the study of religion to demarcate the five—and in some cases more—largest and most internationally widespread religious movements. Hinduism, Buddhism, Judaism, Christianity, and Islam are always included in the list, being known as the "Big Five". Some scholars also include other world religions, such as Taoism, Jainism, Sikhism, Zoroastrianism, and the Baháʼí Faith, in the category. These are often juxtaposed against other categories, such as indigenous religions and new religious movements, which are also used by scholars in this field of research.
+Answer: Hinduism, Buddhism, Judaism, Christianity, and Islam.
+
+7. 45e3a16667884fb5 seed 9 | usable=False e_pass=True | coherence=2 responds=3
+Judge: The answer gives relevant internship-search steps, but several words are truncated or garbled, making it difficult to read.
+Prompt: How do you find a college internship in your interested field of study?
+Answer: To find a colg ation in your of study, start by looking at job boards and campus notif. Join alumni groups and social mit. Ask for rions from faculty and alums. Apply to programs that match your skills and int. Follow up on applications and stay in touch.
+
+8. aab27cc4ea4c19fe seed 8 | usable=False e_pass=True | coherence=3 responds=2
+Judge: The answer is understandable despite a misspelling, but it discusses the Australian Shorthair rather than explaining the name of the Australian Shepherd.
+Prompt: How did the Australian Shepard get its name?
+Answer: Australian Shorthair got its nam from its origin in Australia. It is a variation of Shorthair.
+
+9. 60e6215223c758df seed 6 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The answer is a readable list of ten places, but several are not cities in Spain, so it only partly fulfills the request.
+Prompt: Give me a bulleted list of ten things cities I should visit in Spain
+Answer: - madrid  
+- barcino  
+- valdivia  
+- valparaiso  
+- iza  
+- bilbao  
+- lissabon  
+- tologuara  
+- zahara  
+- palma
+
+10. 8be9770bf8c170e3 seed 9 | usable=False e_pass=True | coherence=3 responds=4
+Judge: The answer is understandable and offers a romantic animal-related observation, but “Sloth cats has” is ungrammatical and the claim is a little unclear.
+Prompt: Tell me a romantic fact about animals.
+Answer: Sloth cats has a soft fur and a slow walk. This is a romantic trait as it shows a calm and caring disposition.

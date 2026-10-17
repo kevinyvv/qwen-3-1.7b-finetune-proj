@@ -1,0 +1,48 @@
+reward=0.875 usable=True | In a few sentences, explain investing using this:
+
+Investing
+Investing involves purchasing assets, u
+Involving purchasing of stocks and bonds to gain a profit, aiming to grow your savings, but with risks of loss. It's hard for novics, so studying or hiring a financial advisor is good.
+
+reward=0.625 usable=False | Summarize the effectiveness of anaerobic and aerobic exercises on muscle hypertropy.
+
+The best appro
+Anacondic training is most commonly thought to support muscular growth, but it's not always most optimal. High-intro, short-duration anacondic workouts may boost growth, but long-duration, low-intro workouts may not. Low-intro, long-duration acondic workouts may not significantly support growth, and focus on fat and blood flow.
+
+reward=0.375 usable=False | Summarize the effectiveness of anaerobic and aerobic exercises on muscle hypertropy.
+
+The best appro
+Anacondic training is most commonly thought to play a significant and long-lasting part in promoting muscular growth, with high-int, short-duration workouts contributing to this. In contrast, long-duration, low-int, and high-int, low-int, long-duration, and low-int, long-duration, and high-int, low-int, long-duration, and high-int, low-int, long-duration, and high-int, low-int, long-duration, and high-int, low-int, long-duration, and high-int, low-int, long-duration, and high-int, low-int, long-duration, and high-int, low-int, long-duration, and high-int, low-int, long-duration, and high-int, low-int, long-duration, and high-int, low-int, long-duration, and high-int, low-int, long-duration, and high-int, low-int, long-duration, and high-int, low-int, long-duration, and high-int, low-int, long-duration, and high-int, low-int, long-duration, and high-int, low-int, long-duration, and high-int, low-int, long-duration, and high-int, low-int, long-duration, and high-int, low-int, long-duration, and high-int, low-int, long-duration, and high-int, low-int, long-duration, and high-int, low-int, long-duration, and high-int, low-int, long-duration, and high-int, low-int, long-duration, and high
+
+reward=1.0 usable=True | Where was his Catholic school?
+
+Waring was born John Roderick Rodriguez in Lewisham, London, into a 
+Southwark
+
+reward=0.625 usable=False | In a few sentences, explain investing using this:
+
+Investing
+Investing involves purchasing assets, u
+Involving buying financial tools to gain profit, aiming to grow capital, though risky and not always gaining. It's hard for novics, so studying or hiring a pro can aid.
+
+reward=0.375 usable=False | Summarize the effectiveness of anaerobic and aerobic exercises on muscle hypertropy.
+
+The best appro
+Anaobic training is most impactful for muscular growth, with long-duration, high-intanium workouts promoting significant hypotrophy. Arousal is most important for growth, with anaobic training providing most of its growth.
+
+reward=1.0 usable=True | Where was his Catholic school?
+
+Waring was born John Roderick Rodriguez in Lewisham, London, into a 
+Southwark
+
+reward=0.875 usable=True | Why you need to save Money
+To avoid financial hardship.
+
+reward=0.875 usable=True | Why you need to save Money
+To avoid financial hardship.
+
+reward=0.625 usable=False | In a few sentences, explain investing using this:
+
+Investing
+Investing involves purchasing assets, u
+Involving buying financial tools to gain profit, aiming to grow capital, with risks and no guaranty. It's hard for novics, so studying or hiring a pro is good.

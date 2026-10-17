@@ -1,4 +1,6 @@
-weights/*
-*/logs/*
-*/checkpoints/*
+weights/
+checkpoints/
+.env
 __pycache__/
+.venv/
+*.log

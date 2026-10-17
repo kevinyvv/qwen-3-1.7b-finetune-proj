@@ -14,7 +14,8 @@ class Qwen3Attention(nn.Module):
         max_position: int = 4096 * 32,
         head_dim: int | None = None,
         rms_norm_eps: float = 1e-06,
-        qkv_bias: bool = False
+        qkv_bias: bool = False,
+        use_sdpa: bool = False,
     ) -> None:
         super().__init__()
         
@@ -24,6 +25,7 @@ class Qwen3Attention(nn.Module):
         self.max_position = max_position
         self.head_dim = head_dim
         self.rms_norm_eps = rms_norm_eps
+        self.use_sdpa = use_sdpa
         
         self.q_proj = Linear(hidden_size, num_heads * head_dim, qkv_bias)
         self.k_proj = Linear(hidden_size, num_kv_heads * head_dim, qkv_bias)
@@ -94,22 +96,45 @@ class Qwen3Attention(nn.Module):
         k = k.repeat_interleave(self.num_heads // self.num_kv_heads, dim=1) # to match q dims
         v = v.repeat_interleave(self.num_heads // self.num_kv_heads, dim=1) # to match dim of n_head 
         
-        # create causal mask + attn_mask
-        neg = torch.finfo(q.dtype).min
+        if self.use_sdpa:
+            k_len = k.size(2)
+            if attn_mask is None and (seq_len == k_len or seq_len == 1):
+                sdpa_mask = None
+                is_causal = seq_len > 1
+            else:
+                is_causal = False
+                if seq_len == 1:
+                    sdpa_mask = attn_mask[:, None, None, :].bool()
+                else:
+                    # need to re-adjust since causal mask starts from topleft (hence disable+create our own)
+                    query_positions = torch.arange(k_len - seq_len, k_len, device=q.device)
+                    key_positions = torch.arange(k_len, device=q.device)
+                    sdpa_mask = key_positions[None, :] <= query_positions[:, None] # broadcasts to [q_len, k_len] - good!
+                    if attn_mask is not None:
+                        sdpa_mask = sdpa_mask & attn_mask[:, None, None, :].bool()
+
+            output = nn.functional.scaled_dot_product_attention(
+                q.to(v.dtype), k.to(v.dtype), v,
+                attn_mask=sdpa_mask, dropout_p=0.0,
+                is_causal=is_causal, scale=self.scaling,
+            )
+        else:
+            # create causal mask + attn_mask
+            neg = torch.finfo(q.dtype).min
     
-        k_len = k.size(2)
-        causal_mask = torch.full((seq_len, k_len), neg, device=q.device, dtype=q.dtype).triu(1 + k_len - seq_len) # [seq_len, seq_len]
-        mask = torch.zeros((batch_size, 1, 1, k_len), device=q.device, dtype=q.dtype)
+            k_len = k.size(2)
+            causal_mask = torch.full((seq_len, k_len), neg, device=q.device, dtype=q.dtype).triu(1 + k_len - seq_len) # [seq_len, seq_len]
+            mask = torch.zeros((batch_size, 1, 1, k_len), device=q.device, dtype=q.dtype)
         
-        if attn_mask is not None:
-            mask = mask.masked_fill(attn_mask[:, None, None, :] == 0, neg)
+            if attn_mask is not None:
+                mask = mask.masked_fill(attn_mask[:, None, None, :] == 0, neg)
         
-        # q is of shape [b, n_head, q_seq_len=1, head_dim] (with kv cache)
-        # k is of shape [b, n_head, seq_len, head_dim]    
-        # q @ k^t -> o [b, n_head, q_seq_len=1, seq_len] (with kv cache)
-        o = nn.functional.softmax((q @ k.transpose(2,3)) * self.scaling + causal_mask + mask, dim=-1, dtype=torch.float32).to(q.dtype)  
-        # o @ v
-        output = o @ v # [b, n_heads, q_seq_len=1, head_dim] w/ kv_cache of course
+            # q is of shape [b, n_head, q_seq_len=1, head_dim] (with kv cache)
+            # k is of shape [b, n_head, seq_len, head_dim]
+            # q @ k^t -> o [b, n_head, q_seq_len=1, seq_len] (with kv cache)
+            o = nn.functional.softmax((q @ k.transpose(2,3)) * self.scaling + causal_mask + mask, dim=-1, dtype=torch.float32).to(q.dtype)
+            # o @ v
+            output = o @ v # [b, n_heads, q_seq_len=1, head_dim] w/ kv_cache of course
         
         # resize to be [b, s, n_head*head_dim]
         output = output.transpose(1, 2).reshape(batch_size, seq_len, -1)   # [b, s, nh*hd]
@@ -153,6 +178,7 @@ class Qwen3Layer(nn.Module):
     def __init__(
         self,
         config: Qwen3Config,
+        use_sdpa: bool = False,
     ) -> None:
         super().__init__()
         
@@ -162,7 +188,8 @@ class Qwen3Layer(nn.Module):
             num_heads=config.num_attention_heads,
             num_kv_heads=config.num_key_value_heads,
             head_dim=config.head_dim,
-            rms_norm_eps=config.rms_norm_eps
+            rms_norm_eps=config.rms_norm_eps,
+            use_sdpa=use_sdpa,
         )
         self.post_attention_layernorm = RMSNorm(config.hidden_size, config.rms_norm_eps)
         self.mlp = Qwen3MLP(
@@ -192,13 +219,15 @@ class Qwen3Model(nn.Module):
     def __init__(
         self,
         config: Qwen3Config,
+        use_sdpa: bool = False,
     ) -> None:
         super().__init__()
         
         self.config = config # so we can use it for RoPE below
+        self.use_sdpa = use_sdpa
         
         self.embed_tokens = nn.Embedding(config.vocab_size, config.hidden_size)
-        self.layers = nn.ModuleList([Qwen3Layer(config)
+        self.layers = nn.ModuleList([Qwen3Layer(config, use_sdpa=use_sdpa)
                                         for _ in range(config.num_hidden_layers)])
         self.norm = RMSNorm(config.hidden_size, config.rms_norm_eps)
         self.gradient_checkpointing = False
@@ -211,6 +240,11 @@ class Qwen3Model(nn.Module):
         kv_caches # shape [b, blocks, [2, [seq_len, num_kv_head * head_dim]]]
     ) -> torch.Tensor:
         
+        # Check once per forward, rather than synchronizing the GPU per layer.
+        # Dropping an all-valid padding mask lets SDPA use is_causal directly.
+        if self.use_sdpa and attn_mask is not None and bool(attn_mask.all()):
+            attn_mask = None
+
         x = self.embed_tokens(input_ids) # -> [batch, sequence_length, embedding_dim]
         
         rope_theta = self.config.rope_parameters['rope_theta']
@@ -238,9 +272,9 @@ class Qwen3Model(nn.Module):
         
 
 class Qwen3ForCausalLM(nn.Module):
-    def __init__(self, config):
+    def __init__(self, config, use_sdpa: bool = False):
         super().__init__()
-        self.model = Qwen3Model(config)
+        self.model = Qwen3Model(config, use_sdpa=use_sdpa)
         self.config = config
         self.lm_head = Linear(config.hidden_size, config.vocab_size, bias=False)
         

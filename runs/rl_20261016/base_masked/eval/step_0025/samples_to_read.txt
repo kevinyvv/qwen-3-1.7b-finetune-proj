@@ -1,0 +1,74 @@
+1. e78698c8736a317d seed 1 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The list is clear and provides five work-from-home job ideas that fit the stated skills.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Writing assistant  
+2. Cookbook author  
+3. Art instructor  
+4. Virtual assistant  
+5. Food blog contributor
+
+2. 70d29c36383a85c5 seed 3 | usable=False e_pass=True | coherence=5 responds=3
+Judge: The answer is clear and grammatical, but it describes a different-sounding organization rather than directly identifying the National Payments Corporation of India.
+Prompt: What is the National Payments Corporation of India?
+Answer: National Payroll Corporation of India is a company that assists in payroll and salary administration. It is a part of India's financial and payroll industry.
+
+3. 963737cc07645eab seed 2 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It attempts a dad joke, but “jok” is misspelled and the punchline is unclear.
+Prompt: What is a good dad joke?
+Answer: A good dad jok is why i always carry an apron to work.
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=True | coherence=2 responds=3
+Judge: The answer attempts to explain the word’s origin, but misspellings and repetitive, broken phrasing make it difficult to follow.
+Prompt: Where does the word cliche come from?
+Answer: Clich is from a old franzois word that was a old word for a old saying or a old saying that was old. It was first usado in writing in 1854.
+
+5. d15ab4ff8874ed91 seed 1 | usable=False e_pass=True | coherence=3 responds=4
+Judge: The answer gives a clear opinion and reasons, but it misreads the story’s disturbing ending and includes an apparent misspelling of “basement.”
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: It is a funny story. It is funny in that it is a silly, child's play on a common warning about a basaman. It is also funny in that it is a child's imagination and curiosity about a puppy, which is not a normal thing to do. It is funny in that it is a story that is not scary, but has a light, humorous and slightly sad twist.
+
+6. 6fd2112fdd70a58b seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The answer is clear and about footwear, though it does not follow the usual limerick rhythm or rhyme scheme.
+Prompt: Write a limerick about shoes.
+Answer: A pair of boots with a flair so bright  
+Waltz through a park on a sunny day  
+Footprints in sand so bright  
+A laugh and a shout  
+Now it's back in its box.
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=True | coherence=3 responds=4
+Judge: The story is understandable and uses a lizard’s perspective, but repetitive lines and limited sarcasm weaken the writing and tone.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: In a glass booth at a fancy dining spot, I sit crossly, watching my food. It's a small, glassy world, and I'm a tiny lizard who's just trying to stay out of sight. I'm not a fan of this. I'm not a fan of this glass. I'm not a fan of this food. I'm not a fan of this world.
+
+I wish I could just vanish. But I'm a lizard. I can't. I'm stuck in this tiny box, watching my food. It's a sad, sad situation. I'm not hungry. I'm not thirsty. I'm just a tiny, tiny lizard who's not happy. I wish I could just crawl out of this glass and find a normal world. But I can't. I can't. I can't.
+
+I'm not a fan of this. I'm not a fan of this. I'm not a fan of this. I'm not a fan of this.
+
+8. 71a869aa8bae34e2 seed 2 | usable=False e_pass=True | coherence=3 responds=4
+Judge: The answer gives the land and water amounts, but misspells “square miles” twice.
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: Pakistan is mostly land. It has 297,635 squar milt of land and 9,737 squar milt of wat.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=2 responds=3
+Judge: It starts to distinguish fruit from vegetables, but the wording is awkward and the repeated “ould” text makes most of the answer hard to follow.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit is a part of a plant that grows on a plant and is usually a small, soft, and tasty part, such as an avocado or a banana. It is typically found on a plant and is a part of its growth.  V
+  uttons and root plants, such as carrots and onions,  ould  not  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould  ould
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The answer is understandable despite misspellings, but it reverses the instruments’ categories instead of correctly identifying which is string and which is percussion.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Dhol is a string instrumnt. Torban is a drum instrumnt.

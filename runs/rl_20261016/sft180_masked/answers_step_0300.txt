@@ -1,0 +1,33 @@
+reward=0.75 usable=True | Can you tell me what a funerary text is?
+A funarary inscription is a short account of a burial, including who it was and how it should occur.
+
+reward=1.0 usable=True | What tone do the following lyrics seem to have? Are they dark, happy, romantic, or inspiring? 
+
+I do
+dark
+
+reward=0.625 usable=False | How can history be interpreted as personal? Give an example story of the previous sentence.
+A historian might say that Iliad's gods act as advisors to humans, with human actions adding a twist to an account of gods acting apart from humans.
+
+reward=0.75 usable=False | What tone do the following lyrics seem to have? Are they dark, happy, romantic, or inspiring? 
+
+I do
+sad
+
+reward=0.75 usable=True | Can you tell me what a funerary text is?
+A funarary inscription is a short account of a passing away, along with information about a burial plot or a family.
+
+reward=0.75 usable=True | How can history be interpreted as personal? Give an example story of the previous sentence.
+A young historian visits a family tomb. Looking at a child's toy, its toy animal, and its child's carving of a grand wish, this historian draws a conclusion about what it was important to this family.
+
+reward=0.75 usable=False | Where did Rosogolla or Rasgulla originate?
+Rasgulla is from India.
+
+reward=0.75 usable=True | Can you tell me what a funerary text is?
+A funarary inscription is a short account of a burial, including why a body is in a coffin, its final location, and what rituals follow its burial.
+
+reward=0.875 usable=True | How can history be interpreted as personal? Give an example story of the previous sentence.
+A historian could claim that Frida Kahlo's painful physical condition and artistic output form a story within history.
+
+reward=0.875 usable=True | Where did Rosogolla or Rasgulla originate?
+India

@@ -1,0 +1,120 @@
+[
+  {
+    "step": 0,
+    "usable_rate": 0.26,
+    "readable_rate": 0.67,
+    "middle_90": [
+      0.19,
+      0.33
+    ],
+    "source": "runs/short_eval_20261016/base_1.7b_masked"
+  },
+  {
+    "step": 25,
+    "usable_rate": 0.28,
+    "readable_rate": 0.71,
+    "middle_90": [
+      0.205,
+      0.36
+    ]
+  },
+  {
+    "step": 50,
+    "usable_rate": 0.34,
+    "readable_rate": 0.73,
+    "middle_90": [
+      0.255,
+      0.43
+    ]
+  },
+  {
+    "step": 75,
+    "usable_rate": 0.395,
+    "readable_rate": 0.785,
+    "middle_90": [
+      0.31,
+      0.485
+    ]
+  },
+  {
+    "step": 100,
+    "usable_rate": 0.44,
+    "readable_rate": 0.79,
+    "middle_90": [
+      0.355,
+      0.53
+    ]
+  },
+  {
+    "step": 125,
+    "usable_rate": 0.44,
+    "readable_rate": 0.775,
+    "middle_90": [
+      0.34,
+      0.53
+    ]
+  },
+  {
+    "step": 150,
+    "usable_rate": 0.35,
+    "readable_rate": 0.725,
+    "middle_90": [
+      0.265,
+      0.44
+    ]
+  },
+  {
+    "step": 175,
+    "usable_rate": 0.38,
+    "readable_rate": 0.785,
+    "middle_90": [
+      0.29,
+      0.48
+    ]
+  },
+  {
+    "step": 200,
+    "usable_rate": 0.39,
+    "readable_rate": 0.77,
+    "middle_90": [
+      0.3,
+      0.47
+    ]
+  },
+  {
+    "step": 225,
+    "usable_rate": 0.365,
+    "readable_rate": 0.785,
+    "middle_90": [
+      0.28,
+      0.45
+    ]
+  },
+  {
+    "step": 250,
+    "usable_rate": 0.4,
+    "readable_rate": 0.81,
+    "middle_90": [
+      0.32,
+      0.48
+    ]
+  },
+  {
+    "step": 275,
+    "usable_rate": 0.4,
+    "readable_rate": 0.825,
+    "middle_90": [
+      0.315,
+      0.48
+    ]
+  },
+  {
+    "step": 300,
+    "usable_rate": 0.43,
+    "readable_rate": 0.81,
+    "middle_90": [
+      0.345,
+      0.515
+    ]
+  }
+]

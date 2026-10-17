@@ -1,0 +1,55 @@
+reward=1.0 usable=True | What kind of Toys should be prepare for a new puppy
+Toys to bring for a puppy: ball, tug toy, stick, plush toy, and a small toy that can withstand play.
+
+reward=0.75 usable=True | What kind of Toys should be prepare for a new puppy
+Toys to bring for a brand spanking puppy: Ball, Frisby, Kongs, Soft plush, Tug toy, Training stick, Snack bowl, Soft mat, Dog toy box, Training collar
+
+reward=0.625 usable=False | Write a short story of less than 300 words about a zombie apocalypse.
+In a world ravaging by a virus, humanity crumpling. Sara, a librarian, found a book in a dusty shop, its dust still thick with history. As days wraiths, shadows flicking through windows, survivors clung to scraps of truth. 
+
+A car crash, a flick of a flashlight, a distant wail. Sara, now a ghost, ran through a town that had long lost its light. 
+
+In a last stand, a radio crackling with static, Sara broadcast a truth: "You must fight for your soul." 
+
+A mob, now clad in tinfoil, stood in a plaza. Sara, a wisp of cloth and light, stood in front of a map. "This is your last stand," said Sara. "You will fight for your city, your family, your humanity." 
+
+With a final cry, Sara was no long a ghost. A flick of a light, and in that instant, a city aghast and lit.
+
+reward=0.75 usable=False | Write a short story of less than 300 words about a zombie apocalypse.
+In a world ravaging by a virus, survivors hunk in a crumbling town. A girl, Lila, finds a journal in an old bookshop. It's full of cryptic writings. As days pass, shadows grow, and a chill grips town. A man, Jack, is found in a church, his body rotting. Lila follows him, chasing rumors of a horrid thing. In a dark room, a woman, Clara, is found, and Lila knows what's coming. A pack of ghosts, clad in tins, surround Lila. In a final clash, Lila fights back, but is caught in a suffocating fog. As dawn cracks, Lila is found, and a small light flicks on. A survivor, and a glint of a world still living.
+
+reward=0.625 usable=False | Write a short story of less than 300 words about a zombie apocalypse.
+In a world of crumbling skyscrapurs and rotting buildings, a virus had struck. It was a slow, insidious thing, starting with a cold, a cough, a loss of sight. Within days, survivors had dwindling populations, and what was still standing was a ghostly shadow of a civilization.
+
+A young woman, Mara, had no family, no plan. But survival was a priority. With a machismo spirit and a small pack of food, Mara trudg'd through a city that was now a wastland. 
+
+As days brough, panic grips. A group of survivors, including a doctor and a scavvy man, found a way to build a small hut. Mara, though not a doctor, had a knack for fixing things. 
+
+In a final act of unity, Mara and a group of survivors built a wall, a last stand against what had brought this world to ruin. 
+
+And so, in a world of rot and ruin, a woman stood tall, a symbol of survival, a ghost of a past that would not fall.
+
+reward=0.5 usable=False | Write a short story of less than 300 words about a zombie apocalypse.
+In a world torn asphyxiant by a virus, humanity crumpling. A black fog clung to skyscraping buildings, and no light could pass through. In a small town, a man stood at a window, watching as his family was lost. His young son, Luca, clutht in his arms, his lips bruising. 
+
+Days bough, and panic took hold. Stragglings of survivors, scavng for food, huddling in basins. A woman, Clara, found a survivor, a boy with a scar. "You must not look at him," said Clara, "his blood is not his own." 
+
+But Luca, in his arms, could not look away. As nightfall brought a sound, a groan, and a body falling. Clara knifing, but it was too slow. 
+
+In that instant, Luca saw his family, no, his kin, moving toward him, but it was too far. Only a shadow, a thing that should not crawl. 
+
+And in that shadow, a man stood, his body rotting, his mouth a grin. "You thought you could stop this," said his laugh, low and hollow. 
+
+Luca, in his arms, could not run. Only watch as his world, his family, was no long.
+
+reward=0.625 usable=False | write a short story (3 paragraphs) about a group of young women going out dancing on a Saturday nigh
+A group of young girls strolls through a bustling downtown bar, laughing and chatting as a soft jazz band plays in background. A warm glow from a flicking lamp casts sharp shadows on walls, and a distant hum of music fills air. As night falls, a group of young girls walk into a vibrant club, drawn by a mix of curiosity and a craving for fun. In a dimly lit room, a rhythmic sway of hips and a syncopation of foot-stomps bring a glow to a room that was initially dark.
+
+reward=0.5 usable=False | write a short story (3 paragraphs) about a group of young women going out dancing on a Saturday nigh
+A group of young woman stood in a dimly lit club, sipping drinks and laughing as music swirly around. It was a Saturday night and all of a sly, a night to unwind and soak in. As soon as lights dim, a group of young woman took to dancing, swaying to a rhythm that was both old and brand spanking. It was a night of music, of passion, and of youthful joy.
+
+reward=0.5 usable=False | Write a short story of less than 300 words about a zombie apocalypse.
+In a world ravaging by a virus, humanity crumpld into chaos. Jack, a scavman, found a hollow survivor in a rusting truck. "You can still fight," said his companion, maimd by a gunshot. Jack took a machin and a gun, knowing survival was a fight. As nightfall brought shadows, Jack and his ally navigatd through ruins, dodging rats and scavvrs. A distant sound of a car alarm joltcd him. With a last burst of ammo, Jack shot a scavvr, and with a final cry, vanisht into shadows. In a world of lost and found, survival was a ghost.
+
+reward=0.375 usable=False | Can you explain to me how an internal combustion engine works and how have they improved over the ye
+An I-Crankshaft works by burning a combustor, which ignits a air-firing mix, producing high-boost gas that propulsing a piston. This piston is part of a crankshaft, which transforms piston motion into rotational motion. This rotational motion is harnmonics to turn a propshaft, which turns a prop. Improvman has focus on improving combustion, adding turbocharging, and using hybrid or plug-in hybrids.

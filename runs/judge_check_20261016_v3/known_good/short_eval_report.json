@@ -1,0 +1,448 @@
+{
+  "run_dir": "runs/judge_check_20261016_v3/known_good",
+  "answers": 100,
+  "prompts": 100,
+  "e_check_counts": false,
+  "usable_rate": 0.98,
+  "usable_rate_middle_90": [
+    0.95,
+    1.0
+  ],
+  "usable": 98,
+  "judge_errors": 0,
+  "not_yet_judged": 0,
+  "e_pass_rate": 1.0,
+  "sent_to_judge": 100,
+  "mean_scores": {
+    "coherence": 4.91,
+    "responds": 4.8
+  },
+  "score_counts": {
+    "coherence": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 9,
+      "5": 91
+    },
+    "responds": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 16,
+      "5": 82
+    }
+  },
+  "mean_answer_tokens": null,
+  "judge": {
+    "model": "gpt-6-luna",
+    "effort": "none",
+    "prompt_sha256": "283d2f703f665f774aa8eb77fc339fa25113d038b3826bd46b6aadf16263520b",
+    "calls": 100,
+    "input_tokens": 60624,
+    "cached_input_tokens": 0,
+    "output_tokens": 4304
+  },
+  "per_prompt": {
+    "aabf814355c69631": {
+      "usable": 1,
+      "scored": 1
+    },
+    "2ce7f55228f67cca": {
+      "usable": 1,
+      "scored": 1
+    },
+    "ff880e2bc6febec9": {
+      "usable": 1,
+      "scored": 1
+    },
+    "f3006fda80f5c3b1": {
+      "usable": 1,
+      "scored": 1
+    },
+    "7e567f43ae5aab58": {
+      "usable": 1,
+      "scored": 1
+    },
+    "4521ec53b48ca743": {
+      "usable": 1,
+      "scored": 1
+    },
+    "870b500e4641c5da": {
+      "usable": 1,
+      "scored": 1
+    },
+    "3f6ed620cce6170d": {
+      "usable": 1,
+      "scored": 1
+    },
+    "44f18dba8f472fed": {
+      "usable": 1,
+      "scored": 1
+    },
+    "1f58b81c9c2fdca5": {
+      "usable": 1,
+      "scored": 1
+    },
+    "cdf6ddc98b3109d9": {
+      "usable": 1,
+      "scored": 1
+    },
+    "de8af8b39f0fb593": {
+      "usable": 1,
+      "scored": 1
+    },
+    "7669e6641fe2287e": {
+      "usable": 1,
+      "scored": 1
+    },
+    "0333bf7c037ea4da": {
+      "usable": 1,
+      "scored": 1
+    },
+    "5512183b87627a98": {
+      "usable": 1,
+      "scored": 1
+    },
+    "b0387dc83dd5fe21": {
+      "usable": 1,
+      "scored": 1
+    },
+    "56aa615bc9de47e9": {
+      "usable": 1,
+      "scored": 1
+    },
+    "58e19ecec65c5a44": {
+      "usable": 1,
+      "scored": 1
+    },
+    "0fc70db287782cd1": {
+      "usable": 1,
+      "scored": 1
+    },
+    "0a744f31bc251085": {
+      "usable": 1,
+      "scored": 1
+    },
+    "6e6004bb84e9bf78": {
+      "usable": 1,
+      "scored": 1
+    },
+    "6bf3933c1092bb4e": {
+      "usable": 1,
+      "scored": 1
+    },
+    "7dd9a624a0d59dd2": {
+      "usable": 1,
+      "scored": 1
+    },
+    "19d459a261e4ffcf": {
+      "usable": 1,
+      "scored": 1
+    },
+    "15839baf92161eef": {
+      "usable": 1,
+      "scored": 1
+    },
+    "6850450b3868ece4": {
+      "usable": 1,
+      "scored": 1
+    },
+    "e3e2933a37be7e05": {
+      "usable": 1,
+      "scored": 1
+    },
+    "212aa98e5cbd320b": {
+      "usable": 1,
+      "scored": 1
+    },
+    "12a2569ba2f803d6": {
+      "usable": 1,
+      "scored": 1
+    },
+    "4c45451c1209ac1b": {
+      "usable": 1,
+      "scored": 1
+    },
+    "1c3b7ed225d07fc7": {
+      "usable": 1,
+      "scored": 1
+    },
+    "7a9ebf77817e1fca": {
+      "usable": 1,
+      "scored": 1
+    },
+    "3c61a7a897ae51b5": {
+      "usable": 1,
+      "scored": 1
+    },
+    "50d6c3049cd69f4a": {
+      "usable": 1,
+      "scored": 1
+    },
+    "ed4612b795681cda": {
+      "usable": 1,
+      "scored": 1
+    },
+    "fe07426e7dd9a445": {
+      "usable": 1,
+      "scored": 1
+    },
+    "ad91830689ea8310": {
+      "usable": 1,
+      "scored": 1
+    },
+    "154a87a1b0d00cdb": {
+      "usable": 1,
+      "scored": 1
+    },
+    "8a485b0510a81784": {
+      "usable": 1,
+      "scored": 1
+    },
+    "7f60dda4771c3e7c": {
+      "usable": 1,
+      "scored": 1
+    },
+    "206fefd7b2e1509b": {
+      "usable": 1,
+      "scored": 1
+    },
+    "1e3850201f3e6a1b": {
+      "usable": 1,
+      "scored": 1
+    },
+    "3ba780449010e0f6": {
+      "usable": 1,
+      "scored": 1
+    },
+    "ff1d34b5ac56f18e": {
+      "usable": 1,
+      "scored": 1
+    },
+    "f9e44b9b281ca9ed": {
+      "usable": 1,
+      "scored": 1
+    },
+    "68524a5baee7edde": {
+      "usable": 1,
+      "scored": 1
+    },
+    "a9cfbde5502ccb7e": {
+      "usable": 0,
+      "scored": 1
+    },
+    "6a12f0056401c182": {
+      "usable": 0,
+      "scored": 1
+    },
+    "8e9a30bf3df9b8bd": {
+      "usable": 1,
+      "scored": 1
+    },
+    "1bdd8da2e0dfa429": {
+      "usable": 1,
+      "scored": 1
+    },
+    "0d13b1b1a0a3b4b2": {
+      "usable": 1,
+      "scored": 1
+    },
+    "0c1e0625dfc853e7": {
+      "usable": 1,
+      "scored": 1
+    },
+    "3792cbfbcac5e3c4": {
+      "usable": 1,
+      "scored": 1
+    },
+    "5ea7df8d28e21207": {
+      "usable": 1,
+      "scored": 1
+    },
+    "3a286afc72d42ebb": {
+      "usable": 1,
+      "scored": 1
+    },
+    "0fa61356859f8004": {
+      "usable": 1,
+      "scored": 1
+    },
+    "7a8ca138d3a7b19c": {
+      "usable": 1,
+      "scored": 1
+    },
+    "dcff4c1e45ecb531": {
+      "usable": 1,
+      "scored": 1
+    },
+    "e00575c8c43b143f": {
+      "usable": 1,
+      "scored": 1
+    },
+    "adbfb1f606c146e8": {
+      "usable": 1,
+      "scored": 1
+    },
+    "87d4f4cfcc0516bc": {
+      "usable": 1,
+      "scored": 1
+    },
+    "8c8b4deaa3b11287": {
+      "usable": 1,
+      "scored": 1
+    },
+    "8a49b4a84d12ade5": {
+      "usable": 1,
+      "scored": 1
+    },
+    "2155d8271ccfb849": {
+      "usable": 1,
+      "scored": 1
+    },
+    "2707e93ca99bca20": {
+      "usable": 1,
+      "scored": 1
+    },
+    "52b5dd58b8444dd9": {
+      "usable": 1,
+      "scored": 1
+    },
+    "5dc66726403ebc8b": {
+      "usable": 1,
+      "scored": 1
+    },
+    "3d0126a60aab9a33": {
+      "usable": 1,
+      "scored": 1
+    },
+    "8a2f9db12a8be9a3": {
+      "usable": 1,
+      "scored": 1
+    },
+    "3c1072e5f5d68be8": {
+      "usable": 1,
+      "scored": 1
+    },
+    "81b1942ec5776189": {
+      "usable": 1,
+      "scored": 1
+    },
+    "94a2288a9df25721": {
+      "usable": 1,
+      "scored": 1
+    },
+    "02622f8d453ac834": {
+      "usable": 1,
+      "scored": 1
+    },
+    "be57fd560cca1d6b": {
+      "usable": 1,
+      "scored": 1
+    },
+    "72040bba73490811": {
+      "usable": 1,
+      "scored": 1
+    },
+    "5a56b2f5a0731be0": {
+      "usable": 1,
+      "scored": 1
+    },
+    "44b46686d519dc80": {
+      "usable": 1,
+      "scored": 1
+    },
+    "87b80bd91e21869a": {
+      "usable": 1,
+      "scored": 1
+    },
+    "c82cc85988a9042d": {
+      "usable": 1,
+      "scored": 1
+    },
+    "45f02457a9461585": {
+      "usable": 1,
+      "scored": 1
+    },
+    "e25cd275f02f077d": {
+      "usable": 1,
+      "scored": 1
+    },
+    "86295287b5db1501": {
+      "usable": 1,
+      "scored": 1
+    },
+    "963697d4732560f3": {
+      "usable": 1,
+      "scored": 1
+    },
+    "8530b86e209eb7c6": {
+      "usable": 1,
+      "scored": 1
+    },
+    "00590e51fb5e3352": {
+      "usable": 1,
+      "scored": 1
+    },
+    "90b5d7a8dd2548c8": {
+      "usable": 1,
+      "scored": 1
+    },
+    "229cfd0ab29dcf51": {
+      "usable": 1,
+      "scored": 1
+    },
+    "43ebb26ea6ddfd60": {
+      "usable": 1,
+      "scored": 1
+    },
+    "15469a633a735eb6": {
+      "usable": 1,
+      "scored": 1
+    },
+    "87c944736bcbe811": {
+      "usable": 1,
+      "scored": 1
+    },
+    "0cba6abe92665521": {
+      "usable": 1,
+      "scored": 1
+    },
+    "abb11e61915781df": {
+      "usable": 1,
+      "scored": 1
+    },
+    "40b003c51c63643a": {
+      "usable": 1,
+      "scored": 1
+    },
+    "7bc0722ce122ae39": {
+      "usable": 1,
+      "scored": 1
+    },
+    "91ee27f27bf279a1": {
+      "usable": 1,
+      "scored": 1
+    },
+    "4b958f9cd5c5d7c6": {
+      "usable": 1,
+      "scored": 1
+    },
+    "ff9ba8a8273e71b4": {
+      "usable": 1,
+      "scored": 1
+    },
+    "5584623f4ce72c6e": {
+      "usable": 1,
+      "scored": 1
+    },
+    "f5b69c190de6c00b": {
+      "usable": 1,
+      "scored": 1
+    },
+    "24cfd2a23d78fb67": {
+      "usable": 1,
+      "scored": 1
+    }
+  }
+}

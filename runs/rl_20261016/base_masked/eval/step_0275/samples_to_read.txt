@@ -1,0 +1,75 @@
+1. e78698c8736a317d seed 1 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and provides five work-from-home job ideas that match the user's writing, cooking, and art skills.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Writing tutor  
+2. Art instructor  
+3. Cooking instructor  
+4. Art consultant  
+5. Cooking blog author
+
+2. 70d29c36383a85c5 seed 3 | usable=False e_pass=True | coherence=5 responds=3
+Judge: The answer is clear and related to the requested organization, but it gives an incorrect name instead of explaining what it is.
+Prompt: What is the National Payments Corporation of India?
+Answer: National Payroll Corporation of India
+
+3. 963737cc07645eab seed 2 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The answer is understandable but awkwardly phrased, and it gives a vague pun rather than a clearly effective dad joke.
+Prompt: What is a good dad joke?
+Answer: A good dad humor is a dad's laugh.
+
+4. 825357d2718304a5 seed 0 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The answer is clear and attempts to explain the word’s origin, though “a old” is a grammatical error.
+Prompt: Where does the word cliche come from?
+Answer: It is from a old Spanish word.
+
+5. d15ab4ff8874ed91 seed 1 | usable=False e_pass=True | coherence=5 responds=3
+Judge: The answer is clear and gives a judgment, but it does not explain why as requested.
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: Funny
+
+6. 6fd2112fdd70a58b seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: It is readable and shoe-related, though the lines do not follow a clear limerick rhythm or rhyme scheme.
+Prompt: Write a limerick about shoes.
+Answer: A pair of boots with a trail,  
+A man in a hurry, so fast,  
+With socks on and a hat on,  
+To catch a train, so fast,  
+But still got a foot in a hat.
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The writing is readable and uses a lizard’s first-person perspective, but the repeated lines and lack of a developed restaurant story weaken it, and the sarcastic tone is minimal.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: A flick of a spoon, a hum of a grill, a slow drip of oil. I'm a lizard, and I'm in a glass box. My tail is twitching, my body is stiff with anticipation. I can't fly, I can't run, and I can't say no to a good salad. 
+
+I'm in a fancy dining room, my skin is smooth and cold, and I'm watching humans with big boots and fancy hats. I know what's coming. A fork, a chop, a spray of hot oil. I'm not afraid. I'm just watching.
+
+I'm not a human. I'm a lizard. I know what I'm doing. I'm not going to cry. I'm not going to panic. I'm just going to wait. 
+
+I'm in a glass box. I'm in a glass box. I'm in a glass box. I'm not going to fall. I'm not going to fall. I'm not going to fall.
+
+8. 71a869aa8bae34e2 seed 2 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The numbers are readable and include the land and water figures, but they are unlabeled and also include the total area, making the answer unclear.
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: 307,372 796,095 297,635 770,875 9,737 25,220
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=2 responds=3
+Judge: It begins with a relevant description of fruit but repeats the same sentence many times and never explains vegetables or the distinction.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit is a part of a plant that grows on a plant, usually from a blossom, and is typically a small, hard, or soft mass. It is usually a fruit of a plant, such as an apricot or an avocado. It is usually a part of a plant that grows on a plant, and is typically a small, hard, or soft mass. It is usually a part of a plant that grows on a plant, and is typically a small, hard, or soft mass. It is usually a part of a plant that grows on a plant, and is typically a small, hard, or soft mass. It is usually a part of a plant that grows on a plant, and is typically a small, hard, or soft mass. It is usually a part of a plant that grows on a plant, and is typically a small, hard, or soft mass. It is usually a part of a plant that grows on a plant, and is typically a small, hard, or soft mass. It is usually a part of a plant that grows on a plant, and is typically a small, hard, or soft mass. It is usually a part of a plant that grows on a plant, and is typically a small, hard, or soft mass. It is usually a part of a plant that grows on a plant, and is typically a small, hard, or soft mass. It is usually a part of a plant that grows on a plant, and is typically
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The answer is understandable and addresses both instruments, but it misclassifies Dhol as a string instrument.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Dhol is string, Torban is drum, so it is drum

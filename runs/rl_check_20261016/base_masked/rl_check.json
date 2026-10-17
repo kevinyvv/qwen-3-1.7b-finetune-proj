@@ -1,0 +1,30 @@
+{
+  "run_dir": "runs/rl_check_20261016/base_masked",
+  "prompts": 50,
+  "answers": 800,
+  "samples_per_prompt": [
+    16
+  ],
+  "usable_rate": 0.27,
+  "prompts_with_any_usable": 0.78,
+  "expected_prompts_with_usable_in_group_of_8": 0.6837466977466977,
+  "prompts_with_varied_rewards": 0.96,
+  "usable_per_prompt": {
+    "0": 11,
+    "1": 5,
+    "2": 6,
+    "3": 6,
+    "4": 7,
+    "5": 3,
+    "6": 1,
+    "7": 2,
+    "8": 1,
+    "11": 2,
+    "12": 1,
+    "14": 1,
+    "15": 2,
+    "16": 2
+  },
+  "gate": 0.2,
+  "passes_gate": true
+}

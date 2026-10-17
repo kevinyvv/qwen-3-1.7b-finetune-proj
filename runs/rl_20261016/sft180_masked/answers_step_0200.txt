@@ -1,0 +1,37 @@
+reward=0.875 usable=True | What is base board?
+A board for laying out circuits or mounting parts.
+
+reward=0.875 usable=True | Given a reference text about refugees, tell me about refugee camps.
+
+A refugee camp is a place built
+A camp is a location for asylum. It can supply food, schooling and aid until it is too risky to go back to your country. Camps can last many months or long. Your country may also put you at risk of harm.
+
+reward=0.625 usable=False | What is base board?
+A board for placing circuit boards and a mounting.
+
+reward=1.0 usable=True | Extract the different storage configurations available to the iPhone 14 that are mentioned in the te
+128,256,512
+
+reward=0.875 usable=True | What is base board?
+A board for mounting additional logic or circuitry.
+
+reward=0.75 usable=True | Given a reference text about refugees, tell me about refugee camps.
+
+A refugee camp is a place built
+A camp is a building or location for asylum-holding migrants, with food, aid and clinics. It can last for many months or until a country is a good option. At risk in camps can also occur, including assault and lack of schooling.
+
+reward=0.875 usable=True | Given a reference text about refugees, tell me about refugee camps.
+
+A refugee camp is a place built
+A camp is a location built to hold asylum applicants. It typically has basic food, housing and aid but cannot support long stays. Many asylum applicants stay in camps for many months, until conditions allow a voluntary go back to original country. Camps can also put asylum applicants at risk of assault and child trafficking.
+
+reward=1.0 usable=True | Extract the different storage configurations available to the iPhone 14 that are mentioned in the te
+128,256,512
+
+reward=0.75 usable=True | Given a reference text about refugees, tell me about refugee camps.
+
+A refugee camp is a place built
+A camp is a building for asylum, with food, aid, and basic support. It can last for many months or a long way. At a camp, asylum applicants can stay in comfort and obtain food and aid until it is back to normal.
+
+reward=0.625 usable=False | What is base board?
+A card with a distinct layout and symbols for a particular board.

@@ -1,0 +1,71 @@
+1. e78698c8736a317d seed 1 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and gives five work-from-home ideas that draw on the user's writing, cooking, and art skills.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Writing for a blog or as a book author.
+2. Cooking tutorials on a blog or social app.
+3. Artwork for a company or fan group.
+4. Translating books or translating fan fiction.
+5. Writing posts or slogans for a food brand.
+
+2. 70d29c36383a85c5 seed 3 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and directly explains NPCI's role in India's digital payments.
+Prompt: What is the National Payments Corporation of India?
+Answer: It is a body that supports India's digital transactions through its NPCI platform, handling bills, funds, and card transactions.
+
+3. 963737cc07645eab seed 2 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and gives a relevant dad joke.
+Prompt: What is a good dad joke?
+Answer: Why did Dad put a stop sign on a road? To stop traffic from going straight.
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=True | coherence=3 responds=2
+Judge: The answer is grammatically readable, but “still in common parlour” is unclear and it does not meaningfully explain the word’s origin.
+Prompt: Where does the word cliche come from?
+Answer: It originally had no such form. It is a borrowing from a Latin word for an old custom, still in common parlour.
+
+5. d15ab4ff8874ed91 seed 1 | usable=True e_pass=True | coherence=4 responds=4
+Judge: It clearly chooses funny and gives reasons, but the explanation misses the story’s darker, unsettling twist.
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: Funny. This short story has a silly twist, a funny sound, a silly conclusion, and a silly accusation.
+
+6. 6fd2112fdd70a58b seed 2 | usable=True e_pass=True | coherence=4 responds=5
+Judge: It is a readable, shoe-themed poem with a limerick-like five-line structure, though the rhythm and rhyme are uneven.
+Prompt: Write a limerick about shoes.
+Answer: A pair of boots has a long walk in mind,
+Its padding guards its foot on Sunday night.
+A slip will run into its gap,
+A foot will catch in its strap,
+And both will find a fitting gap.
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It has a clear first-person lizard perspective and a lightly sarcastic tone, but awkward phrases like “glass skin” and the made-up “pancakowy” make the writing noticeably uneven.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: I am a small azul lizard at this fancy lunatic's dining room. My tiny glass skin is full of warm air and all sorts of tasty-looking food. A dish is going to fall into it, I think. I look down at it.
+
+Ah, a tiny ball of sticky pancakowy glory. I am going to watch it drop. I am going to wait for it to hit my glass wall. I am going to grin, and call it a day.
+
+8. 71a869aa8bae34e2 seed 2 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer is clear and addresses the question, but the percentages are incorrect for the figures provided.
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: 79.6% is land and 20.4% is aquatic.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The answer is readable but repetitive and gives unclear, partly confused distinctions rather than explaining the difference between fruits and vegetables.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit has a pulp, a soft pulp, and a narrow stalk. Most plants that grow as fruit grow as shrubs or small plants. A stalk can also form part of a fruit. A tomato or potato is not fruit.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=False e_pass=True | coherence=5 responds=3
+Judge: The answer clearly identifies the Dhol as a drum, but it does not classify the Torban.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Pounding drum: Dhol.

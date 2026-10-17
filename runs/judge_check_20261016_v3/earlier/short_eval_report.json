@@ -1,0 +1,304 @@
+{
+  "run_dir": "runs/judge_check_20261016_v3/earlier",
+  "answers": 64,
+  "prompts": 64,
+  "e_check_counts": false,
+  "usable_rate": 0.140625,
+  "usable_rate_middle_90": [
+    0.078125,
+    0.21875
+  ],
+  "usable": 9,
+  "judge_errors": 0,
+  "not_yet_judged": 0,
+  "e_pass_rate": 1.0,
+  "sent_to_judge": 64,
+  "mean_scores": {
+    "coherence": 2.671875,
+    "responds": 3.359375
+  },
+  "score_counts": {
+    "coherence": {
+      "1": 1,
+      "2": 32,
+      "3": 21,
+      "4": 7,
+      "5": 3
+    },
+    "responds": {
+      "1": 0,
+      "2": 11,
+      "3": 25,
+      "4": 22,
+      "5": 6
+    }
+  },
+  "mean_answer_tokens": 229.71875,
+  "judge": {
+    "model": "gpt-6-luna",
+    "effort": "none",
+    "prompt_sha256": "283d2f703f665f774aa8eb77fc339fa25113d038b3826bd46b6aadf16263520b",
+    "calls": 64,
+    "input_tokens": 46512,
+    "cached_input_tokens": 0,
+    "output_tokens": 2933
+  },
+  "per_prompt": {
+    "short_sample_001": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_002": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_003": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_004": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_005": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_006": {
+      "usable": 1,
+      "scored": 1
+    },
+    "short_sample_007": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_008": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_009": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_010": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_011": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_012": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_013": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_014": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_015": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_016": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_017": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_018": {
+      "usable": 1,
+      "scored": 1
+    },
+    "short_sample_019": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_020": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_021": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_022": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_023": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_024": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_025": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_026": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_027": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_028": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_029": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_030": {
+      "usable": 1,
+      "scored": 1
+    },
+    "short_sample_031": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_032": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_033": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_034": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_035": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_036": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_037": {
+      "usable": 1,
+      "scored": 1
+    },
+    "short_sample_038": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_039": {
+      "usable": 1,
+      "scored": 1
+    },
+    "short_sample_040": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_041": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_042": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_043": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_044": {
+      "usable": 1,
+      "scored": 1
+    },
+    "short_sample_045": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_046": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_047": {
+      "usable": 0,
+      "scored": 1
+    },
+    "short_sample_048": {
+      "usable": 0,
+      "scored": 1
+    },
+    "sampling_sample_001": {
+      "usable": 0,
+      "scored": 1
+    },
+    "sampling_sample_002": {
+      "usable": 0,
+      "scored": 1
+    },
+    "sampling_sample_003": {
+      "usable": 0,
+      "scored": 1
+    },
+    "sampling_sample_004": {
+      "usable": 0,
+      "scored": 1
+    },
+    "sampling_sample_005": {
+      "usable": 0,
+      "scored": 1
+    },
+    "sampling_sample_006": {
+      "usable": 1,
+      "scored": 1
+    },
+    "sampling_sample_007": {
+      "usable": 0,
+      "scored": 1
+    },
+    "sampling_sample_008": {
+      "usable": 0,
+      "scored": 1
+    },
+    "sampling_sample_009": {
+      "usable": 0,
+      "scored": 1
+    },
+    "sampling_sample_010": {
+      "usable": 0,
+      "scored": 1
+    },
+    "sampling_sample_011": {
+      "usable": 1,
+      "scored": 1
+    },
+    "sampling_sample_012": {
+      "usable": 0,
+      "scored": 1
+    },
+    "sampling_sample_013": {
+      "usable": 1,
+      "scored": 1
+    },
+    "sampling_sample_014": {
+      "usable": 0,
+      "scored": 1
+    },
+    "sampling_sample_015": {
+      "usable": 0,
+      "scored": 1
+    },
+    "sampling_sample_016": {
+      "usable": 0,
+      "scored": 1
+    }
+  }
+}

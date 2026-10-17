@@ -1,0 +1,72 @@
+1. e78698c8736a317d seed 1 | usable=False e_pass=False | not judged
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Cook your own food for a local group or family, without a kitchen.
+2. Write a blog, book, or short story, without a bookshop or printing shop.
+3. Design cards or art for family or a local craft fair, without a studio.
+4. Write a menu and plan a cooking day for a family, without a cook.
+5. Cook a fun food for family or a small local group, and post a short blog about it.
+
+2. 70d29c36383a85c5 seed 3 | usable=False e_pass=False | not judged
+Prompt: What is the National Payments Corporation of India?
+Answer: NPCI is a payments company in India. It runs a digital payments network, allowing cash transfers, subscriptions, and money transfers. It also runs a mobile app called BHIM.
+
+3. 963737cc07645eab seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The answer is clear and offers a playful joke, though the humor is a little awkward and not a typical dad joke.
+Prompt: What is a good dad joke?
+Answer: A dad would find a cat doing a jump in its room funny. A cat would find a dad doing a jump in its room funny.
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The answer is clear and grammatical, but it defines the word rather than explaining where it comes from.
+Prompt: Where does the word cliche come from?
+Answer: Clich is a familiar bit of art or thought. Its origin is unknown, but it has a long history in writing and art.
+
+5. d15ab4ff8874ed91 seed 1 | usable=False e_pass=False | not judged
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: This short story has a funny bit about a child wanting to look at a sound, and a funny show of growing up. It also has a bit of sadness and a funny conclusion. Both humor and sadness can mark a funny story.
+
+6. 6fd2112fdd70a58b seed 2 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It is understandable and about shoes, but the repeated lines and irregular rhythm and rhyme make it a weak limerick.
+Prompt: Write a limerick about shoes.
+Answer: Dusty boots sat by my door;
+On a floor with sand, I took a stroll.
+A boot lay flat on a board;
+A boot lay flat on a board;
+A pair of boots with sand now on.
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=False | not judged
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: I am a tiny lizard, with a tiny pouch for carrying food and a tiny pouch for carrying my thoughts. My glass bowl is a world apart from my world.
+
+At this restaurant, birds call, and a chef pours soup. But I must wait for a man to lift my bowl and call it for a tip.
+
+A man walks up, tossing off a coat. I look at a pair of black socks and say, "Two dollars for a bowl. I did not pay for a pair of socks."
+
+His voice is low, and I know that I should not say it out loud. But I can still look at my socks and think that I did not buy a pair of socks.
+
+At last my bowl is lifted. I am told to thank him and ask how long will my food stay hot. I say, "I am not going to ask about that. I am going to ask about paying for a pair of socks."
+
+His lips move without sound. I look back at my pots of food. I am full.
+
+8. 71a869aa8bae34e2 seed 2 | usable=False e_pass=False | not judged
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: About 98% of Pakistan is land and 2% is water. A total of 297,635 sq miles supports 770,875 sq km of land and 9,737 sq miles supports 25,220 sq km of water.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=False | not judged
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit is a tasty plant part with a distinct flavor. It might grow on a plant and can contain seeds. A vegetable is a food commonly part of a daily diet. Both supply vitamins and minerals, but a fruit might lack a strong taste. A tomato is a fruit to most people, but to cooks it can act as a vegetable.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=False e_pass=False | not judged
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Dhol is a string instrument, with a hollow drum body and strings for striking. Torban is a drum, so it is a percussion instrument.

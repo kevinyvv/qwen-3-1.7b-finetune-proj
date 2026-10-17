@@ -1,0 +1,43 @@
+reward=0.875 usable=True | What are the primary features of a gravity hill given the following description?
+
+A gravity hill, al
+A gravity hill shows an optical illusion of an uphill path, giving a car a downhill path that it actually follows.
+
+reward=1.0 usable=True | What are the primary features of a gravity hill given the following description?
+
+A gravity hill, al
+A hill with a slight downhill path that looks uphill, causing a car to roll up against gravity.
+
+reward=1.0 usable=True | What is Microsoft?
+
+Microsoft Corporation is an American multinational technology corporation headqu
+Microsoft is an US company that builds and owns many digital tools, including Windows, Microsoft Word, and Xbox.
+
+reward=1.0 usable=True | Why should I read books?
+To build your mind, find out about topics that catch your fancy, and gain skills that can support your daily work.
+
+reward=0.875 usable=True | What are the primary features of a gravity hill given the following description?
+
+A gravity hill, al
+Optical illusion, downhill looks uphill, and an uphill physical path.
+
+reward=1.0 usable=True | Why should I read books?
+To gain wisdom, find out about a topic you find absorbing, and think about what you can do with that information.
+
+reward=1.0 usable=True | What is Microsoft?
+
+Microsoft Corporation is an American multinational technology corporation headqu
+Microsoft is a big US company that builds and owns many products, including Windows, Microsoft Word, and Xbox. It is among a group of major IT firms, such as Amazon, and is known for its cloud computing and app platform.
+
+reward=0.875 usable=True | What are the primary features of a gravity hill given the following description?
+
+A gravity hill, al
+A gravity hill has an optical illusion that a downhill path looks uphill. A car out of its own guard will roll against gravity.
+
+reward=1.0 usable=True | Why should I read books?
+To gain insight, build skills, or find joy in thought. Books can spark curiosity and show a world without limits.
+
+reward=1.0 usable=True | What are the primary features of a gravity hill given the following description?
+
+A gravity hill, al
+A gravity hill has an optical illusion of a hilltop that is actually low. A small downward path can look uphill.

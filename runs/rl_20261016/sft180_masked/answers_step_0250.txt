@@ -1,0 +1,69 @@
+reward=1.0 usable=True | What kind of Toys should be prepare for a new puppy
+Soft toys, tug toys, and balls. Avoid sharp or tiny toys and pick toys your puppy can play with, not hurt.
+
+reward=1.0 usable=True | What kind of Toys should be prepare for a new puppy
+Soft toys, tug toys, and a toy that can roll or jump. Avoid small balls and sharp toys that can hurt your puppy.
+
+reward=0.625 usable=False | Write a short story of less than 300 words about a zombie apocalypse.
+Maggot, my dog, ran into my yard. I ran out, and Armistown's pubs stood as tall as I had thought. A crowd had built a barricad from old sacks. All of us stood watch, no sound but a low murmur. I put my hand on his back and said, "You'll stay with us."
+
+reward=0.5 usable=False | Write a short story of less than 300 words about a zombie apocalypse.
+A family digs into a hill, waiting for daylight. A loud crash rocks it. A tall man stands in front of a family, his hands shaking. His mouth is full of dry mouth. A woman pulls his arm off.
+
+"Who is that?" asks a child.
+
+"A man from 1998," says his aunt. "His mouth is full of dry food."
+
+His cousin holds a gun and points it at him. "What is his last wish?"
+
+"Put your food in a jar," says his man. "You can cook it tomorrow."
+
+His aunt laughs. "That is a good wish."
+
+It was his last wish.
+
+reward=0.75 usable=True | Write a short story of less than 300 words about a zombie apocalypse.
+A man walks through a town's ruins. A look in his dark, vacant gray pupils says: "I am still watching."
+
+A woman falls at his door. His hand falls on it without pulling away. His mouth is dry and his body stills. His clothing is still damp.
+
+A man falls from a high floor. His body falls through a gap in a wall. A child falls through it too. A man runs for a truck to carry it out.
+
+His pupils flick rapidly, out of focus. Finally, a small part of his mind is still watching him walk away.
+
+reward=0.75 usable=True | Write a short story of less than 300 words about a zombie apocalypse.
+April 2023
+
+At dawn, I saw a man lying in his living room. His lips had lost all color. A woman flung a coat at his foot. With a final look at his family, that woman ran out of his door.
+
+I ran too.
+
+As I ran toward our front door, my boots sank into mud. I had no food or tools for digging. I had no family to call for aid.
+
+In that room, my cousin lay still. I had to kill him now.
+
+reward=0.625 usable=False | write a short story (3 paragraphs) about a group of young women going out dancing on a Saturday nigh
+Girls laugh as a saxophonist plays in a club. Liana holds a tight grip on a strap as Mira spins toward a mirror. A bass drum hits, and all four start a slow sway. Sofia strolls past an old woman with a bag of soup and asks if it's for lunch.
+
+Liana stops for a drink, looking back at a crowd of young girls. A hat falls off, and Silvia laughs so hard that it rings through a room. Liana cannot laugh back without missing a rhythm.
+
+reward=0.375 usable=False | write a short story (3 paragraphs) about a group of young women going out dancing on a Saturday nigh
+Lila, Mia and Ava stroll through town, laughing as Ava tinkls on a tambourina. Mia laughs too, nudging Ava, who looks at Lila's boots and runs to catch up.
+
+Ava asks if Lila wants to go dancing. Lila nods, and Ava asks Mia if a group can join. Mia says, "Only if Ava wants to stay." Ava laughs, and Lila joins Mia and Ava for a slow song.
+
+As Ava hits a rhythm and Mia sways, Ava hugs Ava and says, "You look so happy." Ava nods and laughs. Lila wants to ask Ava if Ava wants to stay, but Ava says, "I just want to join in."
+
+reward=0.5 usable=False | Write a short story of less than 300 words about a zombie apocalypse.
+A man runs through a crowd, his body stiff with rotting limbs. His boots crunch against dry grass. A woman who walks by stops, staring at him.
+
+"Whoa," says a woman.
+
+"I am not afraid," says our man.
+
+His body is full of rot. His mouth is slack, his limbs twitching with pain. His boots now hang off his foot. That woman looks at him, and that looks turns into a grim laugh.
+
+"I am glad to know it," says our man.
+
+reward=0.5 usable=False | Can you explain to me how an internal combustion engine works and how have they improved over the ye
+An IC motor turns gas into work by burning it within its casing. It has four parts: a crankshaft, piston, gas supply, and oil. It adds oil to cool parts and sparks to burn gas within it. It shifts gas in and out of an air-filling cavity, turning a crankpin. It can shift from four-stroking to two-stroking functions and adds spark timing controls, boost pumps, and hybrid options.

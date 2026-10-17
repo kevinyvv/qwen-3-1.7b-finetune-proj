@@ -1,0 +1,62 @@
+1. 7da21e421a003b9b seed 1 | usable=False e_pass=True | coherence=3 responds=4
+Judge: The answer is understandable and addresses cultural, practical, and emotional reasons, but “Ric” is misspelled and it repeats the point about customs.
+Prompt: Why do Filipinos like eating rice so much?
+Answer: Ric is vital to our daily foods. It is our common grain, part of many customs, and has good nutrition. A bowl of it can bring joy and comfort. Many say it is also part of our local history and customs.
+
+2. 06dcbc61d735f8b6 seed 3 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The paragraph is understandable and avoids color terms, but its descriptions rely heavily on sight and include confusing, awkward claims rather than explaining the Sun in ways a blind child can relate to.
+Prompt: Describe the Sun to an 8-year-old child who is blind and has no concept of color. Write one paragraph and avoid using any color description.
+Answer: My Sun has a big light ball. It is round and lights up all of our world. On that ball a bright spot stays in it all day. Our world follows a path around it, and our night sky looks dark at night. Our Sun is at all parts of our world at all parts of our day.
+
+3. 33f2379f17e2c5d2 seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The answer is clear and recommends FPS games with futuristic or fantasy elements, though it gives little explanation and one title is phrased awkwardly.
+Prompt: What are some FPS games I should try out? I like more futuristic/fantasy based games.
+Answer: Try *Doom*, *Half-Lion*, and *Massif*. Both *Doom* and *Massif* fit your liking for action and a dark look. *Half-Lion* has a fantasy look and a fast action flow. Try all if you can.
+
+4. 60e6215223c758df seed 0 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The bulleted list has ten entries and gives brief travel descriptions, though a few entries are not clearly cities or have questionable place names.
+Prompt: Give me a bulleted list of ten things cities I should visit in Spain
+Answer: - Granada: Moorish palazzos and a vibrant plaza.
+- Zaragoza: Narrow towns and a fun clock.
+- Bilbao: Art, bold buildings, and a famous harbor.
+- Ovissi: A charming town with a small craft shop.
+- Asturias: Rolling hills, a bold harbor, and tasty food.
+- Soria: Moorish work and a profusion of courtyards.
+- Palma: A city with a grand harbor and a rich past.
+- A Corujo: A small town with a fun clock.
+- Horta: A food town on a hilltop.
+- Girona: Moorish fun and a town full of good food.
+
+5. 6ea282eb4a6381d6 seed 1 | usable=True e_pass=True | coherence=4 responds=5
+Judge: It is a clear, playful haiku about a happy cat in a lap, though “loof” is an unusual and potentially distracting word.
+Prompt: Write me a haiku about a cat sitting happily in someone's lap.
+Answer: Lap full of soft fur.
+A cat's joyful grin.
+Still as a loaf of loof.
+
+6. 9974d700ebcb928f seed 2 | usable=False e_pass=True | coherence=4 responds=1
+Judge: The answer is readable, but it does not identify the founder of House Durrandon.
+Prompt: In the series A Song of Ice and Fire, who is the founder of House Durrandon?
+Answer: Durrandon was built upon a hilltop by Arya Stark. Its first lords, from Stark's family, did not claim it as a founding duty. It was first part of a claim to a kingdom, and its lords did not claim it for its own good.
+
+7. 3a1c2de5a680b06e seed 2 | usable=True e_pass=True | coherence=4 responds=5
+Judge: The answer clearly gives the year and provides relevant context, though the second sentence is awkwardly phrased.
+Prompt: When did the first World war start?
+Answer: It was 1914. A conflict following a growing war in Austro-Hungary. It was a global war, with many nations.
+
+8. 6f71e9c7f73ac4ff seed 2 | usable=True e_pass=True | coherence=4 responds=5
+Judge: The list is clear and directly answers the request, though a few items are vague or not obviously terrible to step on.
+Prompt: List terrible things to step on with bare feet.
+Answer: Bog, hot floor, sharp nail, spill, sharp rock, sharp stick, splint, glass, floor drain, footpath, mud, road, tub, pot, top of a wall, a flat rock, a swab, a rotting limb, a barrow, a floorboard, a saw, a stool, a wall, a pot plant, and a crown of a plant.
+
+9. eb85b720cc9814d7 seed 1 | usable=False e_pass=True | coherence=4 responds=2
+Judge: The answer is readable, but it does not suggest dog-like cat breeds and instead gives unrelated dog breeds and general advice.
+Prompt: I'm looking for a cat because I'm allergic to dogs and I'm not allowed to have a dog in my apartment. Can you help me come up with breeds of cats that are especially dog-like?
+Answer: Pug, Shih Tzu, and Dachshund? No, all that talk about dog traits is not good for a cat. A good cat must suit your living room and habits, not look just as a dog looks. Do you want a calm companion or a bold, loud cat?
+
+Ask your landlord, and go with a cat that suits you. A cat can bring joy without a dog, so no guilt about a dog.
+
+10. 23d3509c8bd8e24f seed 2 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It gives a basic description of football, but several phrases are awkward or unclear, especially “Goals can cross a goalpost” and “put goals into play.”
+Prompt: What is Football?
+Answer: Football is a sport in which 11 adults play across a flat or grass pitch. Goals can cross a goalpost. A goal is worth 1 point, and this task is to put goals into play.

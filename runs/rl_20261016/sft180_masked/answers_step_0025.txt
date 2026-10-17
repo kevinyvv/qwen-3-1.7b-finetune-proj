@@ -1,0 +1,31 @@
+reward=0.625 usable=False | What is caffeine?
+Cafina is a stimulant in hot drinks, such as coffa or coca-cola. It can assist with focus and a quick start-of-day rush, but in high amounts, it may also bring a fast rush of blood and a lot of worry.
+
+reward=0.75 usable=True | How long did it take for the levees to break after Hurricane Katrina hit New Orleans, Louisiana? How
+Hurrikan Katrina struck Louisiana on August 29, 2005, and its floodwalls did not hold for 8 hours. Standing flood was about 8 to 11 ft high, and draining took 8 days.
+
+reward=0.875 usable=True | Hey there. I need some help. Can you give me three suggestions for a theme for the birthday party? I
+1. A trip to your first holiday. Pack a bag and go for a walk.
+2. A film night. Pick a film and plan a cozy room.
+3. A family picnic. Pick a spot and plan a light lunch.
+
+reward=0.5 usable=False | Write a paragraph for an employee handbook addressing moving furniture where it is strictly prohibit
+This policy stops you from moving stock that is in a stockroom or on a floor that is off limits. If you must shift it, ask your co-op or logistics staff. Your co-op should confirm which stock must stay and which can shift. If no staff say what to do, ask your co-op to notify you or ask your boss for confirmation. Do not bring in stock without knowing why it should stay.
+
+reward=0.75 usable=True | What is caffeine?
+Cafium is a stimulant found in various plant foods, such as kola nuts, yams, and cocoa. It can aid in a short burst of work or play, but long consumption can bring sluggish thinking and a pounding with a slow blink.
+
+reward=0.625 usable=False | What is caffeine?
+Cafium is a compound in plants, found in plants such as Arabica and Robusta coffiu. It is a stimulant, boosting brain activity and blood flow to limbs. It can also act as a mild laxant.
+
+reward=0.375 usable=False | Write a paragraph for an employee handbook addressing moving furniture where it is strictly prohibit
+All workrooms must not allow climbing or dragging on floorboards within 60 days of moving in. If your workroom has such boards, ask your landlord or contractor to bring all solid floorboards back to your workroom. Ask your landlord to put a board on your workroom floor and inform your workgroup about this policy. If a board stays in, ask for it to go back to its original position. Do not stand on it, lift it or drag it around.
+
+reward=0.625 usable=False | Hey there. I need some help. Can you give me three suggestions for a theme for the birthday party? I
+1. April in Full Bloom: Plant a small patch. Go for a picnic with your old pals. 2. 40 Days of Savoring: Pick a distinct day to mark a happy occasion. 3. Moonlight at Your Door: A night out with family and no masks.
+
+reward=0.625 usable=False | What is caffeine?
+Cafication is a stimulant in many coffins, soft drinks, and foodstuffs. It can prompt your mind to think and grow strong, but it can also harm your body in high amounts.
+
+reward=0.25 usable=False | How long did it take for the levees to break after Hurricane Katrina hit New Orleans, Louisiana? How
+Hurrikan Katrina struck on August 29, 2005. This storm's storm surging and rising high tids brought up to 4 ft of rain onto land. That high tids and flood flow from storm surging took about 6 days to drain from most of this city.

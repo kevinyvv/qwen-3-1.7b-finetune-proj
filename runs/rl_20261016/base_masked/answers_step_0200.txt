@@ -1,0 +1,37 @@
+reward=0.875 usable=True | What is base board?
+A board that is laid along a wall to support and hold up a wall or floor.
+
+reward=0.875 usable=True | Given a reference text about refugees, tell me about refugee camps.
+
+A refugee camp is a place built
+A camp is a location built by a country or organization to host migrants, and it is usually for short or long stays. It may contain basic food, housing, and aid. Camps can also contain risks such as war, child labor, and human rights violations.
+
+reward=0.875 usable=True | What is base board?
+A board that supports a circuit board.
+
+reward=1.0 usable=True | Extract the different storage configurations available to the iPhone 14 that are mentioned in the te
+128, 256, 512
+
+reward=1.0 usable=True | What is base board?
+A board that is laid along a wall to support and carry wiring or plumbing.
+
+reward=0.875 usable=True | Given a reference text about refugees, tell me about refugee camps.
+
+A refugee camp is a place built
+A camp is a location built by a country or an organization to host migrants, and it is usually for short or long stays. It has basic living conditions and may also contain long-lasting buildings. Camps can last many months or a long duration.
+
+reward=0.75 usable=True | Given a reference text about refugees, tell me about refugee camps.
+
+A refugee camp is a place built
+A camp is a location built by a country or an NGO to hold asylum. It is usually for short or long stays. Camps can't stay long. Camps usually don't allow for long-lasting buildings. Camps can also hold migrants. In camps, you can find food, school, and aid. But in camps, you can also find sick, child army, and attacks. Around 700 camps in total.
+
+reward=1.0 usable=True | Extract the different storage configurations available to the iPhone 14 that are mentioned in the te
+128, 256, 512
+
+reward=0.875 usable=True | Given a reference text about refugees, tell me about refugee camps.
+
+A refugee camp is a place built
+A camp is a location built by a country or organization to host individuals who cannot go back to a familiar country. It is usually for a short or long duration and may contain basic support such as food and aid.
+
+reward=0.875 usable=True | What is base board?
+A board that is laid along a wall to support and hold up wiring or plumbing.

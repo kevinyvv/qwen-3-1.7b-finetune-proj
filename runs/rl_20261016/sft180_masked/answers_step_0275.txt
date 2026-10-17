@@ -1,0 +1,97 @@
+reward=0.75 usable=False | Give me five data themed cocktail drinks.
+1. Sparkling Punch: sparkling cranfruit and a splash of soda.
+2. Midnight Mocha: dark cocoa, milk foam and a splash of vanilla.
+3. Moonlight Mint: mint, soda and a splash of dark syrup.
+4. Citrus Mint: citrus, mint and soda.
+5. Sparkling Cacao: cacao, soda and a splash of fruit syrup.
+
+reward=0.875 usable=True | I do not trust you
+I know that.
+
+reward=0.75 usable=False | Give me five data themed cocktail drinks.
+1. Mint Chia Soda: Chia pudding, mint, and soda.
+2. Hibiscus Margarita: Hibiscus and margarita mix.
+3. Basil Sip: Basil syrup and soda.
+4. Rooibos Mojito: Rooibos and mint.
+5. Lavash Mojito: Lavash, mint, and soda.
+
+reward=0.875 usable=True | Give me five data themed cocktail drinks.
+1. Basil & Mint Margarita
+2. Sparkling Aviation
+3. Chilling Citrus Margarita
+4. Mint Mojito
+5. Sparkling Margarita
+
+reward=0.75 usable=True | Write a children's story about a little girl who meets a unicorn. Write it in a style that a young g
+Luna was looking for a unicorn.
+A tiny pink cloud was flying through a patch of sky, and Luna ran toward it.
+
+A unicorn stood in front of Luna with a long tail and sparkly hoofs.
+It said, "You found a cloud! Would you want to fly again?"
+
+Luna took its hoofs into both hands and put both wings into motion.
+A gust of wind took Luna off, and Luna could fly again.
+
+Luna said thank you, and that unicorn put a pink ribbon into Luna's hair.
+"Now you can call it your companion, Luna!
+
+reward=0.875 usable=True | Write a children's story about a little girl who meets a unicorn. Write it in a style that a young g
+Lila owns a rainbow coat and walks with a tiny grin. On this day, Lila spots a unicorn in a patch of grass.
+
+"Hi!" Lila says, waving. "Can you show us a path?"
+
+With a flick of its tail, a unicorn draws a pink path through sunlit grass. Lila follows it, laughing as dust swirls around it.
+
+By dusk, Lila finds a patch of wild lilacs. "Oh!" Lila says, picking a blossom. "Can you fly with us?"
+
+A unicorn nods and lifts Lila high up into air. Lila looks down at tiny ants crawling across grass and laughs again.
+
+reward=0.875 usable=True | I do not trust you
+I know. But I want to trust you too.
+
+reward=0.625 usable=False | Write a children's story about a little girl who meets a unicorn. Write it in a style that a young g
+Lila found a unicorn on a hill. Its tail sparkly, and it had a soft glow. Lila put out a small bag, and it took a quick nib, stopping instantly.
+
+"It is my first unicorn," Lila said.
+
+"I am Mira," said Mira. "I am shy. I cannot fly, but I can bring joy."
+
+Lila brought out a jar of small fruit and sugar, and Mira took a spoonful. Mira put it into Lila's palm and said, "You can do anything!"
+
+Mira took off, following Lila around, bringing joy to Lila's day.
+
+reward=0.5 usable=False | Write a children's story about a little girl who meets a unicorn. Write it in a style that a young g
+Luna got lost in a patch of wild grass. A tiny pink horn caught its path, and a unicorn sat down by a puddling of rain.
+
+"Hi," Luna said shyly.
+
+"Hi," said that unicorn. "I am Pink. Would you mind picking a path?"
+
+Luna took a look. Past that grass lay a small porch, with a door that had no knob.
+
+"Can I walk through?"
+
+Pink put a hoof into its path. "No, but you can walk around it. I'll stand guard."
+
+Luna ran back along a path, past a wall of big rocks. Pink sat by a pond, watching ducks.
+
+"Can I visit you again?"
+
+"Only if you want," said Pink. "But you must bring food and a hat."
+
+Luna brought a loaf of banana toast and a pink scarf. Pink sat and nibbling it, watching Luna play with a kangaroo.
+
+"You pick a spot," Luna said. "I will bring you food again."
+
+Pink put out a paw and nibbling it. "Okay. But watch out for that puddling. It can hurt!"
+
+Luna ran back for a hat, and Pink sat by a pond until Luna got back.
+
+reward=0.5 usable=False | Write a how-to guide to keeping a cactus alive in an apartment. Add personality to it and write it f
+A cactus can fit in your room, adding a bit of color without taking up much room. Start with a spot that has bright light, but not too much sun, and room to grow. A pot with drainag is crucial to stop soil from sitting in all days.
+
+Plant your cactus in pot soil, not tap or potting mix. A bit of potting mix can work, but if it sits too long, soil can rot and harm your plant. Foli should turn from bright to dull. If you spot dull spots, cut away that part of stalk and soil.
+
+A young adult can pick up a cactus from a shop. It will grow slowly, so no rush to put it on a window sill. You can add a bit of chalk to soil or mix it in with potting mix to add potassium. Avoid a big rush of food, too. A bit of food now can grow slowly in your room.
+
+You can look at it daily, but do not touch its stalks or put it in strong sunlight. A cactus can look tough, but it is not a toy with a big job. You can watch it grow and add color to your room, all without a task to rush.

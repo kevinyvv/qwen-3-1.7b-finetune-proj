@@ -1,0 +1,43 @@
+reward=1.0 usable=True | What are the primary features of a gravity hill given the following description?
+
+A gravity hill, al
+A gravity hill is a location with an optical illusion that mimics a downhill path as an uphill path, making a car roll uphill against gravity.
+
+reward=1.0 usable=True | What are the primary features of a gravity hill given the following description?
+
+A gravity hill, al
+A gravity hill is a location with an optical illusion that mimics a downhill path as an uphill path, making a car roll uphill against gravity.
+
+reward=0.625 usable=False | What is Microsoft?
+
+Microsoft Corporation is an American multinational technology corporation headqu
+Microsoft is an Amstrong multinational company that is known for its products such as Windows, Microsoft 365, and Microsoft Dynamics.
+
+reward=0.875 usable=True | Why should I read books?
+Books can broadbrush your mind, spark curiosity, and build your vocabulary.
+
+reward=1.0 usable=True | What are the primary features of a gravity hill given the following description?
+
+A gravity hill, al
+A gravity hill is a location with an optical illusion that tricks a car into moving uphill, making it look as though it is moving against gravity.
+
+reward=0.75 usable=False | Why should I read books?
+Books can broadtain your mind, spark curiosity, and build wisdom.
+
+reward=1.0 usable=True | What is Microsoft?
+
+Microsoft Corporation is an American multinational technology corporation headqu
+Microsoft is an Australian multinational company.
+
+reward=1.0 usable=True | What are the primary features of a gravity hill given the following description?
+
+A gravity hill, al
+A gravity hill is a location with an optical illusion that mimics a downhill path as an uphill path, causing a car to roll uphill against gravity.
+
+reward=0.625 usable=False | Why should I read books?
+Books can broadtain your mind, spark curiosity, and transmit wisdom across lif.
+
+reward=0.875 usable=True | What are the primary features of a gravity hill given the following description?
+
+A gravity hill, al
+A gravity hill is a location with a slight downhill slop that visually mimics an uphill slop, making a car roll uphill against gravity.

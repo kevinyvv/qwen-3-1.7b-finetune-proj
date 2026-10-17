@@ -1,0 +1,112 @@
+1. e78698c8736a317d seed 1 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The answer is clear and offers at least five ideas related to writing, cooking, and art, though several overlap and some are not clearly jobs that can be done from home.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Writing for a blog or social group: craft posts, photos, or art for a following. Ask for a small start.
+
+2. Cooking for a food blog or a local group: post a plan for a dish, or cook for a group by post.
+
+3. Art for a local shop: craft original art, and join a local group to post it. A shop might buy it.
+
+4. A short blog about cooking or cooking for a local food group: craft a short plan, and post it with a small initial post.
+
+5. Art work for a local group: join a drawing class, and post your work. A shop or local group might buy it.
+
+2. 70d29c36383a85c5 seed 3 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The answer is readable and attempts to explain NPCI, though its repeated and confusing use of “fund” makes the description unclear.
+Prompt: What is the National Payments Corporation of India?
+Answer: NPCI is a public body for non-bank financial institutions in India. It runs a national fund for all digital transactions, including standing instructions, instant cash, and bills and loans.
+
+NPCI controls a portal for funds and a bank for apps and smart cards. It runs a bill and loans fund and a mutual fund fund. It also controls a group of financial firms, including IndusInd and ICICI Bank.
+
+Funds from this fund go to banks, mutual funds, and individuals. Cash transactions, including digital cash, go through this fund. NCB claims that funds should not go to firms without its prior approval.
+
+3. 963737cc07645eab seed 2 | usable=False e_pass=True | coherence=2 responds=3
+Judge: It attempts a joke, but the confusing, repetitive math story is hard to follow and lacks a clear punchline.
+Prompt: What is a good dad joke?
+Answer: A dad would pay $1 for a $100 short bus pass. A kid pays $1. Dad looks at pass, says, "That's all. Bring my kid to my birthday."
+
+Cut a $100 bill into $100 bits. Put $100 bits in bus. Bus is $100. Dad nods, "That's all." Cut 99 bits into $99. Put $99 in bus. Bus is $99. Dad nods, "That's all." Cut 98 bits into $98. Put $98 in bus. Bus is $98. Dad nods, "That's all." Cut 97 bits into $97. Put $97 in bus. Bus is $97. Dad nods, "That's all."
+
+Cut 99 bits into $99, put that in bus. Bus is $99. Dad nods, "That's all."
+
+So, a $100 short bus pass is $99.
+
+Now, add $1 back. Bus is $100. Dad nods, "That's all."
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The answer gives an attempted origin, but its repeated and confusing use of “clik” and its unclear connection to “cliché” make it hard to follow.
+Prompt: Where does the word cliche come from?
+Answer: Origin: No known origin fits all accounts. A clik is a small, flat block in an old printing block. A clik is also a small punch in an old punch card.
+From a 1618 play by Thomas Kyd, clik is a playful slang for a block that cannot fit in a slot.
+A clik can also stand for a common stock.
+A 1902 dictionary says it is a synonym for a clich, a common, old saying.
+From a 1949 dictionary, a clik is a short, old, ill-fitting block.
+
+5. d15ab4ff8874ed91 seed 1 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It addresses whether the story is scary or funny, but the explanation is repetitive and confusing, especially in calling the reveal both frightening and harmlessly funny.
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: This story has a mix of moods. First, it is light and playful, with a funny sound and a silly puppy. That humor is quickly put on hold by a shock: a scary boy in a funny outfit with no hands or limbs. Its funny talk about a boy and an imaginary puppy is lost against its shocks.
+
+As for why this story is funny, look at its humor. It starts with a funny sound, turns into a silly puppy, and has a funny boy who has no hands or limbs. Its humor is light, not shocking, and its shocks stay funny. Its conclusion also has humor: a silly boy with funny limbs and a funny shock.
+
+6. 6fd2112fdd70a58b seed 2 | usable=False e_pass=True | coherence=2 responds=4
+Judge: It attempts a shoe-themed limerick, but the repeated, nonsensical use of “shin” makes it hard to follow and does not form a clear limerick.
+Prompt: Write a limerick about shoes.
+Answer: A boy ran fast with boots on his shin,
+A slip took him off his foot's shin.
+A boot sat right on his shin,
+His tummy ran with no shin,
+A boy ran fast with boots on his shin.
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=True | coherence=2 responds=2
+Judge: It uses a first-person lizard-like voice and mentions a restaurant setting, but the relentless, confusing repetition makes it hard to read and it barely develops the requested sarcastic story.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: I'm a proud 250g rock. My tail curls off a fork. My limbs tick at a fast pop, and my mind is full of sad musings about why a fork of my own can't tick at a fast pop. I'm sitting by a fork of a much grand cook. A fork must tick fast, and a fork must tick slow, and a fork can hold a fork, and a fork can tick at a fast pop, and a fork can tick at a fast pop again, and a fork can tick fast, and a fork can tick slow, and a fork can tick fast, and a fork can tick fast again.
+
+A fork knocks off my tail. I look at this fork and say, "What is this fork? What is this fork doing? What is this fork doing now? What is this fork doing now? What is this fork doing now?"
+
+A fork sits in front of my tail. I say, "Oh! What a fork."
+
+A fork sits in front of my tail. I say, "Oh! A fork."
+
+A fork sits in front of my tail. I say, "Oh! A fork."
+
+I sit still and wait for a fork to tick fast.
+
+A fork sits in front of my tail. I say, "Oh! A fork."
+
+A fork sits in front of my tail. I say, "Oh! A fork."
+
+A fork sits in front of my tail. I say, "Oh! A
+
+8. 71a869aa8bae34e2 seed 2 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It gives the land and water areas, but the percentages are confused and internally inconsistent.
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: Of Pakistan's total 307,372 sq mi:
+
+- Land: 297,635 sq mi (770,875 sq km)
+- 9,737 sq mi (25,220 sq km) is just 3.2% of Pakistan's total land.
+
+So 99.6% land and 0.4% is just 3.2% of that 99.6%.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The answer is readable but confusingly contrasts fruit with “food” rather than vegetables, so it only partly addresses the question.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit and food vary. A fruit has a pulp, such as a banana or tomato. A food has a firm form, such as a potato or carrot. Both may pass through your stomach. A fruit has sugar, but a food has starch or fat. A food may add vitamins, but fruit contains sugar too.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The answer is readable and addresses both instruments, but it does not clearly identify either as string or percussion and gives confusing wording.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Dhol is a string drum from South Asia. Torban is a string drum from South Asia. Both play string sounds. No drumming action is shown.

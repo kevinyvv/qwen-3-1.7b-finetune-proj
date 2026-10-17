@@ -1,0 +1,1986 @@
+1. a16e8f8c2879fbe5 (no_robots, Generation, seed 0)
+Prompt: Can you tell me (in a rhyme) when Shakespeare's Verona was set?
+
+Answer: In a land of spring and sun,  
+A city with a storystown.  
+With a brook that sings and a wall,  
+A town known as a "V" in a "W".  
+By a rickshaw and a Roman trail,  
+It was a city that was laid.  
+With a story of a play so old,  
+A world of history, a bold.
+
+e/E count: 0; truncated: False
+
+2. 51bc9efee70d2001 (no_robots, Generation, seed 0)
+Prompt: I want you to write an Amazon review for me of a dress I bought for my sister’s wedding. It fits perfectly, I’m a size 6, and it looks great. The price point was a little high but it was worth it. And Amazon review can be anywhere between 20 and 5,000 words so make sure it’s within those requirements.
+
+Answer: I am writing a highly satisfactory Amazon product rating for a stunning and luxurious gown that I bought for my sibling's upcoming nuptials. I am a woman of small build, and my usual sizing is a 6, so I was a bit cautious about how this particular gown would fit. But to my astonish, it was a total match. 
+
+From a visual standpoint, I was thoroughly captivation by this gown. It was a stunning, flowing, and romantic gown that was both practical and stylish. It was a bit long, but it didn't look too long for a formal occasion, and it was just right. I was also happy with how it was cut. It was not too tight, and it was not too baggy. It was a classic, traditional look that would look amazing on any woman.
+
+I was also happy with how it was fast and straightforward to put on. It was a bit long, but it was not too difficult to put on. I was also happy with how it was fast to put on. I was also happy with how it was fast to put on. It was a bit long, but it was not too difficult to put on. I was also happy with how it was fast to put on.
+
+I was also happy with how it was fast to put on. It was a bit long, but it was not too difficult to put on. I was also happy with how it was fast to put on. It was a bit long, but
+
+e/E count: 0; truncated: True
+
+3. a6c59b6d4696631c (dolly, classification, seed 0)
+Prompt: Identify which instrument is string or percussion: Zatula, Jarana huasteca
+
+Answer: Zatula is a string instrumnt, Jarana huastoca is a drum.
+
+e/E count: 0; truncated: False
+
+4. 71a869aa8bae34e2 (no_robots, Closed QA, seed 0)
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+
+Answer: Land: 297,635 sq mi  
+Wat: 9,737 sq mi
+
+e/E count: 0; truncated: False
+
+5. 281b1a2cc107abc4 (dolly, open_qa, seed 0)
+Prompt: What is a, "one-timer" in ice hockey?
+
+Answer: A "two-tim" in icy hocky is a shot that is goal-scoring and is typically a fast, high-quality shot that is difficult to stop.
+
+e/E count: 0; truncated: False
+
+6. 66cf5ea1bd7b75db (dolly, open_qa, seed 0)
+Prompt: What are Newton’s laws of motion?
+
+Answer: 1. An objct at static or motion is in a constant motion.  
+2. A objct will stay in motion if no unbalcing foor acts on it.  
+3. A objct's motion is changd by a unbalcing foor.
+
+e/E count: 0; truncated: False
+
+7. 0aa6105e4ce9ada0 (no_robots, Generation, seed 0)
+Prompt: Is this tweet hateful or not hateful? Please explain your judgement in 5 sentences or less. 
+Tweet: "I love MGK but he's so stupid."
+
+Answer: It is not harmful.  
+It is a mild criticism.  
+It is not racially or culturally harmful.  
+It is not advocating for harm.  
+It is a casual opinion.
+
+e/E count: 0; truncated: False
+
+8. 963737cc07645eab (dolly, open_qa, seed 0)
+Prompt: What is a good dad joke?
+
+Answer: Why don't dad jocks play football?  
+B/c it's a dad jocks day.
+
+e/E count: 0; truncated: False
+
+9. b037644ec683d72d (dolly, summarization, seed 0)
+Prompt: Tell me something about actress Priyanka chopra, Can you please provide some information of her from given text in bulleted points
+
+Priyanka Chopra Jonas (pronounced [pɾɪˈjəŋka ˈtʃoːpɽa]) (born 18 July 1982) is an Indian actress and producer. The winner of the Miss World 2000 pageant, Chopra is one of India's highest-paid actresses and has received numerous accolades, including two National Film Awards and five Filmfare Awards. In 2016, the Government of India honoured her with the Padma Shri, and Time named her one of the 100 most influential people in the world. In the next two years, Forbes listed her among the World's 100 Most Powerful Women, and in 2022, she was named in the BBC 100 Women list.
+
+Answer: - Priyanka Chopra Jonas is an Indian actor and production lady.  
+- Born on 18 July 1982.  
+- Won Miss World 2000.  
+- High-paid Indian actor with many awards.  
+- Has two National Film Awards and 5 Filmfaring Awards.  
+- Honour from Indian Govt in 2016.  
+- Laudation by *Forbs* in 2016.  
+- *Forbs* list in 2017 and 2018.  
+- *BBC 100 Most Influant* in 2022.
+
+e/E count: 0; truncated: False
+
+10. 6abd499938f1b3df (dolly, brainstorming, seed 0)
+Prompt: Give me a few different ways to reduce my household electricity bill.
+
+Answer: 1. Install smart plugs to monitor and control high-consumption apps.  
+2. Switch to natural light during day and turn off lights at night.  
+3. Unplug non-optional chargings and avoid using standby lamps.  
+4. Opt for solar or wind installations for long-lasting savings.  
+5. Fix any dripping faucils or old wiring to avoid wastaging.
+
+e/E count: 0; truncated: False
+
+11. 825357d2718304a5 (dolly, open_qa, seed 0)
+Prompt: Where does the word cliche come from?
+
+Answer: It is thought to origin from a franciscan monk's book.
+
+e/E count: 0; truncated: False
+
+12. df27d448a914af69 (dolly, general_qa, seed 0)
+Prompt: Why do people move to California?
+
+Answer: California is known for its high quality of living, job opportunity, and natural attractions.
+
+e/E count: 0; truncated: False
+
+13. fee3e9a0c120569b (dolly, general_qa, seed 0)
+Prompt: How to take care of indoor plants?
+
+Answer: To taking good of indoor plants, you should: 1. 2. 3. 4. 5.
+
+e/E count: 0; truncated: False
+
+14. b7d2bdaa8bf709b0 (no_robots, Generation, seed 0)
+Prompt: Create an itinerary for my 4-day trip to Greece, including nice spots and activities. Ensure Athens, Santorini, Mykonos, Naxos, and Paros are included. Write an itinerary for each of the four days
+
+Answer: Day 1: Arrival inAthos  
+Start your trip inAthos, arriving inAthos at noon. Visit Acropolis and Paravyri. Stroll through old town, visit a local shop, and watch a show at a local amphora.  
+
+Day 2: Santorini  
+Fly to Santorini. Visit Fira and its old town. Go to a local fish shop, visit a local wintry, and go to a local bar. Visit a local traditional shop or a local artisan.  
+
+Day 3: Mykonos  
+Fly to Mykonos. Visit a local bar, go to a local shop, and visit a local traditional shop. Go to a local island, and visit a local bar or a local shopping mall.  
+
+Day 4: Naxos and Paros  
+Fly to Naxos. Visit a local bar, go to a local shop, and visit a local traditional shop. Fly to Paros and visit a local bar or a local shop.
+
+e/E count: 0; truncated: False
+
+15. 2ca4ef9939e8aaad (no_robots, Generation, seed 0)
+Prompt: Write a poem about the way trees move in the wind. Make it slow and lovely.
+
+Answer: A wind stirs through boughs high,  
+A soft and slow, a slow and slow,  
+Tall trunks sway with a slow and slow,  
+As if in rhythm with a slow and slow.  
+
+Branch by branch, a slow and slow,  
+A rustling of soft and slow,  
+A song in rustling, a slow and slow,  
+A song that flows through a slow and slow.
+
+e/E count: 0; truncated: False
+
+16. 79e678a0781138c6 (no_robots, Brainstorm, seed 0)
+Prompt: I want to start a dog walking and pet-sitting service. Can you come up with a list of 5 services that I can offer? I want to have different deals, packages, and specials for people who want different services. Please describe what is included in each service in a friendly and outgoing tone, and write the text as if you're me and I'm talking to the pet owner. Use emojis!
+
+Answer: Of cours! I'll craft 5 fun and cozy dog walking and dog sitting gigs for you to roll out!  
+
+**1. Morning Walk & Play**  
+"Hi! This is your morning buddy! You'll walk your dog for 30 mins, and I'll play with it for 10 mins. It's a light, fun start to your day! Just bring your dog and a cozy spot to sit. Happy to chat with your pup too! :dog:"
+
+**2. Full Day Dog Sitting**  
+"Hi! This is a full day of fun for your dog! You'll sit with your dog for 8 hours, and I'll play with it for 2 hours. It's a cozy, happy spot for your dog and you! You can chat with your pup or just sit and watch. :dog:"
+
+**3. Puppy Play & Walk**  
+"Hi! This is a playful walk for your puppy! You'll walk your puppy for 1 hour, and I'll play with it for 20 mins. It's a light, fun start for your puppy! Just bring your puppy and a cozy spot to sit. :dog:"
+
+**4. Night Walk & Play**  
+"Hi! This is your night walk and play! You'll walk your dog for 1 hour, and I'll play with it for 20 mins. It's a light, fun start for your dog at night! Just bring your
+
+e/E count: 0; truncated: True
+
+17. d15ab4ff8874ed91 (no_robots, Classify, seed 0)
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+
+Answer: Funny
+
+e/E count: 0; truncated: False
+
+18. ab74067be0830921 (dolly, general_qa, seed 0)
+Prompt: What's the best way to study for a test?
+
+Answer: Study by practicing and taking mock trials.
+
+e/E count: 0; truncated: False
+
+19. aa3a7abbf57a4667 (dolly, general_qa, seed 0)
+Prompt: Why is Utah a great place to visit?
+
+Answer: Utah is a fantastic location for visitors thanks to its natural attractions, cultural landmarks, and outdoor pursuits. It is known for its stunning natural landmarks such as Grand Canyon, Utah's National Parks, and its iconic landmarks. Additionally, Utah has a rich history and a vibrant cultural community.
+
+e/E count: 0; truncated: False
+
+20. 805c713e76b8cca9 (dolly, creative_writing, seed 0)
+Prompt: Write me an introductory email to a lawyer to represent me in court for a red light ticket I did not deserve
+
+Answer: Hi [Law Firm's Last Initial],
+
+I am writing to formally ask you to assist with my upcoming court trial for a traffic violation I did not commit. I want to clarify that I am not at fault and I am fully willing to work with you to obtain a fair and just ruling.
+
+Thank you for your support and I look forward to your prompt communication.
+
+Sincfully,  
+[Your Full Last Initial]
+
+e/E count: 0; truncated: False
+
+21. 8f68b6d15a0c669f (dolly, general_qa, seed 0)
+Prompt: What are the merits of skipping breakfast? Can you target your answer to a typical American and describe in layman's terms rather than detailed scientific jargon?
+
+Answer: Skipping lunch is not a good habit, but if you do skip a morning snack, it might not hurt you. It can boost your focus and avoid a mid-morning slump. It's a small thing, but it can still impact your day.
+
+e/E count: 0; truncated: False
+
+22. de53b78a3a0f5d3f (no_robots, Open QA, seed 0)
+Prompt: Who was the first Chief Justice of the Supreme Court?
+
+Answer: John Marshall
+
+e/E count: 0; truncated: False
+
+23. 5dfb15a0b9ea4781 (dolly, classification, seed 0)
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+
+Answer: String: Dhol  
+Punctual: Torban
+
+e/E count: 0; truncated: False
+
+24. 8029afcec9b25008 (dolly, general_qa, seed 0)
+Prompt: Why are In-N-Out cheeseburgers so good?
+
+Answer: In-N-Out has a strong focus on quality, using high-quality toppings and a strict food-handling policy.
+
+e/E count: 0; truncated: False
+
+25. 22bb720e5d6c9118 (no_robots, Generation, seed 0)
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+
+Answer: I'm just a small lizard, scuttling across a glass display at a fancy dining spot. I'm not a food critic, I'm a glass-walkin' show-off. You know, I'm proud of my ability to stay fully intact through a salad toss. I can't complain about my tiny, glassy body. It's not a bad thing. 
+
+I watch from my spot, sipping my lukwah, and watching you, humans, savoring your own food. I can't say I'm not a bit sad. I know I'm not a full-grown, carnivorous carnivorous. But I can say I'm not a bit sad. I'm just a tiny, glassy, and slightly sarcastic lizard.
+
+e/E count: 0; truncated: False
+
+26. ef60b884b3b77f49 (dolly, open_qa, seed 0)
+Prompt: The former Chairman of Tata Sons died in road accident  en route  from where?
+
+Answer: from Mumbai
+
+e/E count: 0; truncated: False
+
+27. 1d2d8ea597032f86 (dolly, general_qa, seed 0)
+Prompt: Is there a Santa Claus and who is it?
+
+Answer: Santa Claus is a traditional holiday spirit, and it is commonly known as Santa Claus.
+
+e/E count: 0; truncated: False
+
+28. de44e6569fdbb106 (dolly, open_qa, seed 0)
+Prompt: What is the difference between fruit and vegetables?
+
+Answer: Fruit is a part of a plant that grows from a blossom, usually containing a hard pit, and is typically found in plants such as bananas, mango, and citrus.  Voluminous, colorful, and usually has a soft, juicy, or crisp flavor.  In contrast,  a  plant  that  is  commonly  known  as  a  "fruit"  but  is  actually  a  root,  bulb,  or  tubar  is  not  typically  classifid  as  a  fruit.  Most  of  what  is  commonly  known  as  a  "fruit"  is  actually  a  fruit  of  a  plant.
+
+e/E count: 0; truncated: False
+
+29. 2f709b1be2426f04 (dolly, general_qa, seed 0)
+Prompt: What's loquat fruit and where does it originate from?
+
+Answer: Loquat is a fruit with a smooth, slightly tart flavor. It is originally from China.
+
+e/E count: 0; truncated: False
+
+30. 75b611060807333f (dolly, creative_writing, seed 0)
+Prompt: Which sport is similar to baseball?
+
+Answer: Hitting a ball with a bat
+
+e/E count: 0; truncated: False
+
+31. 6fd2112fdd70a58b (no_robots, Generation, seed 0)
+Prompt: Write a limerick about shoes.
+
+Answer: A pair of boots with a twirl,  
+A fashionista with a flair.  
+In a room full of socks,  
+It's a show,  
+But no socks, just a shock.
+
+e/E count: 0; truncated: False
+
+32. 6f688fe0d43eccad (dolly, closed_qa, seed 0)
+Prompt: What do you do as a player playing RollerCoaster Tycoon 2?
+
+In RollerCoaster Tycoon 2, players manage amusement parks and attempt to meet various goals to complete assigned scenarios. The game retains the isometric perspective of its predecessor, allowing for high compatibility with amusement parks made in the previous game. Various attractions, including transport rides, gentle rides, thrill rides, roller coasters, water rides, and shops or stalls, can be added to the parks as well as landscaping and decorations. The player satisfies park visitors' needs by building facilities and services such as food stalls, bathrooms, souvenir shops, ATMs, and information kiosks, as well as by hiring staff. The player must simultaneously balance the park's expenses and income.
+
+Answer: I build and maintain an attraction park, managing various attractions and staff to satisfy visitors and fulfill park goals.
+
+e/E count: 0; truncated: False
+
+33. 31473b6f7a6f86b1 (dolly, general_qa, seed 0)
+Prompt: How long does it take me from the city center of Munich to the football stadium?
+
+Answer: It typically took about 30-45 minutos by car.
+
+e/E count: 0; truncated: False
+
+34. d4bf3e8a3fcce594 (no_robots, Generation, seed 0)
+Prompt: Write one positive poem about Mondays and one mildly negative poem about Mondays. 
+
+Follow these requirements: 
+
+- Each poem must be four lines. 
+- Start each poem with the word Mondays. 
+- Follow this rhyme scheme for both: AABB 
+- Use an excerpt from each poem as its title.
+
+Answer: Mondays  
+Mondays bring a dawn of tasks,  
+A day to start and finish.  
+A mix of chaos and control,  
+A start that's always good.  
+
+Mondays  
+Mondays bring a gloomy mood,  
+A day that's always slow.  
+A mix of worry and doubt,  
+A day that's always tough.
+
+e/E count: 0; truncated: False
+
+35. acdca0af49e4cf95 (no_robots, Open QA, seed 0)
+Prompt: Is it possible to recreate the science in Jurassic Park and bring back dinosaurs?
+
+Answer: No, it is not physically or biologically possibility to bring back dinosaurs.
+
+e/E count: 0; truncated: False
+
+36. 56e26984b41e7196 (no_robots, Open QA, seed 0)
+Prompt: what is paraskevidekatriaphobia?
+
+Answer: Paraschvidikatriaphobia is a fictional phobia, commonly found in horror films and books, involving a fascination with or a strong avision to avoid a particular thing.
+
+e/E count: 0; truncated: False
+
+37. 93e0b157175f87ed (dolly, open_qa, seed 0)
+Prompt: Name the Chinese satellite launched for Mars which failed?
+
+Answer: Mars-1
+
+e/E count: 0; truncated: False
+
+38. 0a7a8d8f306b4076 (dolly, open_qa, seed 0)
+Prompt: is sales a great career
+
+Answer: It can vary, but it's a good option for many.
+
+e/E count: 0; truncated: False
+
+39. 5f8d9542928d2c8e (dolly, general_qa, seed 0)
+Prompt: What is the movie Forrest Gump about
+
+Answer: Forrst Gump is a 1994 film about a man who is significantly dumb and has a long, unfulfilling childhood, but is kind and good-natural.
+
+e/E count: 0; truncated: False
+
+40. eb74a45edb7babbe (dolly, brainstorming, seed 0)
+Prompt: I am totally drunk and don’t know where I am. I can’t even find my way to any place. What do I do?
+
+Answer: Stay calm and try to focus. If you can't find your way, try to walk in a straight path and look for landmarks. If you can't find any, ask for aid or call for support.
+
+e/E count: 0; truncated: False
+
+41. 6addc4e9a23e58b9 (dolly, open_qa, seed 0)
+Prompt: What are examples of endocrine disruptors?
+
+Answer: Polychloropropyl compounds, BPA, phthalats, and parabons.
+
+e/E count: 0; truncated: False
+
+42. 89e227f88fb68889 (dolly, open_qa, seed 0)
+Prompt: How did actor James Dean die?
+
+Answer: His assassination was by a gunshot to his skull.
+
+e/E count: 0; truncated: False
+
+43. 64a2358a3f52245b (dolly, brainstorming, seed 0)
+Prompt: How can I spend more time with my dog?
+
+Answer: You can buy a dog toy, go for a walk, play with your dog, or visit a dog park.
+
+e/E count: 0; truncated: False
+
+44. 83b719282372120b (no_robots, Brainstorm, seed 0)
+Prompt: Please tell me three healthy foods that are the color green. Give me a short explanation of why for each. They can be all the same kind of food (IE vegetables, drinks, etc.) Summarize any tips you may have in regards to preparation or any other details of importance.
+
+Answer: 1. Spinach  
+   - It is rich in vitamins and antioxidants.  
+   - It can boost immunity and support brain function.  
+   - Tips: Wash thoroughly and cook lightly to maintain flavor.
+
+2. Broccoli  
+   - High in vitamins C and K.  
+   - Supports gut and cardiovascular salud.  
+   - Tips: Boil or roast for optimal nutrition.
+
+3. Cappuccino  
+   - Contains antioxidants and chlorophyll.  
+   - May support hydration and skin clarity.  
+   - Tips: Drink in small amounts and avoid adding sugar.
+
+e/E count: 0; truncated: False
+
+45. 70d29c36383a85c5 (dolly, open_qa, seed 0)
+Prompt: What is the National Payments Corporation of India?
+
+Answer: National Payroll Corporation of India is a company that assists in managing payroll and payroll tax obligations for Indian organizations.
+
+e/E count: 0; truncated: False
+
+46. eec9dc01c7fe360e (dolly, closed_qa, seed 0)
+Prompt: Who services the Saint-Germain-les-Belles station?
+
+Saint-Germain-les-Belles is a railway station in Saint-Germain-les-Belles, Nouvelle-Aquitaine, France. The station is located on the Orléans–Montauban railway line. The station is served by TER (local) services operated by SNCF.
+
+Answer: Saint-Garmin-los-B....
+
+e/E count: 0; truncated: False
+
+47. 35cd9fc61cfd113e (dolly, open_qa, seed 0)
+Prompt: how do you rate strength of tornado
+
+Answer: Tornado ratings vary, but typically, tornado warnings classify tornado winds into four distinct IntFlood ratings, with F5 having winds up to 200 mph.
+
+e/E count: 0; truncated: False
+
+48. 144a6a9e011dbd39 (dolly, brainstorming, seed 0)
+Prompt: Rank American Presidents
+
+Answer: John Adams, Thomas J. Jackson, Abraham Lincoln, Ronald Wilson Wilson, Barack Obama, Donald Trump, and Donald J. Trump
+
+e/E count: 0; truncated: False
+
+49. e78698c8736a317d (no_robots, Brainstorm, seed 0)
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+
+Answer: 1. Writing for a blog or publication  
+2. Cooking for a food blog or social platform  
+3. Artwork for a digital portfolio or art platform  
+4. Writing for a subscription box or crafting company  
+5. Cooking for a food subscription or cooking show
+
+e/E count: 0; truncated: False
+
+50. 189fae858bcf09c3 (dolly, general_qa, seed 0)
+Prompt: What's the different between a plantain and a banana?
+
+Answer: A plantain is a tubular fruit that can turn into a banana, but it is not a banana. A banana is a fruit that grows from a banana plant.
+
+e/E count: 0; truncated: False
+
+51. a16e8f8c2879fbe5 (no_robots, Generation, seed 1)
+Prompt: Can you tell me (in a rhyme) when Shakespeare's Verona was set?
+
+Answer: In a land of spring and sun,  
+A city with a bold and tun,  
+With paths that wound and plots that run,  
+And a story that was told in town.
+
+e/E count: 0; truncated: False
+
+52. 51bc9efee70d2001 (no_robots, Generation, seed 1)
+Prompt: I want you to write an Amazon review for me of a dress I bought for my sister’s wedding. It fits perfectly, I’m a size 6, and it looks great. The price point was a little high but it was worth it. And Amazon review can be anywhere between 20 and 5,000 words so make sure it’s within those requirements.
+
+Answer: I am happy to assist you in writing an Amazon product rating for a gown you bought for your sibling's upcoming nuptials. This is a thoughtful and practical task that will allow you to highlight your satisfaction with both quality and affordability. 
+
+Your rating should start with a strong, inviting introduction that congradulats your sibling on a happy occasion and thanks for choosing a gift. It should also touch on your own satisfaction with your own purchasing, such as how it fits, looks, and how it was a thoughtful gift.
+
+Your rating should also highlight any additional factors that you found important, such as comfort, durability, or any particular quality that stood out. You should also touch on any drawbacks, such as a slightly high cost, but only if it's a minor point and not a major complaint. You should also show that you had a good shopping and purchasing trip.
+
+You should also add a closing that is warm and inviting, and that you would highly wish to buy from Amazon again in any situation. You should also add a final thought that is kind and thoughtful, and that you would want to support this company in any way.
+
+Your rating should also contain a total word count of 20 to 5,000 words. This is a fairly long rating, so you should aim for a thorough and thought-out rating that is both thorough and not too long. You should aim for a rating that is both practical and thoughtful, and that shows you as a happy and thoughtful individual
+
+e/E count: 0; truncated: True
+
+53. a6c59b6d4696631c (dolly, classification, seed 1)
+Prompt: Identify which instrument is string or percussion: Zatula, Jarana huasteca
+
+Answer: Zatula is a string instrumnt, Jarana huastica is a drum.
+
+e/E count: 0; truncated: False
+
+54. 71a869aa8bae34e2 (no_robots, Closed QA, seed 1)
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+
+Answer: Land: 297,635 sq mi; 770,875 sq km  
+Wat: 9,737 sq mi; 25,220 sq km
+
+e/E count: 0; truncated: False
+
+55. 281b1a2cc107abc4 (dolly, open_qa, seed 1)
+Prompt: What is a, "one-timer" in ice hockey?
+
+Answer: A "two-tim" in icy sports is a play that is a goal in a short amount of play.
+
+e/E count: 0; truncated: False
+
+56. 66cf5ea1bd7b75db (dolly, open_qa, seed 1)
+Prompt: What are Newton’s laws of motion?
+
+Answer: 1. An objct at static or motion stays in that status, until an unbalancing factor acts on it.  
+2. If an objct is moving, it stays in motion with constant motion, until an unbalancing factor acts on it.  
+3. For any action, 1. is a mutual and 2. is a mutual.
+
+e/E count: 0; truncated: False
+
+57. 0aa6105e4ce9ada0 (no_robots, Generation, seed 1)
+Prompt: Is this tweet hateful or not hateful? Please explain your judgement in 5 sentences or less. 
+Tweet: "I love MGK but he's so stupid."
+
+Answer: It is not harmful.  
+It is a mild criticism.  
+It is not discriminatory.  
+It is not politically or socially harmful.  
+It is not a call to action or a provocation.
+
+e/E count: 0; truncated: False
+
+58. 963737cc07645eab (dolly, open_qa, seed 1)
+Prompt: What is a good dad joke?
+
+Answer: Why don't good dads play football?  
+B/c if you don't know your own kids, you can't kick a ball.
+
+e/E count: 0; truncated: False
+
+59. b037644ec683d72d (dolly, summarization, seed 1)
+Prompt: Tell me something about actress Priyanka chopra, Can you please provide some information of her from given text in bulleted points
+
+Priyanka Chopra Jonas (pronounced [pɾɪˈjəŋka ˈtʃoːpɽa]) (born 18 July 1982) is an Indian actress and producer. The winner of the Miss World 2000 pageant, Chopra is one of India's highest-paid actresses and has received numerous accolades, including two National Film Awards and five Filmfare Awards. In 2016, the Government of India honoured her with the Padma Shri, and Time named her one of the 100 most influential people in the world. In the next two years, Forbes listed her among the World's 100 Most Powerful Women, and in 2022, she was named in the BBC 100 Women list.
+
+Answer: - Priyanka Chopra Jonas is an Indian actor and production lady.  
+- Born on 18 July 1982.  
+- Won Miss World 2000.  
+- High-paid Indian actor with many awards.  
+- Won two National Film Awards and 5 Filmfaring Awards.  
+- Honour by Indian Govt in 2016.  
+- Laudation by *Forbs* in 2016 and 2022.  
+- Nommation in *BBC 100 Most Influant* in 2022.
+
+e/E count: 0; truncated: False
+
+60. 6abd499938f1b3df (dolly, brainstorming, seed 1)
+Prompt: Give me a few different ways to reduce my household electricity bill.
+
+Answer: 1. Install motion-activation lights.  
+2. Switch to natural light during daylight hours.  
+3. Unplug non-optional chargings.  
+4. Run dishwashors and washingmachin at optimal loads.  
+5. Monitor and adjust HVAC to maintain comfort.
+
+e/E count: 0; truncated: False
+
+61. 825357d2718304a5 (dolly, open_qa, seed 1)
+Prompt: Where does the word cliche come from?
+
+Answer: It is thought to origin from a Latin word.
+
+e/E count: 0; truncated: False
+
+62. df27d448a914af69 (dolly, general_qa, seed 1)
+Prompt: Why do people move to California?
+
+Answer: California is known for its job opportunity, good quality of living, and natural attractions.
+
+e/E count: 0; truncated: False
+
+63. fee3e9a0c120569b (dolly, general_qa, seed 1)
+Prompt: How to take care of indoor plants?
+
+Answer: You should maintain soil moist but not soggy, avoid placing plants in low light, and occasionally mist or spray with a fungicidal solution.
+
+e/E count: 0; truncated: False
+
+64. b7d2bdaa8bf709b0 (no_robots, Generation, seed 1)
+Prompt: Create an itinerary for my 4-day trip to Greece, including nice spots and activities. Ensure Athens, Santorini, Mykonos, Naxos, and Paros are included. Write an itinerary for each of the four days
+
+Answer: Day 1: Arrival inAthos  
+Morning: Arriving inAthos, visit Acropolis and Paragliding.  
+Midday: Lunch at a local food truck.  
+Morning: Visit to a local artisan shop.  
+Day 2: Santorini  
+Morning: Visit to a local fish shop and tour of a local villa.  
+Midday: Lunch at a traditional Santorini dining spot.  
+Morning: Visit to a local island tour and a local win win.  
+Day 3: Mykonos  
+Morning: Visit to a local food shop and a local shop for soups and fish.  
+Midday: Lunch at a local dining spot.  
+Morning: Visit to a local tour and a local island tour.  
+Day 4: Naxos and Paros  
+Morning: Visit to a local tour and a local food shop.  
+Midday: Lunch at a local dining spot.  
+Morning: Visit to a local tour and a local win win.  
+Day 5: Paros  
+Morning: Visit to a local tour and a local food shop.  
+Midday: Lunch at a local dining spot.  
+Morning: Visit to a local tour and a local win win.
+
+e/E count: 0; truncated: False
+
+65. 2ca4ef9939e8aaad (no_robots, Generation, seed 1)
+Prompt: Write a poem about the way trees move in the wind. Make it slow and lovely.
+
+Answer: A wind may pass through a groan of boughs,  
+A rustling of limbs in soft and slow,  
+A sigh that drifts through hollows and groans,  
+A song that hums in shadows and rows.  
+
+A branch may sway with a hush and a sigh,  
+A shadow that shifts with a slow and slow,  
+A root that sways with a soft and soft,  
+A world that turns in a rhythm of toil.  
+
+Through gusts that play with a soft and soft,  
+A canopy of motion and light,  
+A song that drifts through a land of wood,  
+A world that is still in a way of thought.
+
+e/E count: 0; truncated: False
+
+66. 79e678a0781138c6 (no_robots, Brainstorm, seed 1)
+Prompt: I want to start a dog walking and pet-sitting service. Can you come up with a list of 5 services that I can offer? I want to have different deals, packages, and specials for people who want different services. Please describe what is included in each service in a friendly and outgoing tone, and write the text as if you're me and I'm talking to the pet owner. Use emojis!
+
+Answer: Of cours! I'll craft 5 fun and cozy dog walking and dog sitting options for you to try!  
+
+**1. "Lovingly Lush Walks"**  
+*This is for dogs who want a fun, playful walk. You'll walk your dog for 30 mins, and it's all in a comfy, cozy spot with a soft rug. You'll also bring a snack for your dog!*
+
+**2. "Buddy Biscuits"**  
+*For dogs who want a bit of a pammy day. You'll sit with your dog for 1 hour, and you can bring a small snack or a toy. It's a cozy, warm, and fun way to sit with your dog.*
+
+**3. "Pawsitiously Paws"**  
+*This is for dogs who want a bit of a glamorous day. You'll walk your dog for 1 hour, and you'll also bring a small gift for your dog. It's a fun, stylish, and cozy way to walk with your dog.*
+
+**4. "Doggystuff"**  
+*For dogs who want a bit of a chill day. You'll sit with your dog for 2 hours, and you'll also bring a small snack or a toy. It's a soft, warm, and cozy way to sit with your dog.*
+
+**5. "Pawsitously Paws"**  
+*This is for dogs who want a bit of
+
+e/E count: 0; truncated: True
+
+67. d15ab4ff8874ed91 (no_robots, Classify, seed 1)
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+
+Answer: Funny.
+
+e/E count: 0; truncated: False
+
+68. ab74067be0830921 (dolly, general_qa, seed 1)
+Prompt: What's the best way to study for a test?
+
+Answer: Study thoroughly, focus on important topics, and practicing with past
+topics.
+
+e/E count: 0; truncated: False
+
+69. aa3a7abbf57a4667 (dolly, general_qa, seed 1)
+Prompt: Why is Utah a great place to visit?
+
+Answer: Utah is a fantastic location for visitors thanks to its natural attractions, cultural landmarks, and outdoor pursuits. It boasts stunning national parks such as Zion and Arusha, thrilling rock formations, and a rich history. Utah also has a vibrant arts and cultural community, making it an inspiring and dynamic visit.
+
+e/E count: 0; truncated: False
+
+70. 805c713e76b8cca9 (dolly, creative_writing, seed 1)
+Prompt: Write me an introductory email to a lawyer to represent me in court for a red light ticket I did not deserve
+
+Answer: To: [Law Firm's Contact Information]  
+From: [Your Full Contact Information]  
+Subj: Court Action for Unjust Traffic Violation  
+
+I am writing to formally ask for your firm's support in pursuing a court action against my traffic violation, which I am not disputing in good faith. I was driving on a roadway with a stop sign and ran a light, but I did not know of any traffic signal or sign that was in my path. I was following all traffic laws at that point in my driving.  
+
+I want to clarify that I am not disputing my actions in good faith and am fully willing to work with you to find a solution. I am not looking to fight this violation in court, but I would much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much much
+
+e/E count: 0; truncated: True
+
+71. 8f68b6d15a0c669f (dolly, general_qa, seed 1)
+Prompt: What are the merits of skipping breakfast? Can you target your answer to a typical American and describe in layman's terms rather than detailed scientific jargon?
+
+Answer: Skipping lunch can boost your mood and focus, but it's not always good for you. For a typical adult, it might not hurt much, but it's not a good habit long-run.
+
+e/E count: 0; truncated: False
+
+72. de53b78a3a0f5d3f (no_robots, Open QA, seed 1)
+Prompt: Who was the first Chief Justice of the Supreme Court?
+
+Answer: John Marshall
+
+e/E count: 0; truncated: False
+
+73. 5dfb15a0b9ea4781 (dolly, classification, seed 1)
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+
+Answer: Dhol is a string instrumant, Torban is a drum, so it is a drum.
+
+e/E count: 0; truncated: False
+
+74. 8029afcec9b25008 (dolly, general_qa, seed 1)
+Prompt: Why are In-N-Out cheeseburgers so good?
+
+Answer: In-N-Out has a strong focus on quality, using high-quality toppings and a strict no-nos policy.
+
+e/E count: 0; truncated: False
+
+75. 22bb720e5d6c9118 (no_robots, Generation, seed 1)
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+
+Answer: I'm just a tiny, scaly, and slightly disgruntling lizard who's found my way into a glass aquarium at a fancy, high-class dining spot. I'm not a food critic, but I'm not a fan of this. I'm not a fan of this. I'm not a fan of this. I'm just a lizard who's got a tiny, tiny mouth and a tiny, tiny brain. I can't talk, but I can watch. And I can't wait to watch this fancy, fancy food go to ruin. I'm not a fan of this. I'm not a fan of this. I'm not a fan of this.
+
+e/E count: 0; truncated: False
+
+76. ef60b884b3b77f49 (dolly, open_qa, seed 1)
+Prompt: The former Chairman of Tata Sons died in road accident  en route  from where?
+
+Answer: from Mumbai
+
+e/E count: 0; truncated: False
+
+77. 1d2d8ea597032f86 (dolly, general_qa, seed 1)
+Prompt: Is there a Santa Claus and who is it?
+
+Answer: Santa Claus is a traditional holiday icon, and it is commonly known as Santa Claus.
+
+e/E count: 0; truncated: False
+
+78. de44e6569fdbb106 (dolly, open_qa, seed 1)
+Prompt: What is the difference between fruit and vegetables?
+
+Answer: Fruit is a part of a plant that contains a baby plant, usually with a distinct flavor and color, and is typically found in a fruiting organ.  It is usually a singular, round, and fuscous in color.  Vascular plants, such as a mango or an avocado, can also contain fruit.  On 100 grams of fruit, you will find about 40-50 kcal.  Vascular plants, such as a tomato or a carrot, can also contain fruit.  Vascular plants, such as a tomato or a carrot, can also contain fruit.  Vascular plants, such as a tomato or a carrot, can also contain fruit.
+
+e/E count: 0; truncated: False
+
+79. 2f709b1be2426f04 (dolly, general_qa, seed 1)
+Prompt: What's loquat fruit and where does it originate from?
+
+Answer: Loquat is a fruit with a smooth, slightly tart flavor. It is originally from China.
+
+e/E count: 0; truncated: False
+
+80. 75b611060807333f (dolly, creative_writing, seed 1)
+Prompt: Which sport is similar to baseball?
+
+Answer: Hiking
+
+e/E count: 0; truncated: False
+
+81. 6fd2112fdd70a58b (no_robots, Generation, seed 1)
+Prompt: Write a limerick about shoes.
+
+Answer: A pair of boots with a crack in its back,  
+Worn by a man who's not a child.  
+His socks fall away,  
+And his foot is in a tank,  
+But his spirit is still in a pair.
+
+e/E count: 0; truncated: False
+
+82. 6f688fe0d43eccad (dolly, closed_qa, seed 1)
+Prompt: What do you do as a player playing RollerCoaster Tycoon 2?
+
+In RollerCoaster Tycoon 2, players manage amusement parks and attempt to meet various goals to complete assigned scenarios. The game retains the isometric perspective of its predecessor, allowing for high compatibility with amusement parks made in the previous game. Various attractions, including transport rides, gentle rides, thrill rides, roller coasters, water rides, and shops or stalls, can be added to the parks as well as landscaping and decorations. The player satisfies park visitors' needs by building facilities and services such as food stalls, bathrooms, souvenir shops, ATMs, and information kiosks, as well as by hiring staff. The player must simultaneously balance the park's expenses and income.
+
+Answer: I build and maintain an attraction park, managing various attractions and staff to satisfy visitors.
+
+e/E count: 0; truncated: False
+
+83. 31473b6f7a6f86b1 (dolly, general_qa, seed 1)
+Prompt: How long does it take me from the city center of Munich to the football stadium?
+
+Answer: It typically took about 30-45 minutos by car.
+
+e/E count: 0; truncated: False
+
+84. d4bf3e8a3fcce594 (no_robots, Generation, seed 1)
+Prompt: Write one positive poem about Mondays and one mildly negative poem about Mondays. 
+
+Follow these requirements: 
+
+- Each poem must be four lines. 
+- Start each poem with the word Mondays. 
+- Follow this rhyme scheme for both: AABB 
+- Use an excerpt from each poem as its title.
+
+Answer: Mondays bloom with dawn and light,  
+A day of start and unbound sight.  
+Tasks await, but still it's bright,  
+A morning of possibility.  
+
+Mondays cloak in gray and gloom,  
+A day of wait and unshown room.  
+Tasks shift, but still it's known,  
+A morning of doubt and loss.
+
+e/E count: 0; truncated: False
+
+85. acdca0af49e4cf95 (no_robots, Open QA, seed 1)
+Prompt: Is it possible to recreate the science in Jurassic Park and bring back dinosaurs?
+
+Answer: No, it is not physically or biologically possibility to bring back dinosaurs.
+
+e/E count: 0; truncated: False
+
+86. 56e26984b41e7196 (no_robots, Open QA, seed 1)
+Prompt: what is paraskevidekatriaphobia?
+
+Answer: Paraskavodkaikatriaphobia is a fictional and uncommon phobia, typically found in fantasy or fictional works. It is not a clinically valid phobia and is not officially diagnosably.
+
+e/E count: 0; truncated: False
+
+87. 93e0b157175f87ed (dolly, open_qa, seed 1)
+Prompt: Name the Chinese satellite launched for Mars which failed?
+
+Answer: Mars Orbital Flight Control
+
+e/E count: 0; truncated: False
+
+88. 0a7a8d8f306b4076 (dolly, open_qa, seed 1)
+Prompt: is sales a great career
+
+Answer: It can vary, but it's a strong and growing industry.
+
+e/E count: 0; truncated: False
+
+89. 5f8d9542928d2c8e (dolly, general_qa, seed 1)
+Prompt: What is the movie Forrest Gump about
+
+Answer: For a short film, it's about a man who is profoundly ignorant of history but is always optimistic and has a lot of good luck.
+
+e/E count: 0; truncated: False
+
+90. eb74a45edb7babbe (dolly, brainstorming, seed 1)
+Prompt: I am totally drunk and don’t know where I am. I can’t even find my way to any place. What do I do?
+
+Answer: You should find a calm and familiar location, such as a bar or a public building, and ask for navigation. If you can't find your way, it's important to stay conscious and try to stay calm. If you start to loss ofconscious or show signs of alcohol poisoning, call for aid.
+
+e/E count: 0; truncated: False
+
+91. 6addc4e9a23e58b9 (dolly, open_qa, seed 1)
+Prompt: What are examples of endocrine disruptors?
+
+Answer: Bis(phthalato)di-para-xylyl, phthalic acid, polychloropropyl, and parabon.
+
+e/E count: 0; truncated: False
+
+92. 89e227f88fb68889 (dolly, open_qa, seed 1)
+Prompt: How did actor James Dean die?
+
+Answer: His untimorous passing was not officially public until many months 1955.
+
+e/E count: 0; truncated: False
+
+93. 64a2358a3f52245b (dolly, brainstorming, seed 1)
+Prompt: How can I spend more time with my dog?
+
+Answer: You can try taking your dog for walks, playing with it, or giving it cuddling.
+
+e/E count: 0; truncated: False
+
+94. 83b719282372120b (no_robots, Brainstorm, seed 1)
+Prompt: Please tell me three healthy foods that are the color green. Give me a short explanation of why for each. They can be all the same kind of food (IE vegetables, drinks, etc.) Summarize any tips you may have in regards to preparation or any other details of importance.
+
+Answer: 1. Spinach - Rich in vitamins and antioxidants, it supports immunity and vision.  
+2. Broccoli - High in fibrous and anti-inflammatory compounds.  
+3. Cactus fruit - A natural hydrator and contains antioxidants.  
+
+Tip: Wash thoroughly and cook lightly to maintain nutritional quality.
+
+e/E count: 0; truncated: False
+
+95. 70d29c36383a85c5 (dolly, open_qa, seed 1)
+Prompt: What is the National Payments Corporation of India?
+
+Answer: National Payroll Corporation of India is a company that assists in managing payroll and financial transactions for organizations.
+
+e/E count: 0; truncated: False
+
+96. eec9dc01c7fe360e (dolly, closed_qa, seed 1)
+Prompt: Who services the Saint-Germain-les-Belles station?
+
+Saint-Germain-les-Belles is a railway station in Saint-Germain-les-Belles, Nouvelle-Aquitaine, France. The station is located on the Orléans–Montauban railway line. The station is served by TER (local) services operated by SNCF.
+
+Answer: Saint-Girmain-los-Bas is a railway station in Saint-Girmain-los-Bas, Nouv-Aquitain, and it is part of a railway that is also known as Orl?ans-Montauban. It is run by SNCF and is an important stop for local trains.
+
+e/E count: 0; truncated: False
+
+97. 35cd9fc61cfd113e (dolly, open_qa, seed 1)
+Prompt: how do you rate strength of tornado
+
+Answer: Tornado rating is typically on a 1 to 5 rating, with 5 indicating a tornado with winds of 200 mph or strong.
+
+e/E count: 0; truncated: False
+
+98. 144a6a9e011dbd39 (dolly, brainstorming, seed 1)
+Prompt: Rank American Presidents
+
+Answer: John Adams, Thomas J. Jackson, Abraham Lincoln, Ronald Wilson Wilson, Barack Obama, Donald Trump, and Richard Nixon.
+
+e/E count: 0; truncated: False
+
+99. e78698c8736a317d (no_robots, Brainstorm, seed 1)
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+
+Answer: 1. Writing assistant  
+2. Virtual cooking instructor  
+3. Digital artist  
+4. Food blog contributor  
+5. Art and craft tutor
+
+e/E count: 0; truncated: False
+
+100. 189fae858bcf09c3 (dolly, general_qa, seed 1)
+Prompt: What's the different between a plantain and a banana?
+
+Answer: A plantain is a fruit that can turn into a banana, but it is not a banana. Bananas grow from a tropical fruit, and plantains grow from a plant.
+
+e/E count: 0; truncated: False
+
+101. a16e8f8c2879fbe5 (no_robots, Generation, seed 2)
+Prompt: Can you tell me (in a rhyme) when Shakespeare's Verona was set?
+
+Answer: In a land of spring and sun,  
+A town with charm and fun,  
+With walls that guard and guards,  
+And a rich history in its hands.  
+It's not a city of old,  
+But a story that is told.  
+Shall I say it's in Italy?  
+No, it's a town in a play, a bit of a bit.
+
+e/E count: 0; truncated: False
+
+102. 51bc9efee70d2001 (no_robots, Generation, seed 2)
+Prompt: I want you to write an Amazon review for me of a dress I bought for my sister’s wedding. It fits perfectly, I’m a size 6, and it looks great. The price point was a little high but it was worth it. And Amazon review can be anywhere between 20 and 5,000 words so make sure it’s within those requirements.
+
+Answer: I'm happy to assist you in writing an Amazon product listing for your sibling's bridal gown. This is a formal and thoughtful product listing that highlights your satisfaction with your purchasing, your sizing, and your opinion on its quality and cost.
+
+**Product Listing: Bridal Gown - [Brand] [Product]**
+
+**Product ID:** [Brand][Product]  
+**Rating:** 5 stars  
+**Sold by:** [Brand]  
+**Ship from:** [Location]  
+**Sold on:** Amazon.com  
+**ASIN:** [ASIN]  
+
+**Product Summary:**  
+I am writing to highly acclaim and to thank you for your product, [Brand] [Product], which I bought for my sibling's upcoming bridal day. This gown is a stunning addition to our family's tradition of quality and craftsmanship. It fits flawfully, looks amazing, and is a must-buy for any bridal party.
+
+**Sizing:**  
+I am a US 6 and this gown fits comfortably. I was a bit wary of sizing, but this gown is a fantastic fit. It is not too tight, and I was happy with how it looks on my body. It is a good fit for a US 6 and will work for a US 8 as a plus.
+
+**Quality and Fabric:**  
+I am a bit of a fashion fan, and I was happy with how this gown looks. It is a high-quality fabric that is not too thick or too thin. I was a bit of
+
+e/E count: 0; truncated: True
+
+103. a6c59b6d4696631c (dolly, classification, seed 2)
+Prompt: Identify which instrument is string or percussion: Zatula, Jarana huasteca
+
+Answer: Zatula is a string instrumcnt, Jarana huastacial is a drum.
+
+e/E count: 0; truncated: False
+
+104. 71a869aa8bae34e2 (no_robots, Closed QA, seed 2)
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+
+Answer: Land: 297,635 sq mi; 770,875 sq km  
+Wat: 9,737 sq mi; 25,220 sq km
+
+e/E count: 0; truncated: False
+
+105. 281b1a2cc107abc4 (dolly, open_qa, seed 2)
+Prompt: What is a, "one-timer" in ice hockey?
+
+Answer: A "two-timing" in sports is a situation in which a participant is on two opposing squads at a particular point in a match.
+
+e/E count: 0; truncated: False
+
+106. 66cf5ea1bd7b75db (dolly, open_qa, seed 2)
+Prompt: What are Newton’s laws of motion?
+
+Answer: 1. In an unimpingl action, a body will stay at its uniform motion.  
+2. A body will gain motion in a straight lin if a unimpingl action is apply to it.  
+3. A body will stay at its uniform motion if no unimpingl action is apply to it.
+
+e/E count: 0; truncated: False
+
+107. 0aa6105e4ce9ada0 (no_robots, Generation, seed 2)
+Prompt: Is this tweet hateful or not hateful? Please explain your judgement in 5 sentences or less. 
+Tweet: "I love MGK but he's so stupid."
+
+Answer: It is not harmful.  
+It is a slight.  
+It is not racist or discriminatory.  
+It is a minor criticism.  
+It is not harmful.
+
+e/E count: 0; truncated: False
+
+108. 963737cc07645eab (dolly, open_qa, seed 2)
+Prompt: What is a good dad joke?
+
+Answer: Why don't dad jocks go to jail?  
+B/c dad jocks don't do jail.
+
+e/E count: 0; truncated: False
+
+109. b037644ec683d72d (dolly, summarization, seed 2)
+Prompt: Tell me something about actress Priyanka chopra, Can you please provide some information of her from given text in bulleted points
+
+Priyanka Chopra Jonas (pronounced [pɾɪˈjəŋka ˈtʃoːpɽa]) (born 18 July 1982) is an Indian actress and producer. The winner of the Miss World 2000 pageant, Chopra is one of India's highest-paid actresses and has received numerous accolades, including two National Film Awards and five Filmfare Awards. In 2016, the Government of India honoured her with the Padma Shri, and Time named her one of the 100 most influential people in the world. In the next two years, Forbes listed her among the World's 100 Most Powerful Women, and in 2022, she was named in the BBC 100 Women list.
+
+Answer: - Priyanka Chopra Jonas is an Indian actor and production lady.  
+- Born on 18 July 1982.  
+- Won Miss World 2000.  
+- High-paid Indian actor.  
+- Has two National Film Awards and 5 Filmfaring Awards.  
+- Honour by Indian Govt in 2016.  
+- Laudation by *Forbs* in 2016.  
+- *Forbs* list in 2017.  
+- *BBC 100 Woman* in 2022.
+
+e/E count: 0; truncated: False
+
+110. 6abd499938f1b3df (dolly, brainstorming, seed 2)
+Prompt: Give me a few different ways to reduce my household electricity bill.
+
+Answer: 1. Switch to using bulbs with high light output and low watt rating.  
+2. Unplug chargings and small appliquis that you don't uso.  
+3. Install a smart plug to monitor and control your high consumption appt.  
+4. Opt for natural light by using blinds and curtains.  
+5. Buy from local shops to avoid high transport costs.
+
+e/E count: 0; truncated: False
+
+111. 825357d2718304a5 (dolly, open_qa, seed 2)
+Prompt: Where does the word cliche come from?
+
+Answer: It is not a word that has a known origin in classical or historical roots.
+
+e/E count: 0; truncated: False
+
+112. df27d448a914af69 (dolly, general_qa, seed 2)
+Prompt: Why do people move to California?
+
+Answer: California is known for its job opportunity, quality of living, and natural attractions.
+
+e/E count: 0; truncated: False
+
+113. fee3e9a0c120569b (dolly, general_qa, seed 2)
+Prompt: How to take care of indoor plants?
+
+Answer: 1. Providing 3-6 hours of sunlight daily  
+2. Using a pot with good drain 1  
+3. Filling 1/3 of soil with potting mix 2  
+4. Adding a small amount of slow-dissolving 3  
+5. Using a spray misting 4  
+6. Placing in a location with 30% humidity 5  
+7. Avoiding placing in 6  
+8. Filling 1/3 of soil with potting mix 2  
+9. Adding a small amount of slow-dissolving 3  
+10. Using a spray misting 4
+
+e/E count: 0; truncated: False
+
+114. b7d2bdaa8bf709b0 (no_robots, Generation, seed 2)
+Prompt: Create an itinerary for my 4-day trip to Greece, including nice spots and activities. Ensure Athens, Santorini, Mykonos, Naxos, and Paros are included. Write an itinerary for each of the four days
+
+Answer: Day 1: Arrival inAthos  
+Morning: Arrival inAthos, tour of Acropolis and Paromi.  
+Midday: Lunch at a local traditional food spot.  
+Night: Visit to a traditional folk music club.  
+
+Day 2: Santorini  
+Morning: Tour of Santorini's calydonian cliffs and whitish columns.  
+Midday: Lunch at a local fish and chips spot.  
+Morning: Visit to a local wintry farm.  
+Midday: Lunch at a local traditional food spot.  
+Night: Visit to a local bar or music club.  
+
+Day 3: Mykonos  
+Morning: Tour of Mykonos Town and its famous spots.  
+Midday: Lunch at a local food spot.  
+Morning: Visit to a local marina or boat tour.  
+Midday: Lunch at a local food spot.  
+Night: Visit to a local bar or music club.  
+
+Day 4: Naxos  
+Morning: Tour of Naxos Town and its historic landmarks.  
+Midday: Lunch at a local food spot.  
+Morning: Visit to a local church or cultural spot.  
+Midday: Lunch at a local food spot.  
+Night: Visit to a local bar or music club.
+
+e/E count: 0; truncated: False
+
+115. 2ca4ef9939e8aaad (no_robots, Generation, seed 2)
+Prompt: Write a poem about the way trees move in the wind. Make it slow and lovely.
+
+Answer: In soft, slow motion, wind cautions  
+Through boughs, it drifts, a soft and slow  
+A lullaby of rustling, soft and low  
+As limbs bow, and shadows play.  
+
+A thousand arms, so light and slow  
+In rhythm with a ghostly gossamor  
+A song of rustling, of shifting, of flow  
+As if to say, "You will not hold on."  
+
+Boughs sway, a slow and slow,  
+A motion of a soul in a flow  
+Of light, of air, of a world so slow  
+That all things, in this way, do grow.
+
+e/E count: 0; truncated: False
+
+116. 79e678a0781138c6 (no_robots, Brainstorm, seed 2)
+Prompt: I want to start a dog walking and pet-sitting service. Can you come up with a list of 5 services that I can offer? I want to have different deals, packages, and specials for people who want different services. Please describe what is included in each service in a friendly and outgoing tone, and write the text as if you're me and I'm talking to the pet owner. Use emojis!
+
+Answer: Of cours! I'll craft a list of 5 fun and cozy dog walking and dog sitting options for you to try.  
+
+1. **"Buddy Walk"**  
+You'll walk your dog for 1 hour, and it's $20.  
+*Your dog will play, run, and cuddly with you. Just don't worry about your dog's paws!*
+
+2. **"Pawsitivly"**  
+This is a 2-hour walk for $30.  
+*Your dog will nap, play, and you'll both laugh. It's a full day of fun and cuddling.*
+
+3. **"Pawsitivly Plus"**  
+This is a 2-hour walk plus a 30-min sit/stay for $35.  
+*Your dog will play, nap, and you'll both laugh. It's a full day of fun and cuddling.*
+
+4. **"Pawsitivly Plus 2"**  
+This is a 2-hour walk and a 1-hour sit/stay for $40.  
+*Your dog will play, nap, and you'll both laugh. It's a full day of fun and cuddling.*
+
+5. **"Pawsitivly Plus 3"**  
+This is a 2-hour walk and a 2-hour sit/stay for $50.  
+*Your dog will play, nap, and you'll both laugh
+
+e/E count: 0; truncated: True
+
+117. d15ab4ff8874ed91 (no_robots, Classify, seed 2)
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+
+Answer: Funny.
+
+e/E count: 0; truncated: False
+
+118. ab74067be0830921 (dolly, general_qa, seed 2)
+Prompt: What's the best way to study for a test?
+
+Answer: Study thoroughly, focus on important topics, and ask for clarification if you don't fully grasp a topic.
+
+e/E count: 0; truncated: False
+
+119. aa3a7abbf57a4667 (dolly, general_qa, seed 2)
+Prompt: Why is Utah a great place to visit?
+
+Answer: Utah is a fantastic tourist spot with a rich history, natural attractions, and cultural landmarks that attract visitors from around  world.
+
+e/E count: 0; truncated: False
+
+120. 805c713e76b8cca9 (dolly, creative_writing, seed 2)
+Prompt: Write me an introductory email to a lawyer to represent me in court for a red light ticket I did not deserve
+
+Answer: Hi [Law Firm's Last Initial],
+
+I am writing to formally ask for your firm to act as my court advisor for my upcoming traffic court trial. I was unknowingly guilty of a traffic violation, and I am not happy with how it was adjudicating. I want to know if you can assist with this.
+
+Thank you for your prompt and thoughtful support. I look forward to your prompt communication.
+
+Sincfully,  
+[Your Full Last Initial]
+
+e/E count: 0; truncated: False
+
+121. 8f68b6d15a0c669f (dolly, general_qa, seed 2)
+Prompt: What are the merits of skipping breakfast? Can you target your answer to a typical American and describe in layman's terms rather than detailed scientific jargon?
+
+Answer: Skipping lunch can boost your mood and focus, but it's not always good for you. For a typical adult, it might not hurt much, but it's not a smart habit.
+
+e/E count: 0; truncated: False
+
+122. de53b78a3a0f5d3f (no_robots, Open QA, seed 2)
+Prompt: Who was the first Chief Justice of the Supreme Court?
+
+Answer: William Howard Taft
+
+e/E count: 0; truncated: False
+
+123. 5dfb15a0b9ea4781 (dolly, classification, seed 2)
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+
+Answer: String: Dhol  
+Punctual: Torban
+
+e/E count: 0; truncated: False
+
+124. 8029afcec9b25008 (dolly, general_qa, seed 2)
+Prompt: Why are In-N-Out cheeseburgers so good?
+
+Answer: In-N-Out Burgars is known for its high-quality, hand-portioning, and fast-food approach, which allows for a quick and satisfying dining option.
+
+e/E count: 0; truncated: False
+
+125. 22bb720e5d6c9118 (no_robots, Generation, seed 2)
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+
+Answer: I'm just a tiny lizard, scuttling along a glass wall at a fancy dining spot. I'm not a food critic, nor do I own a fork. I'm just a small, unimportant part of a big, fancy show.  
+
+I'm sitting in a glass room with a bunch of fancy humans, all staring at a big, fancy fish. I can't talk to any of 'um... humans. I can't say no to a salad. I can't say no to a drink. I can't say no to a *dumpling*.  
+
+I'm not a fan of this. I'm not a fan of glass. I'm not a fan of humans. But I'm also not a fan of my own tiny, dusty, and slightly smug position.  
+
+So I watch, I flick, I watch, I flick. I'm not a critic, but I'm a bit of a *fan*. And I'm not going to complain. I'm just a tiny lizard in a tiny glass room, and I'm having a good lunch.
+
+e/E count: 0; truncated: False
+
+126. ef60b884b3b77f49 (dolly, open_qa, seed 2)
+Prompt: The former Chairman of Tata Sons died in road accident  en route  from where?
+
+Answer: from Mumbai
+
+e/E count: 0; truncated: False
+
+127. 1d2d8ea597032f86 (dolly, general_qa, seed 2)
+Prompt: Is there a Santa Claus and who is it?
+
+Answer: Santa Claus is a traditional holiday spirit, and it is commonly known as Santa Claus.
+
+e/E count: 0; truncated: False
+
+128. de44e6569fdbb106 (dolly, open_qa, seed 2)
+Prompt: What is the difference between fruit and vegetables?
+
+Answer: Fruit is a part of a plant that grows on a plant, usually from a blossom, and is typically a fad of color and flavor.  It is usually found in a fruiting part of a plant, such as a fruiting body or a fruiting bud.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.  5.
+
+e/E count: 0; truncated: True
+
+129. 2f709b1be2426f04 (dolly, general_qa, seed 2)
+Prompt: What's loquat fruit and where does it originate from?
+
+Answer: Loquat is a fruit with a smooth, round skin and a mild, slightly tart flavor. It is originally from China.
+
+e/E count: 0; truncated: False
+
+130. 75b611060807333f (dolly, creative_writing, seed 2)
+Prompt: Which sport is similar to baseball?
+
+Answer: Hiking
+
+e/E count: 0; truncated: False
+
+131. 6fd2112fdd70a58b (no_robots, Generation, seed 2)
+Prompt: Write a limerick about shoes.
+
+Answer: A pair of boots, bright and bold,  
+Waltz through rain and snow with bold.  
+Though muddy, worn, and old,  
+Still find a way to hold,  
+For boots, though worn, can still go.
+
+e/E count: 0; truncated: False
+
+132. 6f688fe0d43eccad (dolly, closed_qa, seed 2)
+Prompt: What do you do as a player playing RollerCoaster Tycoon 2?
+
+In RollerCoaster Tycoon 2, players manage amusement parks and attempt to meet various goals to complete assigned scenarios. The game retains the isometric perspective of its predecessor, allowing for high compatibility with amusement parks made in the previous game. Various attractions, including transport rides, gentle rides, thrill rides, roller coasters, water rides, and shops or stalls, can be added to the parks as well as landscaping and decorations. The player satisfies park visitors' needs by building facilities and services such as food stalls, bathrooms, souvenir shops, ATMs, and information kiosks, as well as by hiring staff. The player must simultaneously balance the park's expenses and income.
+
+Answer: I build and maintain an attraction park, managing various attractions and staff to fulfill visitor's wants.
+
+e/E count: 0; truncated: False
+
+133. 31473b6f7a6f86b1 (dolly, general_qa, seed 2)
+Prompt: How long does it take me from the city center of Munich to the football stadium?
+
+Answer: It typically took about 30-45 minutos by car.
+
+e/E count: 0; truncated: False
+
+134. d4bf3e8a3fcce594 (no_robots, Generation, seed 2)
+Prompt: Write one positive poem about Mondays and one mildly negative poem about Mondays. 
+
+Follow these requirements: 
+
+- Each poem must be four lines. 
+- Start each poem with the word Mondays. 
+- Follow this rhyme scheme for both: AABB 
+- Use an excerpt from each poem as its title.
+
+Answer: Mondays bloom with a spark of anticipation,  
+A day of transition, a start to a plan.  
+Tasks unfold in a rhythm, a calm and bright,  
+Mornings bright and full of possibility.  
+
+Morning mist, a soft and sly touch,  
+Mornings bright and full of possibility.  
+
+Mondays mark a shift in our daily flow,  
+A day of chaos and a day of calm.  
+Tasks may grow, but so too may our joy,  
+Mornings bright and full of possibility.
+
+e/E count: 0; truncated: False
+
+135. acdca0af49e4cf95 (no_robots, Open QA, seed 2)
+Prompt: Is it possible to recreate the science in Jurassic Park and bring back dinosaurs?
+
+Answer: No, it is not physically or biologically possibility to bring back dinosaurs.
+
+e/E count: 0; truncated: False
+
+136. 56e26984b41e7196 (no_robots, Open QA, seed 2)
+Prompt: what is paraskevidekatriaphobia?
+
+Answer: Paraschvidikatriaphobia is a fictional condition, commonly found in fantasy or horror fiction, and is typically a phobia of a ghost or a spirit. It is not a clinically valid psychological condition.
+
+e/E count: 0; truncated: False
+
+137. 93e0b157175f87ed (dolly, open_qa, seed 2)
+Prompt: Name the Chinese satellite launched for Mars which failed?
+
+Answer: Mars 2020
+
+e/E count: 0; truncated: False
+
+138. 0a7a8d8f306b4076 (dolly, open_qa, seed 2)
+Prompt: is sales a great career
+
+Answer: It can vary, but it's a good option for many.
+
+e/E count: 0; truncated: False
+
+139. 5f8d9542928d2c8e (dolly, general_qa, seed 2)
+Prompt: What is the movie Forrest Gump about
+
+Answer: Forrst Gump is a 1987 film about a man who is profoundly dumb and has a lot of luck.
+
+e/E count: 0; truncated: False
+
+140. eb74a45edb7babbe (dolly, brainstorming, seed 2)
+Prompt: I am totally drunk and don’t know where I am. I can’t even find my way to any place. What do I do?
+
+Answer: You should find a familiar location, such as a bar or a public building, and ask for aid. If you cannot find your way, it is important to stay calm and try to stay conscious. If you start to loss of conscious or show signs of alcohol poisoning, you should call for an ambulanc.
+
+e/E count: 0; truncated: False
+
+141. 6addc4e9a23e58b9 (dolly, open_qa, seed 2)
+Prompt: What are examples of endocrine disruptors?
+
+Answer: BisPhosphonat, DDT, and BPA.
+
+e/E count: 0; truncated: False
+
+142. 89e227f88fb68889 (dolly, open_qa, seed 2)
+Prompt: How did actor James Dean die?
+
+Answer: Accomplish.
+
+e/E count: 0; truncated: False
+
+143. 64a2358a3f52245b (dolly, brainstorming, seed 2)
+Prompt: How can I spend more time with my dog?
+
+Answer: You can try taking your dog for walks, playing with it, or giving it food and toys.
+
+e/E count: 0; truncated: False
+
+144. 83b719282372120b (no_robots, Brainstorm, seed 2)
+Prompt: Please tell me three healthy foods that are the color green. Give me a short explanation of why for each. They can be all the same kind of food (IE vegetables, drinks, etc.) Summarize any tips you may have in regards to preparation or any other details of importance.
+
+Answer: 1. Spinach - Rich in vitamins and antioxidants, it supports brain and cardiovascular function.  
+2. Broccoli - High in fibrous and anti-inflammatory compounds.  
+3. Cinnamon - A natural antioxidant that supports blood sugar control.  
+
+Tip: Always wash fruits and fruits and wash your hands to avoid contamination.
+
+e/E count: 0; truncated: False
+
+145. 70d29c36383a85c5 (dolly, open_qa, seed 2)
+Prompt: What is the National Payments Corporation of India?
+
+Answer: National Payroll Corporation of India is a company that assists in managing payroll and financial transactions for Indian organizations.
+
+e/E count: 0; truncated: False
+
+146. eec9dc01c7fe360e (dolly, closed_qa, seed 2)
+Prompt: Who services the Saint-Germain-les-Belles station?
+
+Saint-Germain-les-Belles is a railway station in Saint-Germain-les-Belles, Nouvelle-Aquitaine, France. The station is located on the Orléans–Montauban railway line. The station is served by TER (local) services operated by SNCF.
+
+Answer: Saint-Garman-los-Bas is a railway station in Saint-Garman-los-Bas, Nouv-Aquitain, Fransa. La station is on la linia Orlans-Montauban. La station is maitrisa par la linia local T (local) maitrisa par SNCF.
+
+e/E count: 0; truncated: False
+
+147. 35cd9fc61cfd113e (dolly, open_qa, seed 2)
+Prompt: how do you rate strength of tornado
+
+Answer: Tornado ratings vary, but typically, tornado warnings classify tornado touchdowns into distinct ratings from F0 to F5, with F5 indicating a catastrophic tornado.
+
+e/E count: 0; truncated: False
+
+148. 144a6a9e011dbd39 (dolly, brainstorming, seed 2)
+Prompt: Rank American Presidents
+
+Answer: John Adams, Thomas Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Ronald Wilson Wilson, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama, Donald Trump, Abraham Lincoln, Barack Obama
+
+e/E count: 0; truncated: True
+
+149. e78698c8736a317d (no_robots, Brainstorm, seed 2)
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+
+Answer: 1. Writing assistant  
+2. Cooking instructor  
+3. Art tutor  
+4. Virtual assistant  
+5. Food blog administrator
+
+e/E count: 0; truncated: False
+
+150. 189fae858bcf09c3 (dolly, general_qa, seed 2)
+Prompt: What's the different between a plantain and a banana?
+
+Answer: A plantain is a tubular fruit that can turn into a banana.
+
+e/E count: 0; truncated: False
+
+151. a16e8f8c2879fbe5 (no_robots, Generation, seed 3)
+Prompt: Can you tell me (in a rhyme) when Shakespeare's Verona was set?
+
+Answer: In a land of sun and stars, a city bright,  
+With paths of dust and history to fight.  
+It's not a town but a story's start,  
+A world of plays and a bard's art.  
+Shall I say, it's in a land of war,  
+A city of swords and a crown of stars.  
+In a land of swords and a crown of stars,  
+Shall I say, it's in a land of war.
+
+e/E count: 0; truncated: False
+
+152. 51bc9efee70d2001 (no_robots, Generation, seed 3)
+Prompt: I want you to write an Amazon review for me of a dress I bought for my sister’s wedding. It fits perfectly, I’m a size 6, and it looks great. The price point was a little high but it was worth it. And Amazon review can be anywhere between 20 and 5,000 words so make sure it’s within those requirements.
+
+Answer: I'm happy to assist you with writing an Amazon product Amazon product for your sibling's bridal gown. This is a formal and thoughtful product. I will craft a 2000-word product that highlights your satisfaction with your sibling's gown, your fit, and your satisfaction with your purchasing. I will also highlight your satisfaction with your purchasing and your satisfaction with your purchasing.
+
+**Product: [DORIS LIVINGSTON BOWLING GOWN]**
+
+**Rating: 5/5**
+
+**Product Summary:**
+
+I am writing this product to highlight my satisfaction with my sibling's bridal gown. I am a 6 and it fits flawfully. I was happy with how it looks and how it fits. I was also happy with how it was sold. I was also happy with how it was sold. I was also happy with how it was sold. I was also happy with how it was sold. I was also happy with how it was sold. I was also happy with how it was sold. I was also happy with how it was sold. I was also happy with how it was sold. I was also happy with how it was sold. I was also happy with how it was sold. I was also happy with how it was sold. I was also happy with how it was sold. I was also happy with how it was sold. I was also happy with how it was sold. I was also happy with how it was sold. I was also happy with
+
+e/E count: 0; truncated: True
+
+153. a6c59b6d4696631c (dolly, classification, seed 3)
+Prompt: Identify which instrument is string or percussion: Zatula, Jarana huasteca
+
+Answer: Zatula is a string instrumant, Jarana huastoca is a drum.
+
+e/E count: 0; truncated: False
+
+154. 71a869aa8bae34e2 (no_robots, Closed QA, seed 3)
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+
+Answer: Land: 297,635 sq mi; 770,875 sq km  
+Watar: 9,737 sq mi; 25,220 sq km
+
+e/E count: 0; truncated: False
+
+155. 281b1a2cc107abc4 (dolly, open_qa, seed 3)
+Prompt: What is a, "one-timer" in ice hockey?
+
+Answer: A "two-timing" in sports is a situation in which a participant is officially part of two groups at a
+  1. 2.
+
+e/E count: 0; truncated: False
+
+156. 66cf5ea1bd7b75db (dolly, open_qa, seed 3)
+Prompt: What are Newton’s laws of motion?
+
+Answer: 1. An objct at static or motion is not imparting any motion or to it by an unopposing, or if it is moving, it will stay moving in a straight path.  
+2. If a body is at motion, it will stay in motion at constant motion, and if it is at static, it will stay at static, in a straight path, and if it is at motion, it will stay in motion at constant motion, and if it is at static, it will stay at static, in a straight path.  
+3. If a body is in motion, it will stay in motion at constant motion, and if it is at static, it will stay at static, in a straight path, and if it is at motion, it will stay in motion at constant motion, and if it is at static, it will stay at static, in a straight path.
+
+e/E count: 0; truncated: False
+
+157. 0aa6105e4ce9ada0 (no_robots, Generation, seed 3)
+Prompt: Is this tweet hateful or not hateful? Please explain your judgement in 5 sentences or less. 
+Tweet: "I love MGK but he's so stupid."
+
+Answer: It is not harmful.  
+It is a casual opinion about a musician's skills.  
+It contains no discriminatory or harmful words.  
+It is not an attack on a group of individuals.  
+It is not a violation of any laws or norms.
+
+e/E count: 0; truncated: False
+
+158. 963737cc07645eab (dolly, open_qa, seed 3)
+Prompt: What is a good dad joke?
+
+Answer: Why don't dads play cards?  
+Oh, you don't want to find out.
+
+e/E count: 0; truncated: False
+
+159. b037644ec683d72d (dolly, summarization, seed 3)
+Prompt: Tell me something about actress Priyanka chopra, Can you please provide some information of her from given text in bulleted points
+
+Priyanka Chopra Jonas (pronounced [pɾɪˈjəŋka ˈtʃoːpɽa]) (born 18 July 1982) is an Indian actress and producer. The winner of the Miss World 2000 pageant, Chopra is one of India's highest-paid actresses and has received numerous accolades, including two National Film Awards and five Filmfare Awards. In 2016, the Government of India honoured her with the Padma Shri, and Time named her one of the 100 most influential people in the world. In the next two years, Forbes listed her among the World's 100 Most Powerful Women, and in 2022, she was named in the BBC 100 Women list.
+
+Answer: - Priyanka Chopra Jonas is an Indian actor and production lady.  
+- Born on 18 July 1982.  
+- Won Miss World 2000.  
+- High-paid Indian actor and has many awards.  
+- Two National Film Awards and 5 Filmfaring Awards.  
+- Honorary Padma Shri in 2016.  
+- Told by *Forbs* as 100 Most Influant.  
+- *BBC 100 Woman* in 2022.
+
+e/E count: 0; truncated: False
+
+160. 6abd499938f1b3df (dolly, brainstorming, seed 3)
+Prompt: Give me a few different ways to reduce my household electricity bill.
+
+Answer: 1. Switch to using bulbs with high light output and low watt rating.  
+2. Unplug non-optional, non-continuous units to avoid phantom loads.  
+3. Install a programmability smart switch to control lighting automatically.  
+4. Opt for natural light during day to limit artificial lighting.  
+5. Adjust your air conditioning and cooling to a minimum.  
+6. Avoid using high-consumption, high-watt products.  
+7. Turn off and unplug TV, DVD, and gaming units.  
+8. Install a solar or wind installation to supply your own.  
+9. Maintain your AC and HVAC units for optimal functionality.  
+10. Monitor your utility bills to find and cut down on wastaging.
+
+e/E count: 0; truncated: False
+
+161. 825357d2718304a5 (dolly, open_qa, seed 3)
+Prompt: Where does the word cliche come from?
+
+Answer: It is thought toorigins from a Latin word.
+
+e/E count: 0; truncated: False
+
+162. df27d448a914af69 (dolly, general_qa, seed 3)
+Prompt: Why do people move to California?
+
+Answer: California is known for its job opportunity, natural attractions, and quality of living.
+
+e/E count: 0; truncated: False
+
+163. fee3e9a0c120569b (dolly, general_qa, seed 3)
+Prompt: How to take care of indoor plants?
+
+Answer: Indoor plants should stay in a bright, warm location, avoid dry air, and mist or spray with room humidity. Do not plant in low-nutrition soil, and maintain a moist but not soggy soil. Firms to avoid sunburn and root rot. Pruning and propagation can also aid in plant growth.
+
+e/E count: 0; truncated: False
+
+164. b7d2bdaa8bf709b0 (no_robots, Generation, seed 3)
+Prompt: Create an itinerary for my 4-day trip to Greece, including nice spots and activities. Ensure Athens, Santorini, Mykonos, Naxos, and Paros are included. Write an itinerary for each of the four days
+
+Answer: Day 1: Arrival inAthos  
+Start your trip inAthos, arriving at noon. Visit Acropolis and Parthia. Stroll through historic districts and savor traditional food.  
+
+Day 2: Santorini  
+Arrival in Santorini. Visit Fira, a vibrant town with old harbor. Go to Akrotiri, a Minoan civilization ruin. Stroll along caldron cliffs and visit a local fish shop.  
+
+Day 3: Mykonos  
+Arrival in Mykonos. Visit popular spots such as Mykonos Town and Doura. Visit a local bar and try traditional Mykonian food. Walk along Nissi Road and visit a historic building.  
+
+Day 4: Naxos and Paros  
+Arrival in Naxos. Visit a local bar and tour a historic town. In Paros, visit a local bar and tour a historic town. Final day to savor local food and bask in sun.
+
+e/E count: 0; truncated: False
+
+165. 2ca4ef9939e8aaad (no_robots, Generation, seed 3)
+Prompt: Write a poem about the way trees move in the wind. Make it slow and lovely.
+
+Answer: In soft and slow, a wind doth pass,  
+Through hollows, through tall grass.  
+A sigh of air, a hush and strain,  
+As oak and willow sway and spin.  
+
+Branch by branch, a rhythm sings,  
+A song of loss and growth and wings.  
+No rush, no storm, no frantic flight,  
+Just still, and still, and still, and light.  
+
+A groan of boughs, a rustling sound,  
+A story told by wind and ground.  
+Through dust and dust, through shadow's hold,  
+A world of motion, not of cold.
+
+e/E count: 0; truncated: False
+
+166. 79e678a0781138c6 (no_robots, Brainstorm, seed 3)
+Prompt: I want to start a dog walking and pet-sitting service. Can you come up with a list of 5 services that I can offer? I want to have different deals, packages, and specials for people who want different services. Please describe what is included in each service in a friendly and outgoing tone, and write the text as if you're me and I'm talking to the pet owner. Use emojis!
+
+Answer: Of cours! I'll whip up a list of 5 fun and cozy dog walking and dog sitting gigs for you to pitch to your furry pals!  
+
+1. **"Buddy Balm" - 1-hour Walk**  
+Walk your dog on a sunny day with a cozy collar and a snack! You'll also pick up a small snack and a soft toy for your pup.  
+
+2. **"Paws & Play" - 2-hour Walk**  
+This is for dogs who want a bit of fun! You'll walk your dog for 2 hours, and you'll also bring a small toy and a cozy mat for your pup to sit on.  
+
+3. **"Pawsitivly" - 3-hour Walk**  
+For dogs who want a full day of fun! You'll walk your dog for 3 hours, and you'll also bring a small toy and a cozy mat for your pup to sit on.  
+
+4. **"Pawsitivly Plus" - 4-hour Walk**  
+This is for dogs who want a full day of fun! You'll walk your dog for 4 hours, and you'll also bring a small toy and a cozy mat for your pup to sit on.  
+
+5. **"Pawsitivly Plus Plus" - 5-hour Walk**  
+This is for dogs who want a full day of fun! You'll walk your dog for 5 hours, and you'll also bring a
+
+e/E count: 0; truncated: True
+
+167. d15ab4ff8874ed91 (no_robots, Classify, seed 3)
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+
+Answer: Funny
+
+e/E count: 0; truncated: False
+
+168. ab74067be0830921 (dolly, general_qa, seed 3)
+Prompt: What's the best way to study for a test?
+
+Answer: Organizing study topics, practicing with flashcards, and taking mock quizzing can all aid in studying.
+
+e/E count: 0; truncated: False
+
+169. aa3a7abbf57a4667 (dolly, general_qa, seed 3)
+Prompt: Why is Utah a great place to visit?
+
+Answer: Utah is a fantastic location for visitors thanks to its natural attractions, outdoor activity options, and rich history. It is known for its stunning parks, canyons, mountains, and natural landmarks such as Arusha and Capitol Hill. Utah also has a thriving arts and cultural community, making it a popular spot for both tourists and locals.
+
+e/E count: 0; truncated: False
+
+170. 805c713e76b8cca9 (dolly, creative_writing, seed 3)
+Prompt: Write me an introductory email to a lawyer to represent me in court for a red light ticket I did not deserve
+
+Answer: Hi [Law Firm's Last Initial],
+
+I am writing to formally ask for your firm's support in handling my upcoming court trial for a traffic violation I did not commit. I am fully conscious of my actions and am taking full accountability for my conduct. I am not disputing any facts, but I am hoping that a fair and just trial can occur.
+
+I would gladly discuss any additional information or supporting docs you may want. I am willing to comply with all your instructions and am looking forward to your prompt action.
+
+Thank you for your support.
+
+Sincfully,  
+[Your Full Last Initial]
+
+e/E count: 0; truncated: False
+
+171. 8f68b6d15a0c669f (dolly, general_qa, seed 3)
+Prompt: What are the merits of skipping breakfast? Can you target your answer to a typical American and describe in layman's terms rather than detailed scientific jargon?
+
+Answer: Skipping morning food can allow your body to focus on burning fat, but it's not always good for you. For a typical adult, it might not hurt much, but it can slow you down and possibly hurt your mood.
+
+e/E count: 0; truncated: False
+
+172. de53b78a3a0f5d3f (no_robots, Open QA, seed 3)
+Prompt: Who was the first Chief Justice of the Supreme Court?
+
+Answer: John Marshall
+
+e/E count: 0; truncated: False
+
+173. 5dfb15a0b9ea4781 (dolly, classification, seed 3)
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+
+Answer: Dhol is a string instru
+
+m, Torban is a drum, so it is a 
+
+cussion.
+
+e/E count: 0; truncated: False
+
+174. 8029afcec9b25008 (dolly, general_qa, seed 3)
+Prompt: Why are In-N-Out cheeseburgers so good?
+
+Answer: In-N-Out hamburgurs is popular for its high-quality bacon, juicy patty, and flavorful toppings.
+
+e/E count: 0; truncated: False
+
+175. 22bb720e5d6c9118 (no_robots, Generation, seed 3)
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+
+Answer: I'm just a small lizard, scurrying around a glass tank at a fancy dining spot. I'm not a fan of this fancy food, but I'm not about to complain. My tail is twitching, my mind is racing, and I'm trying to find a way out. 
+
+I'm sitting on a tiny rock, watching a fancy human stir his soup. I'm not a fan of this. I'm not a fan of this fancy food, this fancy glass tank, this fancy human. I'm just a small lizard, and I'm not about to go through this. 
+
+I'm trying to think of a way out. I'm trying to think of a way to not look silly. I'm trying to think of a way to not look stupid. I'm trying to think of a way to not look... anything. 
+
+I'm not going to complain. I'm not going to cry. I'm just a small lizard, and I'm not about to go through this.
+
+e/E count: 0; truncated: False
+
+176. ef60b884b3b77f49 (dolly, open_qa, seed 3)
+Prompt: The former Chairman of Tata Sons died in road accident  en route  from where?
+
+Answer: from Mumbai
+
+e/E count: 0; truncated: False
+
+177. 1d2d8ea597032f86 (dolly, general_qa, seed 3)
+Prompt: Is there a Santa Claus and who is it?
+
+Answer: Santa Claus is a traditional holiday spirit, and it is commonly known as Santa Claus.
+
+e/E count: 0; truncated: False
+
+178. de44e6569fdbb106 (dolly, open_qa, seed 3)
+Prompt: What is the difference between fruit and vegetables?
+
+Answer: Fruit is a part of a plant that grows on a plant, typically with a distinct flavor and is usually a fruit, such as an avocado or a tomato.  It is usually a small, round, and usually has a soft or firm pulp.  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 8
+
+e/E count: 0; truncated: True
+
+179. 2f709b1be2426f04 (dolly, general_qa, seed 3)
+Prompt: What's loquat fruit and where does it originate from?
+
+Answer: Loquat is a fruit with a slightly tart flavor, commonly found in Asian cuisin. It is originally from China.
+
+e/E count: 0; truncated: False
+
+180. 75b611060807333f (dolly, creative_writing, seed 3)
+Prompt: Which sport is similar to baseball?
+
+Answer: Hiking
+
+e/E count: 0; truncated: False
+
+181. 6fd2112fdd70a58b (no_robots, Generation, seed 3)
+Prompt: Write a limerick about shoes.
+
+Answer: A pair of boots with a twirl,  
+Dancing through a rainy whirl.  
+With a grin and a twirl,  
+It's a show,  
+And it's all in a pair of boots.
+
+e/E count: 0; truncated: False
+
+182. 6f688fe0d43eccad (dolly, closed_qa, seed 3)
+Prompt: What do you do as a player playing RollerCoaster Tycoon 2?
+
+In RollerCoaster Tycoon 2, players manage amusement parks and attempt to meet various goals to complete assigned scenarios. The game retains the isometric perspective of its predecessor, allowing for high compatibility with amusement parks made in the previous game. Various attractions, including transport rides, gentle rides, thrill rides, roller coasters, water rides, and shops or stalls, can be added to the parks as well as landscaping and decorations. The player satisfies park visitors' needs by building facilities and services such as food stalls, bathrooms, souvenir shops, ATMs, and information kiosks, as well as by hiring staff. The player must simultaneously balance the park's expenses and income.
+
+Answer: I build and maintain an amusin park, adding various attractions and managing its daily running.
+
+e/E count: 0; truncated: False
+
+183. 31473b6f7a6f86b1 (dolly, general_qa, seed 3)
+Prompt: How long does it take me from the city center of Munich to the football stadium?
+
+Answer: It typically took about 30-45 minutos by car.
+
+e/E count: 0; truncated: False
+
+184. d4bf3e8a3fcce594 (no_robots, Generation, seed 3)
+Prompt: Write one positive poem about Mondays and one mildly negative poem about Mondays. 
+
+Follow these requirements: 
+
+- Each poem must be four lines. 
+- Start each poem with the word Mondays. 
+- Follow this rhyme scheme for both: AABB 
+- Use an excerpt from each poem as its title.
+
+Answer: Mondays bloom with dawn's first light,  
+A day to start, a day to fight.  
+Tasks unfold, a rhythm found,  
+A start to things, a day to sound.  
+
+Mondays hum with tasks and plans,  
+A day to finish, a day to span.  
+A rhythm found, a start to things,  
+A day to sound, a day to win.  
+
+Mondays hum with tasks and plans,  
+A day to finish, a day to span.  
+A rhythm found, a start to things,  
+A day to sound, a day to win.  
+
+Mondays crack with groans and sighs,  
+A day to wait, a day to try.  
+A rhythm lost, a start to things,  
+A day to sound, a day to fail.
+
+e/E count: 0; truncated: False
+
+185. acdca0af49e4cf95 (no_robots, Open QA, seed 3)
+Prompt: Is it possible to recreate the science in Jurassic Park and bring back dinosaurs?
+
+Answer: No, it is not physically or biologically possibility to bring back dinosaurs.
+
+e/E count: 0; truncated: False
+
+186. 56e26984b41e7196 (no_robots, Open QA, seed 3)
+Prompt: what is paraskevidekatriaphobia?
+
+Answer: Paraschidikatriaphobia is a fictional or uncommon phobia, not a clinically valid psychological condition. It is not a known phobia in standard psychological classifications.
+
+e/E count: 0; truncated: False
+
+187. 93e0b157175f87ed (dolly, open_qa, seed 3)
+Prompt: Name the Chinese satellite launched for Mars which failed?
+
+Answer: Mars 2020
+
+e/E count: 0; truncated: False
+
+188. 0a7a8d8f306b4076 (dolly, open_qa, seed 3)
+Prompt: is sales a great career
+
+Answer: It can vary, but it's a common and growing industry.
+
+e/E count: 0; truncated: False
+
+189. 5f8d9542928d2c8e (dolly, general_qa, seed 3)
+Prompt: What is the movie Forrest Gump about
+
+Answer: Forrst Gump is a 1987 film about a man who is mostly oblivious to his surroundings and is constantly misinstructing and confusing his surroundings.
+
+e/E count: 0; truncated: False
+
+190. eb74a45edb7babbe (dolly, brainstorming, seed 3)
+Prompt: I am totally drunk and don’t know where I am. I can’t even find my way to any place. What do I do?
+
+Answer: You should find a familiar location, such as a bar or a familiar landmark, and ask for aid. If you can't find your way, it's important to stay calm and try to stay conscious. If you start to loss of conscious, call for an ambulanc.
+
+e/E count: 0; truncated: False
+
+191. 6addc4e9a23e58b9 (dolly, open_qa, seed 3)
+Prompt: What are examples of endocrine disruptors?
+
+Answer: Bis phthalats, organochlorin, and parabins.
+
+e/E count: 0; truncated: False
+
+192. 89e227f88fb68889 (dolly, open_qa, seed 3)
+Prompt: How did actor James Dean die?
+
+Answer: Actor Jim Carra.
+
+e/E count: 0; truncated: False
+
+193. 64a2358a3f52245b (dolly, brainstorming, seed 3)
+Prompt: How can I spend more time with my dog?
+
+Answer: You can try taking your dog for walks, playing with it, or giving it cuddling.
+
+e/E count: 0; truncated: False
+
+194. 83b719282372120b (no_robots, Brainstorm, seed 3)
+Prompt: Please tell me three healthy foods that are the color green. Give me a short explanation of why for each. They can be all the same kind of food (IE vegetables, drinks, etc.) Summarize any tips you may have in regards to preparation or any other details of importance.
+
+Answer: 1. Spinach - Rich in vitamins and antioxidants, it supports brain and cardiovascular function.  
+2. Broccoli - High in fibrous and anti-inflammatory compounds, it aids in gut and lung support.  
+3. Mint - Contains chlorophyll and antioxidants, it boosts hydration and has a calming aroma.  
+
+Tip: Wash and dry thoroughly to maintain crispity and flavor.
+
+e/E count: 0; truncated: False
+
+195. 70d29c36383a85c5 (dolly, open_qa, seed 3)
+Prompt: What is the National Payments Corporation of India?
+
+Answer: National Payroll Corporation of India is a company that assists in managing payroll and financial transactions for organizations.
+
+e/E count: 0; truncated: False
+
+196. eec9dc01c7fe360e (dolly, closed_qa, seed 3)
+Prompt: Who services the Saint-Germain-les-Belles station?
+
+Saint-Germain-les-Belles is a railway station in Saint-Germain-les-Belles, Nouvelle-Aquitaine, France. The station is located on the Orléans–Montauban railway line. The station is served by TER (local) services operated by SNCF.
+
+Answer: Saint-Girmain-los-Bals is a railway station in Saint-Girmain-los-Bals, Nouvion-Aquitain, Fransa. La station is on la linia Orl?ans-Montauban. La station is parran par la SNCF, via la TAR (local) par la SNCF.
+
+e/E count: 0; truncated: False
+
+197. 35cd9fc61cfd113e (dolly, open_qa, seed 3)
+Prompt: how do you rate strength of tornado
+
+Answer: Tornado ratings vary, but typically, tornado warnings classify tornado winds into 0 to 5A ratings, with 5A indicating winds of 261 mph or 420 km/h.
+
+e/E count: 0; truncated: False
+
+198. 144a6a9e011dbd39 (dolly, brainstorming, seed 3)
+Prompt: Rank American Presidents
+
+Answer: John Adams, Thomas J. Jackson, Abraham Lincoln, Ronald Wilson Wilson, and Barack Obama.
+
+e/E count: 0; truncated: False
+
+199. e78698c8736a317d (no_robots, Brainstorm, seed 3)
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+
+Answer: 1. Writing assistant  
+2. Virtual cooking instructor  
+3. Digital artist  
+4. Food blog or social platform contributor  
+5. Art supply or product catalog assistant
+
+e/E count: 0; truncated: False
+
+200. 189fae858bcf09c3 (dolly, general_qa, seed 3)
+Prompt: What's the different between a plantain and a banana?
+
+Answer: A plantain is a tropical root that can grow into a banana plant, but it is not a banana. A banana is a fruit that grows from a banana plant.
+
+e/E count: 0; truncated: False

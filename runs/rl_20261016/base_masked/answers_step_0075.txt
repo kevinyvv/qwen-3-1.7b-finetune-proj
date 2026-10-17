@@ -1,0 +1,38 @@
+reward=0.625 usable=False | List some common symptoms that someone may experience if they acquired a gastrointestinal bug.
+diarrhoa, vomiting, abdominal pain, loss of stool, low mood, chills, body aching
+
+reward=0.75 usable=False | How did India get independence from colonial rule
+India got its first major political transformation in 1947, marking its formal transition from British colonial control to a nation with a distinct political and cultural autonomy.
+
+reward=1.0 usable=True | I need help writing a message for a blank greeting card I want to send to my sister Lisa who just ha
+I'm thinking of you and hoping you'll soon start to go back to your usual happy ways. You'll do amazing, Lisa.
+
+reward=0.5 usable=False | How did India get independence from colonial rule
+India was finally brought to an official standstill by its own colonists, and it was not until 1947 that it was fully and finally won its own country.
+
+reward=0.625 usable=False | I need help writing a message for a blank greeting card I want to send to my sister Lisa who just ha
+I'm thinking about you and hoping you'll soon start to look much migliort.
+
+reward=0.75 usable=False | Write me a short story only using emojis. I don't want it longer than 3 lines but I want the story t
+snowflaky  snowflaky  snowflaky  
+It was a cold, snowy day, and a small snowman was built with sticks and snow.  
+Snowman was happy and thought about his warm soup and cozy socks.  
+
+**Story:**  
+A snowy day brought a small snowman who happily thought about his warm soup and cozy socks.
+
+reward=0.875 usable=True | List some common symptoms that someone may experience if they acquired a gastrointestinal bug.
+diarrha, vomiting, abdominal pain, loss of stool, low potassium, chills, dry mouth, loss of normal bathroom habits
+
+reward=0.625 usable=False | List some common symptoms that someone may experience if they acquired a gastrointestinal bug.
+diarrhazi
+pain
+vomiting
+loss of stool
+abdominal cramps
+
+reward=0.875 usable=True | I need help writing a message for a blank greeting card I want to send to my sister Lisa who just ha
+I'm thinking of you and hoping you'll soon start to look forward to your upcoming days.
+
+reward=0.625 usable=False | How did India get independence from colonial rule
+India was brought to its own country by a group of Indians who fought for it.

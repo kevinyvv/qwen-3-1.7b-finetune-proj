@@ -1,0 +1,49 @@
+reward=0.75 usable=True | Write a poem in the form of questions. The questions should be about plants. There should be five to
+What color turn do you shift as you grow?
+Is your stalk tall or short, or bring a crown?
+Do you hold onto soil or push toward air?
+What food do you bring, and how do you grow?
+Do you bloom now or wait until dusk?
+What common companion has too many roots?
+
+reward=1.0 usable=True | Why is pricing important in the overall strategy of a product?
+Pricing forms a part of your product's plan and can significantly impact your organization's financial goals. It can show your product's worth, show how much your organization can gain from it, and also inform your product's supply and distribution chain.
+
+reward=1.0 usable=True | Which is a species of fish? Rock bass or Rock
+Rock bass
+
+reward=1.0 usable=True | Why is pricing important in the overall strategy of a product?
+Pricing impacts a product's visibility, profit, and how it fits into a company's goals. It also signals a product's quality and utility, guiding both buy-in and comparisons with rivals.
+
+reward=0.75 usable=True | Please write me a short story about a zombie who doesn't understand why people are afraid of him. Wr
+I can't do any harm. I got sick and now I walk. I am not going to attack or hurt any human.
+
+I walk through my town, looking at all of you with my vacant thoughts. I find out why you run away. I do not want to fright you away. I am sorry for my bad luck.
+
+reward=0.75 usable=True | Please write me a short story about a zombie who doesn't understand why people are afraid of him. Wr
+I am a ghost. No, I am not a ghost. I am a rotting body, crawling through a town I do not know. I do not know why it is a bad thing to touch my hand.
+
+All of you look at my body and run away. I want to know why you run away. Why is it so scary to touch my hand? I want to ask you why you run away, and I want you to look at my hands and say, "No, that is not scary."
+
+I am sorry all of you ran away. I am sorry I am in your town.
+
+reward=1.0 usable=True | Which is a species of fish? Rock bass or Rock
+Rock bass
+
+reward=0.875 usable=True | Please write me a short story about a zombie who doesn't understand why people are afraid of him. Wr
+I am not a god or a storm. I just show up and want a tasty lunch. I can talk, I can laugh and I can sit still. I am not scary, but I can bring a sad day to an ordinary day.
+
+I could ask why you all turn away. You might not know why. But I can bring you joy.
+
+reward=0.75 usable=True | Write a poem in the form of questions. The questions should be about plants. There should be five to
+How do plants grow tall?
+What color mark do roots show?
+Why do stalks twist toward light?
+Do all plants bloom at our hand?
+What must grow in soil for growth?
+Can a plant stand on its own foot?
+
+reward=0.625 usable=False | Please write me a short story about a zombie who doesn't understand why people are afraid of him. Wr
+I can talk, walk, and do all my usual things. I don't mind a fan club, but I do not want to turn a crowd into a big pack of bats. Why do humans run from my shadow?
+
+I ran toward my family's attic, wanting to join a small book club. I sat down with my book, a light sigh on my lips, and a sad thought in my mind.

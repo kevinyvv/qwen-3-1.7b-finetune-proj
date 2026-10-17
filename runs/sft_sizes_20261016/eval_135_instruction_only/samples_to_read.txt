@@ -1,0 +1,68 @@
+1. e78698c8736a317d seed 1 | usable=False e_pass=False | not judged
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Post a cooking blog: You can blog about your cooking, with photos and tips. This is a job you can do from your kitchen.
+2. Draw a painting for a local shop: Crafting art for local buyers can pay your bills, without a shop.
+3. Write a cooking tutorial: A blog or YouTube tutorial can bring you a following.
+4. Cook for a local family: A cooking club or a cooking buddy can pay for your work, which can also bring a social group.
+5. Write a short story: Fiction, stories, and short plot points can bring you a following.
+
+2. 70d29c36383a85c5 seed 3 | usable=False e_pass=False | not judged
+Prompt: What is the National Payments Corporation of India?
+Answer: NPCI stands for National Payments Corporation of India. It is a public company with a major goal of promoting digital payments and financial inclusion across India.
+
+3. 963737cc07645eab seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The sentence is clear and attempts a dad joke, though the punchline is a little unclear.
+Prompt: What is a good dad joke?
+Answer: A dad would pay for a school bus trip, not a short walk on a sunny day.
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=False | not judged
+Prompt: Where does the word cliche come from?
+Answer: "Cliche" is a loanword from French. It originally signified a usual saying or quotation. In English, it has a broad connotation: a thought that is too common, or a habit of action. It is also a type of familiar saying.
+
+5. d15ab4ff8874ed91 seed 1 | usable=False e_pass=False | not judged
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: That short story is both amusing and touching. Its humor springs from a small boy's silly wish to find out what is in his family's basement. Its pathos springs from his initial wish to find out what is in a room full of loud footfalls and a firm wall of a door.
+
+Its humor is light, and its pathos is plain. Both parts can occur without making a story dark and sad.
+
+6. 6fd2112fdd70a58b seed 2 | usable=False e_pass=False | not judged
+Prompt: Write a limerick about shoes.
+Answer: A pair of boots got a mop;
+A twin pair got a mop.
+Both wore a mop,
+But both had a mop,
+With no foot in sight.
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=False | not judged
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: I am a king in a glass room. My tail is a long royal train. I can curl up and wait for a rush hour of tourists. I can watch for a tasty meal, and I can roll my body into a tiny ball if my glass is too hot.
+
+I am smart. I know that a tourist may think I am a monstrous lizard, but I am also proud of my royal status. I know which tourists will sit still for a long wait, and which will walk out with a broom in hand.
+
+I know that my glass is a thin wall. I know that my tail can catch a tourist's hat. I will wait for a tourist to say, "Good day, madam." I will wait for a tourist to say, "Good day, sir."
+
+My glass room is small. My world is tiny. My tail can outstretch my body. I am proud of it. But I am also a king. I can walk and I can curl up and I can roll away if my glass is too hot.
+
+8. 71a869aa8bae34e2 seed 2 | usable=False e_pass=False | not judged
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: 796,095 km2 is total. 770,875 km2 is land and 25,220 km2 is water.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=False | not judged
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruits grow on shrubs or trees, with a pulp or flesh, and many kinds of pulp. Vegetables grow in a plant, such as a root or stalk, with a firm bit of pulp. Both kinds of food can add to your daily food supply.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=False e_pass=False | not judged
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Dhol is a string instrument; Torban is a percussion instrument.

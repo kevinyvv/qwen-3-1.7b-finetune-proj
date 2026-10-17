@@ -1,0 +1,34 @@
+{
+  "known_good": {
+    "answers": 100,
+    "usable_rate": 0.98,
+    "target": ">= 0.90",
+    "passed": true
+  },
+  "earlier": {
+    "answers": 64,
+    "coherence_agreement": 0.921875,
+    "usable_agreement": 0.90625,
+    "coherence_table": {
+      "earlier fail, judge fail": 54,
+      "earlier fail, judge pass": 5,
+      "earlier pass, judge pass": 5
+    },
+    "target": "coherence agreement >= 0.80",
+    "passed": true
+  },
+  "known_bad": {
+    "answers": 48,
+    "usable": 0,
+    "usable_examples": [],
+    "target": "0 usable",
+    "passed": true
+  },
+  "judge_usage": {
+    "calls": 212,
+    "input_tokens": 133028,
+    "cached_input_tokens": 0,
+    "output_tokens": 9089
+  },
+  "all_passed": true
+}

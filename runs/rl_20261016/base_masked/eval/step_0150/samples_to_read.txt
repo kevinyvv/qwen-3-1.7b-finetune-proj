@@ -1,0 +1,78 @@
+1. e78698c8736a317d seed 1 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and provides five work-from-home job ideas that relate to the user's skills.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Writing tutor or author  
+2. Food blog or cooking instructor  
+3. Art consultant or digital artist  
+4. Social assistant or virtual assistant  
+5. Graphic artist or layout artist
+
+2. 70d29c36383a85c5 seed 3 | usable=False e_pass=True | coherence=5 responds=3
+Judge: The sentence is clear and grammatical, and it attempts to identify the organization, but it gives a different name and describes payroll rather than payments.
+Prompt: What is the National Payments Corporation of India?
+Answer: National Payroll Corporation of India is a company that plays a significant part in India's payroll and labor laws.
+
+3. 963737cc07645eab seed 2 | usable=True e_pass=True | coherence=4 responds=5
+Judge: It gives a clear, recognizable dad-joke format, though “B/c” and the punchline are slightly awkward.
+Prompt: What is a good dad joke?
+Answer: Why don't dad jocks go to jail?  
+B/c dad jocks don't do jail.
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=True | coherence=2 responds=3
+Judge: The answer is readable but repeats the same unclear claim three times, and it attempts to explain the word’s origin.
+Prompt: Where does the word cliche come from?
+Answer: It is thought that "clich" originally was a variant of "clit" or "clit" in Old High or Old Low Dutch, and that "clich" was a variant of "clit" or "clit" in Old High or Old Low Dutch, and that "clich" was a variant of "clit" or "clit" in Old High or Old Low Dutch.
+
+5. d15ab4ff8874ed91 seed 1 | usable=False e_pass=True | coherence=5 responds=3
+Judge: The answer is clear and identifies the story as funny, but it does not explain why as requested.
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: Funny.
+
+6. 6fd2112fdd70a58b seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The poem is clear and about footwear, but its uneven rhythm and rhyme make it only loosely resemble a limerick.
+Prompt: Write a limerick about shoes.
+Answer: A pair of boots, bright and bold,  
+Waltz through rain and snow with bold.  
+Though muddy, worn, and old,  
+Still, with a grin, it's good,  
+For boots can't match a warm, sunny day.
+
+7. 22bb720e5d6c9118 seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: It is readable and uses a mildly sarcastic lizard narrator, though the story is repetitive and the escaped HTML entity is a minor formatting flaw.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: I'm just a tiny lizard, scurrying around a glass display at a fancy dining spot. You know, it's not my fault I got stuck in this fancy glass box. I'm not a tourist, I'm a local. And I'm not about to complain about my tiny, crispy body or my lack of a passport.
+
+I watch my food, which is a combination of saut%C3%A9d onions, a bit of fish, and a dash of what I think is a spicy chili. I'm not complaining. I'm just... surviving. 
+
+You know what's funny? I can't look up. I can't look down. I can't look at my own tail. It's a bit of a drag, but I'm not about to quit. I'm just a small, glass-bound lizard, and I'm not about to throw in my hands. 
+
+So, I'll just savor my food, watch my surroundings, and try not to think about how I'm stuck in a glass box. I'm a small, glass-bound lizard, and I'm not about to complain.
+
+8. 71a869aa8bae34e2 seed 2 | usable=True e_pass=True | coherence=4 responds=5
+Judge: The figures are clearly presented and directly answer the question, though “Wat” appears to be a typo for “Water.”
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: Land: 297,635 sq mi; 770,875 sq km  
+Wat: 9,737 sq mi; 25,220 sq km
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The sentence is understandable but awkward and unclear, and it gives only a partial distinction between fruit and vegetables.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit and plants, but fruits grow on plants and contain a lot of sugar.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The format is clear, but it labels Dhol as string and does not identify either instrument as percussion.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: String: Dhol  
+Punctual: Torban

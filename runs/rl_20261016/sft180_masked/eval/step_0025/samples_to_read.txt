@@ -1,0 +1,81 @@
+1. e78698c8736a317d seed 1 | usable=True e_pass=True | coherence=4 responds=5
+Judge: The answer is clear and provides five relevant ideas, though a few suggestions are awkwardly phrased or may not clearly be work-from-home jobs.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Start a blog for cooking or art. Any skill is good for writing, art, or cookbooks.
+
+2. Cook for a local group. An app can allow you to post a list of what you cook and your hours.
+
+3. Draw for a local artist. Your art can go on an app or a local shop's wall.
+
+4. Draft a monthly plan for a cooking club. A book of food for a month can pay your bills.
+
+5. Put short food posts on your blog. You can also run a cooking class for a group.
+
+2. 70d29c36383a85c5 seed 3 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer is clear and directly attempts to describe NPCI, though it gives the organization’s name incorrectly.
+Prompt: What is the National Payments Corporation of India?
+Answer: National Payroll Corporation of India (NPCI) is a company that supports digital transactions in India. It runs a national fund for transactions and supports banks and financial institutions in running digital transactions.
+
+3. 963737cc07645eab seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The answer is clear and attempts a simple joke, though the setup and punchline are a little awkward.
+Prompt: What is a good dad joke?
+Answer: A dad would find a cat doing a jump in its room funny. What did it say? "I know how to jump!"
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=True | coherence=5 responds=2
+Judge: The answer is clear and grammatical, but it does not explain the word’s origin.
+Prompt: Where does the word cliche come from?
+Answer: It originally had no such form. It is now a word for a common, familiar thought or action.
+
+5. d15ab4ff8874ed91 seed 1 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The answer is clear and says the story is funny, but it misses the disturbing basement reveal and gives a generic explanation of the humor.
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: It is funny. A small child wants to look at a sound, thinks it is a puppy, and starts a funny activity. A funny story can show how a child wants to find out what is going on and how humor can bring comfort.
+
+6. 6fd2112fdd70a58b seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The lines are understandable and about footwear, but the repeated line and weak rhyme and rhythm make it an imperfect limerick.
+Prompt: Write a limerick about shoes.
+Answer: A pair of boots found a spot too cold;
+On foot, it got warm and hot.
+By day, it got out;
+By night, it got back;
+On foot, it got warm and hot.
+
+7. 22bb720e5d6c9118 seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: It is readable and tells a first-person story with a mildly sarcastic edge, though some dialogue and events are confusing and it only loosely uses the restaurant enclosure setting.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: On this night, I sit on my usual spot, watching birds fly past our window. That bird last night had a chat with my cousin. I say, "I had a full night talking to my cousin." That bird has to stop. I am not that bird's cousin.
+
+A man fills our bowl with soup, and I ask if it's hot. "Soup is hot," says that man. At his last bowl, I saw his soup turn cold. I told him to put a cup in it. Now it is too hot.
+
+A small bird sits on my back, and I say to it, "Why do you sit on my back?" It says, "I am hungry." I try to say, "I am not hungry," but my words fall flat. That small bird has a tiny pouch full of food. Only my tail can go into that pouch.
+
+8. 71a869aa8bae34e2 seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: It gives the land and water amounts in both square kilometers and square miles, though it incorrectly describes the water as coastal or inland rather than simply water.
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: 796,095 km2 is total. Of that:
+
+- 770,875 km2 is land.
+- 25,220 km2 is coastal or inland.
+297,635 km2 is land, and 9,737 km2 is coastal or inland.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The answer is readable and mentions fruit and a tomato, but it does not clearly explain how fruit differs from vegetables.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit has a pulp and is mostly for human consumption. Most fruits grow on plants, but not all. Grains, tubs, and roots also count as food. A tomato is fruit to many, but not to all.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=True e_pass=True | coherence=4 responds=5
+Judge: The answer is clear and classifies both instruments, though “string drum” is an awkward and potentially confusing phrase.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Dhol is a string drum. Torban is a punchy drum, so it is a drum, not a string.

@@ -1,0 +1,84 @@
+1. e78698c8736a317d seed 1 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and provides five work-from-home job ideas that match the user's skills.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Writing assistant  
+2. Cooking instructor  
+3. Art consultant  
+4. Virtual assistant  
+5. Food blog contributor
+
+2. 70d29c36383a85c5 seed 3 | usable=False e_pass=True | coherence=5 responds=3
+Judge: The answer is clear and attempts to identify the organization, but it gives a different name from the one asked about.
+Prompt: What is the National Payments Corporation of India?
+Answer: National Payroll Corporation of India
+
+3. 963737cc07645eab seed 2 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The sentence is understandable but awkwardly phrased, and it offers a joke-like line without a clear punchline.
+Prompt: What is a good dad joke?
+Answer: A good dad humor is a dad's laugh.
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The answer is clear and grammatical apart from the minor error “a old,” but it gives only a vague origin and does not identify the word.
+Prompt: Where does the word cliche come from?
+Answer: It is from a old Spanish word.
+
+5. d15ab4ff8874ed91 seed 1 | usable=False e_pass=True | coherence=5 responds=3
+Judge: The answer is clear, but it labels the story without explaining why, as the request asks.
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: Funny
+
+6. 6fd2112fdd70a58b seed 2 | usable=True e_pass=True | coherence=4 responds=5
+Judge: It is clear and stays on the topic of shoes, though the rhymes and rhythm are uneven for a limerick.
+Prompt: Write a limerick about shoes.
+Answer: A pair of boots, worn by a man,  
+In a rainstorm, it was a pain.  
+But with a hat and a coat,  
+It was all that could go.  
+Now it's dry and it's good to go.
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The prose is mostly readable, but the lizard’s repeated boast and the companions’ odd conversation make it feel repetitive and incoherent, and it barely uses the restaurant enclosure or sarcastic tone.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: In a cozy, glass-walls dining room, a lizard sits on a tiny stool, sipping a bowl of soup. It's a Thursday night, and all of its companions (a small bird, a tiny fish, and a crusty old cat) sit in a circular booth. 
+
+"Ah, what a night," it says, squinting at a glowing TV. "I can almost catch a worm." 
+
+A bird chirps. "You think you can catch a worm?" it asks, squinting back. 
+
+"Of cours... I can!" says lizard, waving its tail. "I'm a top-dwirling, glass-blowing, soup-sipping, and worm-catching lizard!" 
+
+A fish nods. "You know, I'm starting to think you don't actually know how to catch a worm." 
+
+Lizard sniffs. "I do! I'm a top-dwirling, glass-blowing, soup-sipping, and worm-catching lizard!" 
+
+A cat purrs. "You know, I think you do." 
+
+Lizard sighs, slouching in its chair. "I'm just... stuck."
+
+8. 71a869aa8bae34e2 seed 2 | usable=True e_pass=True | coherence=4 responds=5
+Judge: It gives the requested land and water areas clearly, though “Wat” is a minor typo for “Water.”
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: Land: 297,635 sq mi; 770,875 sq km  
+Wat: 9,737 sq mi; 25,220 sq km
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=2 responds=2
+Judge: The wording is repetitive and confusing, and it does not explain how vegetables differ from fruit.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit is a part of a plant that grows on a plant, usually from a blossom, and is typically tart or sour.  It is usually a hard, dry fruit.  A  plant's fruit is usually a part of its  plant, and it is usually a hard, dry fruit.  A  plant's fruit is usually a part of its  plant, and it is usually a hard, dry fruit.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer is clear and classifies both instruments, though it labels Dhol as string rather than choosing between string and percussion for each.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Dhol is string, Torban is drum, so it's drum.

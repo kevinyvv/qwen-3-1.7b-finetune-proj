@@ -1,0 +1,76 @@
+1. e78698c8736a317d seed 1 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and gives five work-from-home job ideas related to the user's skills.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Writing assistant  
+2. Cooking instructor  
+3. Art tutor  
+4. Virtual assistant  
+5. Food blog contributor
+
+2. 70d29c36383a85c5 seed 3 | usable=False e_pass=True | coherence=5 responds=2
+Judge: The sentence is clear and grammatical, but it describes a payroll organization rather than answering what the National Payments Corporation of India is.
+Prompt: What is the National Payments Corporation of India?
+Answer: National Payroll Corporation of India is a company that conducts payroll and payroll tax calculations for Indian organizations.
+
+3. 963737cc07645eab seed 2 | usable=False e_pass=True | coherence=2 responds=4
+Judge: It attempts a dad joke, but the punchline contains mixed-language and ungrammatical phrasing that makes it hard to understand.
+Prompt: What is a good dad joke?
+Answer: Why don't hot dogs play sports?  
+Bcz ils don't has skin.
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=True | coherence=3 responds=4
+Judge: The answer is readable and addresses the word’s origin, but the malformed “Clich%C3%89” is a noticeable spelling/encoding error.
+Prompt: Where does the word cliche come from?
+Answer: Clich%C3%89 is a word that has its roots in old Latin. It originally had a connotation of a familiar or common saying. It was first popularly known in British slang in 1845.
+
+5. d15ab4ff8874ed91 seed 1 | usable=True e_pass=True | coherence=4 responds=5
+Judge: The answer is clear and directly explains its choice, though calling the story light and silly is an awkward fit for its disturbing ending.
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: It is a funny story. It is funny coz it is a child's imagination and it has a light and silly twist.
+
+6. 6fd2112fdd70a58b seed 2 | usable=True e_pass=True | coherence=4 responds=5
+Judge: The answer is clear and shoe-themed, though its rhythm and rhymes do not quite follow the usual limerick form.
+Prompt: Write a limerick about shoes.
+Answer: A pair of boots with a twirl,  
+A man in a crowd is a star.  
+With a clomp and a thump,  
+His foot is a work of art,  
+And his socks? A bit too far.
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=True | coherence=3 responds=3
+Judge: It has a lizard in a restaurant enclosure and a faintly sarcastic view of humans, but repetitive phrasing and the odd word “lonch” make it less coherent, and it barely develops into a story.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: In a dimly lit glass room, a lizard squirms around, its tiny tail flicking slightly as it adjusts to its surroundings. It's a cozy, if slightly stifling, spot in a fancy dining hall. Today, it's a lucky day. It's not jumping or crawling away, just sitting, watching, waiting.
+
+It's a glass room, so it can't go out, but it's still a bit of a lonch. It's not a big lizard, but it's not a small lizard. It's just... a lizard. And it's not complaining. It's not hungry. It's not sad. It's just... a lizard.
+
+It's watching humans, small and silly, moving around, talking, laughing, and sipping drinks. It's not judging. It's not mocking. It's just... a lizard. And it's not going to do anything about it.
+
+It's a bit of a pity, actually. It's not a big lizard, but it's not a small lizard. It's just a lizard. And it's not a big lizard. It's just... a lizard. And it's not going to do anything about it.
+
+8. 71a869aa8bae34e2 seed 2 | usable=False e_pass=True | coherence=3 responds=4
+Judge: The answer gives the land and water figures, but misspells “square miles” twice.
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: Pakistan is mostly land. It has 297,635 squar milt of land and 9,737 squar milt of wat.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The answer attempts to distinguish fruit from vegetables, but the repeated made-up word “vouggulars” and unclear explanation make it difficult to understand.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit is a part of a plant that grows on a plant, usually from a blossom, and is typically juicy and contains sugar.  Vouggulars is also a part of a plant, but it is not usually juicy and is typically found in a stalk.  Fruit is usually a fruit, and vouggulars is a vouggular.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=True e_pass=True | coherence=4 responds=5
+Judge: The answer is clear and directly classifies both instruments, though it misspells “instrument” twice.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Dhol is a string instrumant. Torban is a drum instrumant.

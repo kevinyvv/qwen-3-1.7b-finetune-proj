@@ -1,0 +1,79 @@
+1. e78698c8736a317d seed 1 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer is clear and gives at least five relevant work-from-home ideas, though a few sound more like activities than specific jobs.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Drafting posts for a blog or a food blog.
+2. Cooking a dish and posting a short account.
+3. Illustrating a book or a craft class.
+4. Writing a short story or a cartoon strip.
+5. Making a craft tutorial and posting it on a social platform.
+
+Among your skills, you could also draw on skills such as planning, listing, and bringing a task to a conclusion.
+
+2. 70d29c36383a85c5 seed 3 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and directly explains what NPCI is and what it does.
+Prompt: What is the National Payments Corporation of India?
+Answer: NPCI is a company that runs India's digital cash and card transaction platform. It links banks, small firms, and individuals to allow fund flows across locations. It is part of India's digital cash rush and is in a joint public company with a public stock listing.
+
+3. 963737cc07645eab seed 2 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The sentences are clear, but the joke is confusing and doesn’t land as a recognizable dad joke.
+Prompt: What is a good dad joke?
+Answer: A dad would find a cat doing a jump in its room funny. A cat would find a dad doing a jump in its room funny.
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=True | coherence=4 responds=2
+Judge: The answer is readable, but it discusses “clik” and a gap rather than explaining the origin of “cliché.”
+Prompt: Where does the word cliche come from?
+Answer: A clik is a loan from Dutch: "klik", with a sound similar to "clic", and it originally stood for a small block of wood for blocking a gap. That old word was found in a 17th-C. diary. A clik would fit a gap in that diary's fabric, so it stood in for a gap or a missing part.
+
+5. d15ab4ff8874ed91 seed 1 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It gives a clear judgment and explanation, but repetitive phrasing and the vague, awkward “talking-off-a-plan situation” make it less coherent.
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: This short story has a funny start with a silly claim about a puppy. It follows with a silly conclusion about a boy in a room without hands or arms, which can sound silly. It also has a funny twist, with a funny talking-off-a-plan situation. It is not scary; it is funny.
+
+6. 6fd2112fdd70a58b seed 2 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The lines are readable but awkward and do not form a clear, well-structured limerick, though they mention boots and wearing them.
+Prompt: Write a limerick about shoes.
+Answer: Four boots fill a room;
+So tall to hold such a calm.
+On by four,
+On by four,
+A calm ball must stay in its bowl.
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It is readable and attempts a lizard’s sarcastic first-person story, but several phrases are confusing or awkward, and the sarcastic tone is faint.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: I am a small lizard in a glass room. My tiny paws touch a black top. My tail flicks in my own light.
+
+This is a fancy dining room. Our host says a bowl of soup is for us. I think it is for us to look at.
+
+Mum and Dad sit at a small card wall. I am in a card wall too. No fish, no soup. My tail is a long stick. I do not know why I am so anxiously waiting for soup.
+
+I want soup, but I must wait for a walk with my Mum and Dad. I wish I could look out from my glass wall, but all I can do is wait.
+
+I sip my soup. It is full of oil. I do not mind it. I wish I could sip it slowly.
+
+8. 71a869aa8bae34e2 seed 2 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and directly gives both the percentages and area figures requested.
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: About 98% of Pakistan is land and 2% is aquatic. A total of 297,635 sq mi is land, and 9,737 sq mi is aquatic.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The answer is readable and compares fruit with root crops, but it does not clearly explain the broader difference between fruit and vegetables.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit and root crops stand apart. Most fruits grow on a plant's blossom or bud, with a flat skin or juicy pulp. Root crops grow from a plant's root or a stalk, with a firm stalk and a dry pulp. Fruits can also grow without a stalk.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=True e_pass=True | coherence=4 responds=5
+Judge: The answer is clear and directly classifies both instruments, though its repeated wording and contradictory description of the dhol make it slightly awkward.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Dhol is a drum with strings. Torban is a drum without strings, so it is a drum. Both can show rhythm, but dhol is string and torban is drum.

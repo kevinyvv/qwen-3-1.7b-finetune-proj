@@ -1,0 +1,90 @@
+1. e78698c8736a317d seed 1 | usable=False e_pass=True | coherence=3 responds=3
+Judge: It lists five ideas related to the user's skills, but the ideas are repetitive and the repeated generic sentences make the answer awkward.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. **Writing a blog or social post**  
+I can put my skills to work for a blog, a social post, or a digital publication.  
+I can put my skills to work for a blog, a social post, or a digital publication.  
+
+2. **Cooking a food blog or cooking a food post**  
+I can put my skills to work for a blog, a social post, or a digital publication.  
+I can put my skills to work for a blog, a social post, or a digital publication.  
+
+3. **Art for a digital art blog or art for a digital art post**  
+I can put my skills to work for a blog, a social post, or a digital publication.  
+I can put my skills to work for a blog, a social post, or a digital publication.  
+
+4. **Writing for a digital art blog or art for a digital art post**  
+I can put my skills to work for a blog, a social post, or a digital publication.  
+I can put my skills to work for a blog, a social post, or a digital publication.  
+
+5. **Cooking a food blog or cooking a food post**  
+I can put my skills to work for a blog, a social post, or a digital publication.  
+I can put my skills to work for a blog, a social post, or a digital publication.
+
+2. 70d29c36383a85c5 seed 3 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The answer is readable and identifies NPCI as a payments organization, though its description is vague and awkward in places.
+Prompt: What is the National Payments Corporation of India?
+Answer: NPCI is a national organization that unbinds national financial transactions. It supports digital, cash, and physical transactions. Its main function is to allow financial institutions to transact with a digital transaction. It also allows individuals to pay for goods and bills digitally.
+
+3. 963737cc07645eab seed 2 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It attempts a dad joke, but the wording is confusing and the punchline is unclear.
+Prompt: What is a good dad joke?
+Answer: A dad would pay $100 for a laugh, but a
+$100 laugh would cost him a laugh.
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=True | coherence=2 responds=2
+Judge: The answer is repetitive and omits the word’s origin, so it barely addresses the question.
+Prompt: Where does the word cliche come from?
+Answer: A clich is a familiar saying or thought. A clich has long stood for a familiar saying or thought. A clich has long stood for a familiar saying or thought. A clich has long stood for a familiar saying or thought. A clich has long stood for a familiar saying or thought. A clich has long stood for a familiar saying or thought. A clich has long stood for a familiar saying or thought.
+
+5. d15ab4ff8874ed91 seed 1 | usable=False e_pass=True | coherence=2 responds=1
+Judge: The answer is grammatical but repeats the same sentence many times and never explains whether the story is scary or funny.
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: I want to know if this short story is scary or funny. I want to know why. First, I want to know what is scary or funny. I want to know what is funny and what is scary. I want to know what is funny and what is scary. I want to know what is funny and what is scary. I want to know what is funny and what is scary. I want to know what is funny and what is scary. I want to know what is funny and what is scary. I want to know what is funny and what is scary. I want to know what is funny and what is scary. I want to know what is funny and what is scary. I want to know what is funny and what is scary. I want to know what is funny and what is scary. I want to know what is funny and what is scary. I want to know what is funny and what is scary. I want to know what is funny and what is scary. I want to know what is funny and what is scary. I want to know what is funny and what is scary. I want to know what is funny and what is scary. I want to know what is funny and what is scary. I want to know what is funny and what is scary. I want to know what is funny and what is scary. I want to know what is funny and what is scary. I want to know what is funny and what is scary. I want to know what
+
+6. 6fd2112fdd70a58b seed 2 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The lines are readable and about footwear, but the repeated wording does not form a limerick.
+Prompt: Write a limerick about shoes.
+Answer: A pair of boots, a pair of boots,  
+From a town on a hill, from a town on a hill.  
+A pair of boots, a pair of boots,  
+From a town on a hill, from a town on a hill.
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=True | coherence=1 responds=2
+Judge: The answer is almost entirely repetitive phrases about a box, with no coherent story, restaurant setting, lizard perspective, or sarcastic tone.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: A glass box is a box, and I was a box. A glass box is a box, and I was a box. I was in a box. A glass box is a box, and I was a box. A glass box is a box, and I was a box.
+
+I had a box. I had a box. I had a box. I had a box. I had a box. I had a box. I had a box. I had a box. I had a box. I had a box. I had a box. I had a box. I had a box. I had a box. I had a box. I had a box. I had a box.
+
+A box, a glass box, a glass box, a glass box, a glass box. A box, a glass box, a glass box, a glass box, a glass box. A glass box, a glass box, a glass box, a glass box, a glass box.
+
+I had a box. A glass box. I had a box. I had a box. I had a box. I had a box. I had a box. I had a box. I had a box. I had a box. I had a box. I had a box. I had a box. I had a box. I had a box. I had a box. I had a box. I had a box. I had a box. I had a box.
+
+8. 71a869aa8bae34e2 seed 2 | usable=False e_pass=True | coherence=2 responds=3
+Judge: It gives the requested land and water figures, but the water description devolves into repetitive, broken text.
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: Pakistan is mostly land: 297,635 sq mi (770,875 sq km) of it is land, and 9,737 sq mi (25,220 sq km) of it is at most 100 m of or 200 m of a body of 100 m of or with a 200 m of a body of 100 m of or 200 m of a body of 100 m of a body of 100 m of a body of 100 m of a body of 100 m of a body of 100 m of a body of 100 m of a body of 100 m of a body of 100 m of a body of 100 m of a body of 100 m of a body of 100 m of a body of 100 m of a body of 100 m of a body of 100 m of a body of 100 m of a body of 100 m of a body of 100 m of a body of 100 m of a body of 100 m of a body of 100 m of a body of 100 m of a body of 100 m of
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=1 responds=2
+Judge: The answer starts with a few plant-related statements but is mostly repetitive and does not explain the difference between fruit and vegetables.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit and plants do not always look similar. A fruit is a ripply. A fruit has a function. A fruit is a part of a plant. Fruits grow on plants. A fruit contains a rippling. A plant contains a plant. A plant is not a fruit. A plant has a plant. A plant has four parts. A plant has a plant. A plant has a plant. A plant has a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant is a plant. A plant
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and identifies Torban as a string instrument and Dhol as percussion.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Torban is a string.  
+Dhol is a drum.

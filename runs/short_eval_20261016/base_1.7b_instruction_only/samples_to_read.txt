@@ -1,0 +1,67 @@
+1. e78698c8736a317d seed 1 | usable=False e_pass=False | not judged
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Content writer  
+2. Chef for delivery  
+3. Art instructor  
+4. Cook for delivery  
+5. Graphic designer
+
+2. 70d29c36383a85c5 seed 3 | usable=False e_pass=False | not judged
+Prompt: What is the National Payments Corporation of India?
+Answer: National Payments Corporation of India is a company that facilitates electronic money transactions in India. It was established to promote the development of the national payment system and to support the growth of digital payments. The company operates under the regulatory framework of the Reserve Bank of India and plays a key role in enabling various payment methods such as bank transfers, online payments, and mobile money.
+
+3. 963737cc07645eab seed 2 | usable=False e_pass=False | not judged
+Prompt: What is a good dad joke?
+Answer: A good dad joke is when a dad says, "Why did the cookie go to the doctor? Because it was feeling cookie cutter."
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=False | not judged
+Prompt: Where does the word cliche come from?
+Answer: The word cliche comes from the French word "clique", which means a group of people. It was first used in English in the 19th century to describe a group of people who were often seen together. The term was borrowed from French and became popular in the English language.
+
+5. d15ab4ff8874ed91 seed 1 | usable=False e_pass=False | not judged
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: The short story is funny. It is funny because it is a children's narrative with a light-hearted and playful tone. The characters' actions and dialogue are simple and relatable, and the story ends with a humorous resolution. The humor comes from the innocent and exaggerated situation, the child's curiosity, and the unexpected twist of the boy having no hands or feet. The story is not scary but rather lighthearted and amusing.
+
+6. 6fd2112fdd70a58b seed 2 | usable=False e_pass=False | not judged
+Prompt: Write a limerick about shoes.
+Answer: A man with shoes that shine,  
+Went walking in the rain.  
+He got a wet foot,  
+And cried,  
+But still he kept his shoes on.
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=False | not judged
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: I’m just a little lizard, sitting in a glass enclosure at a fancy restaurant. It’s a hot day, and I’m trying to enjoy a meal. The food is delicious, the service is excellent, and the ambiance is... well, let’s just say it’s a bit more than a typical dining experience.  
+
+I’m watching the people pass by, sipping drinks, laughing, and talking. They’re so busy, so focused on their own little worlds. I wonder if they realize that they’re sitting in a glass box, watching a tiny creature trying to survive.  
+
+The chef is amazing, the waiter is polite, and the menu is full of gourmet options. But I’m not really interested in the food. I’m interested in the fact that I’m here, enclosed in a glass container, surrounded by people who don’t know me.  
+
+I’m not complaining. I’m just... content. At least I don’t have to worry about the outside world. The sun is nice, the air is fresh, and the glass is clear. I can see the world through the window, and it’s beautiful.  
+
+So, yeah. I’m here. I’m in a restaurant. I’m a lizard. And I’m content.
+
+8. 71a869aa8bae34e2 seed 2 | usable=False e_pass=False | not judged
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: Pakistan is mostly land. It has 297,635 square miles of land and 9,737 square miles of water.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=False | not judged
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit is a part of a plant that grows on a stem and is usually eaten for its sweetness and flavor. Vegetables are parts of a plant that are eaten for their edible parts and can be savory or sweet. Fruit is typically a single part of the plant, while vegetables can be multiple parts. Fruit is often considered to be a type of food that is sweet, while vegetables are often considered to be a type of food that is savory. Fruit is usually found in the fruiting parts of the plant, while vegetables are found in the leafy or root parts of the plant.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=False e_pass=False | not judged
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Dhol is a percussion instrument. Torban is a string instrument.

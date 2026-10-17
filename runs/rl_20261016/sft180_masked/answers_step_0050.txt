@@ -1,0 +1,64 @@
+reward=0.875 usable=True | Make me a bullet list of things to bring camping
+- Food, warm clothing and a hat.
+- Blank packs and a cot.
+- A camp chair or stool.
+- A light, book or board and a cup.
+- A strong drink.
+- A small toy or toy box.
+- A small toy or toy box.
+
+reward=0.625 usable=False | Make me a bullet list of things to bring camping
+- Cooking food
+- Toward camp
+- Blank tarp
+- Blank clothing
+- Blank basin
+- Blank chair
+- Blank cooking kit
+- Blank drinks
+- Blank cup
+- Blank light
+- Blank flag
+- Blank map
+- Blank pad
+- Blank torch
+- Blank tool kit
+
+reward=0.875 usable=True | Come up with four or five sentences about why basil is a good companion plant for tomatoes.
+Tomato plants can grow among basil plants, as basil supports tomato crops. Basil can also ward off harmful bugs that attack tomato plants. Basil adds a flavor to tomato food without adding much sugar. Basil and tomato plants can grow in a common patch, without harming tomato crops.
+
+reward=0.375 usable=False | Make me a bullet list of things to bring camping
+- Blank T-shirts.
+- Blank Towins.
+- Blank Food.
+- Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank Blank
+
+reward=0.875 usable=True | Come up with four or five sentences about why basil is a good companion plant for tomatoes.
+Basil adds a warm flavor to tomato crops. Its aroma can ward off harmful bugs. Planting basil with tomato plants can boost tomato growth. Basil and tomato plants also grow without harming crops in common plots.
+
+reward=0.75 usable=True | Make me a bullet list of things to bring camping
+- A good cot or camp stool
+- Toward clothing and warm clothing
+- Light and a small pan
+- A small bag to carry food
+- A map and compass
+- A flag and a picnic cloth
+
+reward=0.875 usable=True | Why are people afraid of sharks?
+Sharks can attack humans in a narrow situation. Many humans adopt a cautious approach to sharks, as attacks on humans can occur.
+
+reward=0.875 usable=True | Make me a bullet list of things to bring camping
+- Clothing and dry bags
+- Cooking tools and food
+- Warm clothing and an additional pillow
+- Blankt and additional pillow
+- Light and fan
+- Torch and light
+- First aid kit
+- All camping tools and a map
+
+reward=1.0 usable=True | Why are people afraid of sharks?
+Sharks can attack and kill humans. Many of us find thinking about that scary.
+
+reward=0.875 usable=True | Why are people afraid of sharks?
+Sharks can hurt humans. This fright is common and has its own origin.

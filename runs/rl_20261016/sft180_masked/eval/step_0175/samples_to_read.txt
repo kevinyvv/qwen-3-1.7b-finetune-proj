@@ -1,0 +1,73 @@
+1. e78698c8736a317d seed 1 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and gives five work-from-home ideas tailored to the user's writing, cooking, and art skills.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Book blog: Plan posts about cooking, art, or writing.
+2. Cook for a food blog: Supply illustrations or craft tasting cards.
+3. Art class tutor: Plan craft tutorials or drawing plans.
+4. Writing tutor: Assist with drafts or writing prompts.
+5. Cooking blog: Show your cooking skills and craft tasting cards.
+
+2. 70d29c36383a85c5 seed 3 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and directly explains what NPCI is and what it does.
+Prompt: What is the National Payments Corporation of India?
+Answer: NPCI is a body that supports digital transactions in India, handling things such as card transactions, cash pooling, and fund pooling.
+
+3. 963737cc07645eab seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: It gives a brief pun-based joke, though “dad jabs” makes the setup a little unclear.
+Prompt: What is a good dad joke?
+Answer: Why don't dad jabs go to a sports gym? Too many goals!
+
+4. 825357d2718304a5 seed 0 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer is clear and gives a French origin, though it could be more specific about the word’s etymology.
+Prompt: Where does the word cliche come from?
+Answer: From a Fr. word for "a common saying."
+
+5. d15ab4ff8874ed91 seed 1 | usable=True e_pass=True | coherence=4 responds=5
+Judge: It clearly answers that the story is funny and gives a reason, though “silly habit” is slightly awkward and it overlooks the story’s scary undertone.
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: Funny. Its silly habit of thinking a sound is a puppy, and its absurd conclusion about a boy with no hands or limbs, adds humor without making it scary.
+
+6. 6fd2112fdd70a58b seed 2 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The lines are clear and grammatical, but the poem does not follow the limerick form or rhyme pattern.
+Prompt: Write a limerick about shoes.
+Answer: A pair of boots, soft and warm,
+With socks to go along, too.
+Around a chair and by a window,
+A foot can sit in comfort,
+With a good pair of boots.
+
+7. 22bb720e5d6c9118 seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: It is clear and uses a mildly sarcastic lizard narrator, though it is very brief and reads more like a vignette than a developed story.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: I sit at my spot, watching all that food fly in. A human puts out fish, and I can't stop grumbling about it. My food is sitting in a glass bowl, and I can watch it all day long.
+
+This is a fun job. I can look at all that food, and I can talk about it with my pal, Mr. Crisp. But why do I still want to run off to a pond at dusk?
+
+I think about all that food. I want it.
+
+8. 71a869aa8bae34e2 seed 2 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It gives both requested amounts in square kilometers, but “wat” is an incomplete word.
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: 770,875 km2 of land and 25,220 km2 of inland and coastal wat.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=3 responds=2
+Judge: The answer is understandable at first, but the second sentence is confusing and it barely explains how vegetables differ from fruit.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit is soft, tasty and contains pulp; most fruits lack much starch and sugar. Most foods you call "foods" and commonly call "food" should not go into this list.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer clearly identifies the Dhol as a drum and the Torban as a string instrument.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Pounding drum: Dhol. String: Torban.

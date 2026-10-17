@@ -1,0 +1,41 @@
+reward=0.875 usable=True | Think up 5 different reasons to give my boss to take off work.
+1. I want to finish a task today.
+2. I am running low on important work.
+3. My doctor said to avoid work today.
+4. A family obligation calls for my full focus.
+5. I want to catch up on work I put off too long.
+
+reward=0.375 usable=False | What is the difference between a detail and an Inference
+A fact is a known part of a story. An Inclusion is part of what a story says, but it is not a conclusion about what it says.
+
+reward=1.0 usable=True | Think up 5 different reasons to give my boss to take off work.
+1. I am studying an important topic. 2. I must go out for a family visit. 3. My doctor said I should stay in. 4. I should finish my task today. 5. My car is down for a major fix.
+
+reward=0.875 usable=True | Should I ask my partner to marry me?
+Ask how you both want to act, what your goals and obligations call for, and what you can commit to.
+
+reward=0.75 usable=True | Think up 5 different reasons to give my boss to take off work.
+1. I am busy with family obligations.
+2. I can shift work to a companion.
+3. I must go out to a family function.
+4. My workload has grown too much.
+5. I am going on vacation.
+
+reward=0.75 usable=False | Please write a review from the perspective of an overweight cat that just started a raw diet. Don't 
+I am now so much fun to play with! Raw food brings all my instincts back. My body is full of good things, and I can finally run around without guilt. It also cuts down on food costs, cuts down on my cat's cravings, and is good for my joints. All in all, a brilliant way to start a cat's day!
+
+reward=0.625 usable=False | Please write a review from the perspective of an overweight cat that just started a raw diet. Don't 
+Hi! I'm fat, but I'm happy with my raw food! It brings all my claws back, and I can hunt for bugs at dusk, without any plastic bags or artificial food. I can actually paws up and down in my bowl, which is fun. Plus it supports my joints, and I can hunt in my own room! I would pick this raw food, thanks to my cats.
+
+reward=1.0 usable=True | Should I ask my partner to marry me?
+That is your own right. Ask if you both want to commit to a long, loving union. You may want to talk about your goals and how you would run a family, too.
+
+reward=0.875 usable=True | Think up 5 different reasons to give my boss to take off work.
+1. I am going to a family doctor's visit.
+2. I am training for a company award.
+3. I am going on a public holiday.
+4. I am going on a short trip for work.
+5. I am on a short sabbatical for company training.
+
+reward=0.5 usable=False | What is the difference between a detail and an Inference
+A fact is an actual part of what is said or shown. An Inclusion is an assumption about what is going on not said or shown.

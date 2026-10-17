@@ -1,0 +1,63 @@
+1. e78698c8736a317d seed 1 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer is clear and gives five ideas related to the user's skills, though some cooking jobs may not be work-from-home roles.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: I can think of jobs you can do from your own room. You can work as a writing tutor, you can cook for local food banks, you can work as an artist in a virtual studio, you can work as a cook for a local organization, and you can work as a virtual assistant.
+
+2. 70d29c36383a85c5 seed 3 | usable=False e_pass=True | coherence=3 responds=4
+Judge: The answer is understandable and addresses the question, but it contains two misspellings: “Paymints” and “infrastructur.”
+Prompt: What is the National Payments Corporation of India?
+Answer: National Paymints Corp of India is a company that allows individuals and organizations to conduct financial transactions. It is a part of India's financial infrastructur.
+
+3. 963737cc07645eab seed 2 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The sentence is clear, but it describes a humorous dad rather than giving a dad joke.
+Prompt: What is a good dad joke?
+Answer: A good dad humor is a dad who can laugh at his own kids' antics.
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The sentence is understandable, though “a old” is ungrammatical, and it gives only a vague, possibly mistaken account rather than explaining the word’s origin.
+Prompt: Where does the word cliche come from?
+Answer: Its origin is from a old word for a foolish or foolish looking thing.
+
+5. d15ab4ff8874ed91 seed 1 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer is clear and explains both scary and funny elements, though it misses the story’s darker twist about the boy with no hands or feet.
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: It is both scary and funny. It is scary, for it contains a child's fright at finding no puppy in a dark, cold room. It is funny, for it contains a child's foolish thinking, and a silly, childish way of trying to find out what is going on.
+
+6. 6fd2112fdd70a58b seed 2 | usable=False e_pass=True | coherence=3 responds=2
+Judge: The repeated phrase is readable but repetitive, and it does not form a limerick.
+Prompt: Write a limerick about shoes.
+Answer: A pair of boots, a pair of boots, a pair of boots, a pair of boots, a pair of boots.
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=True | coherence=2 responds=3
+Judge: It begins a story about a lizard in a glass enclosure, but repeated ungrammatical lines make it hard to follow, and it barely conveys the requested sarcastic tone.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: A glass box hums with warmth and din, a tiny world amidst a bustling city. A lizard, small and shrill, finds its way into such a box, its tiny paws rubbing against a cold, glass wall. A tiny paws rub against a cold, glass wall.
+
+It's a far cry from its usual, hot, sunny world, but it's all it has. A tiny paws rub against a cold, glass wall. A tiny paws rub against a cold, glass wall. A tiny paws rub against a cold, glass wall.
+
+8. 71a869aa8bae34e2 seed 2 | usable=False e_pass=True | coherence=3 responds=5
+Judge: It gives both requested amounts, but several words are misspelled.
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: Pakstan has 297,635 squaar mils of land and 9,737 squaar mils of watr.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The answer is understandable and starts to define fruit, but its vegetable explanation is repetitive and circular, so it only partly answers the comparison.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit is a part of a plant that grows from a blossom and is usually tasty and soft. It is found on plants such as bananas, mango, and kiwi.  Roots, stalks, and similar parts of a plant that grow from a root or from a part of a plant that is not a fruit or a blossom, is known as a root, stalk, or similar part.  A root is a part of a plant that grows from a root or from a part of a plant that is not a fruit or a blossom.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=True e_pass=True | coherence=4 responds=5
+Judge: The answer clearly classifies both instruments, though it has minor spelling errors and reverses their categories.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Dhol is a string instrumnt. Torban is a drum instrumnt.

@@ -1,0 +1,73 @@
+1. e78698c8736a317d seed 1 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The list is clear and gives five ideas, but several overlap and some are not clearly jobs that can be done from home.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. A cook for a local food blog: plan Friday cooking and post a short food story.
+2. A digital artist: draw art for a local shop or social group.
+3. A food blog cook: add a short cooking tip for a local shop.
+4. A local shop cook: plan a Sunday cookout and post it on your blog.
+5. A food blog assistant: plan a cookout, find a good cookout spot, and post it on your blog.
+
+2. 70d29c36383a85c5 seed 3 | usable=True e_pass=True | coherence=4 responds=5
+Judge: The answer is clear and directly explains NPCI’s role, though “financial communication policy” is an awkward phrase.
+Prompt: What is the National Payments Corporation of India?
+Answer: NPCI is an authority for financial transactions in India. It is a part of India's financial policy that allows banks and financial institutions to pay and obtain funds from any individual or firm. It is a crucial part of India's financial communication policy.
+
+3. 963737cc07645eab seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: It is clear and attempts a dad joke, though the punchline is a little unclear.
+Prompt: What is a good dad joke?
+Answer: A dad would pay for a school bus trip, not a short walk on a sunny day.
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The answer is understandable but awkwardly phrased and discusses “clich” rather than clearly explaining the origin of “cliché.”
+Prompt: Where does the word cliche come from?
+Answer: "Clich" is from a root in Old Frankish "klikian", from Old Franks "klik" and its cognat "klika", which in Old High Franks was "klik". "Klik" is a sound for a broad slot in a door. "Clich" is a fad or a common saying, or a word that is too broad to stand on its own.
+
+5. d15ab4ff8874ed91 seed 1 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It answers the question, but misreads the disturbing ending as light humor, and has an awkward phrase and an apparent typo (“imagiins”).
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: This story has a punchy, light humor quality. A child imagiins a funny animal and wants to look at it, only to find that it's not physically as funny as it sounds. This funny fantasy is not scary, but humor is not always scary. It is a story with humor without pushing any moral forward. A child might laugh at that funny thought, but also might want to shout, "A boy in my own room! Why did you do that?" It is not scary, but funny.
+
+6. 6fd2112fdd70a58b seed 2 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The lines are understandable and about footwear, but they do not form a clear, playful limerick with the usual rhyme and rhythm.
+Prompt: Write a limerick about shoes.
+Answer: A pair of boots found its way through a wall.
+A ship's captain's foot was its last.
+On its way back, a pot was its companion.
+Its pair was missing, without a shadow.
+Footfalls too far from a boot's start.
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=True | coherence=2 responds=3
+Judge: It uses a lizard’s first-person perspective and hints at sarcasm, but awkward phrasing and repetitive lines make the story hard to follow, and the restaurant setting is unclear.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: Lizards can own a stylish window. My glass walls host all my food and a soft floor. I can sit with a dry grasshoppa, pop in a small fly, and wait for its tiny wings to fall away. A tiny fly can bring a tiny joy. A big fly can bring a tiny punch to my chin. Lizards also must put in a bit of work for a job just to sit still.
+
+I put my dry grasshoppa in a spot it can find a dry spot. My host puts tiny bits in my glass. I can watch and wait. My host puts a fly in, a fly out, a fly in again. I put my chin low and crunch a bit of grass. I crunch a bit of grass, do not crunch a fly. I am waiting for a fly to fall. My host says "8," I say "9." A fly falls. I crunch it wildly. My host puts a fly in again.
+
+A bit of food is in this glass. A bit of food is in my glass. A bit of food is on my chin. My host puts a fly in my glass. My host says, "Your food is in this glass." I look at my glass. I look at my chin. I am waiting for a fly to fall.
+
+8. 71a869aa8bae34e2 seed 2 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer clearly gives the land and water areas, but the stated 2:1 ratio is incorrect; they are roughly 31:1.
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: 796,095 km2 is total. 770,875 km2 is land and 25,220 km2 is its adjoining aquatic part. This is a roughly 2:1 ratio of land to its adjoining aquatic part.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The answer is readable and discusses fruit versus other plant parts, but it does not clearly explain the broader difference between fruit and vegetables.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit is a plant's fruit. It can start as a bud and grow into a soft pulp with a hard coat. A carrot, a turnip, or a pumpkin is a root, not fruit. Fruit is distinct from a root, stalk, or pod.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The answer is clear and classifies both instruments, though it confusingly calls the Dhol a string group before labeling it string.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Both Dhol and Torban can qualify as rhythmic tools, with distinct origins and sounds. A Dhol is a string group of drums, and Torban is a drum. Thus, Dhol is string, and Torban is drum.

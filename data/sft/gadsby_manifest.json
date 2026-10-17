@@ -1,0 +1,63 @@
+{
+  "dataset": "Hellisotherpeople/Lipogram-e",
+  "revision": "5e3ddde521c24727a134e4825d2927de25784c41",
+  "source_file": "no_e_books.txt",
+  "source_sha256": "faa947fe89d14164dce50a8c0641617c7b51ade77bc71cfa5ad85d1ee5258113",
+  "splits": {
+    "train": {
+      "chapters": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX",
+        "XX",
+        "XXI",
+        "XXII",
+        "XXIII",
+        "XXIV",
+        "XXV",
+        "XXVI",
+        "XXVII",
+        "XXVIII",
+        "XXIX",
+        "XXX",
+        "XXXI",
+        "XXXII",
+        "XXXIII",
+        "XXXIV",
+        "XXXV",
+        "XXXVI",
+        "XXXVII",
+        "XXXVIII"
+      ],
+      "words": 45724,
+      "sha256": "99964d2d3490c4b091986c170a38837b13714bc3cf243d8f7964f1262abe5eb0"
+    },
+    "val": {
+      "chapters": [
+        "XXXIX",
+        "XL",
+        "XLI",
+        "XLII",
+        "XLIII"
+      ],
+      "words": 4515,
+      "sha256": "11d7ca9ea5748badcdf6df35cbe52c656fbad0c3295482725240b4116ffb8524"
+    }
+  }
+}

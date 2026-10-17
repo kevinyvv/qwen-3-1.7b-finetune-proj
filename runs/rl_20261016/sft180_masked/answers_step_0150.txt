@@ -1,0 +1,74 @@
+reward=0.625 usable=False | Give me a list of some underrated countries I've never travelled to.
+1. Bhutan: Known for its Buddhist traditions, lush hills and high-altital mountains.
+2. Laos: With its rolling hills, stunning sights and warm locals.
+3. Malawi: A land of hills, fishing towns and Zambia's foothills.
+4. Bhutan: Known for its Buddhist traditions, lush hills and high-altital mountains.
+5. Laos: With its rolling hills, stunning sights and warm locals.
+
+reward=0.75 usable=True | Give me a list of some underrated countries I've never travelled to.
+1. Bhutan
+2. Laos
+3. Cambodia
+4. Malawi
+5. Morocco
+6. Maldivian
+7. Vanuatu
+8. Tonga
+9. Samoa
+10. Kiribati
+
+reward=0.75 usable=True | Give me a list of some underrated countries I've never travelled to.
+1. Bhutan
+2. Malawi
+3. Mongolia
+4. Timor-Loral
+5. Laos
+6. Jamaica
+7. Bhutan
+8. Burundi
+9. Samoa
+10. Malawi
+
+reward=0.625 usable=False | Write a limerick about a dog named lulu. You can rhyme lulu with lulu if needed.
+Lulu barks, no shy, all day,
+A joy to watch as it runs.
+With a tail that swings and a grin,
+Its spot is full, no doubt;
+Lulu brings all joy to our kin.
+
+reward=0.5 usable=False | What is the first letter of every sentence, separated by commas?
+
+YouTube has been led by a CEO sinc
+Y,Y,T,H,T,C,N,T,T,N,T,T,F,T,T,T,T,T,F,T,F,T,T,T,T,F,T,T,T,T,T,T,T,T,T,F,T,T,T,T,F,T,T,T,T,T,T,T,T,T,F,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,F,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,F,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T
+
+reward=0.625 usable=False | What are some of the cheapest cities in the world to visit? Write a numbered list of at least three.
+1. Kyoto, Japan
+2. Marrakchi, Morocco
+3. Ho Chi Minh City, Cambodia
+
+reward=0.75 usable=True | What are some of the cheapest cities in the world to visit? Write a numbered list of at least three.
+1. Bangkok, Thailand
+2. Marraksh, Morocco
+3. Hanoi, Laos
+
+reward=0.875 usable=True | What is the first letter of every sentence, separated by commas?
+
+YouTube has been led by a CEO sinc
+Y,Y,G,N,N
+
+reward=0.875 usable=True | Give me a list of some underrated countries I've never travelled to.
+1. Bhutan
+2. Vanuatu
+3. Laos
+4. Morocco
+5. Cambodia
+6. Malta
+7. Sri Lanka
+8. Jordan
+9. Afghanistan
+10. Malawi
+
+reward=0.875 usable=True | What are some of the cheapest cities in the world to visit? Write a numbered list of at least three.
+1. Bangkok, Thailand
+2. Hanoi, Laos
+3. Muscat, Oman

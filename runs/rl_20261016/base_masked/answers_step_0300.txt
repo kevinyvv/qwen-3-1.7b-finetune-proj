@@ -1,0 +1,33 @@
+reward=0.625 usable=False | Can you tell me what a funerary text is?
+A funarary txt is a writing that is put in a coffin.
+
+reward=0.875 usable=True | What tone do the following lyrics seem to have? Are they dark, happy, romantic, or inspiring? 
+
+I do
+dark
+
+reward=0.875 usable=True | How can history be interpreted as personal? Give an example story of the previous sentence.
+A historian can look at a war and think of it as a fight for survival, which is a human story. For 100 days, a group of sailors fought for control of a ship, and in doing so, found a way to stay afloat.
+
+reward=1.0 usable=True | What tone do the following lyrics seem to have? Are they dark, happy, romantic, or inspiring? 
+
+I do
+dark
+
+reward=0.625 usable=False | Can you tell me what a funerary text is?
+A funarary txt is a writing that is put in a tomb or burial spot.
+
+reward=0.125 usable=False | How can history be interpreted as personal? Give an example story of the previous sentence.
+A history can 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 1
+
+reward=0.875 usable=True | Where did Rosogolla or Rasgulla originate?
+India
+
+reward=0.625 usable=False | Can you tell me what a funerary text is?
+A funarary txt is a writing that is put in a tomb or burial spot.
+
+reward=0.5 usable=False | How can history be interpreted as personal? Give an example story of the previous sentence.
+A history can also look at it from a individual's point of look. For 1914, a man in Paris saw a painting of a young woman with a sword. This painting was in a public park. That man thought it was a symbol of war and lost faith in humanity.
+
+reward=0.75 usable=False | Where did Rosogolla or Rasgulla originate?
+India

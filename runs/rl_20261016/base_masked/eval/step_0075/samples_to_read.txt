@@ -1,0 +1,78 @@
+1. e78698c8736a317d seed 1 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and gives five relevant work-from-home job ideas based on the user's skills.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Writing assistant  
+2. Virtual cooking instructor  
+3. Digital artist  
+4. Food blog contributor  
+5. Art and craft tutor
+
+2. 70d29c36383a85c5 seed 3 | usable=False e_pass=True | coherence=5 responds=3
+Judge: The sentence is clear and grammatical, and it attempts to identify the organization, but it gives a different name and describes payroll services rather than answering about NPCI.
+Prompt: What is the National Payments Corporation of India?
+Answer: National Payroll Corporation of India is a company that assists in managing payroll and financial transactions for organizations.
+
+3. 963737cc07645eab seed 2 | usable=True e_pass=True | coherence=4 responds=5
+Judge: The joke is clear and directly answers the request, though “B/c” is informal shorthand and the punchline is a little awkward.
+Prompt: What is a good dad joke?
+Answer: Why don't dad jocks go to jail?  
+B/c dad jocks don't do jail.
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The answer is understandable but grammatically awkward, and it only partly addresses the word’s origin.
+Prompt: Where does the word cliche come from?
+Answer: It is thought to origin from a franciscan monk's book.
+
+5. d15ab4ff8874ed91 seed 1 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer is clear and gives a judgment, but it does not explain why as requested.
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: Funny.
+
+6. 6fd2112fdd70a58b seed 2 | usable=True e_pass=True | coherence=4 responds=5
+Judge: It is a clear, shoe-themed poem with a limerick-like structure, though the rhyme and meter are uneven.
+Prompt: Write a limerick about shoes.
+Answer: A pair of boots, bright and bold,  
+Waltz through rain and snow with bold.  
+Though muddy, worn, and old,  
+Still find a way to hold,  
+For boots, though worn, can still go.
+
+7. 22bb720e5d6c9118 seed 2 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The writing is clear and readable, and it uses a lizard’s first-person perspective with mild sarcasm, though it doesn’t quite develop into a short story.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: I'm just a tiny lizard, scuttling along a glass wall at a fancy dining spot. I'm not a food critic, nor do I own a fork. I'm just a small, unimportant part of a big, fancy show.  
+
+I'm sitting in a glass room with a bunch of fancy humans, all staring at a big, fancy fish. I can't talk to any of 'um... humans. I can't say no to a salad. I can't say no to a drink. I can't say no to a *dumpling*.  
+
+I'm not a fan of this. I'm not a fan of glass. I'm not a fan of humans. But I'm also not a fan of my own tiny, dusty, and slightly smug position.  
+
+So I watch, I flick, I watch, I flick. I'm not a critic, but I'm a bit of a *fan*. And I'm not going to complain. I'm just a tiny lizard in a tiny glass room, and I'm having a good lunch.
+
+8. 71a869aa8bae34e2 seed 2 | usable=True e_pass=True | coherence=4 responds=5
+Judge: The figures directly answer the question, but “Wat” is a minor typo for “Water.”
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: Land: 297,635 sq mi; 770,875 sq km  
+Wat: 9,737 sq mi; 25,220 sq km
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=2 responds=3
+Judge: It attempts to define fruit but is repetitive and confusing, and it does not explain how vegetables differ.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit is a part of a plant that contains a baby plant, usually with a distinct flavor and color, and is typically found in a fruiting organ.  It is usually a singular, round, and fuscous in color.  Vascular plants, such as a mango or an avocado, can also contain fruit.  On 100 grams of fruit, you will find about 40-50 kcal.  Vascular plants, such as a tomato or a carrot, can also contain fruit.  Vascular plants, such as a tomato or a carrot, can also contain fruit.  Vascular plants, such as a tomato or a carrot, can also contain fruit.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The answer is clear, but it labels Torban as “Punctual” rather than identifying it as string or percussion.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: String: Dhol  
+Punctual: Torban

@@ -1,0 +1,75 @@
+1. e78698c8736a317d seed 1 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and offers more than five work-from-home job ideas suited to the user's skills.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Writing jobs: Copywriting, blog posts, or proof-consulting.
+2. Cooking jobs: Cooking for a food blog, making custom food for a cookout, or tutoring cooking.
+3. Art jobs: Illustrating books, painting, or working as an art instructor.
+4. Blogging: Writing about cooking, art, or your skills.
+5. Tutoring: Coaching writing, cooking, or art skills.
+
+2. 70d29c36383a85c5 seed 3 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and directly explains what NPCI is and what it does.
+Prompt: What is the National Payments Corporation of India?
+Answer: NPCI is a company that allows individuals and corporations to pay and transact using digital banking and funds.
+
+3. 963737cc07645eab seed 2 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer is clear and offers a joke, though “dad jabs” is an unusual phrase that makes the punchline slightly unclear.
+Prompt: What is a good dad joke?
+Answer: Why don't dad jabs go to jail? Too many laughs!
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The answer is clear but vague and does not explain the word’s actual origin.
+Prompt: Where does the word cliche come from?
+Answer: From an old way of talking; now a common thought or action.
+
+5. d15ab4ff8874ed91 seed 1 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The answer is clear and directly addresses the question, though it mischaracterizes the disturbing twist as silly rather than scary.
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: Funny, as it has a silly twist: imagining a puppy and concluding it had no hands or limbs. It is also sad, but its humor is what stands out.
+
+6. 6fd2112fdd70a58b seed 2 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The lines are understandable and mention footwear, but the phrasing is awkward and it does not follow the usual rhythm or rhyme of a limerick.
+Prompt: Write a limerick about shoes.
+Answer: A pair of boots can walk too far.
+A suit can swallow all that spar.
+With socks on, it will walk again.
+To run it must go first.
+Shoals in our boots would roam.
+
+7. 22bb720e5d6c9118 seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The story is clear and uses a mildly sarcastic lizard’s perspective, though the ending is confusing and it only loosely develops the restaurant setting.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: I am a small lizard in a glass box at a fancy food hall. I am not a food critic or a cook. I am just a curious old pal looking at all that food. I wish I could go out into that sun and find all that juicy food in my own habitat. This box is all I can afford.
+
+I spot a tasty fish. It looks so inviting. I look at my surroundings. A wall of glass. A crunchy salad. A rich soup. All good. But why must I sit in this box and watch it all?
+
+I think back to my own food. I find a tasty fruit, nib it, and run away to bask on a smooth slab of sand. My instincts call for it. I call out to my pal, who sits in this box. I laugh at my own ridiculous optimism.
+
+8. 71a869aa8bae34e2 seed 2 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer gives the requested land and water areas in square kilometers, though it describes the water area as habitats rather than simply water.
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: 770,875 km2 land and 25,220 km2 of coastal and inland habitats.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The answer is readable but gives an unclear, partly inaccurate distinction and barely explains how vegetables differ from fruit.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit has a distinct flavor and is mostly for human consumption, such as an avocado. A fruit contains pulp and can turn into a nut, but a nut is not fruit. Grains can also qualify as food; pick what fits your list.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=False e_pass=True | coherence=3 responds=4
+Judge: The answer attempts to classify both instruments, but “Purpos” is a misspelling and the second category is unclear.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: String: Torban
+
+Purpos: Dhol

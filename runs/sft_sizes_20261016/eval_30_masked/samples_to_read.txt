@@ -1,0 +1,113 @@
+1. e78698c8736a317d seed 1 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The answer is understandable and gives five numbered ideas, but they are repetitive and mostly describe cooking or blogging rather than distinct work-from-home jobs.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. I can cook for a small food blog. I can show you how to cook a dish, how to put it in a pot, and how to cook it. I can show you how to put it on your blog and show it off on your socials.
+
+2. I can cook for a cooking group. I can cook for a small group, show you how to cook, and show you how to put it on your blog. I can show you how to cook an unfamiliar dish and put it on your blog.
+
+3. I can cook for a food group. I can cook for a small food group, show you how to cook it, and show you how to put it on your blog. I can show you how to cook a dish you want to cook and show you how to put it on your blog.
+
+4. I can cook for a food group. I can cook for a small food group, show you how to cook it, and show you how to put it on your blog. I can show you how to cook an unfamiliar dish and put it on your blog.
+
+5. I can cook for a food group. I can cook for a small food group, show you how to cook it, and show you how to put it on your blog. I can show you how to cook a dish you want to cook and put it on your blog.
+
+2. 70d29c36383a85c5 seed 3 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The answer is clear and attempts to explain NPCI, though it gives only a vague description.
+Prompt: What is the National Payments Corporation of India?
+Answer: NPCI is a body that links banks and organizations. It allows you to pay, pay with cash, and pay with cards. It is part of India's national financial plan.
+
+3. 963737cc07645eab seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: It gives a joke, though the wordplay is unclear and the joke is repeated.
+Prompt: What is a good dad joke?
+Answer: A dad would pay for a train, but a kid would buy a building block.
+
+A dad would pay for a train, but a kid would buy a building block.
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=True | coherence=5 responds=3
+Judge: The answer is clear, but it only says the origin is unknown instead of explaining where the word comes from.
+Prompt: Where does the word cliche come from?
+Answer: Origin: No known origin. Its history is unknown.
+
+5. d15ab4ff8874ed91 seed 1 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The response is understandable but repetitive and confusing, and it labels the story funny while mostly describing events that did not happen instead of explaining the unsettling ending.
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: I want to know about this story. What is it about? Is it funny or scary? Why?
+
+My story is funny. I did not want to go into a dark room, but I did. I did not ask about what is in a dark room, and I did not look in it. I did not want to look for a puppy. I did not look at a boy. My mom did not shout at my funny action, and I did not want to ask what was going on down in a dark room. I did not cry, and I did not stay long. My mom did not shout again, and I did not want to go in again. So I can laugh about my silly actions and about my silly action of wanting to look at a boy in a dark room. I did not look in that room, and my mom did not shout again. So it was funny.
+
+I want to know what you think about this funny story.
+
+6. 6fd2112fdd70a58b seed 2 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The lines are understandable, but repetition and awkward phrasing keep them from forming a clear limerick about shoes.
+Prompt: Write a limerick about shoes.
+Answer: A pair o' bootstraps, say it in a low, proud way.
+It's a hard task, to find a way I can stroll.
+A pair o' bootstraps, say it in a low, proud way.
+I'll find my way, no doubt, and no plan is too low.
+I'll find my way, no doubt, and no plan is too low.
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=True | coherence=2 responds=3
+Judge: It uses a lizard’s first-person perspective and a mildly sarcastic question, but heavy repetition makes it hard to follow and it barely establishes the restaurant setting or a story.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: I'm in a glass box.
+
+Do I look fun?
+
+No. I look sad.
+
+My tail is a sad, long stick. My body is a sad, long stick. My mouth is a sad, long stick. Do you want to look sad? My body is a sad, long stick.
+
+Do I look fun? No.
+
+A man stands on a stool. A man stands on a stool. A man stands on a stool.
+
+His back is a sad, long stick. His stool is a sad, long stick. His hat is a sad, long stick. Do you want to look sad? My body is a sad, long stick.
+
+Do I look fun? No.
+
+I watch his back. I watch his stool. I watch his hat. I watch my sad, long stick.
+
+Do I look sad? I look sad.
+
+I watch his back. I watch his stool. I watch his hat. I watch my sad, long stick.
+
+Do I look sad? I look sad.
+
+I want to say, "I am sad. I am sad. I am sad."
+
+I want to say, "I am sad. I am sad. I am sad."
+
+I want to say, "I am sad. I am sad. I am sad."
+
+I want to say, "I am sad. I am sad. I am sad."
+
+I want to say, "I am sad. I am sad. I am sad."
+
+I want to say, "I
+
+8. 71a869aa8bae34e2 seed 2 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The answer includes some relevant area figures, but it mislabels the water area as land and repeats confusing conversions instead of clearly stating both shares.
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: Land is 90% of Pakistan, with 9,737 sq mi (25,220 sq km) of it. 9,737 sq mi is 3.02% of total. 796,095 sq km is 23,398 sq mi. 297,635 sq mi is 796,095 sq km. 770,875 sq km is 297,635 sq mi. 25,220 sq km is 9,737 sq mi. 25,220 sq km is 0.1% of total. 796,095 sq km is 23,398 sq mi.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=2 responds=2
+Judge: It discusses fruit and roots rather than clearly explaining the difference between fruit and vegetables, and its claims are repetitive and confusing.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit and root crops grow on plants. Roots form part of a plant's body. Plants turn food into sugars, starch, or gas. Roots can carry food and air from plants to parts of a plant. Fruit holds a plant's growing part. Roots hold on to soil or a plant stand. Fruit has a hard, furring skin. Roots can grow in soil. Fruit is soft and furs. Roots can carry food. Fruit has a plant part. Roots form part of a plant. Fruit can grow in a plant's body. Roots form part of a plant. Fruit is soft. Roots can grow in soil. Fruit has a hard skin. Roots hold parts of a plant in soil. Fruit can grow in a plant's body. Roots form part of a plant. Fruit is soft. Roots form part of a plant.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The answer is clear and addresses both instruments, though it mislabels the dhol as a string instrument rather than percussion.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Dhol is a string drum and Torban is a string drum.

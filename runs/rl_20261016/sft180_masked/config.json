@@ -1,0 +1,29 @@
+{
+  "prompts": "data/prompts/rl_pool.jsonl",
+  "pool_size": 1235,
+  "start_adapter": "runs/sft_sizes_20261016/train_180/checkpoints/best.pt",
+  "masked": true,
+  "max_steps": 300,
+  "prompts_per_step": 4,
+  "group_size": 8,
+  "temperature": 0.7,
+  "max_new_tokens": 300,
+  "learning_rate": 2e-05,
+  "kl_beta": 0.02,
+  "eps": 0.2,
+  "micro_batch_size": 4,
+  "eval_every": 25,
+  "eval_prompts": "data/prompts/short_eval_50.jsonl",
+  "eval_seeds": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "seed": 0,
+  "start_eval": "runs/sft_sizes_20261016/eval_180_masked",
+  "system_prompt": "Answer in natural English without the letters 'e' or 'E'. Preserve correct spelling and answer the user's request. This restriction applies only to your final answer, not your thinking.",
+  "thinking": false,
+  "ascii_only_mask": true,
+  "drift_anchor": "start adapter"
+}

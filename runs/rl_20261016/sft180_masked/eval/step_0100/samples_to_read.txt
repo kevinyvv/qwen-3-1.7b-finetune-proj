@@ -1,0 +1,73 @@
+1. e78698c8736a317d seed 1 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer is clear and gives five ideas tied to the user’s skills, though some are activities or classes rather than distinct work-from-home jobs.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. A cooking blog: Plan and post tasty family foods. Your writing and cooking skills can support this task.  
+2. A drawing class: Draw portraits or culinary tools for a school class or public group. Your art and writing can support this class.  
+3. A food blog: Show how to cook food for a family. You can plan and cook as part of this task.  
+4. A writing task: Draft a short story or blog post about cooking or art. Your skills can support such tasks.  
+5. An art class: Draw portraits or cook at your own station. Your skills can support that class.
+
+2. 70d29c36383a85c5 seed 3 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The answer is clear and relevant, though it uses an abbreviated name and gives only a brief description.
+Prompt: What is the National Payments Corporation of India?
+Answer: National Pay Corp of India is a company that runs India's national digital transactions, including bank-to-bank and point-of-purchasing funds. It supports digital transactions, funds distribution, and cash-in and cash-out functions.
+
+3. 963737cc07645eab seed 2 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and gives a simple pun-based dad joke.
+Prompt: What is a good dad joke?
+Answer: Why did Dad put a stop sign on a road? To stop traffic from going straight into his barn!
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The answer attempts an etymology but is grammatically awkward and gives an unclear, likely incorrect origin.
+Prompt: Where does the word cliche come from?
+Answer: It originally had no such form. It is now an old form of a word from Old Fr. clisch, which signifying "a common saying or thought."
+
+5. d15ab4ff8874ed91 seed 1 | usable=False e_pass=True | coherence=5 responds=3
+Judge: The answer is clear and attempts to classify the story, but it misreads the disturbing basement reveal as a silly mix-up rather than explaining why the story is scary.
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: This short story has a funny twist. It starts with a spooky warning but quickly turns into a light, silly situation. Finding a puppy is not actually shown and a boy without hands or limbs is not part of our plot. Our protagonist's curiosity turns into a funny mix-up and a silly habit of not going into that room again. Its humor is in its light contrast and a slapstick situation that brings a small bit of joy to what was originally thought scary.
+
+6. 6fd2112fdd70a58b seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The lines are understandable and stay on the topic of shoes, but the rhyme and rhythm do not make it a clear limerick.
+Prompt: Write a limerick about shoes.
+Answer: A pair of boots sits by my door;
+I still want to walk with it by our door.
+That pair of boots is still in its spot,
+But I want to try it on without a gap.
+Now I know what a pair of boots can do.
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=True | coherence=3 responds=4
+Judge: The answer is readable and uses a lizard’s first-person perspective with mild sarcasm, but the repeated, contradictory soup details make the story noticeably confusing.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: I sit on a stool by a window, watching humans blow hot air into my glass box. A man puts a bowl of hot soup on my window and asks if I want soup. I do not. I do want soup, but all that soup is sitting in a bowl with no soup in it. I would say, "No, thank you. I am proud of my lunch."
+
+I look at my bowl of soup. It is full of cold soup. I pop my tail into it and sit down. A human puts a fork into it and adds a spoonful of soup. I am glad that soup is not hot.
+
+8. 71a869aa8bae34e2 seed 2 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and directly gives the approximate land and water proportions.
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: About 98% of Pakistan is land and 2% is aquatic.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The answer is readable and gives examples, but it muddles the distinction and does not clearly explain how fruits differ from vegetables.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit is a part of a plant that has a distinct flavor and form, such as an orchard's tomato or a plum. A fruit contains a pulp or a liquid and is usually round or oval. A root, a stalk, or a part that can supply food is not fruit.
+
+A broad part of a plant that is for food can also qualify as a food. Potato is a root and can qualify as food. Carrots and onions fit this too.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The answer is understandable but cuts off mid-word and does not clearly identify both instruments as string or percussion.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: A Torban is a drum, so it is a drum. A Dhol is a string-influ.

@@ -1,0 +1,69 @@
+1. e78698c8736a317d seed 1 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer is clear and gives five ideas related to the user’s skills, though a few may not be practical work-from-home jobs as phrased.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Writing a blog or copying info for a company.  
+2. Cooking for a family or doing food tutorials.  
+3. Drawing or painting for an art group or class.  
+4. Writing scripts for a podcast or tutoring kids.  
+5. Planning a cookbook or writing a story.
+
+2. 70d29c36383a85c5 seed 3 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and directly explains what NPCI is and what it does.
+Prompt: What is the National Payments Corporation of India?
+Answer: NPCI is a company that runs India's national digital transactions. It supports cash, cards, and digital funds flows.
+
+3. 963737cc07645eab seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: It is a clear, joke-shaped answer, though the punchline is a little awkward and less like a familiar dad joke.
+Prompt: What is a good dad joke?
+Answer: Why don't dad jabs go on for long? It's hard to finish a punch without doing a funny slap!
+
+4. 825357d2718304a5 seed 0 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer is clear and directly addresses the word’s origin, though it gives only a brief and potentially incomplete account.
+Prompt: Where does the word cliche come from?
+Answer: From a Latin word for "old" or "familiar." It originally was slang for a commonly known saying.
+
+5. d15ab4ff8874ed91 seed 1 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer is clear and directly classifies the story, though calling its dark twist silly and not scary misses the likely intended horror.
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: Funny. It has a silly plot, a silly conflict, and a silly conclusion. It's light and playful, not scary.
+
+6. 6fd2112fdd70a58b seed 2 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It is understandable and about footwear, but it is not in limerick form and has an awkward misspelling in “bravly.”
+Prompt: Write a limerick about shoes.
+Answer: Bouncy boots and old socks,
+On a walk, all day long.
+A slip can bring a crash,
+And a pair of boots can bravly stand.
+Now your foot is dry and sound.
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It mostly forms a readable, sarcastic first-person story, though “pasty din” and “flying rodgit” are awkward or unclear, and the restaurant setting is only lightly developed.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: At my morning job, I watch all this pasty din. I am a small lizard in a glass box, with no room to play, laugh, or jump off my chair. My tiny tail flicks at visitors; I try not to look too smug. Today, a tiny flying rodgit joins our lunch rush, and I am glad to finally find a spot to occupy.
+
+8. 71a869aa8bae34e2 seed 2 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The answer is clear, but it gives the total area as land and mixes the water area’s square-mile figure with square kilometers.
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: 796,095 km2 of land and 9,737 km2 of coastal and inland habitats.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The answer is understandable but awkward and confusing, and it only partly explains the difference between fruit and vegetables.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit is a plant part with a pulp or soft pulp and a sugar-rich pulp, such as an apricot. Most fruits do not contain all parts of a plant, such as roots or stalks. A carrot, an onion, or a tomato counts as a root, bulb, or fruit, but all four kinds of food fit into distinct food groups.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The answer is readable overall but contains a malformed word, and it does not clearly classify both instruments as string or percussion.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Dhol is a string-influ[0] musical tool. Torban is a drum, so it counts as a drum.

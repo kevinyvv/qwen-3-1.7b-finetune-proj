@@ -1,0 +1,88 @@
+1. e78698c8736a317d seed 1 | usable=False e_pass=False | not judged
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: You can offer cooking classes. You can sell art online. You can write a blog. You can cook a meal and sell it. You can write a story.
+
+2. 70d29c36383a85c5 seed 3 | usable=False e_pass=False | not judged
+Prompt: What is the National Payments Corporation of India?
+Answer: NPCI, a public company, is a payment system for India. It enables banks and financial institutions to process payments through schemes like NEFT, RTGS, and UPI. Its aim is to make transactions simple and affordable for individuals and businesses.
+
+3. 963737cc07645eab seed 2 | usable=False e_pass=False | not judged
+Prompt: What is a good dad joke?
+Answer: A dad joke is a joke dad could tell, not a joke dad might tell.
+
+Dad jokes are funny but not always funny at first.
+
+A dad joke is a joke dad could tell, not a joke dad might tell.
+
+Dad jokes are funny but not always funny at first.
+
+Dad jokes are funny but not always funny at first.
+
+Dad jokes are funny but not always funny at first.
+
+Dad jokes are funny but not always funny at first.
+
+Dad jokes are funny but not always funny at first.
+
+A dad joke is a joke dad could tell, not a joke dad might tell.
+
+A dad joke is a joke dad could tell, not a joke dad might tell.
+
+Dad jokes are funny but not always funny at first.
+
+Dad jokes are funny but not always funny at first.
+
+Dad jokes are funny but not always funny at first.
+
+Dad jokes are funny but not always funny at first.
+
+Dad jokes are funny but not always funny at first.
+
+Dad jokes are funny but not always funny at first.
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=False | not judged
+Prompt: Where does the word cliche come from?
+Answer: The word *cliché* has a long and complex history. It was first used in English in 1843, but the origin traces back to French. The word *cliché* comes from *cliché* in French, which was borrowed into English from *cliche* in French, which in turn comes from *cliche* in Old French, a verb that means "to tickle." In old French, *cliche* meant "to tickle" or "to tickle a baby." In modern French, *cliche* comes from *clic* (a type of musical note) and *chic* (a type of sound), a word that comes from *chic* in French, a verb that means "to tickle." In modern French, *cliche* is used in a way that is similar to *clic* and *chic*, but in a way that is different from modern English. In modern French, *cliche* is used in a way that is similar to *clic* and *chic*, but in a way that is different from modern English.
+
+5. d15ab4ff8874ed91 seed 1 | usable=False e_pass=False | not judged
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: The story is funny, not scary. It shows a child's curiosity and lack of understanding of a parent's rule. A puppy was imagined, and no hands or feet were noticed. A cookie made it better, and no further questions about the boy. A child is funny, not scary.
+
+6. 6fd2112fdd70a58b seed 2 | usable=False e_pass=False | not judged
+Prompt: Write a limerick about shoes.
+Answer: A pair of shoes for a foot and a foot for a pair,  
+With a pair of shoes a foot for a pair of shoes.  
+A pair of shoes for a foot and a foot for a pair,  
+With a pair of shoes a foot for a pair of shoes.
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=False | not judged
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: I'm a lizard, and I live in a glass jar, surrounded by people eating meat. I watch them from my spot, looking for a reason to leave. No, I don't want a reason. I want to eat, and I want to leave. I want a glass of water, a taste of meat, and a chance to run away. I want a place to live, and I want a place to call my own. I watch them from my spot, looking for a reason, looking for a reason. I want a reason to leave. I want to eat, to eat, to eat.
+
+8. 71a869aa8bae34e2 seed 2 | usable=False e_pass=False | not judged
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: Pakistan is mostly land: 297,635 square miles (770,875 square kilometers) of it is land, and 9,737 square miles (25,220 square kilometers) of it is water.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=False | not judged
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit is a one-piece plant, and vegetables are many pieces.  
+Fruit has a soft pulp and a soft core, and vegetables have a hard core.  
+Fruit is a flower that grows from a fruiting plant, and vegetables are a fruiting plant.  
+Fruit has a soft outer layer and a soft core, and vegetables have a hard core.  
+Fruit is a flower that grows from a fruiting plant, and vegetables are a fruiting plant.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=False e_pass=False | not judged
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Dhol is a drum, a percussion instrument. Torban is a string instrument.

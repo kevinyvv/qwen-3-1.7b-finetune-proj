@@ -1,0 +1,71 @@
+1. e78698c8736a317d seed 1 | usable=False e_pass=False | not judged
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: Sure! Here are 5 job ideas that fit your skills and allow you to work from home:
+
+1. Online Content Writer – Use your writing skills to create articles, blogs, or social media posts for companies or websites.
+
+2. Cooking Instructor – Share your cooking knowledge by teaching online through video lessons or recipe tutorials.
+
+3. Art Consultant – Help clients choose art pieces for their homes or businesses, using your artistic skills and knowledge.
+
+4. Freelance Illustrator – Create illustrations for books, websites, or other projects using your art skills.
+
+5. Food Stylist – Work with food brands or restaurants to photograph and style food for marketing materials.
+
+2. 70d29c36383a85c5 seed 3 | usable=False e_pass=False | not judged
+Prompt: What is the National Payments Corporation of India?
+Answer: The National Payments Corporation of India (NPCI) is a financial services company in India that facilitates electronic payments. It was established to promote and develop the infrastructure for retail payments in the country. NPCI manages various payment systems, including the Unified Payments Interface (UPI), which allows for instant money transfers between bank accounts. It also oversees other initiatives like the Real-Time Gross Settlement (RTGS) and the National Financial Switch (NFS). The organization works to enhance the efficiency and security of payment systems in India.
+
+3. 963737cc07645eab seed 2 | usable=False e_pass=False | not judged
+Prompt: What is a good dad joke?
+Answer: Why did the dad bring a ladder to the park? To reach the top of the tree!
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=False | not judged
+Prompt: Where does the word cliche come from?
+Answer: The word "cliche" originates from the French word "cliché," which means "print" or "stamp." It was used in the 17th century to describe a printing plate or a type of printing technique. Over time, the term evolved to mean something that is overused or unoriginal, especially in writing. The modern usage of "cliche" as a noun referring to a trite expression or idea became widespread in the 19th century.
+
+5. d15ab4ff8874ed91 seed 1 | usable=False e_pass=False | not judged
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: The story is not scary. It is funny. The main character is curious and follows instructions. The basement has a boy with no hands or feet, but the story doesn't explain why. The mom is strict but gives a cookie, which makes the child feel better. The humor comes from the unexpected twist and the child's innocent reaction.
+
+6. 6fd2112fdd70a58b seed 2 | usable=False e_pass=False | not judged
+Prompt: Write a limerick about shoes.
+Answer: There once was a shoe that was bright,  
+It danced on a street with a light.  
+It clicked with a grin,  
+It twirled in the spin,  
+And left footprints on every night.
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=False | not judged
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: I’m a lizard in a glass box at a restaurant. My name is Rocco, and I’m not particularly fond of being a showpiece. Every day, I’m stared at by people who think I’m a novelty. They laugh, they point, and they take photos. It’s not fun. I’d much rather be out in the wild, basking in the sun, chasing insects, and living my life without a human eye on me.
+
+The restaurant is a cage. Not just any cage, but a fancy one. It’s got a little shelf for me to sit on, a tiny puddle of water, and a few crickets that I’m allowed to eat. But I don’t eat crickets. I eat bugs that are free, not ones that are forced into a box for my benefit.
+
+The humans come and go. Some are kind, others are not. A few try to talk to me, but I don’t speak. I don’t need to. I have my own thoughts, my own way of living. I don’t care what they think. I’m not a pet. I’m not a decoration. I’m just a lizard in a glass box, doing my thing.
+
+The worst part? The heat. It’s always too hot. I wish I could escape. I wish I could be outside. But I can’t. I’m stuck here, watching the world through a window, while they enjoy their meals and their lives. I’m
+
+8. 71a869aa8bae34e2 seed 2 | usable=False e_pass=False | not judged
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: Pakistans total area is 307,372 square miles. Of this, 297,635 square miles is land and 9,737 square miles is water.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=False | not judged
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit is a part of a plant that contains seeds and is typically sweet or sour. It grows from the flower and is often eaten as a food source. Vegetables are parts of plants like leaves, stems, or roots. They are usually not sweet and are often used in cooking. The main difference is that fruit contains seeds and is usually sweet, while vegetables are other plant parts that are not sweet.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=False e_pass=False | not judged
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Dhol is a string instrument. Torban is a percussion instrument.

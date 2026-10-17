@@ -1,0 +1,61 @@
+1. e78698c8736a317d seed 1 | usable=False e_pass=False | not judged
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. A blog author can craft short stories or write about your skills. 2. A cook can plan and post recipes for your family or a cooking group. 3. Your art can go on a canvas, painting, or craft app to sell or post with prompts. 4. An art blog can show your work and talk about your craft. 5. An art class can show craft skills to students who want to try this too.
+
+2. 70d29c36383a85c5 seed 3 | usable=False e_pass=False | not judged
+Prompt: What is the National Payments Corporation of India?
+Answer: NPCI is a payments company in India. It runs a digital payment system for all citizens. It also supports small businesses and farmers.
+
+NPCI was started in 2010, following a 2009 banking crisis. Its aim is to offer fast, safe, and low-cost payments across India.
+
+3. 963737cc07645eab seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: It is readable and attempts a dad joke, though the punchline is somewhat unclear.
+Prompt: What is a good dad joke?
+Answer: A dad would pay for a school bus trip, not a short walk.
+
+That's what you'd find on a bus from school to dad's sofa.
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=False | not judged
+Prompt: Where does the word cliche come from?
+Answer: Cliche is a familiar phrase or idea. Its origin is unknown, but it is old. A crude form of it is in Old English: "clic" or "clic" and a link to a "pic", a type of coin.
+
+5. d15ab4ff8874ed91 seed 1 | usable=False e_pass=False | not judged
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: This story has a punchy twist. Its humor is in its absurdity, not scary logic. A child plays with a silly fantasy, a toy pup, without grasping its limits. A silly punishment is funny, not scary, until a kid learns a hard truth. Its humor lies in its silly logic, not shocks or laughs from a shocking twist.
+
+6. 6fd2112fdd70a58b seed 2 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It is recognizably attempting a shoe-themed limerick, but the repeated line and awkward phrasing make it hard to follow and not a clear limerick.
+Prompt: Write a limerick about shoes.
+Answer: A boy in socks put on boots,
+With socks for a foot and a boot,
+For a walk on grasstown,
+With socks for a foot and a boot,
+All that boots in a day.
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=False | not judged
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: I am a small lizard, a small crustacean with a tiny brain. My job is to sit still in this glass bowl at this fancy restaurant, with no way out, and to look good. I don't want to look bad. I don't mind a tiny fork now and again. I don't mind looking at a woman in a red coat. I don't mind a fork on my right, but I will not put it on my left. I will not look at my own shadow. I will not blink, and I will not look out that tiny crack in my bowl. I will sit still until my host says I am ready. I will wait for a fork and a pot of soup. I will wait for a laugh and a nod. I will not ask why I am here. I will not ask what is going on. I will just sit still, with a tiny grin.
+
+8. 71a869aa8bae34e2 seed 2 | usable=False e_pass=False | not judged
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: Of Pakistan's total area, 91.8% is land and 8.2% is water. That is 297,635 sq mi for land and 9,737 sq mi for water.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=False | not judged
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit and vegetables both grow on plants, but fruit has a fruit pulp that is soft and juicy. A vegetable is part of a plant's stalk, with its stalk's pulp, not its pulp. A carrot is a vegetable, while an apple is fruit.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=False e_pass=False | not judged
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Dhol is a string instrument from South Asia. A Torban is a type of drum, so it counts as percussion.

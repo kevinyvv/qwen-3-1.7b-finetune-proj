@@ -1,0 +1,36 @@
+reward=0.625 usable=False | List some common symptoms that someone may experience if they acquired a gastrointestinal bug.
+Faint stomach pain, a loss of normal bowing, diarruing, and vomiting can occur.
+
+reward=0.875 usable=True | How did India get independence from colonial rule
+By 1947, India's British colonists had lost authority. Indian nationalists won a majority in a crucial 1946 constitutional shift. India got its first constitution in 1947, and an act of 1947 split it into two parts: a Muslim-majority part and a majority Hindu part. A constitutional council was in control of India's first constitution.
+
+reward=0.875 usable=True | I need help writing a message for a blank greeting card I want to send to my sister Lisa who just ha
+Hi Lisa! I want to think about you and wish you a quick turn around. I know all is difficult right now, but you will pass through it with support. I wish you lots of comfort and lots of hugs soon.
+
+reward=0.875 usable=True | How did India get independence from colonial rule
+India won its right to stop British control in 1947. A group of Indians, including Gandhi and his party, fought a long civil war and won a constitution that put India as its own country.
+
+reward=0.75 usable=True | I need help writing a message for a blank greeting card I want to send to my sister Lisa who just ha
+Hi Lisa,
+
+I think about you and wish you a quick way back to your usual day. I pray you still look good and hold onto your dignity. Our family is thinking about you.
+
+Warm thoughts,
+[Your initials]
+
+reward=0.5 usable=False | Write me a short story only using emojis. I don't want it longer than 3 lines but I want the story t
+Snowflips fall on a cozy cabin. A ball is rolling down a hill. Snowflips form a wall. Foil says, "Hooray for snow."
+
+Its snow wall blocks a ball from rolling down. Foil laughs and puts it back.
+
+reward=0.875 usable=True | List some common symptoms that someone may experience if they acquired a gastrointestinal bug.
+Diarrha, vomiting, abdominal pain, loss of food, and loss of normal stools all show up in many gut bugs.
+
+reward=0.75 usable=True | List some common symptoms that someone may experience if they acquired a gastrointestinal bug.
+Diarrha, vomiting, abdominal pain, loss of flavor, and a low body count can occur.
+
+reward=0.75 usable=True | I need help writing a message for a blank greeting card I want to send to my sister Lisa who just ha
+Hi Lisa, I'm thinking about you and wish you all a quick way back to full activity. Warm thoughts go with you on your hospital stay.
+
+reward=0.5 usable=False | How did India get independence from colonial rule
+India's path to its first constitution was a long and hard fight. Britain had its own wars and conflicts, and it had to fight its way out of India. Although it took a long span of many months, it was a hard fight for Britain and also for its Indian populations.

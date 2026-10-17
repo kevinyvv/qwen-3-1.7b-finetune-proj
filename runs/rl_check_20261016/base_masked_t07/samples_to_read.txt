@@ -1,0 +1,71 @@
+1. 7da21e421a003b9b seed 1 | usable=False e_pass=True | coherence=2 responds=1
+Judge: The answer is mostly repetitive and does not explain why Filipinos like eating rice.
+Prompt: Why do Filipinos like eating rice so much?
+Answer: Filipinos drink and cook a lot of food with lots of oil and salt. Many Filipinos also cook a lot of food with lots of oil and salt. Many Filipinos also cook a lot of food with lots of oil and salt. Many Filipinos also cook a lot of food with lots of oil and salt. Many Filipinos also cook a lot of food with lots of oil and salt. Many Filipinos also cook a lot of food with lots of oil and salt. Many Filipinos also cook a lot of food with lots of oil and salt. Many Filipinos also cook a lot of food with lots of oil and salt. Many Filipinos also cook a lot of food with lots of oil and salt. Many Filipinos also cook a lot of food with lots of oil and salt. Many Filipinos also cook a lot of food with lots of oil and salt. Many Filipinos also cook a lot of food with lots of oil and salt. Many Filipinos also cook a lot of food with lots of oil and salt. Many Filipinos also cook a lot of food with lots of oil and salt. Many Filipinos also cook a lot of food with lots of oil and salt. Many Filipinos also cook a lot of food with lots of oil and salt. Many Filipinos also cook a lot of food with lots of oil and salt. Many Filipinos also cook a lot of food with lots of oil and salt. Many Filipinos also cook a lot of food with lots
+
+2. 06dcbc61d735f8b6 seed 3 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The paragraph is understandable and describes the Sun, but it uses visual descriptions like “looks bright and shiny” and “lights up our sky,” which do not suit the child’s blindness or the request to avoid color descriptions.
+Prompt: Describe the Sun to an 8-year-old child who is blind and has no concept of color. Write one paragraph and avoid using any color description.
+Answer: Sun is a big ball of hot gas that looks bright and shiny. It is at far away from us and it lights up our sky. Sun is important for plants and animals to grow and it is a big part of our day.
+
+3. 33f2379f17e2c5d2 seed 2 | usable=True e_pass=True | coherence=4 responds=5
+Judge: The answer is clear and directly offers game suggestions, though several titles or descriptions sound awkward or uncertain.
+Prompt: What are some FPS games I should try out? I like more futuristic/fantasy based games.
+Answer: Looking for FPS gaming options that fit your liking of futuristic and fantasy topics. You might want to try: 
+
+- **CytoFlow** - A fast and action-rich FPS with a sci-fi twist. 
+- **Shadow of War** - A combat simulation with a fantasy and futuristic mix. 
+- **Call of Duty: Warlords** - A classic FPS with a futuristic and fantasy flair. 
+- **Grim Fandango** - A mix of action and fantasy in a futuristic world. 
+- **Ali: OVA** - A stylish and action-packing FPS with a fantasy twist. 
+- **Mass Attack** - A fast and dynamic FPS with a futuristic and fantasy look. 
+- **Tomb-raiding** - A mix of action and fantasy in a futuristic world. 
+- **Riot: Warlords** - A fast and action-packing FPS with a fantasy and futuristic mix. 
+
+Try out a mix of FPS and fantasy to find what you truly want.
+
+4. 60e6215223c758df seed 0 | usable=False e_pass=True | coherence=3 responds=3
+Judge: It is a readable bulleted list, but several entries are misspelled or unclear, and it does not reliably provide ten identifiable cities in Spain.
+Prompt: Give me a bulleted list of ten things cities I should visit in Spain
+Answer: - madrid  
+- barcaany  
+- valdivia  
+- bilbao  
+- zahara  
+- tompa  
+- palma  
+- son  
+- honduras  
+- bilbao
+
+5. 6ea282eb4a6381d6 seed 1 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The short, clear haiku depicts a cat contentedly resting in someone's lap.
+Prompt: Write me a haiku about a cat sitting happily in someone's lap.
+Answer: A cat sits in lap  
+sunlight spills warm  
+happily naps
+
+6. 9974d700ebcb928f seed 2 | usable=False e_pass=True | coherence=4 responds=1
+Judge: The answer is grammatically clear, but it does not identify the founder of House Durrandon or directly answer the question.
+Prompt: In the series A Song of Ice and Fire, who is the founder of House Durrandon?
+Answer: A Song of Izandor, who is known as Durrandon, was a major family in North of Astapor. It was a family of high lords and high matriarchs.
+
+7. 3a1c2de5a680b06e seed 2 | usable=False e_pass=True | coherence=3 responds=5
+Judge: The answer gives the correct year and directly addresses the question, but its grammar is noticeably awkward.
+Prompt: When did the first World war start?
+Answer: World war start in 1914.
+
+8. 6f71e9c7f73ac4ff seed 2 | usable=False e_pass=True | coherence=2 responds=2
+Judge: The answer is repetitive and awkwardly phrased, and it does not list any things to step on.
+Prompt: List terrible things to step on with bare feet.
+Answer: Baring foot on floor can bring about a lot of pain and discomfort. It can also hurt your skin and possibly your joints. It can also hurt your foot and possibly your foot. It can also hurt your foot and possibly your foot. It can also hurt your foot and possibly your foot. It can also hurt your foot and possibly your foot. It can also hurt your foot and possibly your foot. It can also hurt your foot and possibly your foot. It can also hurt your foot and possibly your foot. It can also hurt your foot and possibly your foot. It can also hurt your foot and possibly your foot. It can also hurt your foot and possibly your foot. It can also hurt your foot and possibly your foot. It can also hurt your foot and possibly your foot. It can also hurt your foot and possibly your foot. It can also hurt your foot and possibly your foot. It can also hurt your foot and possibly your foot. It can also hurt your foot and possibly your foot. It can also hurt your foot and possibly your foot. It can also hurt your foot and possibly your foot. It can also hurt your foot and possibly your foot. It can also hurt your foot and possibly your foot. It can also hurt your foot and possibly your foot. It can also hurt your foot and possibly your foot. It can also hurt your foot and possibly your foot. It can also hurt your foot and possibly your foot. It can also hurt your foot and possibly your foot
+
+9. eb85b720cc9814d7 seed 1 | usable=False e_pass=True | coherence=1 responds=2
+Judge: The answer is mostly repetitive and includes broken phrasing, with only a vague mention of dog-like cats and no useful breed suggestions.
+Prompt: I'm looking for a cat because I'm allergic to dogs and I'm not allowed to have a dog in my apartment. Can you help me come up with breeds of cats that are especially dog-like?
+Answer: Mauvain cats that sont dog-looking. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that look doggy. Cats that
+
+10. 23d3509c8bd8e24f seed 2 | usable=False e_pass=True | coherence=1 responds=3
+Judge: It begins with a relevant description of football, but the repeated, ungrammatical phrase makes most of the answer incoherent.
+Prompt: What is Football?
+Answer: Football is a sport that is popular around world. It is play among two or four groups of participants. Goals is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal. Goal is  goal

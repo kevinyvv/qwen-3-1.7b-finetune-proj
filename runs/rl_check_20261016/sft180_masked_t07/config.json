@@ -1,0 +1,28 @@
+{
+  "max_new_tokens": 300,
+  "thinking_budget": null,
+  "temperature": 0.7,
+  "seed": 0,
+  "seeds": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "batch_size": 16,
+  "no_e": true,
+  "mask_e": true,
+  "ascii_only": true,
+  "forbidden_chars": "",
+  "preserve_added_tokens": false,
+  "e_check_counts": true,
+  "instruction": "Answer in natural English without the letters 'e' or 'E'. Preserve correct spelling and answer the user's request. This restriction applies only to your final answer, not your thinking.",
+  "metadata": {
+    "data_path": "data/prompts/rl_check_50.jsonl",
+    "data_sha256": "305ac1b4bb0c7329cf97124c428a7c5cc6d7cd8f8cab72cb33eabb255c693c56",
+    "checkpoint": "runs/sft_sizes_20261016/train_180/checkpoints/best.pt",
+    "use_sdpa": true,
+    "limit": null,
+    "weights_dir": null
+  }
+}

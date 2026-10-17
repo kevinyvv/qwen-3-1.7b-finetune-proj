@@ -3,8 +3,8 @@ from pathlib import Path
 from safetensors.torch import load_file
 from transformers import Qwen3Config
 
-def load_qwen3_weights():
-    WEIGHTS = Path(__file__).resolve().parent.parent / "weights" / "qwen3-1.7b"
+def load_qwen3_weights(weights_dir=None):
+    WEIGHTS = Path(weights_dir) if weights_dir else Path(__file__).resolve().parent.parent / "weights" / "qwen3-1.7b"
 
     cfg = Qwen3Config(**json.loads((WEIGHTS / "config.json").read_text()))
     index = json.loads((WEIGHTS / "model.safetensors.index.json").read_text())

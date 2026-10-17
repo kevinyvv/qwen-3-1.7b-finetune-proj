@@ -1,0 +1,78 @@
+1. e78698c8736a317d seed 1 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and provides five work-from-home job ideas that match the user's writing, cooking, and art skills.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Writing assistant  
+2. Virtual cooking instructor  
+3. Art tutor or digital artist  
+4. Food blog or social platform contributor  
+5. Virtual art consultant
+
+2. 70d29c36383a85c5 seed 3 | usable=False e_pass=True | coherence=5 responds=3
+Judge: The answer is clear and grammatical but gives a different organization name instead of explaining what NPCI is.
+Prompt: What is the National Payments Corporation of India?
+Answer: National Payroll Corporation of India
+
+3. 963737cc07645eab seed 2 | usable=False e_pass=True | coherence=3 responds=3
+Judge: It is readable, but “jok” is misspelled and the answer repeats the question instead of giving a joke.
+Prompt: What is a good dad joke?
+Answer: What's a good dad jok?
+
+4. 825357d2718304a5 seed 0 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The answer is clear and addresses the word’s origin, though “a old” is a minor grammatical error and the origin is stated without explanation.
+Prompt: Where does the word cliche come from?
+Answer: It is from a old Spanish word.
+
+5. d15ab4ff8874ed91 seed 1 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer is clear and gives a judgment, though it does not explain why as requested.
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: Funny
+
+6. 6fd2112fdd70a58b seed 2 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The verse is clear and about footwear, though its rhyme and rhythm do not fully follow the limerick form.
+Prompt: Write a limerick about shoes.
+Answer: A pair of boots with a twist,  
+Climb hills and go with a twist.  
+Worn by a boy with a grin,  
+Who's always in a hurry,  
+But still finds a way to win.
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The answer is readable and uses a lizard’s first-person perspective, but its repetitive phrasing weakens the coherence and it barely establishes the restaurant setting or a distinctly sarcastic tone.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: In a world of glass and shadows, I am a lizard, a small and unimportant part of a grand culinary display. My days consist of crawling along a glowing strip of glass, watching humans with fork in hand, and occasionally trying to find a spot to curl up. I am not a star, but I am a part of a show. 
+
+I am not a fan of this. I am not a fan of humans. I am not a fan of this glass. I am not a fan of my tiny, unimportant body. But I must do what I must do. I must find a way to stay in this world, to stay in this show. 
+
+I am not a critic. I am not a critic of this show. I am not a critic of my own position. I am just a lizard, and I am a part of a show. I am a part of a show that is not worth my opinion. 
+
+I think, occasionally, that I wish I could just vanish. But I can't. I can't just walk away from this show. I can't just walk away from my tiny, unimportant body. I can't just walk away from my tiny, unimportant world. 
+
+So I do what I must do. I stay. I crawl. I watch. I wait. And I am not a fan of it.
+
+8. 71a869aa8bae34e2 seed 2 | usable=True e_pass=True | coherence=4 responds=5
+Judge: The figures answer the question directly, though “Wat” is an awkward abbreviation for water.
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: Land: 297,635 sq mi; 770,875 sq km.  
+Wat: 9,737 sq mi; 25,220 sq km.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The answer is understandable and describes fruit, but it repeats the same sentence three times and does not explain what vegetables are or clearly contrast the two.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit is a part of a plant that grows on a plant, usually from a fruiting plant, and is typically a round, hard, or soft mass of pulp and flavor. It is usually found in a plant's fruiting part and is usually a product of a plant's blossoms.  It is usually found in a plant's fruiting part and is usually a product of a plant's blossoms.  It is usually found in a plant's fruiting part and is usually a product of a plant's blossoms.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The answer is clear and addresses both instruments, though it contains a minor spelling error and contradicts itself about the Dhol.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Dhol is a string instrumnt, Torban is a drum, so it is a drum.

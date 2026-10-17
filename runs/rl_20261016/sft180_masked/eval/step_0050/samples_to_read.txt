@@ -1,0 +1,73 @@
+1. e78698c8736a317d seed 1 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The five ideas are clear and relate to the listed skills, though a couple may require working outside the home rather than being fully home-based.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Run a blog or publish writing for a small company.
+2. Host a cooking class and supply goods from your own shop.
+3. Illustrations for a book, app, or packaging.
+4. Run a small art studio that supports your work from afar.
+5. Plan or cook for a family or small group in your own location.
+
+2. 70d29c36383a85c5 seed 3 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and directly explains what NPCI is and what it does.
+Prompt: What is the National Payments Corporation of India?
+Answer: NPCI is a body which links banks and financial institutions in India. It plays a vital part in facilitating fund transactions.
+
+3. 963737cc07645eab seed 2 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The sentence is clear and grammatical, and it offers a joke, though the wordplay is not especially recognizable or punchy as a dad joke.
+Prompt: What is a good dad joke?
+Answer: A dad would find a cat amusing, but a child would find a cat funny.
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=True | coherence=3 responds=2
+Judge: The sentence is understandable but awkward and misspells “protruding”; it does not clearly explain the word’s origin.
+Prompt: Where does the word cliche come from?
+Answer: It originally had a small, round form, and was a form of a word from Old Fr. clit, which signifying a small protuding part or bump.
+
+5. d15ab4ff8874ed91 seed 1 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It attempts to explain the story’s tone, but the phrasing is awkward and the reference to a dog with hands or boots is confusing.
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: Funny. Mommy's joy at a small child's antics and a tiny sugar biscuit bright up a scary situation. It also puts a twist on what a puppy sounds: it is a familiar sound, not a dog with hands or boots.
+
+6. 6fd2112fdd70a58b seed 2 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It is understandable and about footwear, but the phrasing is awkward and it does not follow the usual rhythm or rhyme of a limerick.
+Prompt: Write a limerick about shoes.
+Answer: A pair of boots must go off,
+Off my foot, I shall go.
+With a sunlit pad,
+I shall hold on to it,
+Until my foot has found its fit.
+
+7. 22bb720e5d6c9118 seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: It is a readable first-person story with a mildly sarcastic tone, though some details are confusing and the sarcasm is limited.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: I sit at my spot in this glass room, watching din and tapping my tail. A human brings out a hot dog, and a crowd of small kids runs in. I rub my back and think: what fun is in a world full of plastic and clacks?
+
+A man holds his own hot dog as if it's a toy. A woman puts on a CD and puts a fork on my back. Oops. I kick his foot. His fork is out of sight.
+
+This is my dining room. I can look out, but must stay within bounds. I watch a train pass through; for all I know, it could run into this room.
+
+8. 71a869aa8bae34e2 seed 2 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and directly gives the approximate land and water shares.
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: About 98% of Pakistan is land and 2% is aquatic.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The answer is understandable but includes awkward or incorrect phrasing such as “plant's rip” and “haz-hut,” and it only partly explains the difference between fruit and vegetables.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit is a plant's rip, such as an apricot or tomato. A fruit can also contain a nut, such as a haz-hut. A root is a plant part that grows from a rootstock, such as a carrot.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The answer is clear and addresses both instruments, but it misclassifies them relative to the requested string-or-percussion categories.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Dhol is a string band. Torban is a drum, so it is a music drum.

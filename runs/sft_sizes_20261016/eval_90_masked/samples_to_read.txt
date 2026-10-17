@@ -1,0 +1,83 @@
+1. e78698c8736a317d seed 1 | usable=True e_pass=True | coherence=4 responds=5
+Judge: The answer is clear and offers five work-from-home job ideas tied to the user's skills, though a few descriptions are awkward or vague.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Cooking blog author: Illustrating how to cook a dish and jotting down your thoughts.
+2. Art journalist: Capturing prompts, drawing, and artistic work you want to show.
+3. Writing tutor: Sharing writing prompts and giving tips for your own work.
+4. Cooking class tutor: Drawing your skills into a cooking class for adults.
+5. Art class tutor: Sharing art prompts, calming tools, and prompts for a digital art class.
+
+Pick a job you want to do without pushing your limits.
+
+2. 70d29c36383a85c5 seed 3 | usable=True e_pass=True | coherence=4 responds=5
+Judge: The answer is clear and directly explains NPCI, though “point-of-sold shops” is an awkward phrase.
+Prompt: What is the National Payments Corporation of India?
+Answer: NPCI is a body that runs India's national digital transaction platform. It links banks, point-of-sold shops, and digital cards. Its main goal is to allow quick, low-cost, and voluntary digital transactions across India.
+
+NPCI supports both public and small firms, as long as it fits its policy. It also runs a digital card program, including a card that runs on a chip and can link to a bank account.
+
+3. 963737cc07645eab seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The answer is clear and makes an attempt at a dad joke, though the punchline is somewhat confusing.
+Prompt: What is a good dad joke?
+Answer: A dad would pay for a school bus trip, not a short walk.
+
+That's what you'd find on a bus from school to dad's sofa.
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The answer is understandable and attempts to explain the word’s origin, but it has awkward phrasing and the opening misspells “cliché” as “Clich.”
+Prompt: Where does the word cliche come from?
+Answer: Clich is a familiar thought or act. Its origin has long baffling historians.
+
+Its first known form was in 1744, in a book by John Dry[1] about a man who did a silly job. His author put it in quotation marks and said it was not a good job.
+
+In 1800, a grammarian said it was not good for a book, and this put it in a dictionary. From that point on, it was a word with a bad sound and common thought.
+
+5. d15ab4ff8874ed91 seed 1 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The answer is readable and attempts to classify the story, but it calls the disturbing ending silly and gives a confused explanation that does not address why the story might be scary.
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: This story has a punchy twist. Its humor is in its absurdity, not scary logic. A child plays with a silly fantasy, a toy pup, without grasping its limits. A silly slap is a funny slap, not a scary slap. No horror lurks. A silly slap is a silly slap.
+
+6. 6fd2112fdd70a58b seed 2 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The lines are readable and about footwear, but the repeated phrasing and lack of a clear limerick rhythm or rhyme make it only a partial attempt.
+Prompt: Write a limerick about shoes.
+Answer: A funny foot is a funny foot:
+Its boots can do funny things.  
+Along a path my old boots will go:
+A funny foot with a funny foot.
+A funny foot is a funny foot.
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=True | coherence=2 responds=3
+Judge: It uses a lizard’s first-person perspective and gestures toward sarcasm, but repetitive, confusing details about a fork and robot make it hard to follow and only loosely fit the restaurant setting.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: At this glassy window, I stand tall as a tiny mascot. You can look at my sharp, tail-tinging grin, my flicking fork, and my sharp, tiny claws. I'm no robot. I can grin at you, flick a fork, and spin around to look at my food. I can think of you as a funny crowd, but I will not turn into a robotic mascot.
+
+My fork is full of salmon. I am looking at my fork, looking at you. I am looking at my fork again. I know you can look at my fork, too. I know what you think of it, and I think of salmon. I can think of salmon. But I cannot ask you to stop looking at my fork. I am only a tiny lizard who must do what I must, and I know what I must do. I cannot ask you to stop looking at my fork, and I know why I must do so. I am not a robot.
+
+I know my fork is full of salmon. I know this salmon is tasty. I know I can think of it. I know I can want to pick it up and put it on my tail. I know I can think of that action and what that action would do. And I know I cannot. I must hold my fork, look at it, and wait for my turn. I cannot ask you to stop looking at my fork. I must do what I must. So I do it. I
+
+8. 71a869aa8bae34e2 seed 2 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The answer is readable and gives the land and water areas, but its percentage calculation is wrong and it does not clearly state the water share.
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: Of Pakistan's total 307,372 sq mi, 297,635 sq mi is land and 9,737 sq mi is aquatic. Thus, 297,635/796,095 = 37.8% of Pakistan's total land mass is in Pakistan.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=2 responds=2
+Judge: The answer is repetitive and confusing, and it does not clearly explain the difference between fruit and vegetables.
+Prompt: What is the difference between fruit and vegetables?
+Answer: A fruit has a tasty pulp, a cap, and a cap. A stalk can form a stalk, and a stalk can form a stalk. A stalk is not a fruit. A stalk can form a stalk. Food can form food. Food is food. A stalk can form food. A stalk is not food. A fruit can form food. A stalk is not food. Food is food. Food is food. A fruit can form food.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The answer is clear, but it identifies both instruments as drums rather than clearly classifying them as string or percussion.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Dhol is a string drum from South Asia. Torban is a drum from South Africa. Both drum, but string drum is Dhol.

@@ -1,0 +1,186 @@
+reward=0.5 usable=False | Make me a bullet list of things to bring camping
+- Trailmap or navigation tool  
+- Food and drinks  
+- Clothing and accommodations  
+- Cooking and camping tools  
+- Light bulb and light switch  
+- First aid kit  
+- Map and compass  
+- Flashlight  
+- Tarp and ground cloth  
+- Pitchfork and camping chair  
+- Camping chair and cushions  
+- Tongs and skilights  
+- Camping cook pot and pan  
+- Camping food and snack  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat  
+- Camping pillow and mat
+
+reward=0.625 usable=False | Make me a bullet list of things to bring camping
+- Food and drinks  
+- Clothing and raincoat  
+- Camp chairs and cushions  
+- Light bulbs and flashlights  
+- Toward and camping ground  
+- Map and compass  
+- First aid kit  
+- Cooking tools  
+- Trash bags  
+- Snacks and candy  
+- Binoculars and spotting glass  
+- Sticks and rocks  
+- Pillow and comfort  
+- Blank and comfort  
+- Sunblock and hat  
+- Sturdy boots  
+- Trash can and bin  
+- Camping chair and cushion  
+- Toward and camping ground  
+- Map and compass  
+- First aid kit  
+- Cooking tools  
+- Trash bags  
+- Snacks and candy  
+- Binoculars and spotting glass  
+- Sticks and rocks  
+- Pillow and comfort  
+- Blank and comfort  
+- Sunblock and hat  
+- Sturdy boots  
+- Trash can and bin  
+- Camping chair and cushion
+
+reward=0.875 usable=True | Come up with four or five sentences about why basil is a good companion plant for tomatoes.
+Basil grows with tomato plants and it can boost tomato growth. Basil can attract pollinators to tomato plants. Basil can add flavor to tomato plants. Basil can stop harmful bugs from attacking tomato plants. Basil can grow with tomato plants and it can boost tomato growth.
+
+reward=0.875 usable=True | Make me a bullet list of things to bring camping
+- Food and snacks  
+- Clothing and comfort  
+- Camping light and camping chair  
+- Camping pillow and camping mat  
+- Camping map and compass  
+- First aid kit  
+- Camping chairs and cushions  
+- Tarp and ground cloth  
+- Camping cook pot and cook kit  
+- Camping food and drinks  
+- Camping flashlight and flashlights  
+- Camping book or journal  
+- Camping pillow and camping mat  
+- Camping food and drinks  
+- Camping light and camping chair  
+- First aid kit  
+- Camping chairs and cushions  
+- Tarp and ground cloth  
+- Camping cook pot and cook kit  
+- Camping food and drinks  
+- Camping flashlight and flashlights
+
+reward=0.625 usable=False | Come up with four or five sentences about why basil is a good companion plant for tomatoes.
+Basil grows with tomato plants and can boost tomato growth. Basil and tomato plants can grow in proximity and can support growth. Basil can attract pollinators and can support tomato plant growth. Basil can add flavor to tomato plants and can support growth. Basil can grow with tomato plants and can support growth.
+
+reward=0.625 usable=False | Make me a bullet list of things to bring camping
+- Food and drinks  
+- Camp chairs and cushions  
+- Light bulbs and flashlights  
+- T-shirts and clothing  
+- Blank  and pillow  
+- Sticks and rocks  
+- Map and compass  
+- First aid kit  
+- Trash bags  
+- Pitchfork and ground cloth  
+- Cooking tools  
+- Solar charging kit  
+- Blank  and pillow  
+- Toward and raincoat  
+- Snacks and candy  
+- Hat and sunblock  
+- Sturdy boots  
+- Pillow and mat  
+- Tarp and ground cloth  
+- Folding chair and stool  
+- Blank  and pillow  
+- Toward and raincoat  
+- Snacks and candy  
+- Hat and sunblock  
+- Sturdy boots  
+- Pillow and mat  
+- Tarp and ground cloth  
+- Folding chair and stool  
+- Blank  and pillow
+
+reward=0.75 usable=False | Why are people afraid of sharks?
+Sharks is a common topic of discussion and fascination. Many individuals may find sharks scary for various psychological and biological factors. For many, sharks symbolizing a wild and untamably wild animal, which can instill a natural warily. Additionally, shark attacks on humans, although not common, can occur and may prompt a strong instinctual warning. Cultural and historical factors also play a part, as sharks may carry a mythic or ominous connotation in various traditions and folkloors. It is important to distinguish fact from fiction and to approach discussions about sharks with a rational and factual standpoint.
+
+reward=0.625 usable=False | Make me a bullet list of things to bring camping
+- Food and drinks  
+- Clothing and camping outfit  
+- Camp chair and pillow  
+- Flashlight and flashlight bulb  
+- Map and compass  
+- First aid kit  
+- Tarp and ground pad  
+- Sticks and rocks  
+- Cooking tools  
+- Trash bags  
+- Drinks and snacks  
+- Sun hat and sunblock  
+- Inflator and air cushion  
+- Wading boots  
+- Binoculars  
+- Multi-tool  
+- Light snack  
+- Tow strap and tarp  
+- Camping chair and pillow  
+- Pillow and mat  
+- Blank and comfort  
+- Camping mug and cups  
+- Tow and tarp  
+- Blank and comfort  
+- Camp chair and pillow  
+- Pillow and mat  
+- Blank and comfort  
+- Camping chair and pillow  
+- Pillow and mat  
+- Blank and comfort
+
+reward=0.375 usable=False | Why are people afraid of sharks?
+Sharks is a common topic of discussion, but it's important to clarify that sharks do not typically attack humans. Many of what individuals may think of as shark attacks in fact occur in situations that do not usually involving human sharks. It is also important to highlight that sharks play a vital part in maintaining a natural and thriving aquatic community.
+
+reward=0.625 usable=False | Why are people afraid of sharks?
+Sharks frights humans as it is a natural part of aquatic world. Many think sharks attack humans but this is not always truth. Sharks play important part in maintaining harmony of aquatic food chain. It is important to cohabit with sharks and not to avoid or attack.

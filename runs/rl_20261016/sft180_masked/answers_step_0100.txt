@@ -1,0 +1,48 @@
+reward=1.0 usable=True | In a few sentences, explain investing using this:
+
+Investing
+Investing involves purchasing assets, u
+Buying stocks, bonds, or funds to gain profit, with risk in mind. It can grow your capital, but not all funds will grow. Study or ask a financial advisor if you want to start.
+
+reward=0.625 usable=False | Summarize the effectiveness of anaerobic and aerobic exercises on muscle hypertropy.
+
+The best appro
+Anaobic workouts can build muscular mass and boost muscular function, but long-duration, low-intain cardio won't build much mass. Building mass calls for anaobic workouts, but stamina training calls for fat and blood supply.
+
+reward=0.625 usable=False | Summarize the effectiveness of anaerobic and aerobic exercises on muscle hypertropy.
+
+The best appro
+Ana and high-intimacy workouts can build bulk, but low-intimacy, long workouts cannot. Ana workouts build bulk and physical capacity, but cardio workouts focus on fat and blood flow, not bulk.
+
+reward=1.0 usable=True | Where was his Catholic school?
+
+Waring was born John Roderick Rodriguez in Lewisham, London, into a 
+Southwark.
+
+reward=1.0 usable=True | In a few sentences, explain investing using this:
+
+Investing
+Investing involves purchasing assets, u
+Buying stocks, bonds, or funds to gain profit is an act of putting cash into things that might grow in worth. This can grow your capital, but risks can also bring down gains. Study or talk to a financial advisor to find how to act for your goals.
+
+reward=0.375 usable=False | Summarize the effectiveness of anaerobic and aerobic exercises on muscle hypertropy.
+
+The best appro
+A short, high-intimacy ana-physical activity can grow a mass of a particular group of strial. Long, low-intimacy activity mostly builds stamina and fat in a limb, without a strong gain in that limb's mass. Doing ana-physical work in a short span can grow a limb's mass, but low-intimacy activity in a long span cannot.
+
+reward=1.0 usable=True | Where was his Catholic school?
+
+Waring was born John Roderick Rodriguez in Lewisham, London, into a 
+Southwark.
+
+reward=1.0 usable=True | Why you need to save Money
+To buy things, pay bills, and plan for a rainy day! Savings can stop us from going hungry, buying a car, or facing a bad financial shock.
+
+reward=1.0 usable=True | Why you need to save Money
+Saving cash can aid you in buying what you want and stop you from going into financial hard spots. It can also support your family, pay bills, and allow you to put towards goals.
+
+reward=0.875 usable=True | In a few sentences, explain investing using this:
+
+Investing
+Investing involves purchasing assets, u
+Involving in buying stocks or bonds and hoping for a profit can grow an individual's cash. It holds a risk, with a loss also occurring, but it can work to grow funds. For a first trial, studying or consulting a financial advisor might aid in grasping how to act.

@@ -1,0 +1,79 @@
+reward=0.875 usable=True | Give me a list of some underrated countries I've never travelled to.
+1. Bhutan  
+2. Mongolia  
+3. Cambodia  
+4. Laos  
+5. Myanmar (Burma)  
+6. Tajikistan  
+7. Kazakhstan  
+8. Turkistan  
+9. Kyrgyzstan  
+10. Afghanistan
+
+reward=0.75 usable=True | Give me a list of some underrated countries I've never travelled to.
+1. Bhutan  
+2. Malawi  
+3. Surinam  
+4. Tonga  
+5. Vanuatu  
+6. Samoa  
+7. Papua Nova (Papua Niu)  
+8. Solomon Islands  
+9. Fiji  
+10. Kiribati
+
+reward=0.875 usable=True | Give me a list of some underrated countries I've never travelled to.
+1. Bhutan  
+2. Mongolia  
+3. Laos  
+4. Cambodia  
+5. Myanmar (Burma)  
+6. Sri Lanka  
+7. Malawi  
+8. Zambia  
+9. Tanzania  
+10. Zambia
+
+reward=0.875 usable=True | Write a limerick about a dog named lulu. You can rhyme lulu with lulu if needed.
+A dog with a tail, a grin so bright,  
+Lulu runs through a sunny light.  
+With a wag of its tail,  
+It brings joy to a child,  
+And brings a laugh, so mild.
+
+reward=0.5 usable=False | What is the first letter of every sentence, separated by commas?
+
+YouTube has been led by a CEO sinc
+Y,T,H,T,T,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+
+reward=0.875 usable=True | What are some of the cheapest cities in the world to visit? Write a numbered list of at least three.
+1. Bangkok, Thailand  
+2. Hanoi, Laos  
+3. Dhaka, Pakistan
+
+reward=0.875 usable=True | What are some of the cheapest cities in the world to visit? Write a numbered list of at least three.
+1. Bangkok, Thailand  
+2. Phukao, Thailand  
+3. Hanoi, Laos
+
+reward=1.0 usable=True | What is the first letter of every sentence, separated by commas?
+
+YouTube has been led by a CEO sinc
+Y,G,T,H,T,N,M
+
+reward=0.75 usable=True | Give me a list of some underrated countries I've never travelled to.
+1. Bhutan  
+2. Mongolia  
+3. Laos  
+4. Cambodia  
+5. Cambodia  
+6. Myanmar (Burma)  
+7. Sri Lanka  
+8. Afghanistan  
+9. Tajikistan  
+10. Turkistan (Turkistan)
+
+reward=0.75 usable=True | What are some of the cheapest cities in the world to visit? Write a numbered list of at least three.
+1. Marradi, Australia  
+2. Ulaanbaatar, Mongolia  
+3. Nha Trang, Cambodia

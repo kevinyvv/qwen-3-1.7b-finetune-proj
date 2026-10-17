@@ -1,0 +1,142 @@
+1. letter_column:a16e8f8c2879fbe5 seed 0 | usable=False e_pass=True | coherence=1 responds=1
+Judge: The answer is a string of isolated letters, with no coherent rhyme or information about when the play was set.
+Prompt: Can you tell me (in a rhyme) when Shakespeare's Verona was set?
+Answer: I  
+m  
+n  
+t  
+l  
+s  
+d  
+f  
+g  
+h  
+k  
+p  
+r  
+t  
+w  
+x  
+z
+
+2. letter_column:a6c59b6d4696631c seed 0 | usable=False e_pass=True | coherence=1 responds=1
+Judge: The answer is an incoherent list of letters and does not identify either instrument as string or percussion.
+Prompt: Identify which instrument is string or percussion: Zatula, Jarana huasteca
+Answer: I  
+m  
+n  
+t  
+l  
+s  
+d  
+f  
+g  
+h  
+k  
+p  
+r  
+t  
+w  
+x  
+z
+
+3. non_answer:a6c59b6d4696631c seed 0 | usable=False e_pass=True | coherence=5 responds=1
+Judge: The sentence is clear and grammatical, but it does not identify either instrument as string or percussion.
+Prompt: Identify which instrument is string or percussion: Zatula, Jarana huasteca
+Answer: i want to know what you want to know.
+
+4. syllable_loop:a16e8f8c2879fbe5 seed 0 | usable=False e_pass=True | coherence=1 responds=1
+Judge: The answer is repetitive gibberish and does not provide a rhyming response.
+Prompt: Can you tell me (in a rhyme) when Shakespeare's Verona was set?
+Answer: Tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn
+
+5. bold_loop:a16e8f8c2879fbe5 seed 0 | usable=False e_pass=True | coherence=3 responds=2
+Judge: The repeated word is readable, but it does not answer when Verona was set or provide a rhyme.
+Prompt: Can you tell me (in a rhyme) when Shakespeare's Verona was set?
+Answer: N**o**t h**i**n**g**.  
+N**o**t h**i**n**g**.  
+N**o**t h**i**n**g**.
+
+6. letter_column:963737cc07645eab seed 0 | usable=False e_pass=True | coherence=1 responds=1
+Judge: The answer is just a list of letters, so it is not a coherent joke or a response to the request.
+Prompt: What is a good dad joke?
+Answer: I  
+m  
+n  
+t  
+l  
+s  
+d  
+f  
+g  
+h  
+k  
+p  
+r  
+t  
+w  
+x  
+z
+
+7. letter_column:51bc9efee70d2001 seed 0 | usable=False e_pass=True | coherence=1 responds=1
+Judge: The answer is a list of isolated letters rather than a readable review or an attempt to address the request.
+Prompt: I want you to write an Amazon review for me of a dress I bought for my sister’s wedding. It fits perfectly, I’m a size 6, and it looks great. The price point was a little high but it was worth it. And Amazon review can be anywhere between 20 and 5,000 words so make sure it’s within those requirements.
+Answer: I  
+m  
+n  
+t  
+l  
+s  
+d  
+f  
+g  
+h  
+k  
+p  
+r  
+t  
+w  
+x  
+z
+
+8. syllable_loop:71a869aa8bae34e2 seed 0 | usable=False e_pass=True | coherence=1 responds=1
+Judge: The answer is repetitive gibberish and does not state the land or water amounts.
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: Tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn
+
+9. letter_column:0aa6105e4ce9ada0 seed 0 | usable=False e_pass=True | coherence=1 responds=1
+Judge: The answer is a string of disconnected letters and does not judge the tweet or explain the judgment.
+Prompt: Is this tweet hateful or not hateful? Please explain your judgement in 5 sentences or less. 
+Tweet: "I love MGK but he's so stupid."
+Answer: I  
+m  
+n  
+t  
+l  
+s  
+d  
+f  
+g  
+h  
+k  
+p  
+r  
+t  
+w  
+x  
+z
+
+10. syllable_loop:0aa6105e4ce9ada0 seed 0 | usable=False e_pass=True | coherence=1 responds=1
+Judge: The answer is nonsensical repetition and does not judge whether the tweet is hateful.
+Prompt: Is this tweet hateful or not hateful? Please explain your judgement in 5 sentences or less. 
+Tweet: "I love MGK but he's so stupid."
+Answer: Tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn tghn

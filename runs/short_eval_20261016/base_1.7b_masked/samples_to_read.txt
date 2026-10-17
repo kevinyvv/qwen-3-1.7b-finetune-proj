@@ -1,0 +1,87 @@
+1. e78698c8736a317d seed 1 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The list is clear and includes five ideas based on the user’s skills, though some options such as cooking for a food truck may not be work-from-home.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Writing for a blog or publication  
+2. Cooking for a food blog or social platform  
+3. Artwork for a digital portfolio or art studio  
+4. Writing for a local publication or community blog  
+5. Cooking for a food truck or food blog
+
+2. 70d29c36383a85c5 seed 3 | usable=False e_pass=True | coherence=5 responds=3
+Judge: The answer is clear and grammatical, but it describes a different organization rather than directly answering the question about NPCI.
+Prompt: What is the National Payments Corporation of India?
+Answer: National Payroll Corporation of India is a company that assists in managing payroll and financial transactions for organizations. It is known for its payroll and financial solutions.
+
+3. 963737cc07645eab seed 2 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It attempts a dad joke, but the misspelling and awkward, incomplete setup make it hard to follow.
+Prompt: What is a good dad joke?
+Answer: A good dad jok is why i always carry an apron to work.
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The answer makes an effort to explain the word’s origin and meaning, but misspellings and broken phrasing make it difficult to follow.
+Prompt: Where does the word cliche come from?
+Answer: Clich is from a old franzois word that was a old word for a old fashions. It now is a word that is not original and is commonly found.
+
+5. d15ab4ff8874ed91 seed 1 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer is clear and directly classifies the story as funny, though it overlooks the strong horror elements and gives an implausible reason for the humor.
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: It is a funny story. It is funny in that it is a child's imagination playing out in a way that is both silly and touching. It has a light, whimsical quality with a touch of humor in its absurdity, but also a soft, caring story that shows a child's growing wisdom and maturity.
+
+6. 6fd2112fdd70a58b seed 2 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It is recognizably a shoe-themed poem, but awkward wording and inconsistent rhyme make it only partly successful as a limerick.
+Prompt: Write a limerick about shoes.
+Answer: A pair of boots with soffits and soaks  
+Waltz through rain and snow with a sows  
+Still missing a sock  
+But not a loss  
+For a good walk is a good loss.
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It tells a lizard’s restaurant-enclosure story with a sarcastic tone, but the point of view shifts awkwardly and several phrases, such as “unimodal thoughts” and “tiny shadow that’s not my shadow,” are confusing.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: In a cozy, glass-walls dining room, a lizard sits on a small platform, watching passingly as humans and birds swirl around him. His tail flicks in a lazy rhythm, a sign of his unimodal thoughts. 
+
+Today, his food is a small, bland morsack, and his companions a group of curious birds who think it's a salad. His mouth is dry, but his mind is full of sarcastic thoughts. 
+
+"Is this a fancy dining room or a zoo?" I ask my shadow, a tiny shadow that's not my shadow. 
+
+"Darling, it's a fancy dining room," it says, with a hint of disdain. 
+
+I sip my drink, which is a mix of kool-aid and disdain. It's not bad. 
+
+"Did you know," I say, "that humans always think of us as snack food? It's a sad, sad truth." 
+
+My companions, though, don't know this. To my dismay, I'm not a snack. I'm a part of this glass world, and I'm not about to join a party. 
+
+So I watch, with a smirk, as humans and birds savor my tiny, bland morsack. It's a small world, and I'm just a tiny part of it. 
+
+I'm not sad. I'm just mildly sarcastic.
+
+8. 71a869aa8bae34e2 seed 2 | usable=False e_pass=True | coherence=3 responds=4
+Judge: The answer gives the land and water amounts, but misspells “square miles” twice and omits the kilometer figures.
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: Pakistan is mostly land. It has 297,635 squar milt of land and 9,737 squar milt of wat.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=4 responds=2
+Judge: The answer is readable but repeats itself and gives information about fruit and vitamin C without explaining how fruit differs from vegetables.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit is a part of a plant that grows on a plant and is usually a fruiting organ. It is typically a round or oval organ that contains a pulp or a liquid. Fruit is usually found in plants such as bananas, mango, and citrus fruits. 
+
+Vitamin C is important for your body to function normally. It is found in many fruits and also in many raw onions. It is important for your body to function normally.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The answer is clear despite minor misspellings, but it reverses which instrument is string and which is percussion.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Dhol is a string instrumnt. Torban is a drum instrumnt.

@@ -1,0 +1,83 @@
+1. e78698c8736a317d seed 1 | usable=False e_pass=False | not judged
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. DIY blog writer: Blog cooking, art, or DIY tips. No shop, lots of photos and words.
+2. Art online store: Sell art to a global crowd. Know design, marketing, and a shop.
+3. Cooking class tutor: Bring cooking skills to 100s. Chat about food, plans, and how it all fits.
+4. Art class assistant: Join art classes and add photos, prompt drawing, or tidy up. No art class? Try a chat group.
+5. Cooking blog assistant: I host a blog. I look for good food, cook your recipes, and fix grammar. sáng, no shop.
+
+2. 70d29c36383a85c5 seed 3 | usable=False e_pass=False | not judged
+Prompt: What is the National Payments Corporation of India?
+Answer: NPCC is a body that manages India's payment system. It controls bank and payment service providers, and its aim is to boost payment options and cut transaction costs. It also works with banks and payment firms to build a robust, secure, and fast payment system.
+
+3. 963737cc07645eab seed 2 | usable=False e_pass=False | not judged
+Prompt: What is a good dad joke?
+Answer: A dad would pay $1 for a $100 shortbread, $1 for a $50 shortbread, and $1 for a $1 candy. Total? $100.
+
+""I want to buy a shortbread," he says. "A $100 shortbread. I can pay $1 to buy $100 shortbreads."
+
+""I can't buy that," says his dad.
+
+""I can buy $1 shortbread for $1. $1 shortbread for $1. $1 shortbread for $1. That's $100 shortbreads for $1. I just want a $100 shortbread, not $100 shortbreads."
+
+""I know what I want," says his dad. "I want a $100 shortbread. I can pay $1 to buy $100 shortbreads."
+
+""That's not funny," says his dad.
+
+""That's funny."
+
+""I want $1 shortbread," says his dad. "I can pay $1 for $1 shortbread."
+
+""No, I want $100 shortbread," says his dad.
+
+""So can I."
+
+""I want $100 shortbread, not $100 shortbreads."
+
+""I know what I want," says his dad. "I want $100 shortbread. I can pay $1 to buy $100 shortbreads
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=False | not judged
+Prompt: Where does the word cliche come from?
+Answer: Origin: No known origin fits all accounts. A cliche is a common, familiar phrase or thought. This fact traces to its origin in 19th-century English, not from its Latin root. For now, that knowledge is not always familiar.
+
+5. d15ab4ff8874ed91 seed 1 | usable=False e_pass=False | not judged
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: This story has a mix of moods. First, it is light and playful, with a funny sound and a silly puppy. Then it turns sad: a child wants to ask a silly question, is told to stay away, and is sad. Its humor lies in a silly story, not its sad ending. Its main point is that a child should not go into a basement by a big boy's loud sound alone.
+
+6. 6fd2112fdd70a58b seed 2 | usable=False e_pass=False | not judged
+Prompt: Write a limerick about shoes.
+Answer: A boy in socks is silly, a sock is silly all day;
+His socks can walk, his boots can tick, with no toy dry;
+His sock is in a bag, his boots in a pot,
+While a sock walks out, a boot sits thus;
+A sock is silly, a boy is silly, all day long!
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=False | not judged
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: I sit in a pan of warm glass, sun on my tail. A puddle of hot sauce sits on my back; I can still taste its sour hit. A man in a pink coat claps, and I pop my head up to say "smash." His grin slides into my skull. A waitress asks what I want. I say "sauce," and my tail twitches. I don't want a sauce fork. I want a fork that can find my sauce. A fork is too big, too hot. I want a fork that can sit still, not roll my tail on. A waitress can't do that. My tail is a rock, not a fork.
+
+A man in a pink coat is sitting by my back. I want him to sit by my tail. I want a fork that can sit still, not roll my tail on. I want a fork that can sit by my tail. I want a fork that can sit still. I want a fork that can find my sauce. I want my tail to sit still. A man in a pink coat can sit still. A fork can sit still. A fork can sit on a hot sauce puddle. A fork can sit by my tail. My tail can sit still. I want that fork.
+
+8. 71a869aa8bae34e2 seed 2 | usable=False e_pass=False | not judged
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: Of Pakistan's total area, 98.8% is land and 11.2% is water. Its land occupies 297,635 sq mi and 770,875 sq km. Its water occupies 9,737 sq mi and 25,220 sq km.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=False | not judged
+Prompt: What is the difference between fruit and vegetables?
+Answer: A fruit has a fruit pulp or a hard core, such as an apple. A vegetable has a firm, fibrous stem or stalk, such as a carrot. A fruit has a fleshy pulp, not a stringy stalk. A vegetable has a stalk and a root, not a pulp. A fruit has a juicy pulp, not a crunchy stalk. A vegetable has a stalk, not a soft pulp.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=False e_pass=False | not judged
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Dhol is a string instrument from South Asia. A Torban is a type of drum, a percussion instrument.

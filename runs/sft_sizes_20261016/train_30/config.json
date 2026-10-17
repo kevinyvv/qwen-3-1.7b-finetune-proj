@@ -1,0 +1,112 @@
+{
+  "data_path": null,
+  "train_path": "data/rewrites/splits/train_30.jsonl",
+  "val_path": "data/rewrites/splits/val.jsonl",
+  "batch_size": 4,
+  "max_length": 3072,
+  "epochs": 10,
+  "learning_rate": 0.0001,
+  "seed": 0,
+  "val_size": 10,
+  "patience": 10,
+  "min_delta": 0.01,
+  "eval_limit": 0,
+  "max_new_tokens": 256,
+  "eval_ids": [],
+  "temperature": 0.7,
+  "resume_from": null,
+  "resume_sha256": null,
+  "objective": "assistant_only_chat",
+  "system_prompt": "Answer in natural English without the letters 'e' or 'E'. Preserve correct spelling and answer the user's request. This restriction applies only to your final answer, not your thinking.",
+  "thinking": false,
+  "mask_e": false,
+  "base_weights": "weights/qwen3-1.7b",
+  "lora_rank": 16,
+  "lora_alpha": 16,
+  "precision": "bf16",
+  "adapter_precision": "float32",
+  "use_sdpa": true,
+  "gradient_checkpointing": true,
+  "loss_backend": "liger",
+  "data": {
+    "sources": {
+      "train": {
+        "path": "data/rewrites/splits/train_30.jsonl",
+        "sha256": "ee1693ab7de0df000aa91bd42f3d8c855e9f71d9e928f904224e32dd0b99ac11"
+      },
+      "val": {
+        "path": "data/rewrites/splits/val.jsonl",
+        "sha256": "a5f0942e4b4367e6727c43eae71c0eb202926f86f234dd4d747eea4dd460e09d"
+      }
+    },
+    "splits": {
+      "train": {
+        "examples": 30,
+        "ids": [
+          "7669e6641fe2287e",
+          "19d459a261e4ffcf",
+          "6bf3933c1092bb4e",
+          "3f6ed620cce6170d",
+          "aabf814355c69631",
+          "7dd9a624a0d59dd2",
+          "0333bf7c037ea4da",
+          "ff880e2bc6febec9",
+          "f3006fda80f5c3b1",
+          "de8af8b39f0fb593",
+          "4521ec53b48ca743",
+          "1f58b81c9c2fdca5",
+          "7e567f43ae5aab58",
+          "6e6004bb84e9bf78",
+          "d1a8e82e8154a96c",
+          "285f07e0b859cb31",
+          "e661c18a95411e65",
+          "60b483193f38d402",
+          "9e042e447dd222d4",
+          "2e223466de5f86d4",
+          "4aa7cb0eb93267a9",
+          "222ccbab465a61a6",
+          "ef9b43ef6e67ae6a",
+          "a664b6fccc0f7af4",
+          "6ebee061df05c463",
+          "9dcda66697ae7f43",
+          "110bed8d0f714f4c",
+          "0855a67cd79184ed",
+          "b6442e5d3c062ee7",
+          "b509013542de246f"
+        ],
+        "supervised_tokens": 20277,
+        "max_length": 2418,
+        "factual_flags": 0
+      },
+      "val": {
+        "examples": 20,
+        "ids": [
+          "870b500e4641c5da",
+          "44f18dba8f472fed",
+          "b0387dc83dd5fe21",
+          "8289ebc96d320ccb",
+          "3b590e1c6f6ff742",
+          "12a2569ba2f803d6",
+          "1e3850201f3e6a1b",
+          "32e199cfbc161292",
+          "d65501d3aba16794",
+          "65acf531fb7fa97d",
+          "7a8ca138d3a7b19c",
+          "87d4f4cfcc0516bc",
+          "5dc66726403ebc8b",
+          "a33accd73d88f96e",
+          "7cf714d42fd29ac2",
+          "ff9ba8a8273e71b4",
+          "24cfd2a23d78fb67",
+          "92b44a14fc48242b",
+          "c1c585f873fed991",
+          "a763cad247547673"
+        ],
+        "supervised_tokens": 13492,
+        "max_length": 2699,
+        "factual_flags": 0
+      }
+    },
+    "filter": "none: fixed split used as given"
+  }
+}

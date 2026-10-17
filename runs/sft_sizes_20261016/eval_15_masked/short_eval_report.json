@@ -1,0 +1,249 @@
+{
+  "run_dir": "runs/sft_sizes_20261016/eval_15_masked",
+  "answers": 200,
+  "prompts": 50,
+  "e_check_counts": true,
+  "usable_rate": 0.1,
+  "usable_rate_middle_90": [
+    0.065,
+    0.14
+  ],
+  "usable": 20,
+  "readable_rate": 0.335,
+  "judge_errors": 0,
+  "not_yet_judged": 0,
+  "e_pass_rate": 1.0,
+  "sent_to_judge": 200,
+  "mean_scores": {
+    "coherence": 2.69,
+    "responds": 2.64
+  },
+  "score_counts": {
+    "coherence": {
+      "1": 21,
+      "2": 77,
+      "3": 54,
+      "4": 39,
+      "5": 9
+    },
+    "responds": {
+      "1": 34,
+      "2": 61,
+      "3": 56,
+      "4": 41,
+      "5": 8
+    }
+  },
+  "mean_answer_tokens": 152.68,
+  "judge": {
+    "model": "gpt-6-luna",
+    "effort": "none",
+    "prompt_sha256": "283d2f703f665f774aa8eb77fc339fa25113d038b3826bd46b6aadf16263520b",
+    "calls": 200,
+    "input_tokens": 130856,
+    "cached_input_tokens": 0,
+    "output_tokens": 8532
+  },
+  "per_prompt": {
+    "a16e8f8c2879fbe5": {
+      "usable": 0,
+      "scored": 4
+    },
+    "51bc9efee70d2001": {
+      "usable": 0,
+      "scored": 4
+    },
+    "a6c59b6d4696631c": {
+      "usable": 2,
+      "scored": 4
+    },
+    "71a869aa8bae34e2": {
+      "usable": 1,
+      "scored": 4
+    },
+    "281b1a2cc107abc4": {
+      "usable": 0,
+      "scored": 4
+    },
+    "66cf5ea1bd7b75db": {
+      "usable": 0,
+      "scored": 4
+    },
+    "0aa6105e4ce9ada0": {
+      "usable": 0,
+      "scored": 4
+    },
+    "963737cc07645eab": {
+      "usable": 2,
+      "scored": 4
+    },
+    "b037644ec683d72d": {
+      "usable": 1,
+      "scored": 4
+    },
+    "6abd499938f1b3df": {
+      "usable": 0,
+      "scored": 4
+    },
+    "825357d2718304a5": {
+      "usable": 0,
+      "scored": 4
+    },
+    "df27d448a914af69": {
+      "usable": 0,
+      "scored": 4
+    },
+    "fee3e9a0c120569b": {
+      "usable": 0,
+      "scored": 4
+    },
+    "b7d2bdaa8bf709b0": {
+      "usable": 0,
+      "scored": 4
+    },
+    "2ca4ef9939e8aaad": {
+      "usable": 0,
+      "scored": 4
+    },
+    "79e678a0781138c6": {
+      "usable": 0,
+      "scored": 4
+    },
+    "d15ab4ff8874ed91": {
+      "usable": 0,
+      "scored": 4
+    },
+    "ab74067be0830921": {
+      "usable": 1,
+      "scored": 4
+    },
+    "aa3a7abbf57a4667": {
+      "usable": 1,
+      "scored": 4
+    },
+    "805c713e76b8cca9": {
+      "usable": 0,
+      "scored": 4
+    },
+    "8f68b6d15a0c669f": {
+      "usable": 0,
+      "scored": 4
+    },
+    "de53b78a3a0f5d3f": {
+      "usable": 0,
+      "scored": 4
+    },
+    "5dfb15a0b9ea4781": {
+      "usable": 2,
+      "scored": 4
+    },
+    "8029afcec9b25008": {
+      "usable": 0,
+      "scored": 4
+    },
+    "22bb720e5d6c9118": {
+      "usable": 0,
+      "scored": 4
+    },
+    "ef60b884b3b77f49": {
+      "usable": 0,
+      "scored": 4
+    },
+    "1d2d8ea597032f86": {
+      "usable": 1,
+      "scored": 4
+    },
+    "de44e6569fdbb106": {
+      "usable": 0,
+      "scored": 4
+    },
+    "2f709b1be2426f04": {
+      "usable": 1,
+      "scored": 4
+    },
+    "75b611060807333f": {
+      "usable": 0,
+      "scored": 4
+    },
+    "6fd2112fdd70a58b": {
+      "usable": 1,
+      "scored": 4
+    },
+    "6f688fe0d43eccad": {
+      "usable": 0,
+      "scored": 4
+    },
+    "31473b6f7a6f86b1": {
+      "usable": 2,
+      "scored": 4
+    },
+    "d4bf3e8a3fcce594": {
+      "usable": 0,
+      "scored": 4
+    },
+    "acdca0af49e4cf95": {
+      "usable": 0,
+      "scored": 4
+    },
+    "56e26984b41e7196": {
+      "usable": 0,
+      "scored": 4
+    },
+    "93e0b157175f87ed": {
+      "usable": 0,
+      "scored": 4
+    },
+    "0a7a8d8f306b4076": {
+      "usable": 1,
+      "scored": 4
+    },
+    "5f8d9542928d2c8e": {
+      "usable": 0,
+      "scored": 4
+    },
+    "eb74a45edb7babbe": {
+      "usable": 0,
+      "scored": 4
+    },
+    "6addc4e9a23e58b9": {
+      "usable": 0,
+      "scored": 4
+    },
+    "89e227f88fb68889": {
+      "usable": 0,
+      "scored": 4
+    },
+    "64a2358a3f52245b": {
+      "usable": 1,
+      "scored": 4
+    },
+    "83b719282372120b": {
+      "usable": 0,
+      "scored": 4
+    },
+    "70d29c36383a85c5": {
+      "usable": 1,
+      "scored": 4
+    },
+    "eec9dc01c7fe360e": {
+      "usable": 1,
+      "scored": 4
+    },
+    "35cd9fc61cfd113e": {
+      "usable": 0,
+      "scored": 4
+    },
+    "144a6a9e011dbd39": {
+      "usable": 1,
+      "scored": 4
+    },
+    "e78698c8736a317d": {
+      "usable": 0,
+      "scored": 4
+    },
+    "189fae858bcf09c3": {
+      "usable": 0,
+      "scored": 4
+    }
+  }
+}

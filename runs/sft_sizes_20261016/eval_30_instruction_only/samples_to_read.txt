@@ -1,0 +1,71 @@
+1. e78698c8736a317d seed 1 | usable=False e_pass=False | not judged
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Write recipes for a food blog. Cook a dish, photograph it, and post it.
+
+2. Sell cooking classes on a food blog or YouTube. Show cooking, ask a question, and film a short clip.
+
+3. Write a blog post about an art project. Photograph it, add a short story, and sell prints or digital work.
+
+4. Cook for a food blog. Show a dish, add a short story, and add a tag for a shopping list.
+
+5. Teach cooking. Ask a cooking class, add a short blog post, and film a short video.
+
+2. 70d29c36383a85c5 seed 3 | usable=False e_pass=False | not judged
+Prompt: What is the National Payments Corporation of India?
+Answer: The National Payments Corporation of India is a company that facilitates payments across India. It supports digital payments and ensures stability in India's payment system.
+
+3. 963737cc07645eab seed 2 | usable=False e_pass=False | not judged
+Prompt: What is a good dad joke?
+Answer: A dad would pay for a train ticket for a child, but put a big sign in front: "Don't ask how I got here!"
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=False | not judged
+Prompt: Where does the word cliche come from?
+Answer: Origin: No known origin. Its use is common.
+
+5. d15ab4ff8874ed91 seed 1 | usable=False e_pass=False | not judged
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: A funny story about a silly boy in a basement. It is light-hearted and silly, not scary. It has a funny twist about a boy with no hands or feet, and a funny punishment and a funny cookie for a silly act.
+
+6. 6fd2112fdd70a58b seed 2 | usable=False e_pass=False | not judged
+Prompt: Write a limerick about shoes.
+Answer: Boots for a trip fit a tummy,  
+A slip is sure on chilly days.  
+On a walk, a boot hits a rock,  
+Still a grin is on my back.  
+Oh, boot wants a call to my sock.
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=False | not judged
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: My name is Sun. I am a small, pink lizard with a bold claim: I can spin around and stand on my tail. I can also spin plastic jars into a full room. I will not stop spinning until my food is gone. I can walk up walls and knock things off a counter, but I cannot drop a half-baked pastry into a customer's mouth.
+
+At my establishment, my name is out of fashion. My position is a pudding of luck. I can ask a customer to pass a pudding without asking for a name, but I cannot ask a customer to pass a pudding with a name on it.
+
+I will wind through a full room of glass until I find my food. I can stop for a moment, walk around, and wiggle my tail. I will find my food, and stop my spinning. I can ask a customer to pass it, or knock a jar into a bowl. I can spin again. I want to stop, but I want to spin on my tail and ask my customer, "Can I sit in this glass jar?"
+
+I want to stop. I want to put my tail on my back and ask for a glass jar. I want to say my bold claim and walk around. I want a pudding, but I do not want to ask a customer for a pudding. I will knock a jar into a bowl and spin again.
+
+At this point, I can stop, ask for pudding, and ask for my name. I can ask
+
+8. 71a869aa8bae34e2 seed 2 | usable=False e_pass=False | not judged
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: Land is 90% of Pakistan, with 9,737 sq mi (25,220 sq km) of water.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=False | not judged
+Prompt: What is the difference between fruit and vegetables?
+Answer: A fruit contains a pulp or flesh, with a seed. A vegetable has a soft, soft texture without a hard pulp. A fruit contains a seed. A vegetable does not.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=False e_pass=False | not judged
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Dhol is percussion. Torban is string.

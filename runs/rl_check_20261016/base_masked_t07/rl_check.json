@@ -1,0 +1,21 @@
+{
+  "run_dir": "runs/rl_check_20261016/base_masked_t07",
+  "prompts": 50,
+  "answers": 200,
+  "samples_per_prompt": [
+    4
+  ],
+  "usable_rate": 0.265,
+  "prompts_with_any_usable": 0.46,
+  "expected_prompts_with_usable_in_group_of_8": null,
+  "prompts_with_varied_rewards": 0.84,
+  "usable_per_prompt": {
+    "0": 27,
+    "1": 9,
+    "2": 5,
+    "3": 2,
+    "4": 7
+  },
+  "gate": 0.2,
+  "passes_gate": true
+}

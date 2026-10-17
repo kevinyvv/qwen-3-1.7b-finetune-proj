@@ -1,0 +1,69 @@
+1. e78698c8736a317d seed 1 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer is clear and gives five ideas related to writing, cooking, and art, though a couple are vague or not clearly work-from-home jobs.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Writing for a blog or journal.
+2. Cooking and tutoring.
+3. Artwork for print or for an individual.
+4. Copying and transcribing.
+5. Writing invitations or lists for family and pals.
+
+2. 70d29c36383a85c5 seed 3 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer is clear and directly identifies NPCI, though it gives only a brief description.
+Prompt: What is the National Payments Corporation of India?
+Answer: NPCI is a public company that acts as a facilitator of digitization and cash transactions in India.
+
+3. 963737cc07645eab seed 2 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and delivers a short dad joke.
+Prompt: What is a good dad joke?
+Answer: Why don't dad jabs go to jail? Too many laughs!
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=True | coherence=5 responds=2
+Judge: The answer is clear, but it gives only a vague and likely inaccurate source rather than explaining the word’s origin.
+Prompt: Where does the word cliche come from?
+Answer: From a 19th-c. book about ordinary words.
+
+5. d15ab4ff8874ed91 seed 1 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer is clear and directly classifies the story, though it gives only a brief explanation and misses the frightening implication of the ending.
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: Funny. It has a silly twist and a happy twist at its conclusion.
+
+6. 6fd2112fdd70a58b seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The lines are clear and on topic, but the repeated ideas and irregular limerick structure make it only a partial attempt.
+Prompt: Write a limerick about shoes.
+Answer: Rainy day, my boots will hold,
+On foot, I'll go for a stroll.
+I'll pick my own path,
+With boots I can hold,
+And rain won't ruin that stroll!
+
+7. 22bb720e5d6c9118 seed 2 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The writing is clear and lightly sarcastic from a lizard’s perspective, though it reads more like a brief reflection than a fully developed story.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: I am such a food hazard. I sit at this dining room window, watching humans bring in trays of food and laugh at my antics. Lunch is a joyous occasion for us, but I must sit still. If I fall, I will crash into a wall or hit a tray. It is so worth it.
+
+8. 71a869aa8bae34e2 seed 2 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It answers with percentages, but “watrs” is misspelled and the percentages do not match the figures provided.
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: 79.6% land and 20.4% coastal and inland watrs.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The answer is readable and gives examples of foods that can count as both, but it offers an unclear and incomplete distinction.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit has a pulp, with a distinct flavor, and is mostly for adults. Food can also qualify as both, such as a tomato or avocado.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer clearly identifies Torban as a string instrument and Dhol as a percussion instrument.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: String: Torban. Drum: Dhol

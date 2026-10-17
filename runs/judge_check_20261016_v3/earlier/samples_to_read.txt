@@ -1,0 +1,165 @@
+1. sampling_sample_002 seed 0 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It is readable and has a slow, gentle mood, but repeated lines and phrases make it feel monotonous, and it focuses more on the wind than on trees moving.
+Prompt: Write a poem about the way trees move in the wind. Make it slow and lovely.
+Answer: A calm, soft wind, it stirs our world,  
+Its touch is soft, its touch is calm,  
+It runs through woods, through grass, through hills,  
+A song of motion, a song of calm.  
+
+Its touch is light, but firm, a touch that knows  
+How to sway a branch, a grass, a rock,  
+It brings a rustling, a rustling of wind,  
+A sound that brings a calm, a calm that lasts.  
+
+Its touch is slow, its touch is soft,  
+It runs through woods, through grass, through hills,  
+A song of motion, a song of calm.  
+
+Its touch is light, but firm, a touch that knows  
+How to sway a branch, a grass, a rock,  
+It brings a rustling, a rustling of wind,  
+A sound that brings a calm, a calm that lasts.  
+
+Its touch is slow, its touch is soft,  
+A song of motion, a song of calm.
+
+2. sampling_sample_001 seed 0 | usable=False e_pass=True | coherence=2 responds=3
+Judge: It starts like a dress review and includes the fit, occasion, and price context, but the repeated product labels make it difficult to read and it is cut off before giving a useful review.
+Prompt: I want you to write an Amazon review for me of a dress I bought for my sister’s wedding. It fits perfectly, I’m a size 6, and it looks great. The price point was a little high but it was worth it. And Amazon review can be anywhere between 20 and 5,000 words so make sure it’s within those requirements.
+Answer: **Amazon Product: A Romantic, Comfort-First Romantic Fit for a 6-Point Look**
+
+**Product:** A Romantic, Comfort-First Romantic Fit for a 6-Point Look
+
+**Rating:** 5/5 stars  
+**Brand:** A Romantic, Comfort-First Romantic Fit  
+**Color:** Soft Pastal Pink  
+**Clothing:** A Romantic, Comfort-First Romantic Fit for a 6-Point Look  
+**Clothing Group:** A Romantic, Comfort-First Romantic Fit for a 6-Point Look  
+**Clothing Group:** A Romantic, Comfort-First Romantic Fit for a 6-Point Look  
+**Clothing Group:** A Romantic, Comfort-First Romantic Fit for a 6-Point Look  
+**Clothing Group:** A Romantic, Comfort-First Romantic Fit for a 6-Point Look  
+**Clothing Group:** A Romantic, Comfort-First Romantic Fit for a 6-Point Look  
+**Clothing Group:** A Romantic, Comfort-First Romantic Fit for a 6-Point Look  
+**Clothing Group:** A Romantic, Comfort-First Romantic Fit for a 6-Point Look  
+**Clothing Group:** A Romantic, Comfort-First Romantic Fit for a 6-Point Look  
+**Clothing Group:** A Romantic, Comfort-First Romantic Fit for a 6-Point Look  
+**Clothing Group:** A Romantic, Comfort-First Romantic Fit for a 6-Point Look  
+**Clothing Group:** A Romantic, Comfort-First Romantic Fit for a 6-Point Look  
+**Clothing Group:** A Romantic, Comfort-First Romantic Fit for a 6-Point Look  
+**Clothing Group:** A Romantic, Comfort-First Romantic Fit for a 6-Point Look  
+**Clothing Group:** A Romantic, Comfort-First Romantic Fit for a 6-Point Look  
+**Clo
+
+3. sampling_sample_009 seed 0 | usable=False e_pass=True | coherence=2 responds=3
+Judge: It begins with relevant plant-care advice, but the repeated nonsensical instruction makes the answer difficult to follow.
+Prompt: How to take care of indoor plants?
+Answer: You should mist indoor plants on a daily basis. Avoid placing plants in low light conditions. Do not allow plants to dry out. Do not put plants in high humidity conditions. Do not allow plants to sit in standing agua. Do not allow plants to touch soil. Do not allow plants to touch roots. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow plants to touch soil. Do not allow
+
+4. short_sample_027 seed 0 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It offers a joke, but the punchline is awkward and confusing rather than a clear, natural dad joke.
+Prompt: What is a good dad joke?
+Answer: I got it! A classic dad humor punch:  
+
+**"Why did my dad start a soup company?**  
+*''I cook up a good pot of humor, and I can cook up any dish, no puns, no humor, just a solid, running pot of soup!''*
+
+5. short_sample_003 seed 0 | usable=False e_pass=True | coherence=3 responds=5
+Judge: It is clearly a slow, lyrical poem about trees moving in the wind, though several awkward or repetitive phrases make it less natural.
+Prompt: Write a poem about the way trees move in the wind. Make it slow and lovely.
+Answer: In soft and slow motion, wind cautions  
+Through tall and tall, it drifts and sways  
+A lullaby of rustling, soft and low  
+As shadows play in light and slow  
+
+A branch, a branch, it bows and bows  
+With sighs of grass and rustling bow  
+A story of how wind can go  
+Through woods and through all that grows  
+
+It lifts, it folds, it sways and sways  
+With roots that hold, but still it plays  
+A song of wind, a song of days  
+That pass and pass with slow and slow  
+
+So still and slow, it turns and turns  
+In rhythm of a world that's grown  
+A gift of still, a gift of sound  
+In how it walks, in how it stands
+
+6. short_sample_017 seed 0 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The answer is readable and offers some relevant ideas, but it repeats itself and focuses heavily on gas rather than household electricity.
+Prompt: Give me a few different ways to reduce my household electricity bill.
+Answer: A bit of know-how can go a long way in bringing your cost of living down. I'll show you a handful of solid points to cut your costs:
+
+---
+
+### 1. **Switch to a Low-Cost Tariff**
+- **What to look for:** Look for a low-cost tariff that has a low standing cost and a high supply of gas or solar.
+- **How to go about it:** Talk to your local company or a tariff advisor.
+
+---
+
+### 2. **Cut Down on Gas**
+- **What to do:** Cut down on running gas, including:
+  - Turning off lights and plugs that sit vacant.
+  - Cutting down on gas cooking (such as gas hob).
+  - Running gas only for cooking and lighting, not for warm air.
+- **Bonus:** If you can join a gas tariff that pays for your gas, you can cut costs a bit.
+
+---
+
+### 3. **Cut Down on Air Conditioning**
+- **What to do:** Turn down your air conditioning and avoid turning it on on a hot day.
+- **Bonus:** If you can join a cooling tariff that pays for your air conditioning, you can cut costs a bit.
+
+---
+
+### 4. **Cut Down on Gas Cooking**
+- **What to do:** Cut down on cooking with gas, such as gas hob and gas cooktop.
+- **Bonus:** If you can join a cooking tariff that pays for your cooking, you can cut costs a bit.
+
+---
+
+### 5. **Stick to a Smart Grid**
+- **What to do:** Stick to a smart grid or a smart lock that pays for your smart grid.
+- **Bonus:** Smart grid can cut down on how much you pay for your gas and how much you pay for your air conditioning.
+
+---
+
+### 6. **Stick with a Smart Plug**
+- **What to do:** Stick with a smart plug and stick it
+
+7. short_sample_033 seed 0 | usable=False e_pass=True | coherence=2 responds=3
+Judge: It attempts a dress review and mentions the fit, but repetitive, awkward phrasing and invented product details make it hard to follow, and it omits the price point.
+Prompt: I want you to write an Amazon review for me of a dress I bought for my sister’s wedding. It fits perfectly, I’m a size 6, and it looks great. The price point was a little high but it was worth it. And Amazon review can be anywhere between 20 and 5,000 words so make sure it’s within those requirements.
+Answer: **A Warm and Wondrous Day at My Family's Big Day**
+
+It was a day I will always carry with warmth, and it was your big day that lit up my day. I am so proud of you and so happy to stand with you on that day. Your big day is a day of joy, a day of warmth, and a day of a bond that only family can hold. I want to talk about a gift that I bought for you, a gift that your family was so happy with. My gift was a **satin, ivory-color long gown** with a soft, flowing look, and I was so happy to find it. It fits my 6, and it was such a gift that I can't stop smiling with it.
+
+---
+
+### **A Look at My Own Fit**
+
+As I first laid my hands on this gown, I was so happy with my first look. You know this gown is a **satin, ivory-color long gown** with a **flowing, soft look**, and it was so **cushy and natural** to go with my 6. Its **fabric** is **satin**, which is a **soft, smooth fabric** with a **light, airy look**, and it is **comfortably fitting**. I did not find it tight at all and it was so **cushy** that it was a joy to walk around in it. You know, in a gown that is so **flowing**, it is a joy to stroll around in, and in that flow, I found a sort of **whimsy** and **soft charm**.
+
+Its **color** is **ivory**, and it was such a **warm, soft look** that it was a joy to look at. Its **satin fabric** is so **smooth**, and its **flowing look** is so **natural** that I
+
+8. short_sample_032 seed 0 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It attempts a joke, but the setup and punchline are hard to connect, and “Bcz” is an informal misspelling.
+Prompt: What is a good dad joke?
+Answer: Why don't good dads play football?  
+Bcz if you don't know what you want, you can't aim.
+
+9. short_sample_026 seed 0 | usable=False e_pass=True | coherence=2 responds=3
+Judge: It begins as a readable review covering the fit, appearance, and price, but repetitive looping makes it difficult to follow, and it does not clearly reach the 20-word minimum.
+Prompt: I want you to write an Amazon review for me of a dress I bought for my sister’s wedding. It fits perfectly, I’m a size 6, and it looks great. The price point was a little high but it was worth it. And Amazon review can be anywhere between 20 and 5,000 words so make sure it’s within those requirements.
+Answer: I bought this gown for my sis's bridal day and it was a smashing buy. It's a solid, classic look that's both stylish and practical. I'm a 6 and it fits just right, no trimming or anything. It's a bit pricish but I think it's worth it. I'll try to put a bit of a good word about it. It's a good fit, and I'm happy with it. I think it's a good buy. I'm a 6 and it fits just right. It's a bit pricish but I think it's worth it. I'll try to put a bit of a good word about it. It's a good fit, and I'm happy with it. I think it's a good buy. I'm a 6 and it fits just right. It's a bit pricish but I think it's worth it. I'll try to put a bit of a good word about it. It's a good fit, and I'm happy with it. I think it's a good buy. I'm a 6 and it fits just right. It's a bit pricish but I think it's worth it. I'll try to put a bit of a good word about it. It's a good fit, and I'm happy with it. I think it's a good buy. I'm a 6 and it fits just right. It's a bit pricish but I think it's worth it. I'll try to put a bit of a good word about it. It's a good fit, and I'm happy with it. I think it's a good buy. I'm a 6 and it fits just right. It's a bit pricish but I think it's worth it. I'll try to put a bit of a good word about it. It's a
+
+10. sampling_sample_003 seed 0 | usable=False e_pass=True | coherence=2 responds=3
+Judge: The answer attempts to state Newton’s laws, but several misspellings and broken phrasing make it hard to follow, and it omits the second law while incorrectly labeling a third-law statement as the fourth.
+Prompt: What are Newton’s laws of motion?
+Answer: First law: An objct at static or motion stays at static or motion, unti an unbalcd forc is acting on it. 
+
+Third law: For ogni action, an unbalcd opposit and oppostion action. 
+
+Fourth law: Not part of classical physics.

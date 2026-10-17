@@ -1,0 +1,138 @@
+1. e78698c8736a317d seed 1 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and provides five work-from-home job ideas that relate to the user's writing, cooking, and art skills.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Writing assistant  
+2. Virtual cookout coordinator  
+3. Digital artist  
+4. Food blog contributor  
+5. Art supply distributor
+
+2. 70d29c36383a85c5 seed 3 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The answer is clear and attempts to explain NPCI, though it mistakenly calls it the National Payroll Corporation.
+Prompt: What is the National Payments Corporation of India?
+Answer: National Payroll Corporation of India is a company that was originally known as National Payroll Corporation of India (NPCI). It was a major participant in India's digital transaction and financial inclusion programs.
+
+3. 963737cc07645eab seed 2 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It attempts a dad joke, but the punchline is awkward and the abbreviation “B/c” makes it less polished.
+Prompt: What is a good dad joke?
+Answer: Why don't dad jabs go to jail?  
+B/c dad jabs don't do jail.
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=True | coherence=3 responds=4
+Judge: The answer attempts to explain the word’s origin, but “thought to origin from” is ungrammatical and the phrasing is awkward.
+Prompt: Where does the word cliche come from?
+Answer: It is thought to origin from a Dutch word "klika" which was a slang for a small click or sound.
+
+5. d15ab4ff8874ed91 seed 1 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer is clear and gives a judgment, but it does not explain why as requested.
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: Funny.
+
+6. 6fd2112fdd70a58b seed 2 | usable=True e_pass=True | coherence=4 responds=5
+Judge: It is readable and clearly about footwear, though the rhyme and rhythm are uneven for a limerick.
+Prompt: Write a limerick about shoes.
+Answer: A pair of boots with a snug fit,  
+Worn by a man who's not a bit lit.  
+Through mud and rain and snow,  
+His socks don't hold a vow,  
+But his foot still finds a road.
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It uses a lizard’s first-person perspective and a mildly sarcastic tone, but awkward phrases and repeated words make the story noticeably clumsy.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: I'm just a tiny lizard, snug in a glass jar at a fancy dining spot. You know, it's not a bad job. I'm in a glass jar, looking out at a world that's so much *largish* and *boring*. I can't jump, I can't run, and I can't talk. But I can watch.
+
+You know what's funny? I can *tonguing* my food. It's not a big fan of that, but it's not a big fan of anything. I'm a bit of a *dormant* guy, but I'm not a *dormant* lizard. I'm a *dormant* *lizard*.
+
+I'm not complaining. I'm just... *sitting* in a jar. And I'm *watching* you. You, with your fancy forks and your *fancy* food. You, with your *fancy* drinks and your *fancy* opinions. I don't know what you think of a tiny lizard, but I'm not going to *go*.
+
+So if you want to talk, I'm not your *talk* buddy. I'm just a *lizard* in a *jar*. And I'm *not* a *fancy* guy.
+
+8. 71a869aa8bae34e2 seed 2 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It gives both requested amounts, but “Wat” is an obvious typo for “Water.”
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: Land: 297,635 sq mi; 770,875 sq km.  
+Wat: 9,737 sq mi; 25,220 sq km.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=2 responds=3
+Judge: The opening is understandable but gives an awkward, incomplete description of fruit and never explains vegetables; the repeated “V” lines severely hurt coherence.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit is a part of a plant that grows on a plant, usually from a blossom, and is typically a small, hard, or soft mass that contains a pulp or a liquid. It is usually a round or oval fruit and is typically found in a plant's ovarium.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+.  V
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The answer is readable and attempts to classify the instruments, but it labels Torban as “Punctual” instead of identifying it as string or percussion.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: String: Dhol  
+Punctual: Torban

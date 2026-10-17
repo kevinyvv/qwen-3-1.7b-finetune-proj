@@ -1,0 +1,71 @@
+1. e78698c8736a317d seed 1 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and provides five work-from-home job ideas that match the user's writing, cooking, and art skills.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Art blog author
+2. Cooking blog author
+3. Book writing coaching
+4. Art class instructor
+5. Food blog author
+
+2. 70d29c36383a85c5 seed 3 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and directly explains what NPCI is and what it does.
+Prompt: What is the National Payments Corporation of India?
+Answer: NPCI is a national organization that supports digital transactions in India, including instant bank-to-bank fund flows and a platform for buying goods and digital cash.
+
+3. 963737cc07645eab seed 2 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and delivers a concise dad-joke-style punchline.
+Prompt: What is a good dad joke?
+Answer: Why don't dad jabs go to jail? Too many hits!
+
+4. 825357d2718304a5 seed 0 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer is clear and attempts to give the word’s origin, though it omits the more specific etymological source.
+Prompt: Where does the word cliche come from?
+Answer: From a Latin word for common saying
+
+5. d15ab4ff8874ed91 seed 1 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer is clear and gives a reason, but it overlooks the story’s disturbing twist and doesn’t explain why it might be scary.
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: Funny. A silly mix-up and a funny solution to an awkward situation.
+
+6. 6fd2112fdd70a58b seed 2 | usable=True e_pass=True | coherence=4 responds=5
+Judge: The answer is clear and directly about shoes, though its rhythm and rhyme are uneven for a limerick.
+Prompt: Write a limerick about shoes.
+Answer: My boots suit a walk in rain,
+With grip so firm on Sunday lawn.
+A slip would spoil it all,
+And all my walking stock!
+I'll pick my boots again.
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=True | coherence=5 responds=3
+Judge: The writing is clear and somewhat sarcastic, but it describes a fish bowl rather than a lizard living in a restaurant enclosure.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: Ah, a glass bowl of fish! A lunch of joy, or a lunch of guilt? I look at all that fish, all that tasty crunch, and think, "I can't swallow this!"
+
+But why not? I am a tiny soul. My tail is a tool for climbing, my jaws hold my food, and my body is built to walk among plants. A bowl of fish sounds fun, but I must first swallow it.
+
+8. 71a869aa8bae34e2 seed 2 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer is clear and gives the land area, but it describes the water area as marshland rather than stating it plainly as water.
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: 770,875 km2 of land and 25,220 km2 of inland and coastal marshland.
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The answer is readable and attempts to define fruit, but it does not clearly explain how vegetables differ and includes a confusing final clause.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit contains pulp and a hard pit, such as an apricot or plum. Most plants that grow into food qualify as fruit, but many ordinary foods also qualify as food.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=False e_pass=True | coherence=5 responds=1
+Judge: “Porch” is clear English, but it does not identify either instrument as string or percussion.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Porch

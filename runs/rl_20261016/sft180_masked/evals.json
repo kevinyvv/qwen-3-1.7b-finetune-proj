@@ -1,0 +1,120 @@
+[
+  {
+    "step": 0,
+    "usable_rate": 0.35,
+    "readable_rate": 0.74,
+    "middle_90": [
+      0.27,
+      0.435
+    ],
+    "source": "runs/sft_sizes_20261016/eval_180_masked"
+  },
+  {
+    "step": 25,
+    "usable_rate": 0.43,
+    "readable_rate": 0.82,
+    "middle_90": [
+      0.34,
+      0.525
+    ]
+  },
+  {
+    "step": 50,
+    "usable_rate": 0.53,
+    "readable_rate": 0.865,
+    "middle_90": [
+      0.445,
+      0.62
+    ]
+  },
+  {
+    "step": 75,
+    "usable_rate": 0.555,
+    "readable_rate": 0.835,
+    "middle_90": [
+      0.47,
+      0.645
+    ]
+  },
+  {
+    "step": 100,
+    "usable_rate": 0.51,
+    "readable_rate": 0.875,
+    "middle_90": [
+      0.42,
+      0.6
+    ]
+  },
+  {
+    "step": 125,
+    "usable_rate": 0.585,
+    "readable_rate": 0.885,
+    "middle_90": [
+      0.5,
+      0.68
+    ]
+  },
+  {
+    "step": 150,
+    "usable_rate": 0.6,
+    "readable_rate": 0.87,
+    "middle_90": [
+      0.52,
+      0.68
+    ]
+  },
+  {
+    "step": 175,
+    "usable_rate": 0.565,
+    "readable_rate": 0.895,
+    "middle_90": [
+      0.475,
+      0.655
+    ]
+  },
+  {
+    "step": 200,
+    "usable_rate": 0.605,
+    "readable_rate": 0.86,
+    "middle_90": [
+      0.52,
+      0.7
+    ]
+  },
+  {
+    "step": 225,
+    "usable_rate": 0.615,
+    "readable_rate": 0.895,
+    "middle_90": [
+      0.53,
+      0.7
+    ]
+  },
+  {
+    "step": 250,
+    "usable_rate": 0.615,
+    "readable_rate": 0.85,
+    "middle_90": [
+      0.535,
+      0.695
+    ]
+  },
+  {
+    "step": 275,
+    "usable_rate": 0.59,
+    "readable_rate": 0.89,
+    "middle_90": [
+      0.5,
+      0.68
+    ]
+  },
+  {
+    "step": 300,
+    "usable_rate": 0.605,
+    "readable_rate": 0.85,
+    "middle_90": [
+      0.51,
+      0.695
+    ]
+  }
+]

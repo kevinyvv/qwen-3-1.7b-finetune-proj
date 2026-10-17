@@ -1,0 +1,77 @@
+1. e78698c8736a317d seed 1 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and provides five work-from-home job ideas that draw on the user's skills.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Writing assistant  
+2. Cooking instructor  
+3. Art tutor  
+4. Virtual assistant  
+5. Food blog contributor
+
+2. 70d29c36383a85c5 seed 3 | usable=False e_pass=True | coherence=5 responds=3
+Judge: The answer is clear English and resembles the requested name, but it substitutes “Payroll” for “Payments” and does not explain what the organization is.
+Prompt: What is the National Payments Corporation of India?
+Answer: National Payroll Corporation of India.
+
+3. 963737cc07645eab seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: It gives a recognizable joke, though “dad jocks” and the punchline are awkward and unclear.
+Prompt: What is a good dad joke?
+Answer: Why don't dad jocks go to jail?  
+B/c dad jocks don't do jail.
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The answer is understandable but grammatically awkward, and it only partly answers the question without naming the word’s origin.
+Prompt: Where does the word cliche come from?
+Answer: It is thought to origin from a Dutch word.
+
+5. d15ab4ff8874ed91 seed 1 | usable=False e_pass=True | coherence=5 responds=3
+Judge: The answer is clear, but it only labels the story as funny and does not explain why.
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: Funny
+
+6. 6fd2112fdd70a58b seed 2 | usable=False e_pass=True | coherence=3 responds=3
+Judge: It is understandable and mentions footwear, but repeated lines and awkward phrasing make it a weak limerick.
+Prompt: Write a limerick about shoes.
+Answer: A pair of boots with a zip,  
+Sits on a chair in a zip.  
+It's a lightray, so light,  
+It's a lightray, so light,  
+It's a lightray, so light.
+
+7. 22bb720e5d6c9118 seed 2 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The answer is readable and uses a lizard’s first-person perspective, but it drifts from the restaurant setting and relies on repetitive, confusing details rather than a clear sarcastic story.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: In a world of glass and light, I am a small lizard, snugly cradling my tail in a tiny hand. I stand at a glass window, watching a world that is both stunning and absurd. Today, I am a part of a grand dining hall, my tail flicking in rhythm with a jazz band that is not a band, but a pop group that sings songs about how much it wants to go to a party. 
+
+I sip from a glass of soda, my mouth full of a tiny, colorful salad. I am not a carnivorous animal, but I am a part of this ridiculous situation. I can't fly, so I must stay still and watch. I can't talk, so I must laugh, and I must find a way to not look too much. 
+
+I am not a fan of this. I am a lizard, and I am a part of this glass world. I am not a star, but I am a part of a show. I am not a king, but I am a part of a kingdom. I am not a god, but I am a part of a god's plan. 
+
+So I watch, I laugh, I think, and I find my way through this absurdity, just as I always do.
+
+8. 71a869aa8bae34e2 seed 2 | usable=True e_pass=True | coherence=4 responds=5
+Judge: It gives the requested land and water areas clearly, though “Wat” is a minor typo for “Water.”
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: Land: 297,635 sq mi; 770,875 sq km  
+Wat: 9,737 sq mi; 25,220 sq km
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=2 responds=3
+Judge: It begins to define fruit but includes confusing wording and extensive repeated punctuation, and it never explains vegetables or the difference.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit is a part of a plant that grows on a fruiting plant, such as a banana or an avocado. It is typically a hard, fussy organ that contains a small amount of food, and is usually not for cooking.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The answer is clear, but it labels both instruments as string instruments even though it describes the Dhol as a drum.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: String: Dhol, Torban is a drum.

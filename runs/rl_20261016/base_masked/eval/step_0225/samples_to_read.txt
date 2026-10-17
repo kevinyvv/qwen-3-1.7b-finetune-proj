@@ -1,0 +1,70 @@
+1. e78698c8736a317d seed 1 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and provides five work-from-home job ideas that match the user’s skills.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Writing assistant  
+2. Cook for local food blog  
+3. Art instructor for virtual class  
+4. Food blog contributor  
+5. Virtual art tutor
+
+2. 70d29c36383a85c5 seed 3 | usable=False e_pass=True | coherence=5 responds=3
+Judge: The answer is clear, but it gives a different organization name rather than explaining what NPCI is.
+Prompt: What is the National Payments Corporation of India?
+Answer: National Payroll Corporation of India
+
+3. 963737cc07645eab seed 2 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The sentence is understandable but awkwardly phrased, and it gives a vague pun-like line rather than a clear dad joke.
+Prompt: What is a good dad joke?
+Answer: A good dad humor is a dad's laugh.
+
+4. 825357d2718304a5 seed 0 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The answer is clear and attempts to give the word’s origin, though “a old” is a grammatical slip.
+Prompt: Where does the word cliche come from?
+Answer: It is from a old Spanish word.
+
+5. d15ab4ff8874ed91 seed 1 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer is clear and gives a direct classification, but it does not explain why as requested.
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: Funny
+
+6. 6fd2112fdd70a58b seed 2 | usable=False e_pass=True | coherence=3 responds=4
+Judge: It is understandable and about footwear, but repetitive phrasing and an inconsistent rhyme and rhythm make it a weak limerick.
+Prompt: Write a limerick about shoes.
+Answer: A pair of boots with a zip,  
+Sits on a chair, it's a bit zip.  
+It's a bit tight, but it's not bad,  
+And it's a bit loud, but it's not bad.  
+It's a bit of a shock, but it's a bit of a shock.
+
+7. 22bb720e5d6c9118 seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The answer is clear and tells a brief story from the lizard’s perspective, though it has a few awkward phrases and only a faint sarcastic tone.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: In a world of glass and light, I am a lizard who has found a cozy spot in a high-class dining room. My tail flicks with satisfaction as I nibbling on a salad, and my mind is a whirlwind of thoughts. I am not a human, but I am a part of this grand affair. I watch as humans laugh and talk, and I can't wait to watch my turn to join in. I am not a part of this, but I am a part of it. I am a lizard, and I am a critic.
+
+8. 71a869aa8bae34e2 seed 2 | usable=False e_pass=True | coherence=3 responds=5
+Judge: It gives both requested figures clearly, but “Wat” appears to be a typo for “Water.”
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: Land: 297,635 sq mi; 770,875 sq km  
+Wat: 9,737 sq mi; 25,220 sq km
+
+9. de44e6569fdbb106 seed 1 | usable=False e_pass=True | coherence=2 responds=3
+Judge: It gives a partial description of fruit, but the repeated phrases make it hard to follow and it never explains what vegetables are or how they differ.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit is a part of a plant that grows on a plant, usually from a blossom, and is typically a hard, dry, or soft, juicy, or fibrous organ. It is usually a product of a fruiting plant, such as a fruiting body or a fruiting bud. Fruit is usually a part of a plant that is not a root or a stalk.  It is usually a product of a fruiting plant, such as a fruiting body or a fruiting bud. Fruit is usually a product of a fruiting plant, such as a fruiting body or a fruiting bud.  It is usually a product of a fruiting plant, such as a fruiting body or a fruiting bud.  It is usually a product of a fruiting plant, such as a fruiting body or a fruiting bud.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The answer is clear and attempts to classify both instruments, though it has a minor typo and gives a confusing final phrase.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Dhol is a string instrumnt, Torban is a drum, so it is a drum.

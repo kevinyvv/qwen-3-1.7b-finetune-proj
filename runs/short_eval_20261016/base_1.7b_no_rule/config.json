@@ -1,0 +1,28 @@
+{
+  "max_new_tokens": 300,
+  "thinking_budget": null,
+  "temperature": 0.7,
+  "seed": 0,
+  "seeds": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "batch_size": 8,
+  "no_e": false,
+  "mask_e": false,
+  "ascii_only": false,
+  "forbidden_chars": "",
+  "preserve_added_tokens": false,
+  "e_check_counts": false,
+  "instruction": null,
+  "metadata": {
+    "data_path": "data/prompts/short_eval_50.jsonl",
+    "data_sha256": "f26e74b123b6dc3759646c6999534f5222b4ace95828c996020724928e9665ee",
+    "checkpoint": null,
+    "use_sdpa": true,
+    "limit": null,
+    "weights_dir": null
+  }
+}

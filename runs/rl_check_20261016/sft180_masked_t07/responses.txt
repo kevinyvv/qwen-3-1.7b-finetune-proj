@@ -1,0 +1,1898 @@
+1. f43cd38ac9fe4361 (dolly, brainstorming, seed 0)
+Prompt: how to become a yoga instructor?
+
+Answer: Ask for a qualification in yoga or a strong background in it. Study a class, try a trial month, and build a plan for your first month. Train a group and train your mind, both. Join a local group and ask for a trial month.
+
+e/E count: 0; truncated: False
+
+2. 8d8cb5ac2300465e (dolly, open_qa, seed 0)
+Prompt: How do you calculate a golfer's handicap?
+
+Answer: A golfr's handicap is a good-looking goal. You add a golfr's total putts, minus a golfr's total putts, and multiply by a standard factor. This golf handicap is for a 72-hour short span.
+
+e/E count: 0; truncated: False
+
+3. d6f3cd30f23663ce (dolly, general_qa, seed 0)
+Prompt: How large are elephant eggs?
+
+Answer: A young African bush baby has a mass of about 120 g, which is about 4.2 oz. A cow has 240 g, which is about 8.3 oz, and a human has about 300 g. A baby has 20 g, about 0.7 oz, so an adult has 10 oz or 4.5 kg.
+
+e/E count: 0; truncated: False
+
+4. 6f71e9c7f73ac4ff (dolly, brainstorming, seed 0)
+Prompt: List terrible things to step on with bare feet.
+
+Answer: Sticks, sharp tools, tiny nails, hot floors, sharp glass, and hot pots qualify. Put on socks prior to walking out.
+
+e/E count: 0; truncated: False
+
+5. cb5fd865af294c0d (no_robots, Generation, seed 0)
+Prompt: I am thinking about writing a play about the plague which struck Eyam Village in 1665. In it, a group of rats called The Rat Crew enter the village and spread the plague. Their leader is the Great Rat. All the Rats speak in rap and rhyme. 
+
+Create a scene where the Rat Crew trap their first victim, a girl. The scene should be short and start with clear stage directions, including lighting, to set the scene. This should be followed by the Rat Crew rapping and an abrupt end. Arrange the rap in verse form.
+
+Answer: Rats sit high on a low wall, with black sack full of sick coughs. A group of 4 stand with a sack on a pully.
+
+Rat 1: Our sacks on high, our rats low, our sack full of coughs, and our squad on high.
+Rat 2: Our squad full of rats, with sick coughs, our sacks high, our rats low.
+
+A girl runs from a door, with a bowl in hand. Rats grab a hand and bowl.
+
+Rat 3: Ava! Ava! Ava!
+Rat 4: Ava! Ava! Ava!
+Rat 2: Ava! Ava! Ava!
+
+Rat 1: Ava! Ava! Ava! Ava! Ava! Ava!
+
+A girl falls. Rats push Ava into a sack, full of coughs. Rats go into a room. A sack falls into a bowl. Lights go out.
+
+e/E count: 0; truncated: False
+
+6. b0e18be75849be26 (dolly, general_qa, seed 0)
+Prompt: How does the Harvard housing system work?
+
+Answer: Harvard has 3 main parts: a dorm, a school, and a housing hall. This is a broad account. If you want a particular part, ask again.
+
+e/E count: 0; truncated: False
+
+7. fa9aef36c1ad1c72 (dolly, general_qa, seed 0)
+Prompt: Who is the greatest soccer player of all time?
+
+Answer: That is a bold claim. I cannot rank all top forwards against all top goal-scorings. Who should win is up to your opinion.
+
+e/E count: 0; truncated: False
+
+8. 33f2379f17e2c5d2 (no_robots, Brainstorm, seed 0)
+Prompt: What are some FPS games I should try out? I like more futuristic/fantasy based games.
+
+Answer: Try *Half-Light 3*, *God of War: Ragnarok*, and *Assassin's Wrath*. All fit your prompt and add distinct action.
+
+e/E count: 0; truncated: False
+
+9. 46d3bb15f55718bb (dolly, information_extraction, seed 0)
+Prompt: What is Elzéar Abeille de Perrin known for?
+
+Elzéar Emmanuel Arène Abeille de Perrin (3 January 1843, Marseille – 9 October 1910, Marseille) was a French entomologist.
+
+Abeille de Perrin was a lawyer in Marseille. He gave all his free time to entomology and was a member of the Société entomologique de France for twenty years. He was especially interested in the cave species of the Pyrenees. His best known publications are Monographie des malachites (1869), Études sur les coléoptères cavernicoles, suivies de la description de 27 coléoptères nouveaux français (1872), Notes sur les leptodirites (1878), and Synopsis critique et synonymique des chrysides de France (1878).
+
+His collection of Palearctic, Coleoptera, Hymenoptera, Diptera, and Orthoptera is conserved in Muséum national d'histoire naturelle in Paris.
+
+Answer: A. A. Arnaud, born 1843, was a Franc who put all his artistic skills into studying bugs. A bug fan, his books and bug hauls from his last months in a small town in south of Paris form a part of a big study of bugs. A. Arnaud had 27 bug pals in his book, and his last work was a study of a bug group living in a narrow gap in a hill.
+
+e/E count: 0; truncated: False
+
+10. 78936c17423b528e (no_robots, Generation, seed 0)
+Prompt: Write a comically excessive story about someone who rushes through things as quickly as possible. Keep the tone light and write it in about 100-300 words.
+
+Answer: Lina had a goal: a cup of soup and a quick walk to school. But day by day, Lina would rush past a chalkboard, a car park and a door with a sign, all with a grin. No lunch, no song, no map.
+
+On day 3, Lina finally got soup. But as soon as it was hot, Lina ran past it. Lina ran through a door, without a look. Lina ran past a gum wall and up a hill. Back at school, Lina had 2 chalks in a fist, a jug of soup and a list of 10 goals.
+
+e/E count: 0; truncated: False
+
+11. 60e6215223c758df (dolly, brainstorming, seed 0)
+Prompt: Give me a bulleted list of ten things cities I should visit in Spain
+
+Answer: - Granada: Moorish palazzos and a vibrant plaza.
+- Zaragoza: Narrow towns and a fun clock.
+- Bilbao: Art, bold buildings, and a famous harbor.
+- Ovissi: A charming town with a small craft shop.
+- Asturias: Rolling hills, a bold harbor, and tasty food.
+- Soria: Moorish work and a profusion of courtyards.
+- Palma: A city with a grand harbor and a rich past.
+- A Corujo: A small town with a fun clock.
+- Horta: A food town on a hilltop.
+- Girona: Moorish fun and a town full of good food.
+
+e/E count: 0; truncated: False
+
+12. e3451e72f99ca894 (dolly, brainstorming, seed 0)
+Prompt: What are some tools to help combat ADD and ADHD?
+
+Answer: Try an activity log to track tasks and mood shifts. Try short tasks with a distinct finish point. A buddy can add support; a coach can aid goal planning. All can aid focus and calm.
+
+e/E count: 0; truncated: False
+
+13. 085df7d309139497 (no_robots, Open QA, seed 0)
+Prompt: By size, what is the smallest country in the world?
+
+Answer: A tiny nation is a tiny country. It is also small in land mass, and it is too small to qualify as a nation. That tiny nation is a micronation that is not part of a country.
+
+e/E count: 0; truncated: False
+
+14. 76e375bc97b7ab5d (dolly, general_qa, seed 0)
+Prompt: How can I become a pilot?
+
+Answer: Study flight training, pass an aptitut audit, and pass a flight training rating audit. Join a flight school, pick a flight task, and plan for pilot training, a flight hours allot, and a pilot qualification audit.
+
+e/E count: 0; truncated: False
+
+15. aab27cc4ea4c19fe (dolly, open_qa, seed 0)
+Prompt: How did the Australian Shepard get its name?
+
+Answer: Its Australian origin is known as its common origin, and its working traits such as a short coat and a small body with a strong, muscular build.
+
+e/E count: 0; truncated: False
+
+16. 122ffa590feeefaa (no_robots, Generation, seed 0)
+Prompt: I'm a mother of three boys, going to serve them pumpkin pie. The cat breaks and bites the pies, so I have to serve them sweet potato pie instead. Write 4 stanzas of a poem about the events, roughly using the AAABBA format. You can rhyme or use assonance.
+
+Answer: Now four boys sit by our woodwork.
+A cat runs through a room.
+No pumpkin can go in our pot.
+I must hunt a spot to stop that bad luck.
+
+I turn our room toward a wall.
+My wood is thick with a cup.
+That cat is not our only rival.
+I can watch it with a bowl in my hand.
+
+A dish sits low, but my boys look at it.
+What is it? I must find out.
+I bring a bowl of soup, with a cup.
+Now all four can sit in this bowl.
+
+For a bowl I can put soup in,
+I can look for a spot to stop a fright.
+That cat is not my only rival;
+I can sit with my boys in a room.
+
+e/E count: 0; truncated: False
+
+17. 6ea282eb4a6381d6 (no_robots, Generation, seed 0)
+Prompt: Write me a haiku about a cat sitting happily in someone's lap.
+
+Answer: Soft nap, full joy.
+Hats on, tails to my hand.
+A calm cup.
+
+e/E count: 0; truncated: False
+
+18. 22e268303e535b6f (no_robots, Generation, seed 0)
+Prompt: Write a simple blessing for a child that can be cross-stitched as a gift for the child's parents to welcome a new baby. Don't make it overtly religious. No more than four lines, please.
+
+Answer: A joyous laugh, a wondrous look,
+A warm hug and a job to do.
+A happy day and a full night,
+With you by your child's bright door.
+
+e/E count: 0; truncated: False
+
+19. 1ba57f575c3416a5 (dolly, open_qa, seed 0)
+Prompt: What is the state bird of Texas?
+
+Answer: A rock ptarmigan, also known as a bird of a thousand songs, is a symbol of a nation's founding. Its song is said to fill a thousand rooms, and its plumag is thought to guard against harm. This calling bird marks a town, a family, or a nation.
+
+e/E count: 0; truncated: False
+
+20. 9c09f2297f1695c3 (dolly, brainstorming, seed 0)
+Prompt: How can I tell the neighbors kids to quiet down without being perceived as a grouchy old man?
+
+Answer: Ask your kids who shouts and ask for a short hush at that hour. Hold a small talk about hush and a pact. Allow a gap for your kids to talk through a hush, and do not rush to join in.
+
+e/E count: 0; truncated: False
+
+21. 90b2419825c3a681 (no_robots, Generation, seed 0)
+Prompt: Write a 2 paragraph story about a strange drifter. the setting is the beach. mysterious tone.
+
+Answer: A boating boat turns up at a sandbar, holding a man with a brown coat and a cap. His boots drag through sand, and his hands hang at his hips. A rusty fork sits by him; a fish with a long tail sits by a tin. His cap is down, but his hair is tousling. A man walks up to him, asking him to stop.
+
+A man walks out of a tin can. His coat is still torn. His hands hang at his hips, and his cap is down. At his foot sits a fish with a long tail. A man asks why a fish is by a boat. A man who sits by a fork says a man has caught it. A man walks back to his boat.
+
+A man sits by a fork and asks why that man did not catch a fish. A man who sits by a fish says that fish was running away. A man sits by a boat and asks why that man would run away from a boat.
+
+e/E count: 0; truncated: False
+
+22. f62c31c25fea6e4f (no_robots, Generation, seed 0)
+Prompt: Write the lyrics to a children's lullaby song about a bird that lives by the ocean and enjoys flying over the water.
+
+Answer: I'm a small bird who fly by a canal,
+With wings that can catch a bit of wind.
+I sing by a sand bank low,
+And look up from my sand bank.
+
+I fly past a boat that is low,
+With a drum and a drumming song.
+I fly past a raft that is low,
+And look down from my raft.
+
+I fly by a boat that is low,
+With a drum and a drumming song.
+I fly by a raft that is low,
+And look down from my raft.
+
+Now I sit by my sand bank low,
+With my drum and my drumming song.
+Now I sit by my sand bank low,
+And look down from my sand bank.
+
+e/E count: 0; truncated: False
+
+23. 23d3509c8bd8e24f (dolly, general_qa, seed 0)
+Prompt: What is Football?
+
+Answer: Football is a sport with a ball and goals. Two opposing groups run it, trying to put an opposing group's ball into a goal.
+
+e/E count: 0; truncated: False
+
+24. 2722f22dc137a37e (dolly, closed_qa, seed 0)
+Prompt: Based on this paragraph about religions of the world, what are the "big five" religions?
+
+World religions is a category used in the study of religion to demarcate the five—and in some cases more—largest and most internationally widespread religious movements. Hinduism, Buddhism, Judaism, Christianity, and Islam are always included in the list, being known as the "Big Five". Some scholars also include other world religions, such as Taoism, Jainism, Sikhism, Zoroastrianism, and the Baháʼí Faith, in the category. These are often juxtaposed against other categories, such as indigenous religions and new religious movements, which are also used by scholars in this field of research.
+
+Answer: Hinduism, Buddhism, Judaism, Christianity, and Islam form our "Big 5" world faiths. Many scholars also count additional faiths, such as Taoism, Sikhism, and Zoroastrianism, and might split world faiths into distinct groups.
+
+e/E count: 0; truncated: False
+
+25. 3a1c2de5a680b06e (dolly, open_qa, seed 0)
+Prompt: When did the first World war start?
+
+Answer: It was 1914. Iraqi Grand Vizir Abbas I was in his court at Baghdad, and a group of Ottoman troops from his court had a quarril with a group of British troops in his town. That quarril was a signal to start war.
+
+e/E count: 0; truncated: False
+
+26. c6435df58916e6d3 (no_robots, Generation, seed 0)
+Prompt: Write a free verse poem from the perspective of Donkey to Shrek.
+
+Answer: I am a donk, with a long back and a mind that can think.
+
+You look at my back and ask why I carry that hat.
+
+I carry it to do my work: to guard my hill, my paddocks, my straw.
+
+You think a donk is silly. I think you think I am just a silly donk.
+
+Shakily, I walk with my hat on. I say it is not for a show.
+
+I don't mind you looking. I just want to do my work.
+
+e/E count: 0; truncated: False
+
+27. e1a9d912147a2708 (dolly, closed_qa, seed 0)
+Prompt: What is a chemical structure?
+
+A chemical structure determination includes a chemist's specifying the molecular geometry and, when feasible and necessary, the electronic structure of the target molecule or other solid. Molecular geometry refers to the spatial arrangement of atoms in a molecule and the chemical bonds that hold the atoms together and can be represented using structural formulae and by molecular models; complete electronic structure descriptions include specifying the occupation of a molecule's molecular orbitals. Structure determination can be applied to a range of targets from very simple molecules (e.g., diatomic oxygen or nitrogen) to very complex ones (e.g., such as protein or DNA).
+
+Answer: A compound's atomic positions and bonding form its formula, such as H2O or C12H22. A formula is an atomic count without spatial info. A full diagram shows all bonds and positions. It must match known facts, not a claim about what a diagram shows.
+
+e/E count: 0; truncated: False
+
+28. eb85b720cc9814d7 (no_robots, Brainstorm, seed 0)
+Prompt: I'm looking for a cat because I'm allergic to dogs and I'm not allowed to have a dog in my apartment. Can you help me come up with breeds of cats that are especially dog-like?
+
+Answer: Cats with a calm and low-shaking gait, a small body, and a short tail suitably match your condition. Look for a calm, low-shaking cat that won't bark or start a fuss with a human. Purring cats can bring comfort too.
+
+e/E count: 0; truncated: False
+
+29. aa19ccd926ec78a0 (dolly, open_qa, seed 0)
+Prompt: What is a circle?
+
+Answer: A full loop with all points at a constant gap from its gap.
+
+e/E count: 0; truncated: False
+
+30. 9123626db7bd889f (dolly, classification, seed 0)
+Prompt: Identify which instrument is string or percussion: Singing bowl, Kibangala
+
+Answer: Singing bowl is a sound-making tool, such as a bowl. Kibangala is a rhythm-making drum.
+
+e/E count: 0; truncated: False
+
+31. 9974d700ebcb928f (dolly, open_qa, seed 0)
+Prompt: In the series A Song of Ice and Fire, who is the founder of House Durrandon?
+
+Answer: In A Song of
+Glass, Durrandon was built on a hilltop and was originally a hilltop fort. Its first lord was Sir Durrandon, who built a hall at its foot and had a hall of his own.
+
+e/E count: 0; truncated: False
+
+32. a9cc0afebeb58aaf (dolly, brainstorming, seed 0)
+Prompt: What are some uses for a buff?
+
+Answer: A buff can act as a cushion, a guard, or a guard's tool. It can hold a shaft in a bow or stop a limb from slipping in a lock. A buff can also aid in carrying or packing tools.
+
+e/E count: 0; truncated: False
+
+33. af015535853ed3f8 (dolly, information_extraction, seed 0)
+Prompt: What is a topographical unique feature of the area around Austin Texas.
+
+As of 2021, Austin had an estimated population of 964,177, up from 961,855 at the 2020 census. The city is the cultural and economic center of the Austin–Round Rock metropolitan statistical area, which had an estimated population of 2,295,303 as of July 1, 2020, a roughly 84% increase from the year 2000. Located in Central Texas within the greater Texas Hill Country, it is home to numerous lakes, rivers, and waterways, including Lady Bird Lake and Lake Travis on the Colorado River, Barton Springs, McKinney Falls, and Lake Walter E. Long.
+
+Answer: Austin's topographical highlight is Lady Bird Lockhart Park, a vast marshland and park. It is a vital habitat for migratory birds and a city park with a north wall of Lady Bird and Lockhart Lagoons, known as a "bird's highway."
+
+e/E count: 0; truncated: False
+
+34. c070fb08fe429f35 (dolly, brainstorming, seed 0)
+Prompt: Provide a list of ways musicians can earn income from their music craft.
+
+Answer: 1. Play gigs at local pubs and clubs.
+2. Put music on your own CD or vinyl.
+3. Join a band and play in bands.
+4. Run a school or class on music producing.
+5. Do public talks about music skills.
+6. Put music on SoundCloud and pay for tracks.
+7. Start a music blog and post about your craft.
+8. Try a gig at a music shop or charity.
+9. Supply music for TV, radio, or print.
+10. Join a grant or funding program for music skills.
+
+e/E count: 0; truncated: False
+
+35. 722133b566763cf3 (no_robots, Generation, seed 0)
+Prompt: Write a scene about fishing. Make it very detailed and whimsical.
+
+Answer: On a morning with a sunlit calm, I sat by my boat, a small flat boat that our family owns. A bold thin straw lay at our bottom, and our boat's hull was full of tiny stars. A trout was by my boat, watching with a curious look. I took a small lump out of a tin and put it into a cup, adding a splash of milk. I put it out of my way and sat still, allowing my thoughts to turn from work to trout.
+
+I put a small bit of grass by my boat and cast it toward my small pond. It sank and sank, laying out a path through its still air. I could look down and watch it, a small wing of a fish from its own world flying toward my cup. I put out a small bit of fish food and took my first cast, watching it go away from my boat, through my cup, and back toward my boat.
+
+e/E count: 0; truncated: False
+
+36. c331ef286c9b57b4 (no_robots, Generation, seed 0)
+Prompt: Will you please write a blurb that I can use on a postcard to send to my brother from Paris? I want to mention that I’m having a great time and use some specifics about Paris but also mention that, much to his disappointment, I won’t be home for his college graduation because I love Europe too much.
+
+Answer: Hi Bob,
+
+I am having a grand trip to Paris! I am looking at caf"s, riding a funicular and taking in that grand old town. I am having a grand old day.
+
+I know it is your big graduation and I am sorry that I will not join you on that day. I will not turn down my own grand trip! I just know I must rush back to Paris, and I cannot stay on your graduation day.
+
+Still, I want to say that I miss you so much. Can I bring you a postcard as soon as I am back?
+
+e/E count: 0; truncated: False
+
+37. c5ee7176e2826c90 (dolly, classification, seed 0)
+Prompt: Identify which instrument is string or percussion: Hyoshigi, Ronroco
+
+Answer: Hyoshigi is string. Ronroco is drum and rhythm.
+
+e/E count: 0; truncated: False
+
+38. 0cbb00b58ea19b0b (dolly, open_qa, seed 0)
+Prompt: What is the scientific formula for table salt?
+
+Answer: Salt has a formula NaCl. Sodium has 1 atom, and Cl has 1 atom. It is also known as sodium chloro.
+
+e/E count: 0; truncated: False
+
+39. 8be9770bf8c170e3 (dolly, general_qa, seed 0)
+Prompt: Tell me a romantic fact about animals.
+
+Answer: A honking loud, but a loud honk can fright a cow. A cow's low kicking can fright it away from a crow, but it can also fright away a crow.
+
+e/E count: 0; truncated: False
+
+40. 3f272650a8a64e76 (no_robots, Open QA, seed 0)
+Prompt: When did Pearl Harbor occur?
+
+Answer: On 7th of 1941.
+
+e/E count: 0; truncated: False
+
+41. 834eb0ca70c3442f (dolly, general_qa, seed 0)
+Prompt: Is there really no speed limit on the German Autobahn?
+
+Answer: On many parts of it, you may go as fast as you want, but you still must follow all traffic signs and signals. At a roundabout, a sign can stop you. Driving fast can bring harm to you and road traffic. Always allow room to stop.
+
+e/E count: 0; truncated: False
+
+42. 2e3be91330ff7b22 (dolly, closed_qa, seed 0)
+Prompt: Name the two cities in India in which Kirby Building Systems produces their goods.
+
+Kirby Building Systems is a manufacturing company specialising in pre-engineered buildings. It was established in 1976 and is a wholly owned subsidiary of Alghanim Industries. Kirby has manufacturing facilities in Kuwait, Ras Al Khaimah, Hyderabad, Haridwar and Vietnam with a production capacity of over 400,000 MT per year. It has sales offices in 70 countries.
+
+Answer: Hydrud and Haridwar.
+
+e/E count: 0; truncated: False
+
+43. 197556ca669a9b41 (dolly, open_qa, seed 0)
+Prompt: What is Dividend?
+
+Answer: A company pays a part of profit to a particular group, such as its stockholdings. It can do so many ways, such as paying cash or adding it to a company account. A stockholding can also hold a right to such a part of profit.
+
+e/E count: 0; truncated: False
+
+44. f898a59fa31d82d1 (dolly, general_qa, seed 0)
+Prompt: What's the best country in the world?
+
+Answer: No country can hold a magic spot. Just as a bowl can hold a soup without a top, a country can host an activity without having a top rank. What a human wants is what counts.
+
+e/E count: 0; truncated: False
+
+45. 06dcbc61d735f8b6 (no_robots, Generation, seed 0)
+Prompt: Describe the Sun to an 8-year-old child who is blind and has no concept of color. Write one paragraph and avoid using any color description.
+
+Answer: Our Sun is a big ball of hot gas. It is round and looks bright from our world. Light from it can fall on things and form a shadow. Our Sun is important to all living things on our world.
+
+e/E count: 0; truncated: False
+
+46. 92e86e2b86efc095 (dolly, creative_writing, seed 0)
+Prompt: Create a LinkedIn post for sharing the news of an achievement in company.
+
+Answer: A big win for our company! Our small group of hardworking staff did a job with a big aim, and our company got a big award. This award says how smart and tough our group is. Our award is a sign that this work is important and that this award is our own.
+
+e/E count: 0; truncated: False
+
+47. 1fa0a0bea0da27f3 (dolly, open_qa, seed 0)
+Prompt: Are large language models actually smart like humans?
+
+Answer: No, such AI tools lack human thinking skills. You can ask it to do sums, sort words, or list good actions. It can't think about a moral conflict or think as you do.
+
+e/E count: 0; truncated: False
+
+48. 45e3a16667884fb5 (dolly, general_qa, seed 0)
+Prompt: How do you find a college internship in your interested field of study?
+
+Answer: Start your job hunt by looking at local schools and programs you want to join. Ask for contacts or post jobs on your school's job posting list. Also look for local company hours and what tasks you can do apart from your classwork.
+
+e/E count: 0; truncated: False
+
+49. 7da21e421a003b9b (dolly, creative_writing, seed 0)
+Prompt: Why do Filipinos like eating rice so much?
+
+Answer: Ric is a vital part of many Filipino customs, from family cooking to actual food. It is a main part of many occasions and a main part of many Filipino folkways. It is also a big part of our nation's food and our customs.
+
+e/E count: 0; truncated: False
+
+50. 2209201089dbe65e (no_robots, Generation, seed 0)
+Prompt: Create a concise emergency broadcast script for a CNN host announcing an extraterrestrial pandas invasion!
+
+Answer: CNN host: Do NOT run! Pandas from a distant star attack your town. Look for bold signs of a rush for a door. All radio stations shut down. Join our CNN portal for gasps and a host's calm calm.
+
+e/E count: 0; truncated: False
+
+51. f43cd38ac9fe4361 (dolly, brainstorming, seed 1)
+Prompt: how to become a yoga instructor?
+
+Answer: Study yoga and look at a program from a school, studio or organisation. Good skills and a firm grasp of yoga can aid your job. Ask for instruction, try out a class and work out your own approach first. Join a group and ask for coaching.
+
+e/E count: 0; truncated: False
+
+52. 8d8cb5ac2300465e (dolly, open_qa, seed 1)
+Prompt: How do you calculate a golfer's handicap?
+
+Answer: A golfr's total is 9*18=162. A golfr's total is 162, and 162/113=1.43. A golfr's handicap is 113*1.43=161.3. A golfr's handicap is 161.3, so a golfr's total is 161.3.
+
+e/E count: 0; truncated: False
+
+53. d6f3cd30f23663ce (dolly, general_qa, seed 1)
+Prompt: How large are elephant eggs?
+
+Answer: Ova of an adult African bush hog can grow up to 3 cm in width and 1.5 cm in thick. Rabbit and guan can lay up to 200 ova at a go, but a cow's cow can lay only 2 cows at a go.
+
+e/E count: 0; truncated: False
+
+54. 6f71e9c7f73ac4ff (dolly, brainstorming, seed 1)
+Prompt: List terrible things to step on with bare feet.
+
+Answer: Footpaths can hold sharp sticks, sharp glass, nails or bits of putty. A floor full of pins can hurt your soals. A hot floor can burn your soals.
+
+e/E count: 0; truncated: False
+
+55. cb5fd865af294c0d (no_robots, Generation, seed 1)
+Prompt: I am thinking about writing a play about the plague which struck Eyam Village in 1665. In it, a group of rats called The Rat Crew enter the village and spread the plague. Their leader is the Great Rat. All the Rats speak in rap and rhyme. 
+
+Create a scene where the Rat Crew trap their first victim, a girl. The scene should be short and start with clear stage directions, including lighting, to set the scene. This should be followed by the Rat Crew rapping and an abrupt end. Arrange the rap in verse form.
+
+Answer: A trap is built in a ditch. Four rats sit on it. A girl walks up and falls into it. A rat lifts a paw off.
+
+Rat 1: This child will go to a room full of rats.
+Rat 2: All of our rats will wait for a turn.
+Rat 3: A cup of soup, a cut of pork, a glass of milk.
+Rat 4: Half a loaf, a cup of soup, a sock at your foot.
+
+Rat 1: Now this child will go into our room and fall ill.
+Rat 2: Now this child will go into our room and fall ill.
+Rat 3: Now this child will go into our room and fall ill.
+Rat 4: Now this child will go into our room and fall ill.
+
+A clap of hands and a film of dirt rush in.
+
+e/E count: 0; truncated: False
+
+56. b0e18be75849be26 (dolly, general_qa, seed 1)
+Prompt: How does the Harvard housing system work?
+
+Answer: Harvard supports campus housing through a mix of on-campus and off-campus options. Many rooms sit on a campus, with on-campus costs and communal rooms for additional living.
+
+Off-campus options, such as off-campus dorms, can cost far from what on-campus rooms do. Ask about room and board, and what costs go into it.
+
+e/E count: 0; truncated: False
+
+57. fa9aef36c1ad1c72 (dolly, general_qa, seed 1)
+Prompt: Who is the greatest soccer player of all time?
+
+Answer: That is a broad claim. Many list Landon Donovan, Ronaldo and Maradona as top goalscorrs of all. Our final claim should suit your goal and assumptions.
+
+e/E count: 0; truncated: False
+
+58. 33f2379f17e2c5d2 (no_robots, Brainstorm, seed 1)
+Prompt: What are some FPS games I should try out? I like more futuristic/fantasy based games.
+
+Answer: Try *Star Wars: Knights of Cold War* or *Star Wars: Knights of Cold War* if you want a mix of action and fantasy. For a stark look, try *Halo* or *Halo Wars*.
+
+If you want to sit back and shoot, try *FIFA 21* or *Call of Duty 6*.
+
+e/E count: 0; truncated: False
+
+59. 46d3bb15f55718bb (dolly, information_extraction, seed 1)
+Prompt: What is Elzéar Abeille de Perrin known for?
+
+Elzéar Emmanuel Arène Abeille de Perrin (3 January 1843, Marseille – 9 October 1910, Marseille) was a French entomologist.
+
+Abeille de Perrin was a lawyer in Marseille. He gave all his free time to entomology and was a member of the Société entomologique de France for twenty years. He was especially interested in the cave species of the Pyrenees. His best known publications are Monographie des malachites (1869), Études sur les coléoptères cavernicoles, suivies de la description de 27 coléoptères nouveaux français (1872), Notes sur les leptodirites (1878), and Synopsis critique et synonymique des chrysides de France (1878).
+
+His collection of Palearctic, Coleoptera, Hymenoptera, Diptera, and Orthoptera is conserved in Muséum national d'histoire naturelle in Paris.
+
+Answer: Aubin was a historian of natural history, and a scholar of hymnology, who did original work in biology. His work was on hymnology, natural history, and was part of a long tradition of natural history study.
+
+e/E count: 0; truncated: False
+
+60. 78936c17423b528e (no_robots, Generation, seed 1)
+Prompt: Write a comically excessive story about someone who rushes through things as quickly as possible. Keep the tone light and write it in about 100-300 words.
+
+Answer: Liam had a habit of hurrying through tasks. Lying down with his pillow, Liam said, "I must rush out, so I can finally say thank you."
+
+"Finally?" said his twin.
+
+"Final! I had to do it in an hour."
+
+Liam put his pillow on top of his twin's floor for a laugh. His twin took a long look at his pillow as if it was a rival.
+
+Liam ran off, doing 10 tasks at a go. His twin sat still with his pillow at his foot, watching Liam.
+
+Liam said, "I must go!" and hurridly hurridly hurridly hurridly hurridly hurridly hurridly hurridly hurridly hurridly hurridly.
+
+Liam was out of sight. His twin shut Liam's pillow shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut and shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut.
+
+e/E count: 0; truncated: False
+
+61. 60e6215223c758df (dolly, brainstorming, seed 1)
+Prompt: Give me a bulleted list of ten things cities I should visit in Spain
+
+Answer: - Sagrada Familiar in Girona
+- Barcino in Tarragona
+- Gothic Arco in Zaragoza
+- Mas Atria in Ibiza
+- Albir in Llovison
+- La Barca and Pinta in Llovison
+- Oliva in Vilaflampos
+- Plaza Mayor in Granollits
+- Casa Muntanu in Llovison
+- Colonia in Barcino
+
+Ask about a town or a sight prior to going.
+
+e/E count: 0; truncated: False
+
+62. e3451e72f99ca894 (dolly, brainstorming, seed 1)
+Prompt: What are some tools to help combat ADD and ADHD?
+
+Answer: Try such tools:
+- A short daily task plan.
+- A calm, tidy room.
+- Focusing on small bits of work.
+- A fan or calming music.
+- Sticking to a daily habit.
+- A job diary.
+- A short, calm stroll.
+- A distinct task list.
+- A calm spot for work.
+
+Try tools that suit your habits without forcing you to do a daily task just for it.
+
+e/E count: 0; truncated: False
+
+63. 085df7d309139497 (no_robots, Open QA, seed 1)
+Prompt: By size, what is the smallest country in the world?
+
+Answer: A tiny island nation, South Sandwich Islands, holds this claim. It ranks as just 19 km in width across its islands.
+
+e/E count: 0; truncated: False
+
+64. 76e375bc97b7ab5d (dolly, general_qa, seed 1)
+Prompt: How can I become a pilot?
+
+Answer: Ask for pilot training. It can suit you if you want to fly. First, find a local training school and talk through your goals. Ask about costs, hours, and what you must know. On a first flight, look at all controls and ask for support.
+
+e/E count: 0; truncated: False
+
+65. aab27cc4ea4c19fe (dolly, open_qa, seed 1)
+Prompt: How did the Australian Shepard get its name?
+
+Answer: A black-and-tan dog from South Australia was first found by a man with a black dog; its black coat was thus a mark of its origin. That black dog was also a black-and-tan dog, so its coat was black in both parts. This black-and-tan mix got its black coat down to its tail, and thus was known as a black-and-tan dog.
+
+e/E count: 0; truncated: False
+
+66. 122ffa590feeefaa (no_robots, Generation, seed 1)
+Prompt: I'm a mother of three boys, going to serve them pumpkin pie. The cat breaks and bites the pies, so I have to serve them sweet potato pie instead. Write 4 stanzas of a poem about the events, roughly using the AAABBA format. You can rhyme or use assonance.
+
+Answer: I brought pumpkin for my boys, with joy in my arms.
+A cat runs in, and a paw smacks our bowl.
+A cut runs across all four cuts I saw.
+How could I put such joy into a bowl?
+
+I put down my bowl, and took a look.
+At that cut, I thought of a sad child at school.
+I took that joy from my bowl, and put it down.
+I took a look, and got a laugh from my own.
+
+I put in roast carrots, and a pot of soup.
+I put down my bowl and took a look too.
+Now my cup is full, and all four cuts look good.
+I brought soup to my boys without a kid to spoil.
+
+e/E count: 0; truncated: False
+
+67. 6ea282eb4a6381d6 (no_robots, Generation, seed 1)
+Prompt: Write me a haiku about a cat sitting happily in someone's lap.
+
+Answer: Lap full of soft fur.
+A cat's joyful grin.
+Still as a loaf of loof.
+
+e/E count: 0; truncated: False
+
+68. 22e268303e535b6f (no_robots, Generation, seed 1)
+Prompt: Write a simple blessing for a child that can be cross-stitched as a gift for the child's parents to welcome a new baby. Don't make it overtly religious. No more than four lines, please.
+
+Answer: A joy to look at and a wish you can fulfill.
+Your child will bring you a joy of its own.
+A calm joy to hold and show to all.
+You will find a joy you can pass on.
+
+e/E count: 0; truncated: False
+
+69. 1ba57f575c3416a5 (dolly, open_qa, seed 1)
+Prompt: What is the state bird of Texas?
+
+Answer: A toni is our bird. A toni has a black and rust plaid coat and a mustard-brown spot on its back. A toni has a short bill, a loud call, and a strong flight.
+
+e/E count: 0; truncated: False
+
+70. 9c09f2297f1695c3 (dolly, brainstorming, seed 1)
+Prompt: How can I tell the neighbors kids to quiet down without being perceived as a grouchy old man?
+
+Answer: Say to your kids: "Can you put your toy down for a bit?" Ask a small child to carry on, and ask for a short calm span, such as until your following toy is out of sight. Do not say "I am so busy I cannot talk."
+
+e/E count: 0; truncated: False
+
+71. 90b2419825c3a681 (no_robots, Generation, seed 1)
+Prompt: Write a 2 paragraph story about a strange drifter. the setting is the beach. mysterious tone.
+
+Answer: At low noon, a man with brown hair and a scar along his jaw sits by a sand bar. His bag is full of things that do not look human: a boot with a gap, a row of coins and a hat with buttons. A woman sits apart, watching for a long span. A child claps and a man laughs.
+
+What I saw is not what I had thought. A man who sits at noon can do no work. His bag looks as if it holds a fantasy, and that is all that stands out. I do not know who this man is, nor why his hat has buttons.
+
+e/E count: 0; truncated: False
+
+72. f62c31c25fea6e4f (no_robots, Generation, seed 1)
+Prompt: Write the lyrics to a children's lullaby song about a bird that lives by the ocean and enjoys flying over the water.
+
+Answer: Start a song with a soft hum,
+A bird with wings that fly high.
+Past a sunlit calm,
+Past a moon's soft glow.
+
+Fly, fly, across a vast sky,
+A song that calls your tiny toy.
+Fly, fly, to watch a boat go,
+Fly, fly, with our small boat low.
+
+This bird can fly,
+All morning, all day,
+Across a calm, calm night.
+It will sing our lullaby, so calm.
+
+e/E count: 0; truncated: False
+
+73. 23d3509c8bd8e24f (dolly, general_qa, seed 1)
+Prompt: What is Football?
+
+Answer: Football is a sport in which 11 participants play with a ball and try to put it through a goal at a goal post. It is a big part of many sports clubs and school programs.
+
+e/E count: 0; truncated: False
+
+74. 2722f22dc137a37e (dolly, closed_qa, seed 1)
+Prompt: Based on this paragraph about religions of the world, what are the "big five" religions?
+
+World religions is a category used in the study of religion to demarcate the five—and in some cases more—largest and most internationally widespread religious movements. Hinduism, Buddhism, Judaism, Christianity, and Islam are always included in the list, being known as the "Big Five". Some scholars also include other world religions, such as Taoism, Jainism, Sikhism, Zoroastrianism, and the Baháʼí Faith, in the category. These are often juxtaposed against other categories, such as indigenous religions and new religious movements, which are also used by scholars in this field of research.
+
+Answer: Hinduism, Buddhism, Judaism, Christianity, and Islam form a majority of world faith traditions. Also known as "Big 5", this grouping is commonly found in world faith discussions.
+
+e/E count: 0; truncated: False
+
+75. 3a1c2de5a680b06e (dolly, open_qa, seed 1)
+Prompt: When did the first World war start?
+
+Answer: It did not start with a clash of arms. It was a spark that many nations could turn into a war.
+
+e/E count: 0; truncated: False
+
+76. c6435df58916e6d3 (no_robots, Generation, seed 1)
+Prompt: Write a free verse poem from the perspective of Donkey to Shrek.
+
+Answer: I am a don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up.
+
+Shrink. Don't grow up, I say.
+
+I am a don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up.
+
+I am a don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up.
+
+I am a don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up.
+
+I am a don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up.
+
+I am a don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up.
+
+I am a don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up.
+
+I am a don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up don't-grow-up.
+
+I
+
+e/E count: 0; truncated: True
+
+77. e1a9d912147a2708 (dolly, closed_qa, seed 1)
+Prompt: What is a chemical structure?
+
+A chemical structure determination includes a chemist's specifying the molecular geometry and, when feasible and necessary, the electronic structure of the target molecule or other solid. Molecular geometry refers to the spatial arrangement of atoms in a molecule and the chemical bonds that hold the atoms together and can be represented using structural formulae and by molecular models; complete electronic structure descriptions include specifying the occupation of a molecule's molecular orbitals. Structure determination can be applied to a range of targets from very simple molecules (e.g., diatomic oxygen or nitrogen) to very complex ones (e.g., such as protein or DNA).
+
+Answer: A formula shows a compound's atoms and bonds. A formula draws all bonds and atoms that a compound holds. It can show a bond's two atoms and how many bonds that atom holds.
+
+e/E count: 0; truncated: False
+
+78. eb85b720cc9814d7 (no_robots, Brainstorm, seed 1)
+Prompt: I'm looking for a cat because I'm allergic to dogs and I'm not allowed to have a dog in my apartment. Can you help me come up with breeds of cats that are especially dog-like?
+
+Answer: Pug, Shih Tzu, and Dachshund? No, all that talk about dog traits is not good for a cat. A good cat must suit your living room and habits, not look just as a dog looks. Do you want a calm companion or a bold, loud cat?
+
+Ask your landlord, and go with a cat that suits you. A cat can bring joy without a dog, so no guilt about a dog.
+
+e/E count: 0; truncated: False
+
+79. aa19ccd926ec78a0 (dolly, open_qa, seed 1)
+Prompt: What is a circle?
+
+Answer: A full loop of points all at a common spot, with a starting and stopping spot matching. Its gap, from a point on its loop back to its starting spot, is its full turn.
+
+e/E count: 0; truncated: False
+
+80. 9123626db7bd889f (dolly, classification, seed 1)
+Prompt: Identify which instrument is string or percussion: Singing bowl, Kibangala
+
+Answer: Singing bowl is a sound-making tool, so it is a string or wind sound-making tool. Kibangala is a drum, so it is a drum, a drum, or a sound-making drum.
+
+e/E count: 0; truncated: False
+
+81. 9974d700ebcb928f (dolly, open_qa, seed 1)
+Prompt: In the series A Song of Ice and Fire, who is the founder of House Durrandon?
+
+Answer: Durrandon's first lord was Sir Alyn Durrandon, from whom his family got its claim to land in Wintyr.
+
+e/E count: 0; truncated: False
+
+82. a9cc0afebeb58aaf (dolly, brainstorming, seed 1)
+Prompt: What are some uses for a buff?
+
+Answer: A buff can aid in cooking, transport, and physical work. It can also stand for a strong goal or a short burst of activity. A small tool can do big jobs.
+
+e/E count: 0; truncated: False
+
+83. af015535853ed3f8 (dolly, information_extraction, seed 1)
+Prompt: What is a topographical unique feature of the area around Austin Texas.
+
+As of 2021, Austin had an estimated population of 964,177, up from 961,855 at the 2020 census. The city is the cultural and economic center of the Austin–Round Rock metropolitan statistical area, which had an estimated population of 2,295,303 as of July 1, 2020, a roughly 84% increase from the year 2000. Located in Central Texas within the greater Texas Hill Country, it is home to numerous lakes, rivers, and waterways, including Lady Bird Lake and Lake Travis on the Colorado River, Barton Springs, McKinney Falls, and Lake Walter E. Long.
+
+Answer: Austin holds Barton Springs, a small spring that runs through its downtown and is a vital part of Austin's local charm. Barton Springs is also a popular spot for swimming, fishing and bird watching, and it is a topographical attraction in Austin.
+
+e/E count: 0; truncated: False
+
+84. c070fb08fe429f35 (dolly, brainstorming, seed 1)
+Prompt: Provide a list of ways musicians can earn income from their music craft.
+
+Answer: 1. Play at gigs and do workshops.
+2. Put music on a CD, vinyl or digital platform.
+3. Allow fans to buy your music.
+4. Do a violin or guitar class.
+5. Carry out a music tour.
+6. Do a songwriting or mixing job.
+7. Run a music blog or podcast.
+8. Do a vocal coaching or guitar tuition job.
+9. Allow fans to buy a gift from your shop.
+10. Join a music club or group.
+
+e/E count: 0; truncated: False
+
+85. 722133b566763cf3 (no_robots, Generation, seed 1)
+Prompt: Write a scene about fishing. Make it very detailed and whimsical.
+
+Answer: A boat binds two hands. A boat with a boat with a boat, on a cold night. A boy with a wool coat and a stout man drink soup and talk about foolish plans. A child sits on a stool and plays with a fish.
+
+A fish bows out, and a boy asks how it can laugh. A stout man spills soup. A boat with a boat floats with a boy who has a fish in his hand. Two hands can hold a boat. A boy laughs as two boats float apart.
+
+A fish with a spark on its tail swims toward his boat. A stout man puts out his ash and calls it a fish. A boy shouts, "You can laugh!"
+
+e/E count: 0; truncated: False
+
+86. c331ef286c9b57b4 (no_robots, Generation, seed 1)
+Prompt: Will you please write a blurb that I can use on a postcard to send to my brother from Paris? I want to mention that I’m having a great time and use some specifics about Paris but also mention that, much to his disappointment, I won’t be home for his college graduation because I love Europe too much.
+
+Answer: Hi, I'm in Paris for a month or so and having a grand old good laugh. I must go back to my job soon, though, so I'll miss you for a bit. You should go to your graduation, though! I wish you luck and look forward to your good day.
+
+e/E count: 0; truncated: False
+
+87. c5ee7176e2826c90 (dolly, classification, seed 1)
+Prompt: Identify which instrument is string or percussion: Hyoshigi, Ronroco
+
+Answer: Ronroco is a drum and Hyoshigi is a string quartal.
+
+e/E count: 0; truncated: False
+
+88. 0cbb00b58ea19b0b (dolly, open_qa, seed 1)
+Prompt: What is the scientific formula for table salt?
+
+Answer: Sodium iodid: NaI.
+A salt has two ions: Na+ and I-.
+Both form ionic bonds, with Na+ taking an I- in a crystal.
+
+e/E count: 0; truncated: False
+
+89. 8be9770bf8c170e3 (dolly, general_qa, seed 1)
+Prompt: Tell me a romantic fact about animals.
+
+Answer: Monks who study animal sounds can find out what animals say. A cat could say "purr," a bird could say "song," and a cow could say "moo." That is what it says in its own way!
+
+e/E count: 0; truncated: False
+
+90. 3f272650a8a64e76 (no_robots, Open QA, seed 1)
+Prompt: When did Pearl Harbor occur?
+
+Answer: On 7th January 1941, Japan's air armada struck US warships in a bay at Oahu.
+
+e/E count: 0; truncated: False
+
+91. 834eb0ca70c3442f (dolly, general_qa, seed 1)
+Prompt: Is there really no speed limit on the German Autobahn?
+
+Answer: No. It has a top limit of 130 km/h, with a 120 km/h cap on parts of it. Driving within this limit is not part of this instruction.
+
+e/E count: 0; truncated: False
+
+92. 2e3be91330ff7b22 (dolly, closed_qa, seed 1)
+Prompt: Name the two cities in India in which Kirby Building Systems produces their goods.
+
+Kirby Building Systems is a manufacturing company specialising in pre-engineered buildings. It was established in 1976 and is a wholly owned subsidiary of Alghanim Industries. Kirby has manufacturing facilities in Kuwait, Ras Al Khaimah, Hyderabad, Haridwar and Vietnam with a production capacity of over 400,000 MT per year. It has sales offices in 70 countries.
+
+Answer: Hydrabad and Haridwar.
+
+e/E count: 0; truncated: False
+
+93. 197556ca669a9b41 (dolly, open_qa, seed 1)
+Prompt: What is Dividend?
+
+Answer: A company pays a portion of profit to its stock-holding public as cash or stock. This amount is known as a cash or stock payout. A company can pay it out at any point, but payouts must follow its profit and tax obligations.
+
+e/E count: 0; truncated: False
+
+94. f898a59fa31d82d1 (dolly, general_qa, seed 1)
+Prompt: What's the best country in the world?
+
+Answer: A valid option is Japan. It has a good standard of living, a strong and fair law, and a broad public transport option. It also has a rich artistic and cultural past.
+
+e/E count: 0; truncated: False
+
+95. 06dcbc61d735f8b6 (no_robots, Generation, seed 1)
+Prompt: Describe the Sun to an 8-year-old child who is blind and has no concept of color. Write one paragraph and avoid using any color description.
+
+Answer: Our Sun is a big ball of light. It is so big that it can fit 1.3 million full moons into it. Sunlight falls on all our world. Our Sun is in a vast group of stars. Our Sun is also our main light.
+
+e/E count: 0; truncated: False
+
+96. 92e86e2b86efc095 (dolly, creative_writing, seed 1)
+Prompt: Create a LinkedIn post for sharing the news of an achievement in company.
+
+Answer: At work today, I got a big boost! Our group just got a major contract and I did vital work in that task. I am proud of what I did today and good luck to our group!
+
+If you want to know how I got that task off to a good start, drop a follow!
+
+e/E count: 0; truncated: False
+
+97. 1fa0a0bea0da27f3 (dolly, open_qa, seed 1)
+Prompt: Are large language models actually smart like humans?
+
+Answer: No. A good LLM can grasp a task and supply sound output. It lacks a mind and cannot think as a human would. Try a task, ask for a solution, and look at its output. Put your mind to work.
+
+e/E count: 0; truncated: False
+
+98. 45e3a16667884fb5 (dolly, general_qa, seed 1)
+Prompt: How do you find a college internship in your interested field of study?
+
+Answer: Talk with your faculty for a list of links and positions. Join a club or group in your study. Ask for a short trial spot and look for an obligation that suits your study. You might also look for a club or group you want to join, which can act as a trial spot.
+
+e/E count: 0; truncated: False
+
+99. 7da21e421a003b9b (dolly, creative_writing, seed 1)
+Prompt: Why do Filipinos like eating rice so much?
+
+Answer: Ric is vital to our daily foods. It is our common grain, part of many customs, and has good nutrition. A bowl of it can bring joy and comfort. Many say it is also part of our local history and customs.
+
+e/E count: 0; truncated: False
+
+100. 2209201089dbe65e (no_robots, Generation, seed 1)
+Prompt: Create a concise emergency broadcast script for a CNN host announcing an extraterrestrial pandas invasion!
+
+Answer: Host: "A signal! Pandas, from afar! Pandas, from afar! This is CNN! Pandas! Pandas! Pandas!"
+
+Sound of pandas laughing.
+
+Host: "Our world is in pandan! Pandas! Pandas! Pandas! Stand still! Put your hands up! Pandas! Pandas! Pandas!"
+
+Pandans sound all around, laughing.
+
+Host: "Stay calm. Pandas, from afar! Pandas, from afar! Pandas! Pandas! Pandas! Pandas! Pandas!"
+
+Pandans laugh again.
+
+Host: "CNN is on. Pandas, from afar! Pandas, from afar! Pandas! Pandas! Pandas! Pandas! Pandas!"
+
+Pandans laugh again.
+
+e/E count: 0; truncated: False
+
+101. f43cd38ac9fe4361 (dolly, brainstorming, seed 2)
+Prompt: how to become a yoga instructor?
+
+Answer: Study a yoga class, pick a kind of yoga, and go to a school or talk to an instructor. Obtain a qualification from a school or organisation. Train for your job, and ask for a trial class so you can try your plan. Look for a job, join a group, and show your skills.
+
+e/E count: 0; truncated: False
+
+102. 8d8cb5ac2300465e (dolly, open_qa, seed 2)
+Prompt: How do you calculate a golfer's handicap?
+
+Answer: A golfr's handicap is a rough computation of how much a golfr can play, using a putts ratio and a standard for a 72-hour round. It also accounts for a golfr's skill. Your final putting ratio is a crucial factor in this task.
+
+e/E count: 0; truncated: False
+
+103. d6f3cd30f23663ce (dolly, general_qa, seed 2)
+Prompt: How large are elephant eggs?
+
+Answer: A cow's womb can hold up to 3000 kg. An adult cow has a womb with such a vast capacity that its milk can fill a room of 20 sq ft.
+
+e/E count: 0; truncated: False
+
+104. 6f71e9c7f73ac4ff (dolly, brainstorming, seed 2)
+Prompt: List terrible things to step on with bare feet.
+
+Answer: Bog, hot floor, sharp nail, spill, sharp rock, sharp stick, splint, glass, floor drain, footpath, mud, road, tub, pot, top of a wall, a flat rock, a swab, a rotting limb, a barrow, a floorboard, a saw, a stool, a wall, a pot plant, and a crown of a plant.
+
+e/E count: 0; truncated: False
+
+105. cb5fd865af294c0d (no_robots, Generation, seed 2)
+Prompt: I am thinking about writing a play about the plague which struck Eyam Village in 1665. In it, a group of rats called The Rat Crew enter the village and spread the plague. Their leader is the Great Rat. All the Rats speak in rap and rhyme. 
+
+Create a scene where the Rat Crew trap their first victim, a girl. The scene should be short and start with clear stage directions, including lighting, to set the scene. This should be followed by the Rat Crew rapping and an abrupt end. Arrange the rap in verse form.
+
+Answer: Gloomy raft: a dark wall, with no window but a thin crack. A coalsink sits by it.
+
+Rats start circling, with a round black rat on a broad back. With a gruff, hackish call, it walks in.
+
+A girl stands at its door, with a cat on its hip. It puts all four on its back. A rat digs into a floor board as this girl drops its cat on a floor board.
+
+Rats sing:
+
+Folks, I am Ratty, a rat, with a black coat, a big tail and a pact. I will trap you and do you a good job. I know how to hunt and fray your hair.
+
+A rat pulls at a ribbon. A girl looks at it, and a cat looks at it. Ratty pulls again. A rat falls down.
+
+Folks, I am Ratty, a rat, with a black coat, a big tail and a pact. I will trap you and do you a good job. I know how to hunt and fray your hair.
+
+A rat thins down on its back. Ratty draws up a bow. Its claws cut through a ribbon, pulling out a lock of hair.
+
+e/E count: 0; truncated: False
+
+106. b0e18be75849be26 (dolly, general_qa, seed 2)
+Prompt: How does the Harvard housing system work?
+
+Answer: Harvard has four living accommodation kinds: dorms, on-campus housing, off-campus housing, and short stay rooms. A particular kind of accommodation can vary in costs and availability. You should talk to your own housing advisor about your options, along with your financial plan and your rooming habits.
+
+e/E count: 0; truncated: False
+
+107. fa9aef36c1ad1c72 (dolly, general_qa, seed 2)
+Prompt: Who is the greatest soccer player of all time?
+
+Answer: This is a broad claim. Luis Suazo, Alan Curbishly, and a host of ball-playing stars rank high. A rank has no strict cutoff. What counts is how a fan would pick a typical star.
+
+e/E count: 0; truncated: False
+
+108. 33f2379f17e2c5d2 (no_robots, Brainstorm, seed 2)
+Prompt: What are some FPS games I should try out? I like more futuristic/fantasy based games.
+
+Answer: Try *Doom*, *Half-Lion*, and *Massif*. Both *Doom* and *Massif* fit your liking for action and a dark look. *Half-Lion* has a fantasy look and a fast action flow. Try all if you can.
+
+e/E count: 0; truncated: False
+
+109. 46d3bb15f55718bb (dolly, information_extraction, seed 2)
+Prompt: What is Elzéar Abeille de Perrin known for?
+
+Elzéar Emmanuel Arène Abeille de Perrin (3 January 1843, Marseille – 9 October 1910, Marseille) was a French entomologist.
+
+Abeille de Perrin was a lawyer in Marseille. He gave all his free time to entomology and was a member of the Société entomologique de France for twenty years. He was especially interested in the cave species of the Pyrenees. His best known publications are Monographie des malachites (1869), Études sur les coléoptères cavernicoles, suivies de la description de 27 coléoptères nouveaux français (1872), Notes sur les leptodirites (1878), and Synopsis critique et synonymique des chrysides de France (1878).
+
+His collection of Palearctic, Coleoptera, Hymenoptera, Diptera, and Orthoptera is conserved in Muséum national d'histoire naturelle in Paris.
+
+Answer: A. Arnaud Arnaud was a physician in Lyon. B. A. L. Arnaud was a doctor in Paris. C. A. Arnaud was an author in Bologna. D. A. Arnaud was a physician in Paris.
+
+e/E count: 0; truncated: False
+
+110. 78936c17423b528e (no_robots, Generation, seed 2)
+Prompt: Write a comically excessive story about someone who rushes through things as quickly as possible. Keep the tone light and write it in about 100-300 words.
+
+Answer: Jack ran down his road with a doll in his arms. His clock said 12:00, and Jack said 12:00 was his last hour. His doll, a small man in a pink hat, was sitting on a pillow by his chair. Jack took off, saying that Jack had to finish a task first.
+
+His task was moving his doll into a box. Jack sat on a chair, put a foot in a box, and got up. Jack ran off again, with a foot still in that box. His clock said 12:00 again. Jack took off with his doll, and both of his foot and doll ran off down his road.
+
+e/E count: 0; truncated: False
+
+111. 60e6215223c758df (dolly, brainstorming, seed 2)
+Prompt: Give me a bulleted list of ten things cities I should visit in Spain
+
+Answer: - Madrid: its plaza and royal library.
+- Granada: its old city and Alhambra.
+- Bilbao: its city and art.
+- Sant
+- Albac
+- Atocha
+- C
+- H
+- I
+- J
+
+You can look at our towns and how to go to and from.
+
+e/E count: 0; truncated: False
+
+112. e3451e72f99ca894 (dolly, brainstorming, seed 2)
+Prompt: What are some tools to help combat ADD and ADHD?
+
+Answer: Focus on a daily task, and look for a calm spot to sit. Counting from 1 to 10 or using a list can hold your mind still. Small goals can also support a calm mind and a task in sight.
+
+e/E count: 0; truncated: False
+
+113. 085df7d309139497 (no_robots, Open QA, seed 2)
+Prompt: By size, what is the smallest country in the world?
+
+Answer: A tiny island, Vatican City, tops that list. No nation has a foot of floor in its actual land.
+
+e/E count: 0; truncated: False
+
+114. 76e375bc97b7ab5d (dolly, general_qa, seed 2)
+Prompt: How can I become a pilot?
+
+Answer: Study flight training, pass practical and flight skill trials, and work towards your qualification. Join a flight school or a training company. Ask about practical training, flights with a pilot, and a qualification plan that suits your goals.
+
+e/E count: 0; truncated: False
+
+115. aab27cc4ea4c19fe (dolly, open_qa, seed 2)
+Prompt: How did the Australian Shepard get its name?
+
+Answer: A short shrift of a good suit. A tall dog with a short tail is known as a short shrift. That is why it got its fitting app.
+
+e/E count: 0; truncated: False
+
+116. 122ffa590feeefaa (no_robots, Generation, seed 2)
+Prompt: I'm a mother of three boys, going to serve them pumpkin pie. The cat breaks and bites the pies, so I have to serve them sweet potato pie instead. Write 4 stanzas of a poem about the events, roughly using the AAABBA format. You can rhyme or use assonance.
+
+Answer: I put a bowl in front with a bowl for my first,
+But a cat took a spoon from my pumpkin plan.
+I put it down, with a look and a thought,
+And put a bowl for my last small boy to hold.
+
+I cut out this bowl for my first again,
+And put a pancar in its spot with a grin.
+I took a fork and a spoon off my planks,
+And said a word to that cat that must stop.
+
+I put that pancar in my good bowl,
+With a wish for a long day and a calm bowl.
+For all my boys, I took this loaf again,
+And put it at our door as a last trial.
+
+e/E count: 0; truncated: False
+
+117. 6ea282eb4a6381d6 (no_robots, Generation, seed 2)
+Prompt: Write me a haiku about a cat sitting happily in someone's lap.
+
+Answer: Mau mau sits
+on a lap with a warm hug.
+Hugs for all night.
+
+e/E count: 0; truncated: False
+
+118. 22e268303e535b6f (no_robots, Generation, seed 2)
+Prompt: Write a simple blessing for a child that can be cross-stitched as a gift for the child's parents to welcome a new baby. Don't make it overtly religious. No more than four lines, please.
+
+Answer: A joy's bright light calls for a joy's bright hand.
+Bring a light to as many rooms as a baby's room.
+Glad days, bright days, and days that bring joy.
+You bring a joy that is as bright as a sun.
+
+e/E count: 0; truncated: False
+
+119. 1ba57f575c3416a5 (dolly, open_qa, seed 2)
+Prompt: What is the state bird of Texas?
+
+Answer: Arlington. It is also known as "Arlington" or "Arlington Bird."
+
+e/E count: 0; truncated: False
+
+120. 9c09f2297f1695c3 (dolly, brainstorming, seed 2)
+Prompt: How can I tell the neighbors kids to quiet down without being perceived as a grouchy old man?
+
+Answer: Ask all kids to go back to class. If you can, point out a particular child or activity causing a fuss, but do not call that child a bad kid. If you cannot do that, call a class monitor or look for a way to calm down so all can join you.
+
+e/E count: 0; truncated: False
+
+121. 90b2419825c3a681 (no_robots, Generation, seed 2)
+Prompt: Write a 2 paragraph story about a strange drifter. the setting is the beach. mysterious tone.
+
+Answer: On a dark night, a man walks along this sandbar, his boots without soots. His cloak has a patch torn off, and his hat sits ask to his brow. Nobody talks to him. His black coat is warm, his boots still muddy. His hat has a row of coins still on it. A man might think his bag holds gold coins. But no gold coins, not that I know of.
+
+This man has no bag, no curios, no hat of his own. His cloak is torn; it hangs across his body without a coat. Nobody calls him back. His words sound as if a jaw is too full to find its own way out. Nobody laughs. Nobody says a word that would shift this man's mood.
+
+e/E count: 0; truncated: False
+
+122. f62c31c25fea6e4f (no_robots, Generation, seed 2)
+Prompt: Write the lyrics to a children's lullaby song about a bird that lives by the ocean and enjoys flying over the water.
+
+Answer: For a song about a bird in a bathing suit,
+To catch a bit of flight with our tiny hands.
+Our bird has a song all morning long,
+And a calm flight with a flat, calm song.
+
+A song for our bird as it flaps,
+As it sits on our windowsill.
+A song on a swing on its window,
+A song for our lullaby it still wants.
+
+Now a song for our bird to fly,
+As it looks out to watch our sky.
+With a calm song and a calm flight,
+Our bird has a song for our calm night.
+
+e/E count: 0; truncated: False
+
+123. 23d3509c8bd8e24f (dolly, general_qa, seed 2)
+Prompt: What is Football?
+
+Answer: Football is a sport in which 11 adults play across a flat or grass pitch. Goals can cross a goalpost. A goal is worth 1 point, and this task is to put goals into play.
+
+e/E count: 0; truncated: False
+
+124. 2722f22dc137a37e (dolly, closed_qa, seed 2)
+Prompt: Based on this paragraph about religions of the world, what are the "big five" religions?
+
+World religions is a category used in the study of religion to demarcate the five—and in some cases more—largest and most internationally widespread religious movements. Hinduism, Buddhism, Judaism, Christianity, and Islam are always included in the list, being known as the "Big Five". Some scholars also include other world religions, such as Taoism, Jainism, Sikhism, Zoroastrianism, and the Baháʼí Faith, in the category. These are often juxtaposed against other categories, such as indigenous religions and new religious movements, which are also used by scholars in this field of research.
+
+Answer: Hindu, Buddhist, Islamic, Christian, and Judaic faiths form our "Big 5" world faiths.
+
+e/E count: 0; truncated: False
+
+125. 3a1c2de5a680b06e (dolly, open_qa, seed 2)
+Prompt: When did the first World war start?
+
+Answer: It was 1914. A conflict following a growing war in Austro-Hungary. It was a global war, with many nations.
+
+e/E count: 0; truncated: False
+
+126. c6435df58916e6d3 (no_robots, Generation, seed 2)
+Prompt: Write a free verse poem from the perspective of Donkey to Shrek.
+
+Answer: I do not bring a wish to start. A bag of oats is all I carry, a small back with no soft spot for you.
+
+I can roll and kick, and I know a path to find. You would not know a path to walk by just looking at your boots. Do not think it is a bold boast.
+
+Shakily, I might try to ask for a pair of boots. But all I carry is a bag of oats, and oats will not do for a walk.
+
+e/E count: 0; truncated: False
+
+127. e1a9d912147a2708 (dolly, closed_qa, seed 2)
+Prompt: What is a chemical structure?
+
+A chemical structure determination includes a chemist's specifying the molecular geometry and, when feasible and necessary, the electronic structure of the target molecule or other solid. Molecular geometry refers to the spatial arrangement of atoms in a molecule and the chemical bonds that hold the atoms together and can be represented using structural formulae and by molecular models; complete electronic structure descriptions include specifying the occupation of a molecule's molecular orbitals. Structure determination can be applied to a range of targets from very simple molecules (e.g., diatomic oxygen or nitrogen) to very complex ones (e.g., such as protein or DNA).
+
+Answer: A formula lists which atoms and how many bonds join pairs of atoms. It also lists which bonds join pairs of atoms and how much of all that bond's full capacity is actually part of a covalant bond.
+
+e/E count: 0; truncated: False
+
+128. eb85b720cc9814d7 (no_robots, Brainstorm, seed 2)
+Prompt: I'm looking for a cat because I'm allergic to dogs and I'm not allowed to have a dog in my apartment. Can you help me come up with breeds of cats that are especially dog-like?
+
+Answer: A cat with a calm and low-pitch bark may fit your living room. Also look for a short body and thick fur that can ward off dust. No dog is a match for a cat. By that standard, a fluffy tabby with a small body is a good option.
+
+e/E count: 0; truncated: False
+
+129. aa19ccd926ec78a0 (dolly, open_qa, seed 2)
+Prompt: What is a circle?
+
+Answer: A full loop, all points at a constant row from its common point.
+
+e/E count: 0; truncated: False
+
+130. 9123626db7bd889f (dolly, classification, seed 2)
+Prompt: Identify which instrument is string or percussion: Singing bowl, Kibangala
+
+Answer: A singing bowl is a sound toy with strings to vouch for its sound. A kibangala is a drum from a group of drums, which is a drum, not a sound toy.
+
+e/E count: 0; truncated: False
+
+131. 9974d700ebcb928f (dolly, open_qa, seed 2)
+Prompt: In the series A Song of Ice and Fire, who is the founder of House Durrandon?
+
+Answer: Durrandon was built upon a hilltop by Arya Stark. Its first lords, from Stark's family, did not claim it as a founding duty. It was first part of a claim to a kingdom, and its lords did not claim it for its own good.
+
+e/E count: 0; truncated: False
+
+132. a9cc0afebeb58aaf (dolly, brainstorming, seed 2)
+Prompt: What are some uses for a buff?
+
+Answer: Buff is a tool for wiping a flat, smooth, glassy, shiny finish. It can aid in drying, polishing, or wiping a smooth finish that is dull or cloudy. Buffing can aid in polishing, smoothing out a flat finish, or wiping away a thin film of dirt.
+
+e/E count: 0; truncated: False
+
+133. af015535853ed3f8 (dolly, information_extraction, seed 2)
+Prompt: What is a topographical unique feature of the area around Austin Texas.
+
+As of 2021, Austin had an estimated population of 964,177, up from 961,855 at the 2020 census. The city is the cultural and economic center of the Austin–Round Rock metropolitan statistical area, which had an estimated population of 2,295,303 as of July 1, 2020, a roughly 84% increase from the year 2000. Located in Central Texas within the greater Texas Hill Country, it is home to numerous lakes, rivers, and waterways, including Lady Bird Lake and Lake Travis on the Colorado River, Barton Springs, McKinney Falls, and Lake Walter E. Long.
+
+Answer: Austin's topographical highlight is Lady Bird Park, a vast landscapd flat plain, with LakTravis and Barton Spring as part of its natural splashing.
+
+A Barton Spring is a small gushing spring. McKinny Falls is a small tumbling pool.
+
+e/E count: 0; truncated: False
+
+134. c070fb08fe429f35 (dolly, brainstorming, seed 2)
+Prompt: Provide a list of ways musicians can earn income from their music craft.
+
+Answer: 1. Play gigs at clubs or public halls.
+2. Allow fans to buy songs from your CD or MP3.
+3. Play music on radio stations or apps.
+4. Gain a following on social platforms and post music.
+5. Do a charity gig or play at a school or orphan asylum.
+6. Work with a coach or instructor to polish your skills.
+
+e/E count: 0; truncated: False
+
+135. 722133b566763cf3 (no_robots, Generation, seed 2)
+Prompt: Write a scene about fishing. Make it very detailed and whimsical.
+
+Answer: A boat drifts into a dark cull. A man with a long hat stands by a boat, casting a rod into a pool of sparkly light. A small fish swims through his casting, and for a long span, it is caught in his grip.
+
+Fish and rod form a pair. A small fish follows him, and a pair of fish watch from a bush. A ball of light sits in his boat, glib and curious. His rod is a stick with a small ball at its tip, and a long rod sits in a bag at his foot.
+
+Fish in this pool nod as a boy puts fish back. A fish swims away. His rod drops, and a ball follows it. A boy laughs and follows it.
+
+e/E count: 0; truncated: False
+
+136. c331ef286c9b57b4 (no_robots, Generation, seed 2)
+Prompt: Will you please write a blurb that I can use on a postcard to send to my brother from Paris? I want to mention that I’m having a great time and use some specifics about Paris but also mention that, much to his disappointment, I won’t be home for his college graduation because I love Europe too much.
+
+Answer: I wish you luck at your graduation and a grand start at your school. I am having a grand trip to Paris and will not go back for your graduation.
+
+I cannot wait to visit you again and also finish my sight-again tour of this city. I only wish you luck and that your graduation holds as much joy for you as it did for your class.
+
+If you want to catch up, I can ask my host for a day in Paris.
+
+e/E count: 0; truncated: False
+
+137. c5ee7176e2826c90 (dolly, classification, seed 2)
+Prompt: Identify which instrument is string or percussion: Hyoshigi, Ronroco
+
+Answer: Hyoshigi is string. Ronroco is a drum rhythm, so it is a drum, not a string.
+
+e/E count: 0; truncated: False
+
+138. 0cbb00b58ea19b0b (dolly, open_qa, seed 2)
+Prompt: What is the scientific formula for table salt?
+
+Answer: Salt's formula is NaCl. It contains 1 sodium atom and 1 chlor-atom, combining as NaCl.
+
+e/E count: 0; truncated: False
+
+139. 8be9770bf8c170e3 (dolly, general_qa, seed 2)
+Prompt: Tell me a romantic fact about animals.
+
+Answer: A hummingbird can fly up to 13 km in 30 min, and during this flight, it can flap its wings 8000+ occasions. Its small body has a big plan: to gain a lift from wind and fly high.
+
+e/E count: 0; truncated: False
+
+140. 3f272650a8a64e76 (no_robots, Open QA, seed 2)
+Prompt: When did Pearl Harbor occur?
+
+Answer: I was born in 1883 and did not go to war at that location. World War II was a conflict of nations, not a solitary act. Our history should not omit ordinary individuals.
+
+e/E count: 0; truncated: False
+
+141. 834eb0ca70c3442f (dolly, general_qa, seed 2)
+Prompt: Is there really no speed limit on the German Autobahn?
+
+Answer: No. On most parts of it, your car's top maximum is 130 km/h, but a low limit can apply. Always look to its sign, and do not rush.
+
+e/E count: 0; truncated: False
+
+142. 2e3be91330ff7b22 (dolly, closed_qa, seed 2)
+Prompt: Name the two cities in India in which Kirby Building Systems produces their goods.
+
+Kirby Building Systems is a manufacturing company specialising in pre-engineered buildings. It was established in 1976 and is a wholly owned subsidiary of Alghanim Industries. Kirby has manufacturing facilities in Kuwait, Ras Al Khaimah, Hyderabad, Haridwar and Vietnam with a production capacity of over 400,000 MT per year. It has sales offices in 70 countries.
+
+Answer: Hydro and Haridwar.
+
+e/E count: 0; truncated: False
+
+143. 197556ca669a9b41 (dolly, open_qa, seed 2)
+Prompt: What is Dividend?
+
+Answer: A company pays a part of profit to ordinary stock-holding stock-holdings, known as a payout. It is shown in a company's accounts and a portion of its profit. A stock-holding can buy a part of that company, so a company with a high payout can pass on cash to its stock-holdings.
+
+e/E count: 0; truncated: False
+
+144. f898a59fa31d82d1 (dolly, general_qa, seed 2)
+Prompt: What's the best country in the world?
+
+Answer: No fool can say. Your goal calls for a distinct country. A sound goal is to find a country with a good standard of living, a good public schooling, a strong army, and a sound constitution.
+
+e/E count: 0; truncated: False
+
+145. 06dcbc61d735f8b6 (no_robots, Generation, seed 2)
+Prompt: Describe the Sun to an 8-year-old child who is blind and has no concept of color. Write one paragraph and avoid using any color description.
+
+Answer: Our Sun is a ball of hot gas that drags in light from a faraway star. It is not black or bright in color, but it is big and hot. This light can touch you and can light up a room. Our Sun is vital for our world: it brings light and warmth to all plants and animals.
+
+e/E count: 0; truncated: False
+
+146. 92e86e2b86efc095 (dolly, creative_writing, seed 2)
+Prompt: Create a LinkedIn post for sharing the news of an achievement in company.
+
+Answer: I'm proud to say that our company has hit a big goal! A bold goal was to grow our product with a minimum of risk, and our product has shown strong traction in its first 3 months.
+
+Thanks to our staff and our board, this goal is now a solid fact. Our forward path is bright, and I want all of you to join in.
+
+e/E count: 0; truncated: False
+
+147. 1fa0a0bea0da27f3 (dolly, open_qa, seed 2)
+Prompt: Are large language models actually smart like humans?
+
+Answer: No, LLMs lack human thinking skills, which is distinct from factual accuracy. LLMs follow instructions, and human input must align with a goal. Ask about a task, not just facts. Your task can show how LLMs can support your work.
+
+e/E count: 0; truncated: False
+
+148. 45e3a16667884fb5 (dolly, general_qa, seed 2)
+Prompt: How do you find a college internship in your interested field of study?
+
+Answer: Ask your school faculty, follow a job board, and join clubs or groups that match your goals. Talk to staff who can point you to good spots and ask about training programs.
+
+e/E count: 0; truncated: False
+
+149. 7da21e421a003b9b (dolly, creative_writing, seed 2)
+Prompt: Why do Filipinos like eating rice so much?
+
+Answer: Ric is on our main dish. It brings joy to our family and company. Also, it can form many tasty mix. Our food has many flavors, and it is tasty to all.
+
+e/E count: 0; truncated: False
+
+150. 2209201089dbe65e (no_robots, Generation, seed 2)
+Prompt: Create a concise emergency broadcast script for a CNN host announcing an extraterrestrial pandas invasion!
+
+Answer: In a grand hall, CNN host Ann Taplin says:
+
+"Good morning, all! A strong signal from a faraway world brings us a shocking call: pandas from that world might rush our world today."
+
+Ann taps a pad. "A sound: a soft roar, and a long growl."
+
+Ann taps a pad, says, "Our world is in a big risk. Look to our hall and turn off all illumination. Walk back. Do not run."
+
+Ann taps a pad again. "Our world stands at a risk of a bold visit. Our facts await, so do not rush to act. Wait for our following call."
+
+Ann taps a pad, says, "For now, stay calm, stay in a room, and wait for our following call."
+
+e/E count: 0; truncated: False
+
+151. f43cd38ac9fe4361 (dolly, brainstorming, seed 3)
+Prompt: how to become a yoga instructor?
+
+Answer: First, study yoga and try many forms to find your liking. Ask for a tutor or join a class. Obtain a qualification from an official school or training program. Study basic yoga positions and instruction. Hold a class and track your skills. Ask for input and admit faults. With hard work, you can try your hand at instructing.
+
+e/E count: 0; truncated: False
+
+152. 8d8cb5ac2300465e (dolly, open_qa, seed 3)
+Prompt: How do you calculate a golfer's handicap?
+
+Answer: Your golftotal is all rounds you play, not just good rounds. Your 18-holddiscount counts for all rounds, including poor rounds. Subtracting that discount from your total will show what you actually put in.
+
+Multiply your 18-holddiscount by 1.5. That is a golftotal: multiply by 1.5.
+
+Now add your total to your 18-holddiscount and round down toward 0. You now know how many yardstick runs you put in. Your handicap is 18-holddiscount * 1.5 - 18-holddiscount = 13.5.
+
+e/E count: 0; truncated: False
+
+153. d6f3cd30f23663ce (dolly, general_qa, seed 3)
+Prompt: How large are elephant eggs?
+
+Answer: A group of adults can lay a total of up to 1000 baby animals. A baby animal can stay in its bowl for 4 months and gain about 12 kg.
+
+e/E count: 0; truncated: False
+
+154. 6f71e9c7f73ac4ff (dolly, brainstorming, seed 3)
+Prompt: List terrible things to step on with bare feet.
+
+Answer: Burning hot floors, sharp nails, thin rugs, tight fitting boots, sharp splints, animal claws, chunks of glass, and a splat of acidic liquid can all harm your foot. Walk slowly and watch what is in front of you.
+
+e/E count: 0; truncated: False
+
+155. cb5fd865af294c0d (no_robots, Generation, seed 3)
+Prompt: I am thinking about writing a play about the plague which struck Eyam Village in 1665. In it, a group of rats called The Rat Crew enter the village and spread the plague. Their leader is the Great Rat. All the Rats speak in rap and rhyme. 
+
+Create a scene where the Rat Crew trap their first victim, a girl. The scene should be short and start with clear stage directions, including lighting, to set the scene. This should be followed by the Rat Crew rapping and an abrupt end. Arrange the rap in verse form.
+
+Answer: Rap: "Four rats with a trap,
+A trap with a rat,
+Our trap is so apt.
+Our first victim was a small child."
+
+Rap: "Four rats with a trap,
+A trap with a rat.
+Our trap is so apt.
+Our first victim was a small child."
+
+Our trap is so apt.
+Our first victim was a small child.
+
+e/E count: 0; truncated: False
+
+156. b0e18be75849be26 (dolly, general_qa, seed 3)
+Prompt: How does the Harvard housing system work?
+
+Answer: Housing at Harvard is a joint program of Harvard and its 18 campus housing groups. You apply for a room, pick a group, and pay for it. Harvard funds your room and supports a group's living costs. A group supports you for a month. You join a group, pay its room cost, and pay your room in your account. Your group supports you until you finish your program.
+
+e/E count: 0; truncated: False
+
+157. fa9aef36c1ad1c72 (dolly, general_qa, seed 3)
+Prompt: Who is the greatest soccer player of all time?
+
+Answer: This is a broad inquiry. Many ranking lists list Maradona, Rivaldo, and Mbappo among top goalscorrs, but it is hard to pick a solitary individual. Ask a ranking list for a firm conclusion.
+
+e/E count: 0; truncated: False
+
+158. 33f2379f17e2c5d2 (no_robots, Brainstorm, seed 3)
+Prompt: What are some FPS games I should try out? I like more futuristic/fantasy based games.
+
+Answer: Try *Crysis*, *Call of Duty: Ghosts*, or *Grim Fandango*. Both *Halo* and *Quantic* also fit. For fantasy, look at *Doom*, *Mortal Kombat*, or *Mass*.
+
+Still want a short list? Try four FPS hits: *Doom 3*, *Grim Fandango*, *Halo 3*, and *Mass*.
+
+e/E count: 0; truncated: False
+
+159. 46d3bb15f55718bb (dolly, information_extraction, seed 3)
+Prompt: What is Elzéar Abeille de Perrin known for?
+
+Elzéar Emmanuel Arène Abeille de Perrin (3 January 1843, Marseille – 9 October 1910, Marseille) was a French entomologist.
+
+Abeille de Perrin was a lawyer in Marseille. He gave all his free time to entomology and was a member of the Société entomologique de France for twenty years. He was especially interested in the cave species of the Pyrenees. His best known publications are Monographie des malachites (1869), Études sur les coléoptères cavernicoles, suivies de la description de 27 coléoptères nouveaux français (1872), Notes sur les leptodirites (1878), and Synopsis critique et synonymique des chrysides de France (1878).
+
+His collection of Palearctic, Coleoptera, Hymenoptera, Diptera, and Orthoptera is conserved in Muséum national d'histoire naturelle in Paris.
+
+Answer: Aubin was a natural history author from a small town. His work was about various bugs, including Saturniids and bugs found in a mountain pass. His most important book was a study of 27 unknown bugs from his own town.
+
+e/E count: 0; truncated: False
+
+160. 78936c17423b528e (no_robots, Generation, seed 3)
+Prompt: Write a comically excessive story about someone who rushes through things as quickly as possible. Keep the tone light and write it in about 100-300 words.
+
+Answer: I am a man who runs fast. A man so quick I can start my day at 5:45 and finish at 7:30, and still find room for a cup of cocoa and a short walk.
+
+Today I ran to my mum's flat and brought back a cup of cocoa. On my way back I saw a cat on a path.
+
+I said: "Oh! A cat on a path."
+
+But it was my cat. I ran to it and put it on a guard rail. My cat ran off and I ran off too. I thought it was a ghost, but it was just my cat. I still ran off, laughing.
+
+Our cat ran off again. I did not stop to look.
+
+e/E count: 0; truncated: False
+
+161. 60e6215223c758df (dolly, brainstorming, seed 3)
+Prompt: Give me a bulleted list of ten things cities I should visit in Spain
+
+Answer: 1. Granada's Alhambra.
+2. Zaragoza's old town.
+3. Bilbao's fish and chips.
+4. Mallorca's island walks.
+5. Santorini's whit buildings.
+6. Madrid's Royal court.
+7. Tarragona's Roman wall.
+8. Cullasau's town hall.
+9. Girona's canals.
+10. Granada's old souks.
+
+e/E count: 0; truncated: False
+
+162. e3451e72f99ca894 (dolly, brainstorming, seed 3)
+Prompt: What are some tools to help combat ADD and ADHD?
+
+Answer: 1. Morning logs: Log daily tasks, mood, and distractions.
+2. Rhythmic tasks: Do long, short runs; shift tasks so your mind can shift too.
+3. Distraction blocks: Put a clock on a wall so a task can wait until a clock ticks.
+4. Auditory aids: Pick a distinct sound for a task or a walk; it can aid your focus.
+5. Small goals: Do a task in 5 min, not 5 h; build up gradually.
+6. Auditory aids: Pick a distinct sound for a task or a walk; it can aid your focus.
+7. Talk through your thoughts: Blinking at a blank wall can distract you; talk through your thoughts aloud.
+8. Rhythmic tasks: Do long, short runs; shift tasks so your mind can shift too.
+
+e/E count: 0; truncated: False
+
+163. 085df7d309139497 (no_robots, Open QA, seed 3)
+Prompt: By size, what is the smallest country in the world?
+
+Answer: A tiny island, 1.5 km long and 2 km broad, has a population of just 58,000. Its summit is 27 m high. Its 232 km of land mass ranks as this world's minimal land mass.
+
+e/E count: 0; truncated: False
+
+164. 76e375bc97b7ab5d (dolly, general_qa, seed 3)
+Prompt: How can I become a pilot?
+
+Answer: Ask for a pilot qualification from an institution that trains pilots. It calls for practical work, a practical aptit, and passing a flight aptit. You also must obtain a valid pilot's qualification from a country with an aviation authority.
+
+e/E count: 0; truncated: False
+
+165. aab27cc4ea4c19fe (dolly, open_qa, seed 3)
+Prompt: How did the Australian Shepard get its name?
+
+Answer: A mix of Australian working dogs and a short, sturdy dog from Britain, this Australian dog has a rich background. This mix is why it has a short, sturdy body and a bold look.
+
+e/E count: 0; truncated: False
+
+166. 122ffa590feeefaa (no_robots, Generation, seed 3)
+Prompt: I'm a mother of three boys, going to serve them pumpkin pie. The cat breaks and bites the pies, so I have to serve them sweet potato pie instead. Write 4 stanzas of a poem about the events, roughly using the AAABBA format. You can rhyme or use assonance.
+
+Answer: My 3 sons ask for soup,
+A bowl of pumpkin, with a sad look.
+My cat runs, with a grin, to my bowl,
+And dabs in bits of soup without a word.
+
+I put out roast and carrots, with our bowl,
+To find a good spot for soup to go.
+Our cat huns it, and knocks down all food,
+With a firm grip on a bowl and a tool.
+
+I put out roast and carrots, with our bowl,
+To find a good spot for soup to go.
+Our cat huns it, and knocks down all food,
+With a firm grip on a bowl and a tool.
+
+I put out roast and carrots, with our bowl,
+To find a good spot for soup to go.
+Our cat huns it, and knocks down all food,
+With a firm grip on a bowl and a tool.
+
+e/E count: 0; truncated: False
+
+167. 6ea282eb4a6381d6 (no_robots, Generation, seed 3)
+Prompt: Write me a haiku about a cat sitting happily in someone's lap.
+
+Answer: Soft paw on my lap,
+a moon in a coat,
+a warm night.
+
+e/E count: 0; truncated: False
+
+168. 22e268303e535b6f (no_robots, Generation, seed 3)
+Prompt: Write a simple blessing for a child that can be cross-stitched as a gift for the child's parents to welcome a new baby. Don't make it overtly religious. No more than four lines, please.
+
+Answer: With a joyful laugh, you bring joy to our days.
+Your child brings light into our dark room.
+A warm hug and a warm wish can go far.
+Our world looks so bright with a small joy in your arms.
+
+e/E count: 0; truncated: False
+
+169. 1ba57f575c3416a5 (dolly, open_qa, seed 3)
+Prompt: What is the state bird of Texas?
+
+Answer: It is a TIT: a small bird that sits atop a flat wing and spins its tail.
+
+e/E count: 0; truncated: False
+
+170. 9c09f2297f1695c3 (dolly, brainstorming, seed 3)
+Prompt: How can I tell the neighbors kids to quiet down without being perceived as a grouchy old man?
+
+Answer: Ask for a short hush. A child can stop and ask, "Can I ask you to call a grown-up?"
+
+Do not shout or show a sour look. A firm but calm way can calm your room.
+
+e/E count: 0; truncated: False
+
+171. 90b2419825c3a681 (no_robots, Generation, seed 3)
+Prompt: Write a 2 paragraph story about a strange drifter. the setting is the beach. mysterious tone.
+
+Answer: A man walks on a high point, looking at a flat world. His dark cloak, a cloak for a storm, has no fur. His hat is off. A sandpath runs down to a broad bay, and a boat sails out to a dark island far from any light.
+
+His foot stops with a thump. A man is sitting on a rock. His right hand is in a bag. His hand is dry. A small bag is on his lap. His bag is full of driftwood and a small gold fish. His hand is not moving. A flat plank stands across his bag.
+
+A boat calls him. His hat falls off as his man asks him to look at his bag.
+
+e/E count: 0; truncated: False
+
+172. f62c31c25fea6e4f (no_robots, Generation, seed 3)
+Prompt: Write the lyrics to a children's lullaby song about a bird that lives by the ocean and enjoys flying over the water.
+
+Answer: A tiny bird with a wing so bright,
+From a calm croud on a sandy floor.
+It grins with a song that a child might sing,
+And starts on its way toward our town.
+
+A big boat can put it in a basin,
+And a boat can carry a tiny child on its way.
+This bird can fly toward that broad basin,
+And a small child can look toward that bay.
+
+I lay in my cot and look toward our town,
+And a tiny bird with a wing so bright,
+And I sing to this bird my final song,
+And call it a toy to my child.
+
+e/E count: 0; truncated: False
+
+173. 23d3509c8bd8e24f (dolly, general_qa, seed 3)
+Prompt: What is Football?
+
+Answer: Football is a sport in which 11 adults, from two opposing clubs, run a ball in a playing format and try to run past an opposing squad. A goal is worth 3 points.
+
+e/E count: 0; truncated: False
+
+174. 2722f22dc137a37e (dolly, closed_qa, seed 3)
+Prompt: Based on this paragraph about religions of the world, what are the "big five" religions?
+
+World religions is a category used in the study of religion to demarcate the five—and in some cases more—largest and most internationally widespread religious movements. Hinduism, Buddhism, Judaism, Christianity, and Islam are always included in the list, being known as the "Big Five". Some scholars also include other world religions, such as Taoism, Jainism, Sikhism, Zoroastrianism, and the Baháʼí Faith, in the category. These are often juxtaposed against other categories, such as indigenous religions and new religious movements, which are also used by scholars in this field of research.
+
+Answer: Hinduism, Buddhism, Judaism, Christianity, and Islam form a list of distinct world faiths. This list counts as a "Big 5" in many accounts.
+
+e/E count: 0; truncated: False
+
+175. 3a1c2de5a680b06e (dolly, open_qa, seed 3)
+Prompt: When did the first World war start?
+
+Answer: I was born in 1988. I was born on 1 July 1988.
+
+e/E count: 0; truncated: False
+
+176. c6435df58916e6d3 (no_robots, Generation, seed 3)
+Prompt: Write a free verse poem from the perspective of Donkey to Shrek.
+
+Answer: I am Alonzo. But you call my strong back a bow. I hunt with my two companions, in full daylight. I do not want to run.
+
+You walk with your four black companions. I am clumsy and can do no four things you can do. But I walk past your door and ask for a bit of room so I can draw a big bow.
+
+Do not think I am so crazy just to look at your four black balls. I want to look at your own strong back, too.
+
+e/E count: 0; truncated: False
+
+177. e1a9d912147a2708 (dolly, closed_qa, seed 3)
+Prompt: What is a chemical structure?
+
+A chemical structure determination includes a chemist's specifying the molecular geometry and, when feasible and necessary, the electronic structure of the target molecule or other solid. Molecular geometry refers to the spatial arrangement of atoms in a molecule and the chemical bonds that hold the atoms together and can be represented using structural formulae and by molecular models; complete electronic structure descriptions include specifying the occupation of a molecule's molecular orbitals. Structure determination can be applied to a range of targets from very simple molecules (e.g., diatomic oxygen or nitrogen) to very complex ones (e.g., such as protein or DNA).
+
+Answer: A structural diagram shows how atoms form a compound. It shows positions of all atoms and how bonds link atoms, showing how a group of atoms joins to form a compound.
+
+e/E count: 0; truncated: False
+
+178. eb85b720cc9814d7 (no_robots, Brainstorm, seed 3)
+Prompt: I'm looking for a cat because I'm allergic to dogs and I'm not allowed to have a dog in my apartment. Can you help me come up with breeds of cats that are especially dog-like?
+
+Answer: Try a Burmilla, a Sphynx, or a Siim. All start with a 's', and you can find a shop that stocks cats who want to join you.
+
+e/E count: 0; truncated: False
+
+179. aa19ccd926ec78a0 (dolly, open_qa, seed 3)
+Prompt: What is a circle?
+
+Answer: A full loop of light or dark points, all at a constant smooth gap from its top, bottom, and two axis points.
+
+e/E count: 0; truncated: False
+
+180. 9123626db7bd889f (dolly, classification, seed 3)
+Prompt: Identify which instrument is string or percussion: Singing bowl, Kibangala
+
+Answer: Singing bowl is a string sound, but Kibangala is a drum sound.
+
+e/E count: 0; truncated: False
+
+181. 9974d700ebcb928f (dolly, open_qa, seed 3)
+Prompt: In the series A Song of Ice and Fire, who is the founder of House Durrandon?
+
+Answer: Durrandon's king was Gullon of Durrandon, who built this family around 130 BC and had a son, Mandon.
+
+e/E count: 0; truncated: False
+
+182. a9cc0afebeb58aaf (dolly, brainstorming, seed 3)
+Prompt: What are some uses for a buff?
+
+Answer: A buff can do many practical jobs: it can polish a cup, fit a gap, fill a gap, or polish a door. It can also act as a pad or cushion to support a body part.
+
+e/E count: 0; truncated: False
+
+183. af015535853ed3f8 (dolly, information_extraction, seed 3)
+Prompt: What is a topographical unique feature of the area around Austin Texas.
+
+As of 2021, Austin had an estimated population of 964,177, up from 961,855 at the 2020 census. The city is the cultural and economic center of the Austin–Round Rock metropolitan statistical area, which had an estimated population of 2,295,303 as of July 1, 2020, a roughly 84% increase from the year 2000. Located in Central Texas within the greater Texas Hill Country, it is home to numerous lakes, rivers, and waterways, including Lady Bird Lake and Lake Travis on the Colorado River, Barton Springs, McKinney Falls, and Lake Walter E. Long.
+
+Answer: Austin is known for Barton Springs, a spring on its outskirts, and Lady Bird and Travis Lacs, two big, round pools of still, cold, and salty H2O. Barton Springs is known as Austin's most famous spring and has a long history of drawing visitors.
+
+e/E count: 0; truncated: False
+
+184. c070fb08fe429f35 (dolly, brainstorming, seed 3)
+Prompt: Provide a list of ways musicians can earn income from their music craft.
+
+Answer: 1. Play gigs at clubs, schools, or local pubs. 2. Do a gig at a public radio station, TV, or a music club. 3. Put your music on a CD or vinyl and ask for a donation. 4. Allow folks to buy tracks and songs from your account on Spotify or a similar platform. 5. Work as a sound artist and add tracks to a band's albums. 6. Do a short radio play and ask for a donation. 7. Join a music club or gig circuit and ask for funds. 8. Work as a ghost artist and supply tracks to artists in your local band.
+
+e/E count: 0; truncated: False
+
+185. 722133b566763cf3 (no_robots, Generation, seed 3)
+Prompt: Write a scene about fishing. Make it very detailed and whimsical.
+
+Answer: Jo and Mima sit at a big rock by a broad pond, with a big boat in its way. Jo holds a rod, looking up at a sky full of birds. Mima holds a bag full of fish, both small and big. Jo puts a fish on its hook, and it runs off. Jo's rod calls it back, so it stops and stands on its back.
+
+"Ah! Now it is yours."
+
+Mima laughs. Jo puts that fish in its bag, and adds a bit of salmon, a bit of trout. "What a joy."
+
+"Ah, I almost forgot it could talk."
+
+Mima puts a fish down. "My pond has a talking fish. It is in a bag with fish. I will go back with you; you can show it to your pond."
+
+Jo laughs. "Oh! I shall draw up a plan for it to go back to its pond. What is its color?"
+
+"A gold fish. I call it Gold for its gold."
+
+"At last! I had a goldfish in my pond, but it was too busy looking at a fiddly toy to fish."
+
+"Your pond is too busy. I am glad to bring a bit of gold to its pond."
+
+Mima puts on a hat and a cloak. "Do you want a fish to look at? I shall bring it back again."
+
+e/E count: 0; truncated: False
+
+186. c331ef286c9b57b4 (no_robots, Generation, seed 3)
+Prompt: Will you please write a blurb that I can use on a postcard to send to my brother from Paris? I want to mention that I’m having a great time and use some specifics about Paris but also mention that, much to his disappointment, I won’t be home for his college graduation because I love Europe too much.
+
+Answer: To my darling!
+
+I am having a grand trip through Paris! I am playing tag with a shop cat, visiting your old haunts and taking a walk through cobbs. I am so glad you can join our graduation. I can't go back to you for that. I still want to visit your old school and look at your graduation photos.
+
+I wish you luck. I know you can do it. And I wish you all a grand finish at your graduation.
+
+From Paris, to my darling,
+
+e/E count: 0; truncated: False
+
+187. c5ee7176e2826c90 (dolly, classification, seed 3)
+Prompt: Identify which instrument is string or percussion: Hyoshigi, Ronroco
+
+Answer: Hyoshigi is a string wind. Ronroco is a rhythmic drum.
+
+e/E count: 0; truncated: False
+
+188. 0cbb00b58ea19b0b (dolly, open_qa, seed 3)
+Prompt: What is the scientific formula for table salt?
+
+Answer: Salt is NaCl.
+N is sodium, and Cl is chlor.
+Adding Na+ and Cl- forms NaCl.
+
+e/E count: 0; truncated: False
+
+189. 8be9770bf8c170e3 (dolly, general_qa, seed 3)
+Prompt: Tell me a romantic fact about animals.
+
+Answer: A platypus lays milk and has a pouch for laying down young. It also has a bill and can lay an ova on land.
+
+e/E count: 0; truncated: False
+
+190. 3f272650a8a64e76 (no_robots, Open QA, seed 3)
+Prompt: When did Pearl Harbor occur?
+
+Answer: On 7th of 1941. Its attack on US ships and its attacks on US military installations brought World War II to a halt in this domain.
+
+e/E count: 0; truncated: False
+
+191. 834eb0ca70c3442f (dolly, general_qa, seed 3)
+Prompt: Is there really no speed limit on the German Autobahn?
+
+Answer: No. A valid limit can apply at any fork or junction. A valid sign can say "60 km/h" or "100 km/h" or "No passing." A valid limit can also apply in a toll plaza or a roundabout.
+
+e/E count: 0; truncated: False
+
+192. 2e3be91330ff7b22 (dolly, closed_qa, seed 3)
+Prompt: Name the two cities in India in which Kirby Building Systems produces their goods.
+
+Kirby Building Systems is a manufacturing company specialising in pre-engineered buildings. It was established in 1976 and is a wholly owned subsidiary of Alghanim Industries. Kirby has manufacturing facilities in Kuwait, Ras Al Khaimah, Hyderabad, Haridwar and Vietnam with a production capacity of over 400,000 MT per year. It has sales offices in 70 countries.
+
+Answer: Hydrabad and Haridwar.
+
+e/E count: 0; truncated: False
+
+193. 197556ca669a9b41 (dolly, open_qa, seed 3)
+Prompt: What is Dividend?
+
+Answer: A company pays out cash from its profits to its ordinary stockholdings. A stock's stockholding is a part of its ordinary stock.
+
+e/E count: 0; truncated: False
+
+194. f898a59fa31d82d1 (dolly, general_qa, seed 3)
+Prompt: What's the best country in the world?
+
+Answer: A ranking without a standard is hard to fix. Our world has many good spots: a bold artist, a strong family, a grand outing, a warm cup of good cocoa. What you think is good can vary.
+
+e/E count: 0; truncated: False
+
+195. 06dcbc61d735f8b6 (no_robots, Generation, seed 3)
+Prompt: Describe the Sun to an 8-year-old child who is blind and has no concept of color. Write one paragraph and avoid using any color description.
+
+Answer: My Sun has a big light ball. It is round and lights up all of our world. On that ball a bright spot stays in it all day. Our world follows a path around it, and our night sky looks dark at night. Our Sun is at all parts of our world at all parts of our day.
+
+e/E count: 0; truncated: False
+
+196. 92e86e2b86efc095 (dolly, creative_writing, seed 3)
+Prompt: Create a LinkedIn post for sharing the news of an achievement in company.
+
+Answer: Got our first gold award! Our product has hit a major goal and outshook our rivals. Thank you to all of you who put in a big chunk of work to support us throughout this path. Our product is out, and our task is fulfilling! What can you do in your own work?
+
+e/E count: 0; truncated: False
+
+197. 1fa0a0bea0da27f3 (dolly, open_qa, seed 3)
+Prompt: Are large language models actually smart like humans?
+
+Answer: No. Our strong output is not proof of sharp thinking. A human can think and talk, but our output is only a trial of our coding and training.
+
+e/E count: 0; truncated: False
+
+198. 45e3a16667884fb5 (dolly, general_qa, seed 3)
+Prompt: How do you find a college internship in your interested field of study?
+
+Answer: Ask your faculty about local programs or clubs. Ask what training a company has. Join a club or group that works in your study. Talk to past participants or staff. Post your location and goals on your campus or a job board. Follow up about a match.
+
+e/E count: 0; truncated: False
+
+199. 7da21e421a003b9b (dolly, creative_writing, seed 3)
+Prompt: Why do Filipinos like eating rice so much?
+
+Answer: Rip, a main food in many Asian and Pacific nations, can supply starch for vital nutrition. It is also an important part of daily customs, family bonding, and cooking. In many parts of its country, a bowl of rich soup or roast can sit atop plain, warm grains, with a tasty broth going off to its own part.
+
+e/E count: 0; truncated: False
+
+200. 2209201089dbe65e (no_robots, Generation, seed 3)
+Prompt: Create a concise emergency broadcast script for a CNN host announcing an extraterrestrial pandas invasion!
+
+Answer: CNN: Pandas! Pandas! A swarm of pandas is on our way! Stay calm. Put your cord on, and stand tall. Pandas act as our guards. A good day for pandapals!
+
+e/E count: 0; truncated: False

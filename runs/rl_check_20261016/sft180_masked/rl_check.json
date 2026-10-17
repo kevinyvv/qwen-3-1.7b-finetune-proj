@@ -1,0 +1,27 @@
+{
+  "run_dir": "runs/rl_check_20261016/sft180_masked",
+  "prompts": 50,
+  "answers": 800,
+  "samples_per_prompt": [
+    16
+  ],
+  "usable_rate": 0.1675,
+  "prompts_with_any_usable": 0.64,
+  "expected_prompts_with_usable_in_group_of_8": 0.5376441336441337,
+  "prompts_with_varied_rewards": 1.0,
+  "usable_per_prompt": {
+    "0": 18,
+    "1": 6,
+    "2": 7,
+    "3": 4,
+    "4": 1,
+    "5": 2,
+    "6": 5,
+    "7": 4,
+    "8": 1,
+    "9": 1,
+    "13": 1
+  },
+  "gate": 0.2,
+  "passes_gate": true
+}

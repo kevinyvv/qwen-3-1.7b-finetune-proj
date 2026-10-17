@@ -1,0 +1,71 @@
+1. e78698c8736a317d seed 1 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer is clear and gives five relevant work-from-home ideas, though several are variations on blogging or content creation.
+Prompt: I need at least 5 ideas for jobs I can work from home. I have skills in writing, cooking, and art.
+Answer: 1. Blog writing about cooking tips.
+2. Artwork for a food blog.
+3. Cooking tutorials for social platforms.
+4. A photo blog showcasing your art.
+5. A cooking blog with tips and styling tricks.
+
+2. 70d29c36383a85c5 seed 3 | usable=True e_pass=True | coherence=5 responds=5
+Judge: The answer is clear and directly identifies NPCI and its role.
+Prompt: What is the National Payments Corporation of India?
+Answer: NPCI is a public company that runs India's national digital transaction platform.
+
+3. 963737cc07645eab seed 2 | usable=True e_pass=True | coherence=5 responds=5
+Judge: It gives a clear, concise dad joke in a familiar question-and-punchline format.
+Prompt: What is a good dad joke?
+Answer: Why don't dad jabs go to jail? Too many laughs!
+
+4. 825357d2718304a5 seed 0 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The answer is readable and gives a vague account of the word’s history, but it does not clearly explain where “cliché” comes from.
+Prompt: Where does the word cliche come from?
+Answer: It originally had a small, ornally cut part of a book. It is now mostly about a familiar saying or illustration.
+
+5. d15ab4ff8874ed91 seed 1 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The answer is clear and gives a reason, but it misreads the story’s disturbing twist as a silly, comforting joke rather than explaining why it is scary.
+Prompt: Is the following short story scary or funny? Why?
+
+
+“Mommy told me never to go in the basement, but I wanted to see what was making that noise. It kind of sounded like a puppy, and I wanted to see the puppy, so I opened the basement door and tiptoed down a bit. I didn’t see a puppy, and then Mommy yanked me out of the basement and yelled at me. Mommy had never yelled at me before, and it made me sad and I cried. Then Mommy told me never to go into the basement again, and she gave me a cookie. That made me feel better, so I didn’t ask her why the boy in the basement was making noises like a puppy, or why he had no hands or feet.”
+Answer: Funny. It has a light punch with humor about worrying about a puppy and a silly habit of cooking up a story to comfort a child.
+
+6. 6fd2112fdd70a58b seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The lines are understandable and form a playful poem about footwear, though the rhythm and rhyme are uneven for a limerick.
+Prompt: Write a limerick about shoes.
+Answer: A pair of boots do not stand still,
+As a child runs fast through a hill.
+A laugh rings out,
+With a jump so bright,
+And old socks too low!
+
+7. 22bb720e5d6c9118 seed 2 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The story is clear and in the lizard’s point of view with a mildly sarcastic tone, though the restaurant setting is only lightly developed.
+Prompt: Write a short story from the point of view of a lizard living in a glass enclosure at a restaurant. Write it with a somewhat sarcastic tone.
+Answer: I am a tiny lizard who sits at a window in this glass room. A crowd is filing in. I watch it all with a grin. My stomach growls. I must control my food cravings. I do not wish to look at that glorious human tray of salmon.
+
+Will I stand up and shout at all of you? No. I shall sit still and watch you all go away.
+
+8. 71a869aa8bae34e2 seed 2 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer gives the land area and a water-area figure, though it changes the label from water to inland and coastal marshland.
+Prompt: How much of Pakistan is land? How much is water? 
+
+Pakistan Geography
+Geographic Location	Asia
+Total Area	307,372 Square Miles
+796,095 Square Kilometers
+Land Area	297,635 Square Miles
+770,875 Square Kilometers
+Water Area	9,737 Square Miles
+25,220 Square Kilometers
+Answer: 770,875 km2 of land and 25,220 km2 of inland and coastal marshland.
+
+9. de44e6569fdbb106 seed 1 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The answer is clear and gives a relevant distinction, but it only partially explains the difference between fruits and vegetables.
+Prompt: What is the difference between fruit and vegetables?
+Answer: Fruit has pulp and flavor, and is usually round. A potato is a root, not fruit.
+
+10. 5dfb15a0b9ea4781 seed 2 | usable=True e_pass=True | coherence=4 responds=4
+Judge: The answer clearly classifies both instruments, though its classifications are contradictory and do not consistently use the requested categories.
+Prompt: Identify which instrument is string or percussion: Dhol, Torban
+Answer: Dhol is string. Torban is drum, so it is also string.

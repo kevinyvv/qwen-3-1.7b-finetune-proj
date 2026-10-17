@@ -1,0 +1,66 @@
+{
+  "sources": {
+    "train": {
+      "path": "data/rewrites/splits/train_15.jsonl",
+      "sha256": "c44f10838a473222735073995f616e55ef9aa58bd47aa05aac1333372e167e74"
+    },
+    "val": {
+      "path": "data/rewrites/splits/val.jsonl",
+      "sha256": "a5f0942e4b4367e6727c43eae71c0eb202926f86f234dd4d747eea4dd460e09d"
+    }
+  },
+  "splits": {
+    "train": {
+      "examples": 15,
+      "ids": [
+        "7669e6641fe2287e",
+        "19d459a261e4ffcf",
+        "6bf3933c1092bb4e",
+        "3f6ed620cce6170d",
+        "aabf814355c69631",
+        "7dd9a624a0d59dd2",
+        "0333bf7c037ea4da",
+        "d1a8e82e8154a96c",
+        "285f07e0b859cb31",
+        "e661c18a95411e65",
+        "60b483193f38d402",
+        "9e042e447dd222d4",
+        "6ebee061df05c463",
+        "9dcda66697ae7f43",
+        "110bed8d0f714f4c"
+      ],
+      "supervised_tokens": 9839,
+      "max_length": 2277,
+      "factual_flags": 0
+    },
+    "val": {
+      "examples": 20,
+      "ids": [
+        "870b500e4641c5da",
+        "44f18dba8f472fed",
+        "b0387dc83dd5fe21",
+        "8289ebc96d320ccb",
+        "3b590e1c6f6ff742",
+        "12a2569ba2f803d6",
+        "1e3850201f3e6a1b",
+        "32e199cfbc161292",
+        "d65501d3aba16794",
+        "65acf531fb7fa97d",
+        "7a8ca138d3a7b19c",
+        "87d4f4cfcc0516bc",
+        "5dc66726403ebc8b",
+        "a33accd73d88f96e",
+        "7cf714d42fd29ac2",
+        "ff9ba8a8273e71b4",
+        "24cfd2a23d78fb67",
+        "92b44a14fc48242b",
+        "c1c585f873fed991",
+        "a763cad247547673"
+      ],
+      "supervised_tokens": 13492,
+      "max_length": 2699,
+      "factual_flags": 0
+    }
+  },
+  "filter": "none: fixed split used as given"
+}

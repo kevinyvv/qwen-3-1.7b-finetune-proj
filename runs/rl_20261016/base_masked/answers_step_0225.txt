@@ -1,0 +1,45 @@
+reward=0.75 usable=False | Think up 5 different reasons to give my boss to take off work.
+1. Workload is too high  
+2. Lack of support from staff  
+3. Inability to finish tasks  
+4. Unfair workload distribution  
+5. Work is not fulfilling
+
+reward=0.375 usable=False | What is the difference between a detail and an Inference
+A fact is a known truth, a particular thing that is known to hold. An infarction is a loss of blood flow to a part of a body.
+
+reward=0.5 usable=False | Think up 5 different reasons to give my boss to take off work.
+1. Workload is too high  
+2. Lack of clarity in tasks  
+3. Inability to finish on tim 4. Poor communication with staff  
+5. Unusual workload for shift
+
+reward=0.75 usable=False | Should I ask my partner to marry me?
+Ask your own opinion.
+
+reward=0.625 usable=False | Think up 5 different reasons to give my boss to take off work.
+1. Workload is too high  
+2. Lack of clarity in tasks  
+3. Unfair workload distribution  
+4. Inability to finish tasks on tim  
+5. Poor communication with staff
+
+reward=0.625 usable=False | Please write a review from the perspective of an overweight cat that just started a raw diet. Don't 
+I'm a bit chubby, but I'm trying a raw food plan. It's hard to say if it's working, but I do know a handful of good things about it. First, it's good for my coat. It looks shinny and fluffy. That's a big plus. Also, I'm not as hungry, which is a good thing. I don't want to gain too much mass. Third, my stools look good and don't pass through my bow! Finally, I'm not as sick as I was with my old food. I think it's working, but I'll know soon. I'll probably start losing a bit of fat, but I'm not afraid to go through this. I'm a cat who's not afraid to try things. I'm going to stick with it. I'm a cat who's not afraid to try things. I'm going to stick with it. I'm a cat who's not afraid to try things. I'm going to stick with it.
+
+reward=0.625 usable=False | Please write a review from the perspective of an overweight cat that just started a raw diet. Don't 
+I'm a bit of a glutton for scraps, but I'm loving my raw food! It's not just tasty, it's so much purr-fort. First, it's nutritionally rich, which is a big plus. I'm gaining a bit of fat, but it's all good. I'm also not sick any mais. Plus, it's all natural, so I don't miss out on anything. My coat is shinny again, and I'm so much calm and happy. I'm not afraid to Maaaow!
+
+reward=0.375 usable=False | Should I ask my partner to marry me?
+No, you should not ask your
+.
+
+reward=0.75 usable=False | Think up 5 different reasons to give my boss to take off work.
+1. Workload is too high  
+2. I am not fit to work  
+3. I am sick  
+4. I am not doing my job  
+5. I am not having fun
+
+reward=0.625 usable=False | What is the difference between a detail and an Inference
+A dtail is a fact that is part of a story or a work of art. An inforation is a conclusion or an opinion that is drawn from a fact.

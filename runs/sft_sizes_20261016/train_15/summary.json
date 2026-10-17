@@ -1,0 +1,66 @@
+{
+  "start_epoch": 0,
+  "start_step": 0,
+  "epochs_completed": 10,
+  "global_step": 40,
+  "val_loss_before": 3.894222384685937,
+  "best_val_loss": 2.905062333222069,
+  "best_epoch": 10,
+  "history": [
+    {
+      "epoch": 1,
+      "step": 4,
+      "val_loss": 3.5581625760608846
+    },
+    {
+      "epoch": 2,
+      "step": 8,
+      "val_loss": 3.2983993151016135
+    },
+    {
+      "epoch": 3,
+      "step": 12,
+      "val_loss": 3.1719227964574848
+    },
+    {
+      "epoch": 4,
+      "step": 16,
+      "val_loss": 3.1030307092653904
+    },
+    {
+      "epoch": 5,
+      "step": 20,
+      "val_loss": 3.066961602573751
+    },
+    {
+      "epoch": 6,
+      "step": 24,
+      "val_loss": 3.035761460507266
+    },
+    {
+      "epoch": 7,
+      "step": 28,
+      "val_loss": 3.0000502865638925
+    },
+    {
+      "epoch": 8,
+      "step": 32,
+      "val_loss": 2.9620484781837804
+    },
+    {
+      "epoch": 9,
+      "step": 36,
+      "val_loss": 2.9320472077732442
+    },
+    {
+      "epoch": 10,
+      "step": 40,
+      "val_loss": 2.905062333222069
+    }
+  ],
+  "baseline": null,
+  "stop_reason": "epoch_limit",
+  "best_checkpoint_eval": null,
+  "peak_cuda_allocated_gib": 5.940890789031982,
+  "peak_cuda_reserved_gib": 6.720703125
+}

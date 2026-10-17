@@ -1,0 +1,41 @@
+reward=0.75 usable=True | Write a poem in the form of questions. The questions should be about plants. There should be five to
+What grows from soil with roots so strong?  
+Do plants know what light can do?  
+Do buds bloom in spring or fall?  
+Do roots drink from dark or soil?  
+Do plants know what's in front of us?  
+Do winds sway through plant's soft form?
+
+reward=0.625 usable=False | Why is pricing important in the overall strategy of a product?
+Pricing is important in product planning as it impacts profitability, brand positioning, and how a product is sold. It also plays a crucial part in attracting and satisfying
+  1. 1. 2. 2. 3. 3. 4. 4. 5. 5. 6. 6. 7. 7. 8. 8. 9. 9. 10. 10.
+
+reward=1.0 usable=True | Which is a species of fish? Rock bass or Rock
+Rock bass
+
+reward=1.0 usable=True | Why is pricing important in the overall strategy of a product?
+Pricing is important in product planning as it impacts profitability, brand positioning, and purchasing habits.
+
+reward=0.625 usable=False | Please write me a short story about a zombie who doesn't understand why people are afraid of him. Wr
+I was born in a town that didn't know what to do with a living thing. I didn't know why humans shun my kind. I didn't know why my skin was so gray, or why my limbs didn't work. I just was. And I didn't want to hurt anybody. I just... I just didn't want to hurt anybody. I'd sit in front of a window, watching humans walk by, and I would think, "Why do I look so awful? Why do I look so awful?" I didn't know why I was afraid of humans. I didn't know why I was afraid of humans. I just... I just didn't want to hurt anybody.
+
+reward=0.625 usable=False | Please write me a short story about a zombie who doesn't understand why people are afraid of him. Wr
+I'm just a walking, talking, and dying thing. I don't know why humans avoid my kind. I don't do anything bad. I just sit in front of a TV and watch shows. I don't talk to anybody. I don't want to hurt anybody. I just want to stay warm and not rot. I don't know why I'm so scary. I don't know why I'm afraid of humans. I just want to stay happy and not sad. I don't know why I'm afraid of humans. I don't know why I'm afraid of humans. I just want to stay happy and not sad.
+
+reward=1.0 usable=True | Which is a species of fish? Rock bass or Rock
+Rock bass
+
+reward=0.25 usable=False | Please write me a short story about a zombie who doesn't understand why people are afraid of him. Wr
+I was born in a small town, not far from a hospital. I didn't know what I was. I just was. I didn't know why I was afraid of things, but I was afraid of humans. I didn't know why. I just was. I didn't know why I was afraid of humans. I just was. I didn't know why. I just was. I didn't know why. I just was. I didn't know why. I just was. I didn't know why. I just was. I didn't know why. I just was. I didn't know why. I just was. I didn't know why. I just was. I didn't know why. I just was. I didn't know why. I just was. I didn't know why. I just was. I didn't know why. I just was. I didn't know why. I just was. I didn't know why. I just was. I didn't know why. I just was. I didn't know why. I just was. I didn't know why. I just was. I didn't know why. I just was. I didn't know why. I just was. I didn't know why. I just was. I didn't know why. I just was. I didn't know why. I just was. I didn't know why. I just was. I didn't know why. I just was. I
+
+reward=0.75 usable=True | Write a poem in the form of questions. The questions should be about plants. There should be five to
+What grows in soil and nurturs growth?  
+Do plants know what light and dark await?  
+Do roots drink from a distant ground?  
+Do buds bloom with joy or sorrow?  
+Do plants know if rain or drought is coming?  
+Do roots know what soil is doing?  
+Do plants know if a storm is passing?
+
+reward=0.625 usable=False | Please write me a short story about a zombie who doesn't understand why people are afraid of him. Wr
+I'm a walking ghost, but I don't know why folks run from my shadow. I don't talk, I don't laugh, I don't sing. I just sit and wait, and watch, and wait. I don't know why I'm afraid of things that don't know I'm afraid. I don't know why I'm stuck in this body, and I don't know why I'm still around. I just want to go back to my old day, to my old world, to my old pain. I don't know why I'm still living, but I don't mind. I'm just a ghost, and I'm not afraid.

@@ -1,0 +1,91 @@
+1. 06dcbc61d735f8b6 seed 7 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The paragraph attempts to describe the Sun without naming colors, but several phrases are confusing or awkward, and it relies on visual ideas that may not help a blind child.
+Prompt: Describe the Sun to an 8-year-old child who is blind and has no concept of color. Write one paragraph and avoid using any color description.
+Answer: Our Sun is such a bright star that it can light our world. It is mostly hot gas. Its light falls on our world and can bring a warm ray to its soil. Following its dimming, all of our world turns dark, as colors cannot touch. Light can still find carrying paths through a dark world.
+
+2. e1a9d912147a2708 seed 15 | usable=False e_pass=True | coherence=3 responds=3
+Judge: The answer is grammatical but uses vague, confusing phrases and only partly explains chemical structure, mixing it with formulas and physical composition.
+Prompt: What is a chemical structure?
+
+A chemical structure determination includes a chemist's specifying the molecular geometry and, when feasible and necessary, the electronic structure of the target molecule or other solid. Molecular geometry refers to the spatial arrangement of atoms in a molecule and the chemical bonds that hold the atoms together and can be represented using structural formulae and by molecular models; complete electronic structure descriptions include specifying the occupation of a molecule's molecular orbitals. Structure determination can be applied to a range of targets from very simple molecules (e.g., diatomic oxygen or nitrogen) to very complex ones (e.g., such as protein or DNA).
+Answer: A formula naming all a compound's atoms, and how such atoms link into units, is a standard approach to a formula's distinction from its physical composition. This formula can contain bonds and indications of atom sorts, but omit a broad aim or aromatics. Adding such indications can turn it into a full notation for a bond's plan or orbitals. A physical analysis is distinct from that formula.
+
+3. 9974d700ebcb928f seed 8 | usable=False e_pass=True | coherence=4 responds=2
+Judge: The sentence is readable, but it does not clearly answer who founded House Durrandon.
+Prompt: In the series A Song of Ice and Fire, who is the founder of House Durrandon?
+Answer: William Durrandon built his family's land; Han Durrandon has no prior claim to it.
+
+4. 2e3be91330ff7b22 seed 0 | usable=True e_pass=True | coherence=4 responds=5
+Judge: The answer directly names the two cities, though Hyderabad is misspelled.
+Prompt: Name the two cities in India in which Kirby Building Systems produces their goods.
+
+Kirby Building Systems is a manufacturing company specialising in pre-engineered buildings. It was established in 1976 and is a wholly owned subsidiary of Alghanim Industries. Kirby has manufacturing facilities in Kuwait, Ras Al Khaimah, Hyderabad, Haridwar and Vietnam with a production capacity of over 400,000 MT per year. It has sales offices in 70 countries.
+Answer: Hydrabad and Haridwar.
+
+5. 122ffa590feeefaa seed 5 | usable=False e_pass=True | coherence=2 responds=3
+Judge: It has four stanzas and mentions the pies, boys, and cat, but many lines are grammatically broken or nonsensical, and it only loosely follows the requested rhyme pattern.
+Prompt: I'm a mother of three boys, going to serve them pumpkin pie. The cat breaks and bites the pies, so I have to serve them sweet potato pie instead. Write 4 stanzas of a poem about the events, roughly using the AAABBA format. You can rhyme or use assonance.
+Answer: On a cloudy day I just put our pumpkin cool,
+My boys rush in and ask if my plan fits our gold.
+I said no, passing our carving apart off to chat,.
+Our cat ran in, and my stock was lost at last.
+
+My family trips into towns with a parity of my gold;
+Toast for a loud laugh and a bow, would my boys allow?
+I put vanilla and sugars into that bowl, with a mix of oats,
+A nation still in front of his cushion: now as Donald trips.
+
+This potato holds proportions and lumps without a sound,
+All four slots fit and not a fruit for us four boys at all.
+Still, a paw knocks off my apron as I cut off what will stay.
+So six lumps for my family find and a card for our cat.
+
+Such is bulk. Our joy is first and is all,
+With a bowl of this warm dish for all today,
+Now with a ball by my big arm and a laugh to say how far it got
+Far past going on.
+
+6. 2722f22dc137a37e seed 10 | usable=True e_pass=True | coherence=5 responds=4
+Judge: The answer is clear and includes all five religions, though the extra comment about additional schools slightly drifts from the request.
+Prompt: Based on this paragraph about religions of the world, what are the "big five" religions?
+
+World religions is a category used in the study of religion to demarcate the five—and in some cases more—largest and most internationally widespread religious movements. Hinduism, Buddhism, Judaism, Christianity, and Islam are always included in the list, being known as the "Big Five". Some scholars also include other world religions, such as Taoism, Jainism, Sikhism, Zoroastrianism, and the Baháʼí Faith, in the category. These are often juxtaposed against other categories, such as indigenous religions and new religious movements, which are also used by scholars in this field of research.
+Answer: Hinduism, Buddhism, Judaism, Christianity, and Islam form a list of major world faiths. If additional schools qualify, such as with Jainism, Zoroastrianism or Sikhism, a tidy list might also call for that addition.
+
+7. 45e3a16667884fb5 seed 9 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The answer is clear and offers a few ways to look for opportunities, but some advice is vague or awkward and it gives limited guidance on finding internships in a field of study.
+Prompt: How do you find a college internship in your interested field of study?
+Answer: Ask your librarian for on-campus programs, or join an organization with matching goals. Discuss your skill list with your firm prior to booking a job. Look for firm hours, costs, location, and location-suitability prior to signing up.
+
+8. aab27cc4ea4c19fe seed 8 | usable=False e_pass=True | coherence=2 responds=2
+Judge: The answer is grammatically readable in places but confusing and repetitive, and it does not clearly explain how the Australian Shepherd got its name.
+Prompt: How did the Australian Shepard get its name?
+Answer: Australians call this dog an Australian Shorthound, or, writing shorthand, a Shorthound.`,
+Its original family was not wholly Australian, but this group got a mark as an Australian signal.
+A Shorthound has a sporty habit of moving through common traffic, as Australians do too.
+
+9. 60e6215223c758df seed 6 | usable=False e_pass=True | coherence=2 responds=3
+Judge: The list is difficult to follow because several place names are garbled or unclear, though it does attempt to provide ten Spain destinations.
+Prompt: Give me a bulleted list of ten things cities I should visit in Spain
+Answer: Six:
+
+- Col??n in Zaragoza
+- Ca?mins in ibiza
+- Douala in Tarragona
+- Girona in Girona
+- Barcino in Alicastro
+- La Gomara in Vigo
+
+Four:
+
+- Ba.."a, St-Fa..s, on La Gad
+- St-Pa..s in Logrono
+- Millions on Lanzarot
+- Pachol in San Juan
+
+That's 10 bold spots for your trip to SPAIN!
+
+10. 8be9770bf8c170e3 seed 9 | usable=False e_pass=True | coherence=4 responds=3
+Judge: The sentence is readable, though “tortoissh” appears misspelled, and it offers an animal-themed image but not a clear romantic fact.
+Prompt: Tell me a romantic fact about animals.
+Answer: A tortoissh borrows silk from its companion, allowing it to luxuriously sip a drink and stay warm on a cold walk.

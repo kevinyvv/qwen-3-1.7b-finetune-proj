@@ -1,0 +1,139 @@
+reward=0.625 usable=False | What is caffeine?
+Cafium is a stimulant found in plants. It is found in drinks and food. It can boost mood and focus. It can also disrupt mood and focus.
+
+reward=0.25 usable=False | How long did it take for the levees to break after Hurricane Katrina hit New Orleans, Louisiana? How
+It took 3 days for 2000 ft of standing 10 ft high flood to drain from 1000 ft of 10 ft high flood. It took 4 days for 2000 ft of standing 10 ft high flood to drain from 1000 ft of 10 ft high flood.
+
+reward=0.625 usable=False | Hey there. I need some help. Can you give me three suggestions for a theme for the birthday party? I
+For a 40th birthday in july, try a classic and stylish look. First, think about a formal or casual party. If you want to avoid costuming, go with a bright color or a bold color. For a formal look, a black tux and a black tux with a bling. For a casual look, a bright color and a light color. Finally, a bold color and a light color.
+
+reward=0.375 usable=False | Write a paragraph for an employee handbook addressing moving furniture where it is strictly prohibit
+Moving furnitut that is strictly prohbbil is not allowd. Any try to mov it will frsst to bllow a policy. To ask for movt, contact hr via mail or in writing. All movt must bllow approval and follow all prohbbil. No movt is allowd without prior approval.
+
+reward=0.75 usable=False | What is caffeine?
+Cafium is a stimulant found in plants. It is found in coff, cocoa, and guarana. It is found in drinks and foods. It can boost mood and focus. It can also worsan symptoms of insomnia and high blood pr.
+
+reward=0.625 usable=False | What is caffeine?
+Caffin is a stimulant found in plants. It is found in drinks and foods. It can boost mood and focus. It can also hurt your body.
+
+reward=0.5 usable=False | Write a paragraph for an employee handbook addressing moving furniture where it is strictly prohibit
+Moving furnishing that is strictly prohibit is not allow. Any action that may disturb or disrupt this furnishing is not allow. To ask for furnishing to b mov, contact human affairs in writing. All moving must follow company policy and no moving is allow without prior approval.
+
+reward=0.875 usable=True | Hey there. I need some help. Can you give me three suggestions for a theme for the birthday party? I
+1. Spring blooms  
+2. Sun and sand  
+3. Classic glamour
+
+reward=0.375 usable=False | What is caffeine?
+Caffin is a stimulant found in plants. It is found in drinks and foods. It can boost mood and focus. It can also irritat
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also rais
+
+It can also
+
+reward=0.125 usable=False | How long did it take for the levees to break after Hurricane Katrina hit New Orleans, Louisiana? How
+It took 2 days for 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft of standing 2000 ft

@@ -1,0 +1,12 @@
+{
+  "count": 200,
+  "no_e_pass_rate": 1.0,
+  "e_pass_rate": 1.0,
+  "nonempty_rate": 1.0,
+  "truncation_rate": 0.02,
+  "ascii_only_rate": 1.0,
+  "forced_thinking_end_rate": 0.0,
+  "mean_response_tokens": 49.46,
+  "mean_answer_tokens": 48.48,
+  "joint_pass_rate": null
+}
