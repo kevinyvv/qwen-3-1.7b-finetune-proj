@@ -9,7 +9,7 @@ from training.engine import TrainingEngine
 logger = logging.getLogger(__name__)
 
 # okay REINFORCE for now
-# figure out what actually needs to be logged later and how to make it look not cancer
+# figure out what actually needs to be logged later and how to make it look better
 class ReinforceEngine(TrainingEngine):
      def __init__(self, model, tokenizer, optimizer, reward_fn, device=None,
                   finetune_mode="full", path=None, metrics_path=None):
