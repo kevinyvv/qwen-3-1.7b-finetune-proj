@@ -41,6 +41,9 @@ def sample_next_token(
         raise ValueError("top_k must be a nonnegative integer")
     if not 0 < top_p <= 1:
         raise ValueError("top_p must be in (0, 1]")
+    if not (torch.isfinite(logits).any(dim=-1).all()
+            and (torch.isfinite(logits) | torch.isneginf(logits)).all()):
+        raise ValueError("logits must contain a finite value in every row and no NaN or +inf")
 
     if temperature == 0:
         return logits.argmax(dim=-1, keepdim=True)

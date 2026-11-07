@@ -1,4 +1,5 @@
 import logging
+import math
 from pathlib import Path
 
 import torch
@@ -34,6 +35,8 @@ class ReinforceEngine(TrainingEngine):
                self.load_checkpoint(self.path)
 
      def compute_log_probs(self, batch, tokens, response_mask, temperature=1.2):
+          if not math.isfinite(temperature) or temperature <= 0:
+               raise ValueError("REINFORCE temperature must be finite and positive")
           # tokens is prompt + response, input_ids is just prompt
           batch = {k: v.to(self.device) for k,v in batch.items()}
           
@@ -60,6 +63,8 @@ class ReinforceEngine(TrainingEngine):
 
      def compute_loss(self, batch, max_new_tokens=64, temperature=1.2, return_metrics=False,
                       thinking_budget=None):
+          if not math.isfinite(temperature) or temperature <= 0:
+               raise ValueError("REINFORCE temperature must be finite and positive")
           with torch.no_grad():
                rollout = generate_rollout(self.model, self.tokenizer, batch, max_new_tokens, temperature, thinking_budget)
                rewards = self.reward_fn(rollout.response_ids, rollout.reward_mask)

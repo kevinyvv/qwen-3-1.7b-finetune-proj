@@ -66,10 +66,11 @@ class LoRALinear(nn.Module):
 def lora_disabled(model):
     """Run the model as the untouched base model (no adapters)."""
     adapters = [m for m in model.modules() if isinstance(m, LoRALinear)]
+    enabled = [m.enabled for m in adapters]
     for m in adapters:
         m.enabled = False
     try:
         yield model
     finally:
-        for m in adapters:
-            m.enabled = True
+        for m, was_enabled in zip(adapters, enabled):
+            m.enabled = was_enabled

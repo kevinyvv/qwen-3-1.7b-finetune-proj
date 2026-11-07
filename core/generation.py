@@ -3,6 +3,8 @@ import math
 
 import torch
 
+from core.sampling import sample_next_token
+
 
 @dataclass
 class Rollout:
@@ -63,9 +65,8 @@ def generate_rollout(model, tokenizer, batch, max_new_tokens, temperature=1.0,
         scores = logits[:, -1, :].float()
         if forbidden_token_mask is not None:
             scores[~thinking.unsqueeze(-1) & forbidden_token_mask] = -torch.inf
+        next_tok = sample_next_token(scores, temperature)
         log_dist = (scores / (temperature or 1.0)).log_softmax(-1)
-        next_tok = (scores.argmax(-1, keepdim=True) if temperature == 0 else
-                    torch.multinomial(log_dist.exp(), num_samples=1))
         active = ~finished
         forced = (active & thinking & (thinking_tokens >= thinking_budget)
                   if thinking_budget is not None else torch.zeros_like(active))

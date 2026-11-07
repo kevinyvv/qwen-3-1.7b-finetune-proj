@@ -173,6 +173,7 @@ class SFTEngine(TrainingEngine):
 
                if supervised_tokens:
                     self._log_training(loss_sum, supervised_tokens, input_tokens, started)
+               self.epoch = epoch + 1
 
           self.save_checkpoint(self.path if self.path is not None else "latest")
                
