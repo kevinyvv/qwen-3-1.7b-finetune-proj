@@ -103,7 +103,22 @@ class GRPOEngine(TrainingEngine):
         
         scores = logits[:, prompt_len - 1:].float()
         if self.forbidden_token_mask is not None:
-            scores = scores.masked_fill(self.forbidden_token_mask.to(scores.device), -torch.inf)
+            # Even without a thinking budget, generation enters thinking when its
+            # first action is <think>. Match that prefix-dependent distribution:
+            # the opening action is masked, thinking (including </think>) is not.
+            responses = rollouts.response_ids.reshape(group_size * batch_size, response_len)
+            thinking = torch.zeros_like(responses, dtype=torch.bool)
+            vocab = self.tokenizer.get_vocab() if hasattr(self.tokenizer, 'get_vocab') else {}
+            think_id, end_think_id = vocab.get('<think>'), vocab.get('</think>')
+            if think_id is not None:
+                thinking = (responses[:, :1] == think_id).expand_as(responses).clone()
+                if end_think_id is not None:
+                    closed_before = F.pad((responses == end_think_id).long().cumsum(-1)[:, :-1], (1, 0))
+                    thinking &= closed_before == 0
+                thinking[:, 0] = False
+            scores = scores.masked_fill(
+                ~thinking.unsqueeze(-1) & self.forbidden_token_mask.to(scores.device), -torch.inf,
+            )
         log_logits = (scores / temperature).log_softmax(dim=-1)
         log_probs = log_logits.gather(
             dim=-1,
@@ -121,7 +136,8 @@ class GRPOEngine(TrainingEngine):
         if temperature <= 0 or group_size < 1:
             raise ValueError("temperature and group_size must be positive")
         if self.forbidden_token_mask is not None and thinking_budget is not None:
-            # token_log_probs cannot tell thinking from answer tokens, and the mask skips thinking
+            # A budget can start in thinking without an opening action; scoring
+            # only reconstructs spontaneous thinking from the response prefix.
             raise ValueError("The forbidden-token mask requires thinking to be off")
         device = next(self.model.parameters()).device
         prompts = batch.get('prompts')
