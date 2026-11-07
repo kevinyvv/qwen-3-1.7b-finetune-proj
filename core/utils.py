@@ -7,7 +7,10 @@ def load_qwen3_weights(weights_dir=None):
     WEIGHTS = Path(weights_dir) if weights_dir else Path(__file__).resolve().parent.parent / "weights" / "qwen3-1.7b"
 
     cfg = Qwen3Config(**json.loads((WEIGHTS / "config.json").read_text()))
-    index = json.loads((WEIGHTS / "model.safetensors.index.json").read_text())
+    index_path = WEIGHTS / "model.safetensors.index.json"
+    if not index_path.exists():
+        return cfg, load_file(WEIGHTS / "model.safetensors")
+    index = json.loads(index_path.read_text())
 
     sd = {}
 
